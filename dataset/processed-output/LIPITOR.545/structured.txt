@@ -1,0 +1,9 @@
+T1 Disease 20 30 chronic backache  
+T2 Disease 61 64 MRI  
+T3 Disease 104 112 arthritis  
+T4 Drug 186 193 Lipitor  
+T5 ADR 227 239 severe muscle back cramp  
+T6 ADR 305 319 severe muscle spasms  
+T7 Drug 388 395 Lipitor  
+T8 Drug 398 405 Lipitor  
+T9 ADR 453 460 back aches

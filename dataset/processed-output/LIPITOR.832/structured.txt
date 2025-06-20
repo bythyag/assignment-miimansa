@@ -1,0 +1,5 @@
+T1 Disease 4 11 shingles
+T2 Disease 36 43 shingles
+T3 Symptom 56 61 CoQ10
+T4 Drug 73 80 Lipitor
+T5 Disease 88 93 JAMA

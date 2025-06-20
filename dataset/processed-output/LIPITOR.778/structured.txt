@@ -1,0 +1,2 @@
+T1 Symptom 46 51 joint pain  
+T2 Symptom 56 62 muscle weakness

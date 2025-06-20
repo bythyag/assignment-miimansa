@@ -1,0 +1,9 @@
+BIO Sequence:
+fluids O | pooling O | in O | my O | lower O | extremeties B-Symptom | - O | especially O | my O | feet B-Symptom | , O | general O | muscle B-Symptom | soreness I-Symptom | . O | I O | take O | several O | meds O | for O | rheumatoid B-Disease | arthritis I-Disease | and O | none O | of O | these O | medications O | have O | affected O | me O | in O | this O | way O | . O | My O | rheumatology O | office O | suggested O | I O | check O | with O | my O | PCP B-Drug | immidiately O | . O 
+
+Structured Output:
+T1 Symptom 32 49 lower extremeties
+T2 Symptom 67 72 feet
+T3 Symptom 74 90 muscle soreness
+T4 Disease 43 61 rheumatoid arthritis
+T5 Drug 102 105 PCP

@@ -1,0 +1,13 @@
+BIO Sequence:
+Lipitor B-Drug | reduced O | my O | readings O | to O | almost O | normal O | . O | At O | the O | same O | time O | I O | suffered O | from O | fibromyalgia B-Disease | . O | The O | pain B-Symptom | all O | over O | my O | body O | got O | worse O | as O | time O | went O | on O | . O | I O | noticed O | that O | when O | I O | left O | my O | Lipitor B-Drug | at O | home O | when O | I O | was O | on O | vacation O | or O | other O | trip O | , O | that O | I O | began O | to O | feel O | better O | . O | My O | doctor O | told O | me O | there O | was O | a O | remote O | possibility O | that O | the O | Lipitor B-Drug | was O | agravating B-ADR | the O | fibromyalgia I-Disease | . O | I O | stopped O | taking O | Lipitor B-Drug | and O | feel O | so O | much O | better O | ! O | But O | , O | it O | seems O | I O | buggered O | up O | my O | stomach O | from O | all O | the O | pain B-Symptom | killers O | that O | I O | took O | . O | What O | to O | do O | next O | ? O | please O | be O | carefull O | with O | this O | drug O | and O | watch O | for O | all O | types O | of O | body B-Symptom | pain I-Symptom | , O |
+
+Structured Output:
+T1 Drug 0 6 Lipitor
+T2 Disease 34 45 fibromyalgia
+T3 Symptom 67 71 pain
+T4 Drug 112 118 Lipitor
+T5 ADR 161 170 agravating
+T6 Disease 171 183 fibromyalgia
+T7 Drug 198 204 Lipitor
+T8 Symptom 251 255 pain
+T9 Symptom 270 275 body pain

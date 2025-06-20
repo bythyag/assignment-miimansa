@@ -1,0 +1,18 @@
+T1 Symptom 0 7 Jaundice
+T2 Symptom 37 49 abdominal pain
+T3 Symptom 84 90 itching
+T4 Symptom 95 102 weakness
+T5 Symptom 107 119 loss of appetite
+T6 Disease 153 164 Gall bladder
+T7 Disease 166 169 CT
+T8 Disease 173 175 MRI
+T9 Disease 182 194 liver ducts
+T10 Disease 200 213 gall bladder disease
+T11 Drug 261 267 Lipitor
+T12 Disease 276 281 liver 
+T13 Symptom 411 418 muscle aches
+T14 Symptom 421 434 flu-like symptoms
+T15 Drug 453 459 lipitor
+T16 Disease 475 480 lipid profile
+T17 Disease 490 495 liver
+T18 ADR 510 520 cholestatic Jaundice

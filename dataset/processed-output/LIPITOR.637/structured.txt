@@ -1,0 +1,2 @@
+T1 Disease 21 30 cholesterol level
+T2 Disease 39 52 tryglycerides

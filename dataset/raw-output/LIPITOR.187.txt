@@ -1,0 +1,27 @@
+BIO Sequence:
+1 O | 1 O | Chest B-Symptom | pain I-Symptom | , O | general O | weakness B-Symptom | , O | depression B-Symptom | , O | anxiety B-Symptom | , O | just O | not O | myself O | , O | insomnia B-Symptom | , O | fatigue B-Symptom | , O | memory B-Symptom | problems I-Symptom | , O | inability B-Symptom | to O | concentrate B-Symptom | . O | Doctors O | unable O | to O | connect O | the O | dots O | ( O | Lipitor B-Drug | = O | above O | symptoms O | ) O | . O | Sure O | it O | lowered O | my O | cholesterol O | . O | But O | at O | what O | cost O | ? O | I O | told O | my O | doctor O | I O | was O | feeling O | weak B-Symptom | . O | He O | commented O | I O | see O | NO O | reason O | for O | you O | to O | be O | weak I-Symptom | ( O | Even O | though O | he O | prescribed O | the O | Lipitor B-Drug | for O | me O | ) O | Well O | needless O | to O | say O | that O | was O | the O | last O | time O | I O | saw O | him O | . O | I O | thought O | I O | had O | MS B-Disease | , O | Lupus B-Disease | , O | Fibromyalgia B-Disease | or O | some O | other O | illness O | that O | has O | the O | symptoms O | I O | was O | experiencing O | . O | I O | found O | that O | Lipitor B-Drug | could O | be O | the O | reason O | for O | all O | of O | these O | symptoms O | . O | So O | , O | on O | my O | own O | , O | I O | stopped O | the O | Lipitor B-Drug | ( O | I O | was O | only O | on O | 10mg B-Drug | per O | day O | ) O | Within O | 48 O | hours O | I O | felt O | my O | mood B-Symptom | elevating I-Symptom | back O | to O | normal O | . O | So O | far O | ( O | I O | ' O | ve O | been O | off O | of O | it O | for O | about O | 5 O | days O | now O | ) O | , O | my O | chest B-Symptom | pain I-Symptom | has O | improved O | by O | about O | 75% O | . O | This O | is O | no O | coincidence O | I O | am O | certain O | . O | Hopefully O | my O | other O | symptoms O | of O | fatigue B-Symptom | , O | anxiety B-Symptom | , O | memory B-Symptom | and O | insomnia B-Symptom | will O | alleviate O | as O | well O | . O | By O | the O | way O | . O | my O | new O | doctor O | had O | prescribed O | an O | anti-depressent B-Drug | for O | me O | . O | I O | never O | filled O | it O | , O | as O | my O | instincts O | told O | me O | it O | was O | something O | more O | . O | I O | am O | generally O | a O | well O | balanced O | type O | of O | person O | . O | My O | depression B-Symptom | did O | come O | on O | rather O | sudde B-Symptom | .
+
+Structured Output:
+T1 Symptom 3 13 Chest pain
+T2 Symptom 15 32 general weakness
+T3 Symptom 34 43 depression
+T4 Symptom 45 51 anxiety
+T5 Symptom 67 75 insomnia
+T6 Symptom 77 84 fatigue
+T7 Symptom 86 99 memory problems
+T8 Symptom 101 119 inability to concentrate
+T9 Drug 246 252 Lipitor
+T10 Drug 358 364 Lipitor
+T11 Disease 512 514 MS
+T12 Disease 516 521 Lupus
+T13 Disease 523 533 Fibromyalgia
+T14 Drug 542 548 Lipitor
+T15 Drug 570 575 Lipitor
+T16 Drug 580 585 10mg
+T17 Symptom 675 679 mood
+T18 Symptom 703 708 chest pain
+T19 Symptom 716 723 fatigue
+T20 Symptom 725 731 anxiety
+T21 Symptom 733 739 memory
+T22 Symptom 741 749 insomnia
+T23 Drug 763 779 anti-depressent

@@ -1,0 +1,10 @@
+T1 Disease 19 29 permanent
+T2 Disease 30 35 nerve
+T3 Disease 36 42 damage
+T4 Symptom 46 62 severe leg cramping
+T5 Symptom 73 82 warming
+T6 Symptom 90 99 sensation
+T7 Disease 105 111 lower legs
+T8 Drug 146 152 Lipitor
+T9 Symptom 172 176 numb
+T10 Symptom 182 188 painful

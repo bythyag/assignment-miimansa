@@ -1,0 +1,8 @@
+BIO Sequence:
+sore B-Symptom | muscles I-Symptom | , O | memory B-Symptom | loss I-Symptom | , O | insomnia B-Symptom | . O | seems O | to O | work O | on O | cholesterol B-Disease | but O | there O | should O | be O | a O | better O | way O | . O
+
+Structured Output:
+T1 Symptom 0 12 sore muscles
+T2 Symptom 14 25 memory loss
+T3 Symptom 27 34 insomnia
+T4 Disease 44 54 cholesterol

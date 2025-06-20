@@ -1,0 +1,3 @@
+T1 Symptom 44 54 exhaustion
+T2 Drug 13 16 10mg
+T3 Symptom 116 124 exhausted

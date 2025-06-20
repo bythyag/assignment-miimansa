@@ -1,0 +1,8 @@
+T1 Drug 38 43 80mg
+T2 Drug 51 57 lipitor
+T3 ADR 80 84 sick
+T4 ADR 99 106 fatigued
+T5 ADR 117 124 twitching
+T6 ADR 136 142 tremors
+T7 ADR 154 157 fog
+T8 Disease 173 182 cholesterol

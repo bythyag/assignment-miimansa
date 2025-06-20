@@ -1,0 +1,30 @@
+T1 Symptom 0 4 aches
+T2 Symptom 6 11 joint pain
+T3 Symptom 13 22 decreased mobility
+T4 Symptom 24 37 decreased testosterone
+T5 Symptom 39 45 libido
+T6 Symptom 47 72 difficulty getting out of bed
+T7 Symptom 75 81 morning
+T8 Symptom 83 90 tingling
+T9 Symptom 95 100 itchy hands
+T10 Symptom 102 118 decrease in overall strength
+T11 Drug 136 143 lipitor
+T12 Drug 158 163 10mgs
+T13 Drug 174 179 40mgs
+T14 Disease 183 186 hip replacement
+T15 Disease 188 193 back surgery
+T16 Disease 197 205 shoulder surgery
+T17 Drug 221 243 testosterone replacement
+T18 Drug 250 256 Lipitor
+T19 Disease 260 264 knee surgery
+T20 Disease 266 273 torn miniscus
+T21 Disease 275 278 ACL
+T22 Drug 283 295 testosterone therapy
+T23 Drug 304 310 Lipitor
+T24 Drug 337 343 statins
+T25 Drug 368 375 Lipitor
+T26 Drug 384 391 Lipitor
+T27 Drug 396 402 Fish oil
+T28 Drug 405 411 niacin
+T29 Drug 413 421 vitimin c
+T30 Symptom 425 431 healthy diet

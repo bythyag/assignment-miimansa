@@ -1,0 +1,20 @@
+T1 Symptom 19 31 breath
+T2 Symptom 34 41 fatigue
+T3 Symptom 43 56 muscle soreness
+T4 Symptom 58 64 numbness
+T5 Symptom 67 72 arms
+T6 Symptom 78 86 headaches
+T7 Symptom 88 103 impending doom
+T8 Symptom 105 124 short-term memory loss
+T9 Symptom 126 141 flu-like symptoms
+T10 Disease 174 179 lung
+T11 Disease 186 189 chest
+T12 Disease 196 202 cardiac
+T13 Drug 207 217 Lovastatin
+T14 Drug 219 224 40mg
+T15 Symptom 225 236 breath
+T16 Symptom 239 254 muscle soreness
+T17 Symptom 258 266 headaches
+T18 Disease 283 293 cholesterol
+T19 Disease 305 311 woman
+T20 Disease 359 368 lacto-ovo vegetarian

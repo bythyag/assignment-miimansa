@@ -1,0 +1,24 @@
+BIO Sequence:
+I O | took O | the O | drug B-Drug | only O | once O | , O | at O | about O | 9:00 O | p.m O | . O | 15 O | minutes O | later O | I O | experienced O | dizziness B-ADR | , O | nausea B-ADR | , O | and O | stomach B-Symptom | pain B-Symptom | , O | followed O | about O | 10 O | minutes O | later O | by O | level O | 6 O | pain B-Symptom | in O | major O | joints B-Symptom | ( O | knees B-Symptom | , O | hips B-Symptom | , O | shoulders B-Symptom | , O | elbows B-Symptom | , O | hands B-Symptom | ) O | . O | Elevated B-Symptom | blood O | pressure B-Symptom | and O | heart B-Symptom | palpitations B-Symptom | . O | Still O | felt O | somewhat O | dizzy B-ADR | and O | sick B-ADR | the O | next O | day O | . O | Extreme O | gas B-Symptom | in O | stomach B-Symptom | and O | intestines B-Symptom | for O | several O | days O | afterward O | . O | Had O | acid B-Symptom | reflux B-Symptom | -type O | symptoms B-Symptom | for O | a O | few O | days O | , O | though O | I O | have O | never O | had O | reflux B-Disease | . O | Evil O | drug O | !! O |
+
+Structured Output:
+T1 Drug 15 19 drug
+T2 ADR 63 70 dizziness
+T3 ADR 72 78 nausea
+T4 Symptom 88 103 stomach pain
+T5 Symptom 126 132 pain
+T6 Symptom 145 150 joints
+T7 Symptom 160 165 knees
+T8 Symptom 168 172 hips
+T9 Symptom 175 184 shoulders
+T10 Symptom 187 193 elbows
+T11 Symptom 195 200 hands
+T12 Symptom 205 221 blood pressure
+T13 Symptom 226 241 heart palpitations
+T14 ADR 265 270 dizzy
+T15 ADR 275 279 sick
+T16 Symptom 288 291 gas
+T17 Symptom 295 301 stomach
+T18 Symptom 307 317 intestines
+T19 Symptom 325 329 acid reflux
+T20 Disease 330 336 reflux

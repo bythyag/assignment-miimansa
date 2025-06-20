@@ -1,0 +1,19 @@
+T1 Symptom 23 34 constipation
+T2 Symptom 40 49 flatulence
+T3 Drug 83 89 Lipitor
+T4 Disease 113 122 hemorrhoids
+T5 Symptom 138 147 constipation
+T6 Drug 165 171 Lipitor
+T7 ADR 196 205 corrosive
+T8 ADR 222 226 rash
+T9 Symptom 245 260 muscle problems
+T10 Symptom 264 272 neck pain
+T11 Symptom 290 298 severe headaches
+T12 Drug 344 350 Lipitor
+T13 ADR 354 357 rash
+T14 Disease 362 372 hemorrhoids
+T15 Symptom 383 391 weakness
+T16 Symptom 410 410 diminished
+T17 Symptom 448 462 sitting position
+T18 Symptom 482 489 neck
+T19 Symptom 503 511 problem

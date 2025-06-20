@@ -1,0 +1,7 @@
+T1 Symptom 56 62 relief 
+T2 Disease 120 128 shoulder 
+T3 Symptom 147 152 aches 
+T4 Symptom 157 162 pains 
+T5 Symptom 166 171 back 
+T6 Symptom 173 178 knees 
+T7 ADR 204 210 effect

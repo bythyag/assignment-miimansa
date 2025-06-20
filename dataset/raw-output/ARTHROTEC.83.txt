@@ -1,0 +1,10 @@
+BIO Sequence:
+I O | developed O | severe B-Symptom | abdominal I-Symptom | pains I-Symptom | , O | severe B-ADR | welts I-ADR | all O | over O | my O | legs O | from O | feet O | up O | to O | knees O | , O | swelling B-Symptom | of O | throat I-Symptom | , O | rapid B-Symptom | heart I-Symptom | beat I-Symptom | and O | headaches B-Symptom | . O
+
+Structured Output:
+T1 Symptom 12 17 severe  
+T2 Symptom 18 27 abdominal pains  
+T3 ADR 30 36 severe welts  
+T4 Symptom 65 72 swelling  
+T5 Symptom 80 85 rapid heart beat  
+T6 Symptom 90 98 headaches

@@ -1,0 +1,6 @@
+T1 ADR 38 50 side effects
+T2 Drug 68 75 medicine
+T3 Symptom 81 87 throat
+T4 Symptom 119 123 pain
+T5 Disease 139 144 virus
+T6 Symptom 182 188 sore throat

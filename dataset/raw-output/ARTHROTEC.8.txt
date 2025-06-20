@@ -1,0 +1,8 @@
+BIO Sequence:
+No O | side O | effect O | to O | begin O | , O | but O | now O | starting O | to O | upset B-ADR | my O | stomach B-Symptom | even O | while O | taking O | with O | food O | and O | plenty O | of O | water O | . O | Didn’t O | work O | for O | me O | . O | Still O | can’t O | sleep B-Symptom | , O | can’t O | work O | without O | pain B-Symptom | . O | Didn’t O | see O | any O | positive O | change O | . O 
+
+Structured Output:
+T1 ADR 36 40 upset
+T2 Symptom 46 53 stomach
+T3 Symptom 67 72 sleep
+T4 Symptom 91 95 pain

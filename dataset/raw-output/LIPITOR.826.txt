@@ -1,0 +1,14 @@
+BIO Sequence:
+Achilles B-Disease | Tendonsitis I-Disease | , O | foot B-Symptom | pain I-Symptom | , O | weakness B-Symptom | in O | upper B-Symptom | arm I-Symptom | muscles I-Symptom | , O | severe B-Symptom | knee B-Symptom | pain I-Symptom | , O | gas B-Symptom | , O | arthritis B-Disease | like O | symptoms I-Disease | in O | hands I-Disease | , O | swelling B-Symptom | of O | ankles I-Symptom | , O | shin B-Symptom | pain I-Symptom | , O | increased B-Symptom | fatigue I-Symptom | and O | occasional B-Symptom | leg B-Symptom | cramps I-Symptom | . O | Until O | I O | found O | this O | site O | I O | could O | not O | understand O | why O | . O
+
+Structured Output:
+T1 Disease 0 15 Achilles Tendonsitis
+T2 Symptom 17 21 foot pain
+T3 Symptom 23 30 weakness in upper arm muscles
+T4 Symptom 32 42 severe knee pain
+T5 Symptom 44 47 gas
+T6 Disease 49 58 arthritis like symptoms
+T7 Symptom 60 68 swelling of ankles
+T8 Symptom 70 78 shin pain
+T9 Symptom 80 89 increased fatigue
+T10 Symptom 91 105 occasional leg cramps

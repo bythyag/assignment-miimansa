@@ -1,0 +1,8 @@
+T1 Drug 29 33 10 mg
+T2 Drug 42 49 Lipitor
+T3 ADR 117 122 tired
+T4 ADR 143 150 tingling
+T5 ADR 167 178 numb-like
+T6 Disease 276 288 cholesterol
+T7 ADR 360 372 side effects
+T8 ADR 393 404 side effects

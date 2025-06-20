@@ -1,0 +1,11 @@
+T1 Drug 0 5 NSAID
+T2 Disease 6 14 gastritis
+T3 Symptom 32 47 stomach upset
+T4 Symptom 50 55 false full feeling
+T5 Symptom 63 76 poor appetite
+T6 Symptom 78 92 increased menstruation
+T7 Symptom 94 100 periods
+T8 Symptom 102 106 month
+T9 Symptom 118 127 menstrual cramps
+T10 Symptom 140 146 vaginal bleeding
+T11 Disease 173 182 menopausal phase

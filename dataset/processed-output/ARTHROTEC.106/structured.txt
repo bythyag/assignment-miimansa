@@ -1,0 +1,5 @@
+T1 Disease 39 58 bilateral knee replacement
+T2 Drug 75 83 Arthrotec
+T3 Drug 101 109 Arthrotec
+T4 Symptom 126 130 pain
+T5 Disease 145 153 arthritis

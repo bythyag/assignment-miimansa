@@ -1,0 +1,22 @@
+T1 Symptom 1 18 muscle pains
+T2 Symptom 20 32 pins and needles
+T3 Symptom 34 47 legs
+T4 Symptom 49 65 arms
+T5 Symptom 67 75 numbness
+T6 Symptom 77 83 fingers
+T7 Symptom 85 99 reduced hand grip power
+T8 Symptom 101 118 numbness/pain in back
+T9 Symptom 120 132 numbness/headache in forehead
+T10 Symptom 134 144 numbness in mouth
+T11 Symptom 146 160 headache
+T12 Symptom 162 167 days
+T13 Disease 195 201 doctors
+T14 Drug 296 300 drug
+T15 Drug 305 311 CoQ10
+T16 Drug 316 321 ezetimibe
+T17 Drug 325 332 statins
+T18 Drug 341 357 lovastatin
+T19 ADR 232 239 side effects
+T20 ADR 281 287 side effects
+T21 Drug 359 377 Red Yeast Rice
+T22 ADR 385 402 side effects

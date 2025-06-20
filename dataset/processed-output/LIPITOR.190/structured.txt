@@ -1,0 +1,2 @@
+T1 Symptom 36 39 gut
+T2 Symptom 83 87 sore

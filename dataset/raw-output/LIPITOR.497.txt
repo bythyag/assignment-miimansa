@@ -1,0 +1,10 @@
+BIO Sequence:
+I O | took O | Lipitor B-Drug | for O | about O | a O | year O | . O | I O | had O | vague O | muscle B-Symptom | aches I-Symptom | and O | almost O | overnight O | developed O | low B-Symptom | back I-Symptom | pain I-Symptom | where O | I O | had O | to O | roll O | out O | of O | bed O | in O | order O | to O | stand O | up O | without O | pain O | . O | I O | told O | my O | doctor O | I O | took O | myself O | off O | the O | drug O | . O | I O | know O | my O | own O | body O | after O | 65 O | yrs O | and O | I O | NEVER O | had O | muscle B-Symptom | pain I-Symptom | before O | . O | What O | else O | could O | I O | attribute O | this O | pain O | to O | ? O | Why O | is O | there O | such O | denial O | as O | to O | the O | damage O | this O | drug O | can O | do O | . O | I O | admit O | cholesterol B-Disease | went O | down O | but O | so O | did O | my O | muscles O | and O | stamina O | . O | I O | feel O | somewhat O | better O | and O | it O | is O | two O | months O | that O | I O | am O | off O | the O | drug O | . O | Do O | Research O | before O | taking O | . O
+
+Structured Output:
+T1 Drug 8 14 Lipitor
+T2 Symptom 37 51 muscle aches
+T3 Symptom 61 74 low back pain
+T4 Symptom 120 125 muscle pain
+T5 Disease 174 184 cholesterol
+T6 Symptom 197 205 stamina

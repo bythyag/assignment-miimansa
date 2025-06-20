@@ -1,0 +1,10 @@
+BIO Sequence:
+Spleen B-Disease | Cancer I-Disease | and O | ALS B-Disease | patient O | Took O | this O | drug O | for O | three O | years O | right O | after O | it O | was O | released O | -- O | bottom O | line O | lost O | all O | ability O | to O | control O | hands B-Symptom | and O | muscle B-Symptom | weakness I-Symptom | . O | There O | is O | no O | history O | of O | ALS B-Disease | in O | my O | family O | . O | Currently O | being O | treated O | at O | Duke B-Disease | Medical I-Disease | Center I-Disease | . O 
+
+Structured Output:
+T1 Disease 0 12 Spleen Cancer
+T2 Disease 17 20 ALS
+T3 Symptom 72 77 hands
+T4 Symptom 82 89 muscle weakness
+T5 Disease 113 116 ALS
+T6 Disease 127 144 Duke Medical Center

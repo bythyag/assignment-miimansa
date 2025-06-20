@@ -1,0 +1,10 @@
+T1 Drug 26 32 Lipitor
+T2 ADR 56 66 diarrhoea
+T3 Symptom 70 74 Excessive gas
+T4 Symptom 83 90 sympton
+T5 Symptom 104 113 back ache
+T6 Symptom 183 187 severe pain
+T7 Symptom 207 212 thigh
+T8 Symptom 218 222 knee
+T9 Symptom 227 232 ankle
+T10 Symptom 248 255 symtoms

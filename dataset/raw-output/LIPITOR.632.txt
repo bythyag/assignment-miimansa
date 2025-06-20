@@ -1,0 +1,8 @@
+BIO Sequence:
+MUSCLE B-Symptom | PAIN I-Symptom | . O | JOINT B-Symptom | PAIN I-Symptom | . O | VERY O | VERY O | BAD O | . O | COULD O | NOT O | WALK B-Symptom | AFTER O | 60 B-Disease | DAYS I-Disease | . O 
+
+Structured Output:
+T1 Symptom 0 12 MUSCLE PAIN  
+T2 Symptom 14 23 JOINT PAIN  
+T3 Symptom 30 38 WALK  
+T4 Disease 50 53 60 DAYS

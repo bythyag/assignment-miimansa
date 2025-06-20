@@ -1,0 +1,11 @@
+T1 Symptom 0 8 Lethargy
+T2 Symptom 10 24 fuzzy thinking
+T3 Symptom 26 38 blurry vision
+T4 Symptom 40 56 dull muscle pains
+T5 Disease 76 89 Triglycerides
+T6 Disease 106 109 HDL
+T7 Disease 113 117 LDL
+T8 Disease 123 134 Cholesteral
+T9 Disease 142 147 heart
+T10 Symptom 157 162 breath
+T11 Symptom 178 183 weak

@@ -1,0 +1,8 @@
+T1 Drug 22 29 lipitor
+T2 Symptom 75 80 leg pain
+T3 Symptom 86 91 calves
+T4 ADR 103 111 brain fog
+T5 Symptom 116 121 memory loss
+T6 Symptom 127 132 Vision
+T7 Drug 171 177 statin drugs
+T8 Drug 183 188 statin drug

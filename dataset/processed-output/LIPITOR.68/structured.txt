@@ -1,0 +1,6 @@
+T1 Symptom 18 33 muscle pain
+T2 Symptom 45 68 shoulders neck
+T3 Symptom 70 75 walk
+T4 Symptom 94 99 sleep
+T5 Symptom 106 113 symptoms
+T6 Drug 132 136 drug

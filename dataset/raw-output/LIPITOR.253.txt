@@ -1,0 +1,28 @@
+BIO Sequence:
+Extreme O | fatigue B-Symptom | , O | muscle B-Symptom | aches I-Symptom | , O | cramps B-Symptom | , O | MEMORY B-Symptom | problems I-Symptom | , O | balance B-Symptom | problems I-Symptom | , O | cold B-Symptom | toes I-Symptom | and O | feet I-Symptom | ( O | with O | NO O | circulatory B-Disease | problems I-Disease | ) O | cold B-Symptom | hands I-Symptom | , O | dry B-Symptom | throat I-Symptom | / O | hoarseness B-Symptom | , O | slurred B-Symptom | speech I-Symptom | . O | Lipitor B-Drug | works O | , O | but O | for O | me O | it O | was O | at O | a O | terrible O | cost O | to O | my O | quality O | of O | life O | . O | At O | first O | , O | I O | had O | no O | problems B-Symptom | . O | Problems B-Symptom | began O | gradually O | and O | I O | never O | put O | it O | together O | until O | my O | GYN B-Disease | said O | STOP O | taking O | Lipitor B-Drug | ! O | Over O | this O | time O | , O | I O | gradually O | began O | to O | feel O | like O | an O | old O | , O | old O | lady O | and O | I O | was O | taking O | medication B-Drug | for O | arthritis B-Disease | and O | being O | tested O | for O | sorgren's B-Disease | syndrome I-Disease | . O | I O | was O | also O | joking O | about O | developing O | alzheimers B-Disease | but O | was O | really O | terrified O | of O | my O | memory B-Symptom | problems I-Symptom | and O | slurred B-Symptom | speech I-Symptom | ! O | My O | internest B-Disease | never O | suggested O | it O | could O | be O | the O | lipitor B-Drug | . O | I O | 've O | been O | off O | 1 O | month O | and O | it O | 's O | been O | like O | waking O | up O | from O | a O | bad O | dream O | . O | Every O | day O | has O | been O | better O | . O | I O | hope O | it O | continues O | !! O | I O | took O | CoQ10 B-Drug | along O | with O | it O | . O | NEVER O | Again O | !! O | .
+
+Structured Output:
+T1 Symptom 8 15 fatigue
+T2 Symptom 17 32 muscle aches
+T3 Symptom 34 40 cramps
+T4 Symptom 42 48 MEMORY problems
+T5 Symptom 50 65 balance problems
+T6 Symptom 67 78 cold toes
+T7 Symptom 81 87 feet
+T8 Disease 93 114 circulatory problems
+T9 Symptom 116 121 cold hands
+T10 Symptom 123 135 dry throat
+T11 Symptom 137 147 hoarseness
+T12 Symptom 149 158 slurred speech
+T13 Drug 161 167 Lipitor
+T14 Symptom 179 186 problems
+T15 Symptom 188 195 Problems
+T16 Disease 220 223 GYN
+T17 Drug 247 253 Lipitor
+T18 Drug 263 272 medication
+T19 Disease 278 287 arthritis
+T20 Disease 293 305 sorgren's syndrome
+T21 Disease 311 320 alzheimers
+T22 Disease 330 339 internest
+T23 Drug 404 410 lipitor
+T24 Drug 413 418 CoQ10

@@ -1,0 +1,7 @@
+T1 Symptom 1 9 tiredness
+T2 Symptom 11 20 headaches
+T3 Symptom 22 36 blurring vision
+T4 Drug 43 50 Lipitor
+T5 Disease 76 85 cholesterol
+T6 ADR 112 120 headaches
+T7 ADR 129 139 tiredness

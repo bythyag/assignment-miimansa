@@ -1,0 +1,5 @@
+T1 Symptom 31 49 stone bruises
+T2 Symptom 71 75 hurt
+T3 Symptom 90 109 walk like an old person
+T4 Disease 137 142 heart murmur
+T5 Drug 175 179 40mg

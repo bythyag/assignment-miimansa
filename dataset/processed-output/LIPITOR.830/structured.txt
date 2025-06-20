@@ -1,0 +1,3 @@
+T1 ADR 29 35 side effects  
+T2 Drug 47 52 pharma  
+T3 Symptom 75 83 appetite

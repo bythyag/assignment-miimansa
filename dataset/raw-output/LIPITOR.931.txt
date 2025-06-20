@@ -1,0 +1,11 @@
+BIO Sequence:
+muscle B-Symptom | cramps I-Symptom | all O | over O | , O | depression B-Symptom | and O | irritable B-Symptom | , O | tired B-Symptom | . O | Statins B-Drug | may O | or O | may O | not O | help O | with O | circulatory B-Disease | problems I-Disease | , O | but O | they O | definitely O | cause O | other O | severe O | problems O | . O | I O | will O | not O | take O | any O | statins B-Drug | again O | . O
+
+Structured Output:
+T1 Symptom 0 13 muscle cramps
+T2 Symptom 15 24 depression
+T3 Symptom 30 40 irritable
+T4 Symptom 42 47 tired
+T5 Drug 51 58 Statins
+T6 Disease 74 84 circulatory problems
+T7 Drug 126 133 statins

@@ -1,0 +1,8 @@
+T1 Drug 20 27 10 
+T2 Symptom 107 111 pain  
+T3 Drug 153 157 drug 
+T4 Drug 182 188 FDA 
+T5 Drug 190 196 Lipitor 
+T6 Drug 218 223 CoQ10 
+T7 Disease 268 283 CHOLESTEROL 
+T8 Drug 305 311 Pfizer

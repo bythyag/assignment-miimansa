@@ -1,0 +1,13 @@
+T1 Drug 8 14 lipitor
+T2 Symptom 71 80 cholesterol
+T3 ADR 93 97 pain
+T4 Symptom 109 116 shoulders
+T5 Symptom 123 126 knee
+T6 ADR 135 139 pain
+T7 Disease 197 202 aging
+T8 Drug 213 219 lipitor
+T9 Symptom 251 257 short
+T10 Symptom 259 265 memory
+T11 Symptom 267 271 loss
+T12 Symptom 280 288 fatigued
+T13 Drug 334 340 lipitor

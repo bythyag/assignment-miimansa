@@ -1,0 +1,7 @@
+BIO Sequence:
+It O | brought O | my O | husband's O | chol. B-Symptom | down O | from O | 310 O | to O | 175 O | . O | He O | had O | to O | stop O | taking O | it O | because O | it O | has O | damaged O | his O | liver B-Organ | . O | He O | has O | an O | ultra B-Disease | sound I-Disease | scheduled O | for O | this O | month O | . O | I O | DO O | NOT O | recommend O | this O | medication O | . O
+
+Structured Output:
+T1 Symptom 41 45 chol.
+T2 Organ 68 73 liver
+T3 Disease 80 86 ultra sound

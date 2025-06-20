@@ -1,0 +1,5 @@
+T1 ADR 3 15 side effects  
+T2 Disease 31 43 heart attack  
+T3 Disease 48 54 stroke  
+T4 Symptom 56 59 ldl  
+T5 Symptom 76 79 hdl

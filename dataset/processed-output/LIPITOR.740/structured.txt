@@ -1,0 +1,7 @@
+T1 Drug 16 19 20
+T2 Symptom 42 56 muscle spasms
+T3 Drug 119 126 Lipitor
+T4 Disease 146 149 LDL
+T5 Disease 189 192 HDL
+T6 Disease 215 226 cardiologist
+T7 ADR 305 316 side effects

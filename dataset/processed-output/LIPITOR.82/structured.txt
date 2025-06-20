@@ -1,0 +1,15 @@
+T1 Symptom 0 8 Insomnia
+T2 Symptom 10 25 vivid nightmares
+T3 Symptom 34 44 muscle pain
+T4 Symptom 47 54 weakness
+T5 Symptom 56 61 tired
+T6 Symptom 64 73 depression
+T7 Symptom 77 84 suicide
+T8 Drug 90 96 Statins
+T9 ADR 120 135 adverse effects
+T10 Drug 164 181 pharmaceutical companies
+T11 Drug 183 192 grape juice
+T12 Drug 197 210 cider vinegar
+T13 Disease 213 223 cholesterol
+T14 Disease 228 241 blood pressure
+T15 ADR 246 255 side effects

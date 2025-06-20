@@ -1,0 +1,9 @@
+BIO Sequence:
+None O | as O | of O | yet O |. O | Droped O | Total B-Disease | Chol I-Disease | to O | 181 O |. O | Triglycerides B-Disease | jumped O | to O | 461 O |! O | Doc O | says O | it O | is O | not O | related O | to O | the O | Lipitor B-Drug | ( O | I O | find O | it O | hard O | to O | believe O |). O | Will O | see O | what O | Tricor B-Drug | and O | Lipitor I-Drug | do O | together O |. O 
+
+Structured Output:
+T1 Disease 36 43 Total Chol
+T2 Disease 54 66 Triglycerides
+T3 Drug 71 78 Lipitor
+T4 Drug 90 96 Tricor
+T5 Drug 100 107 Lipitor

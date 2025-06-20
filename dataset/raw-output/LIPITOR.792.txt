@@ -1,0 +1,13 @@
+BIO Sequence:
+Headaches B-Symptom | , O | body B-Symptom | aches I-Symptom | , O | joint B-Symptom | stiffness I-Symptom | , O | bloating B-Symptom | , O | excessive B-Symptom | gas I-Symptom | , O | cramping B-Symptom | , O | irritability B-Symptom | . O | I O | took O | it O | for O | about O | 3 O | weeks O | before O | I O | started O | feeling O | any O | side B-ADR | effects I-ADR | . O | I O | didn’t O | realize O | this O | was O | the O | cause O | until O | I O | researched O | a O | little O | to O | see O | what O | side B-ADR | effects I-ADR | had O | been O | encountered O | . O | It O | was O | pretty O | shocking O | when O | I O | found O | out O | I O | was O | suffering O | from O | half O | of O | those O | listed O | . O | And O | I O | just O | thought O | I O | had O | a O | . O 
+
+Structured Output:
+T1 Symptom 0 9 Headaches
+T2 Symptom 11 21 body aches
+T3 Symptom 23 36 joint stiffness
+T4 Symptom 38 46 bloating
+T5 Symptom 48 66 excessive gas
+T6 Symptom 68 76 cramping
+T7 Symptom 78 90 irritability
+T8 ADR 101 113 side effects
+T9 ADR 144 156 side effects

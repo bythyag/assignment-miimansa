@@ -1,0 +1,7 @@
+T1 Drug 25 31 Lipitor
+T2 Symptom 48 65 Restless Leg Syndrome
+T3 Symptom 79 83 weak
+T4 Symptom 85 90 shaky
+T5 Symptom 93 104 cold sweat
+T6 Symptom 111 116 chills
+T7 Symptom 137 142 worse

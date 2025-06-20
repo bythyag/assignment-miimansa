@@ -1,0 +1,1 @@
+Stomach B-Symptom | irritation I-Symptom | , O | Abnormal B-Symptom | Dreams I-Symptom | & O | DEPRESSION B-Disease | ! O | I O | am O | not O | normally O | a O | depressed I-Disease | person O | AT O | ALL O | ! O

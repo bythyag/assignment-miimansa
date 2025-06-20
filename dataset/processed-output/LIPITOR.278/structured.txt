@@ -1,0 +1,11 @@
+T1 Symptom 19 27 gas/wind
+T2 Drug 39 43 Zocor
+T3 Drug 139 146 40mg/day
+T4 ADR 148 162 side effects
+T5 Drug 196 203 Lipitor
+T6 Drug 215 221 20mg/day
+T7 Drug 227 233 40mg/day
+T8 Drug 271 277 40mg/day
+T9 Drug 282 288 Lipitor
+T10 Drug 309 315 80mg/day
+T11 Drug 317 323 Lipitor

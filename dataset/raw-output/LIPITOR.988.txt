@@ -1,0 +1,7 @@
+BIO Sequence:
+Severe B-Symptom | foot I-Symptom | pain I-Symptom
+
+Structured Output:
+T1 Symptom 0 6 Severe  
+T2 Symptom 7 11 foot  
+T3 Symptom 12 16 pain

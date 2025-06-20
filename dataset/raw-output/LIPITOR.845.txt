@@ -1,0 +1,11 @@
+BIO Sequence:
+The O | last O | two O | years O | I O | have O | had O | severe B-Symptom | pain I-Symptom | in O | my O | feet O | and O | legs O | with O | a O | definite O | decrease O | in O | muscle O | strength O | . O | have O | spent O | a O | fortune O | on O | orthodics O | and O | shoes O | . O | I O | take O | a O | very O | small O | amount O | because O | I O | have O | always O | been O | hyper B-Symptom | sensitive I-Symptom | to O | drugs O | . O | I O | am O | now O | convinced O | it O | IS O | the B-Drug | Lipitor I-Drug | and O | am O | going O | to O | stop O | immediately O | as O | a O | test O | . O | It O | definitely O | lowers O | cholesterol O | . O | my O | LDL O | cut O | in O | half O | . O | The O | research O | is O | still O | out O | though O | . O
+
+Structured Output:
+T1 Symptom 60 65 severe pain
+T2 Symptom 75 80 legs
+T3 Symptom 93 108 muscle strength
+T4 Symptom 154 166 hyper sensitive
+T5 Drug 205 211 Lipitor
+T6 Symptom 238 248 cholesterol
+T7 Symptom 253 256 LDL

@@ -1,0 +1,10 @@
+T1 Drug 19 25 Lipitor
+T2 Symptom 69 75 weight gain
+T3 ADR 109 116 fatigue
+T4 ADR 118 127 sleepless nights
+T5 ADR 132 142 constipation
+T6 ADR 147 155 diarria
+T7 ADR 157 168 muscle pain
+T8 Symptom 179 184 leg/calf
+T9 Disease 204 212 slip disc
+T10 Symptom 227 235 pain/weight gain

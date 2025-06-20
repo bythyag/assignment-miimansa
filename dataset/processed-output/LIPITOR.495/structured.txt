@@ -1,0 +1,8 @@
+T1 ADR 66 81 side effects
+T2 ADR 94 103 severe muscle spasms
+T3 ADR 110 114 pain
+T4 ADR 136 153 excruciating pain
+T5 Drug 197 204 morphine
+T6 Drug 246 252 Lipitor
+T7 Drug 277 285 pain meds
+T8 Drug 283 288 statin drugs

@@ -1,0 +1,22 @@
+BIO Sequence:
+Severe B-Symptom | chronic I-Symptom | fatigue I-Symptom | , O | muscle B-Symptom | weakness I-Symptom | , O | problems B-Symptom | with O | memory B-Symptom | , O | concentration B-Symptom | . O | Severe B-Disease | depression I-Disease | . O | Cholesterol B-Symptom | went O | down O | drastically O | , O | doctors O | were O | thrilled O | , O | but O | I O | spent O | a O | year O | feeling O | exhausted B-ADR | and O | weak B-ADR | , O | unable O | to O | find O | words O | or O | remember O | names O | or O | follow O | the O | plot O | of O | a O | movie O | . O | All O | I O | thought O | about O | was O | where O | and O | when O | I O | could O | lie O | down O | . O | I O | was O | hardly O | able O | to O | lift O | things O | I O | could O | easily O | lift O | before O | . O | Legs B-Symptom | would O | go O | wobbly B-Symptom | after O | one O | flight O | of O | stairs O | . O | Everything O | was O | exhausting B-Symptom | . O | Doing O | the O | shopping O | or O | vacuuming O | was O | like O | climbing O | Everest O | . O | Symptoms B-Symptom | stopped O | within O | a O | week O | of O | stopping O | Lipitor B-Drug | . O | I O | can't O | believe O | I O | spent O | a O | year O | of O | my O | life O | like O | that O | . O | I O | will O | not O | recommend O | against O | Lipitor B-Drug | because O | some O | people O | do O | fine O | on O | it O | but O | I O | wish O | my O | Drs. O | had O | been O | more O | open O | to O | the O | idea O | that O | it O | was O | causing O | me O | problems O | . O | The O | only O | side B-ADR | effect I-ADR | they O | asked O | about O | was O | muscle B-ADR | pain I-ADR | , O | which O | I O | didn't O | have O | , O | and O | I O | was O | basically O | told O | Lipitor B-Drug | doesn't O | cause O | anything O | else O | . O |
+
+Structured Output:
+T1 Symptom 0 6 Severe
+T2 Symptom 7 13 chronic fatigue
+T3 Symptom 15 29 muscle weakness
+T4 Symptom 31 39 problems
+T5 Symptom 41 46 memory
+T6 Symptom 48 58 concentration
+T7 Disease 60 66 Severe depression
+T8 Symptom 69 78 Cholesterol
+T9 ADR 90 98 exhausted
+T10 ADR 105 109 weak
+T11 Symptom 130 139 Legs
+T12 Symptom 143 149 wobbly
+T13 Symptom 158 169 exhausting
+T14 Symptom 175 183 Symptoms
+T15 Drug 187 194 Lipitor
+T16 Drug 198 205 Lipitor
+T17 ADR 219 234 side effect
+T18 ADR 238 243 muscle pain

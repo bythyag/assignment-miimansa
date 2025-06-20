@@ -1,0 +1,14 @@
+T1 Symptom 24 30 calf cramps
+T2 Drug 54 61 Lipitor
+T3 Symptom 136 140 leg cramps
+T4 Drug 147 154 Lipitor
+T5 Symptom 189 193 leg cramps
+T6 Symptom 236 242 leg cramps
+T7 Drug 258 265 Lipitor
+T8 Symptom 303 307 leg cramps
+T9 Symptom 308 312 knee
+T10 Symptom 319 324 leg cramps
+T11 Drug 341 348 Liptior
+T12 Symptom 352 356 leg cramps
+T13 Drug 368 375 Liptior
+T14 Drug 385 392 Lipitor

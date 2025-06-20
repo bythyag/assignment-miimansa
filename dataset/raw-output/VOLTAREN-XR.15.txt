@@ -1,0 +1,11 @@
+BIO Sequence:
+worked O | very O | well O | ; O | it O | took O | about O | a O | month O | for O | noticeable O | results O | , O | but O | the O | relief B-Symptom | was O | definite O | and O | lasting O | . O | I O | stopped O | taking O | it O | after O | 4-5 O | months O | - O | shoulder B-Disease | remained O | ok O | , O | but O | many O | lesser O | aches B-Symptom | and O | pains B-Symptom | ( O | back B-Symptom | , O | knees B-Symptom | , O | etc O | ) O | returned O | . O | Clearly O | , O | there O | was O | a O | systemic O | effect B-ADR | that O | was O | helpful O | as O | well O | . O 
+
+Structured Output:
+T1 Symptom 56 62 relief 
+T2 Disease 120 128 shoulder 
+T3 Symptom 147 152 aches 
+T4 Symptom 157 162 pains 
+T5 Symptom 166 171 back 
+T6 Symptom 173 178 knees 
+T7 ADR 204 210 effect

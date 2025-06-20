@@ -1,0 +1,9 @@
+T1 Symptom 6 12 aching legs
+T2 ADR 46 59 side effect
+T3 Disease 74 76 10 yrs
+T4 Disease 80 84 4 yrs
+T5 Drug 90 95 zocor
+T6 Disease 100 102 6
+T7 Drug 106 112 lipitor
+T8 Drug 115 120 40mg
+T9 Disease 123 132 Cholestrol

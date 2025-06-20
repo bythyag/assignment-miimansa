@@ -1,0 +1,5 @@
+T1 Symptom 30 33 dry  
+T2 Symptom 42 46 spots  
+T3 Symptom 67 71 legs  
+T4 Symptom 74 78 pains  
+T5 Symptom 94 97 gas

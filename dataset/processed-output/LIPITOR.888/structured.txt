@@ -1,0 +1,6 @@
+T1 Symptom 0 4 loss
+T2 Symptom 6 12 muscle
+T3 Symptom 14 21 weakness
+T4 Disease 23 29 liver
+T5 Disease 30 40 disfunction
+T6 Symptom 42 51 exhaustion

@@ -1,0 +1,22 @@
+BIO Sequence:
+memory O | loss B-Symptom | , O | transient B-Symptom | amnesia I-Symptom | , O | severe B-Symptom | shoulder I-Symptom | and O | knee I-Symptom | pain I-Symptom | , O | insomnia B-Symptom | , O | extreme B-Symptom | tiredness I-Symptom | , O | hard O | to O | get O | up O | in O | the O | AM O | and O | hard O | to O | stay O | awake O | , O | crippling B-Symptom | back I-Symptom | pain I-Symptom | , O | depression B-Symptom | , O | loss B-Symptom | of O | balance I-Symptom | . O | I O | took O | Pravachol B-Drug | and O | Zocor B-Drug | before O | Lipitor B-Drug | - O | cardiologist O | increased O | dose O | of O | Lipitor B-Drug | to O | 40mg B-Drug | and O | 80mg B-Drug | . O | The O | last O | 4 O | years O | of O | my O | life O | have O | been O | a O | physical O | and O | mental O | nightmare O | . O | As O | soon O | as O | stopped O | Lipitor B-Drug | immediately O | felt O | much O | better O | but O | degenerative B-Disease | back I-Disease | disease I-Disease | ( O | MD O | said O | was O | due O | to O | aging B-Disease | ) O | is O | still O | severe O | but O | improving O | somewhat O | . O | Statins B-ADR | destroyed O | my O | life O | , O | I O | am O | certain O | of O | . O 
+
+Structured Output:
+T1 Symptom 0 12 memory loss
+T2 Symptom 13 32 transient amnesia
+T3 Symptom 34 55 severe shoulder and knee pain
+T4 Symptom 57 65 insomnia
+T5 Symptom 67 83 extreme tiredness
+T6 Symptom 86 123 hard to get up in the AM and hard to stay awake
+T7 Symptom 126 145 crippling back pain
+T8 Symptom 147 157 depression
+T9 Symptom 159 173 loss of balance
+T10 Drug 176 185 Pravachol
+T11 Drug 191 196 Zocor
+T12 Drug 202 209 Lipitor
+T13 Drug 226 232 Lipitor
+T14 Drug 236 241 40mg
+T15 Drug 246 251 80mg
+T16 Disease 265 291 degenerative back disease
+T17 Disease 299 304 aging
+T18 ADR 406 412 Statins

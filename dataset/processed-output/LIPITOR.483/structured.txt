@@ -1,0 +1,13 @@
+T1 Symptom 47 52 severe muscle cramps
+T2 Symptom 70 80 dehydration
+T3 Drug 56 62 Lipitor
+T4 Drug 67 73 Zocor
+T5 Drug 123 130 gatorade
+T6 Drug 147 154 statins
+T7 Symptom 198 205 fatigue
+T8 Symptom 207 213 muscle twitching
+T9 Symptom 219 227 foot pain
+T10 Symptom 231 239 numbness
+T11 Symptom 244 251 tingling
+T12 Drug 274 280 Zocor
+T13 Drug 287 292 drugs

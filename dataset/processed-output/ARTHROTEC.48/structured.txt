@@ -1,0 +1,3 @@
+T1 Drug 48 57 medication
+T2 Symptom 98 102 pain
+T3 Disease 120 126 knee replacement

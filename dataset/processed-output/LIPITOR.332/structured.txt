@@ -1,0 +1,4 @@
+T1 Symptom 10 13 CPK
+T2 Drug 32 38 Lipitor
+T3 Symptom 64 68 CPK
+T4 Drug 82 88 lipitor

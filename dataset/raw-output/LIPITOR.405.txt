@@ -1,0 +1,11 @@
+BIO Sequence:
+unrelenting O | muscle B-Symptom | pain I-Symptom | - O | leg B-Symptom | cramps I-Symptom | - O | numbness B-Symptom | in O | both O | legs B-Symptom | - O | exhaustion B-Symptom | - O | joints B-Symptom | popping I-Symptom | and O | cracking I-Symptom | . O | took O | for O | 4 O | months O | - O | am O | still O | experiencing O | side B-ADR | effects I-ADR | 7 O | months O | after O | stopping O | the O | drug B-Drug | - O | I O | feel O | as O | if O | I O | have O | been O | aged O | 10 O | years O | and O | that O | I O | have O | been O | damaged O | . O
+
+Structured Output:
+T1 Symptom 0 15 unrelenting muscle pain
+T2 Symptom 17 30 leg cramps
+T3 Symptom 32 42 numbness in both legs
+T4 Symptom 44 53 exhaustion
+T5 Symptom 55 76 joints popping and cracking
+T6 ADR 87 99 side effects
+T7 Drug 109 113 drug

@@ -1,0 +1,11 @@
+T1 Symptom 0 10 Joint
+T2 Symptom 11 15 pain
+T3 Symptom 29 34 spine
+T4 Drug 52 58 lipitor
+T5 ADR 61 69 symptems
+T6 Drug 73 79 lipitor
+T7 Drug 86 92 lipitor
+T8 Symptom 99 104 joint
+T9 Symptom 105 109 pain
+T10 Drug 126 132 lipitor
+T11 Disease 174 177 LDL

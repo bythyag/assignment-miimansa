@@ -1,0 +1,8 @@
+T1 Drug 27 34 Lipitor
+T2 ADR 70 75 dizzy
+T3 Disease 108 117 Alzheimer’s
+T4 Symptom 146 150 pain
+T5 Symptom 156 162 thighs
+T6 Symptom 167 172 knees
+T7 Symptom 177 185 exhausted
+T8 Drug 223 230 Lipitor

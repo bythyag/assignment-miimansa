@@ -1,0 +1,15 @@
+BIO Sequence:
+Severe B-Symptom | elbow I-Symptom | , O | arm I-Symptom | and O | shoulder I-Symptom | pain I-Symptom | . O | It's O | just O | a O | little O | white O | pill O | , O | this O | can't O | be O | causing O | all O | of O | my O | pain O | . O | Boy O | was O | I O | wrong O | , O | this O | pill O | has O | caused O | me O | so O | much O | grief O | . O | I O | couldn't O | even O | watch O | TV O | with O | my O | family O | as O | the O | pain O | in O | my O | arms I-Symptom | and O | shoulder I-Symptom | drove O | me O | to O | my O | bed O | . O | I O | felt O | so O | old O | and O | scared O | that O | the O | rest O | of O | my O | life O | would O | be O | pain-filled O | . O | One O | week O | ago O | I O | ran O | out O | of O | lipitor B-Drug | and O | after O | a O | few O | days O | found O | that O | my O | arm I-Symptom | & O | elbow I-Symptom | pain I-Symptom | subsided O | . O | Why O | isn't O | this O | widely O | known O | ? O | I'm O | angry O | and O | also O | sad O | , O | sad O | that O | I've O | wasted O | all O | this O | time O | and O | angry O | that O | the O | drug O | companies O | are O | getting O | richer O | by O | the O | second O | . O 
+
+Structured Output:
+T1 Symptom 0 6 Severe
+T2 Symptom 7 12 elbow
+T3 Symptom 14 17 arm
+T4 Symptom 21 28 shoulder
+T5 Symptom 29 33 pain
+T6 Symptom 105 110 arms
+T7 Symptom 112 118 shoulder
+T8 Symptom 145 148 arm
+T9 Symptom 150 155 elbow
+T10 Symptom 156 160 pain
+T11 Drug 93 100 lipitor

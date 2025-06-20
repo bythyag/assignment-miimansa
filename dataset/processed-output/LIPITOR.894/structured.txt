@@ -1,0 +1,7 @@
+T1 Drug 21 30 Pravachol
+T2 Drug 34 40 Lipitor
+T3 Disease 76 79 CHF
+T4 Drug 67 73 Lipitor
+T5 Drug 96 102 Lipitor
+T6 Disease 117 124 kidneys
+T7 Drug 138 145 statins

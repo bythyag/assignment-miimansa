@@ -1,0 +1,8 @@
+T1 Symptom 0 4 Rash
+T2 Symptom 11 19 blisters
+T3 Symptom 22 27 severe
+T4 Symptom 28 42 muscle aches
+T5 Symptom 44 53 joint pain
+T6 Symptom 55 60 tired
+T7 Symptom 68 73 energy
+T8 Drug 80 87 medicine

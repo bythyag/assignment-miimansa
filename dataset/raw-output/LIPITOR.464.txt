@@ -1,0 +1,16 @@
+BIO Sequence:
+I O | had O | severe O | muscle B-Symptom | pain I-Symptom | and O | weakness B-ADR | after O | taking O | only O | a O | few O | doses O | of O | Lipitor B-Drug | . O | My O | legs O | were O | so O | weak B-Symptom | and O | tired B-Symptom | I O | could O | hardly O | walk O | up O | and O | down O | my O | stairs O | . O | I O | went O | off O | the O | drug O | for O | a O | few O | days O | and O | all O | the O | symptoms B-Symptom | subsided O | . O | At O | my O | doctor's O | suggestion O | , O | I O | went O | on O | Lipitor B-Drug | again O | and O | experienced O | the O | same O | symptoms B-Symptom | . O | This O | was O | with O | only O | a O | small O | dosage O | ( O | I O | think O | it O | was O | 10mg B-Drug | ) O | . O | I O | could O | not O | function O | ; O | I O | have O | never O | felt O | such O | weakness B-Symptom | . O | I O | am O | now O | taking O | Zocor B-Drug | , O | which O | certainly O | has O | side O | effects B-ADR | , O | but O | I O | can O | function O | . O 
+
+Structured Output:
+T1 Symptom 21 30 muscle pain
+T2 ADR 40 47 weakness
+T3 Symptom 66 70 weak
+T4 Symptom 77 82 tired
+T5 Symptom 124 132 symptoms
+T6 Drug 41 47 Lipitor
+T7 Symptom 153 159 symptoms
+T8 Drug 118 123 Lipitor
+T9 Drug 132 136 10mg
+T10 Symptom 199 206 weakness
+T11 Drug 205 210 Zocor
+T12 ADR 226 236 side effects

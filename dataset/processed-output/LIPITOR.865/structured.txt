@@ -1,0 +1,21 @@
+T1 Drug 25 32 Lipitor
+T2 Symptom 70 74 foot pain
+T3 Disease 81 88 neuroma
+T4 Disease 94 104 hammer toe
+T5 Symptom 112 116 heel pain
+T6 Drug 123 130 Lipitor
+T7 Disease 162 173 podiatrist
+T8 Symptom 175 179 foot pain
+T9 Drug 207 213 statins
+T10 Drug 225 232 statins
+T11 Drug 234 240 Lipitor
+T12 Symptom 265 269 foot pain
+T13 Symptom 271 275 pain
+T14 Disease 301 311 cholesterol
+T15 Drug 345 349 statins
+T16 Drug 356 362 Vit. C
+T17 Drug 367 374 Niacin
+T18 Symptom 396 400 foot pain
+T19 Drug 409 415 statin
+T20 Disease 425 442 family physicians
+T21 Disease 447 458 podiatrists

@@ -1,0 +1,23 @@
+T1 Drug 34 41 lipitor
+T2 ADR 73 79 severe
+T3 Symptom 80 87 headache
+T4 Symptom 89 93 neck
+T5 Symptom 95 99 pain
+T6 Symptom 115 127 light headed
+T7 Symptom 132 137 shaky
+T8 Symptom 154 161 flu-like
+T9 Symptom 166 170 sick
+T10 Symptom 175 183 headache
+T11 Symptom 191 197 constant
+T12 Drug 208 213 Aleve
+T13 Symptom 236 241 neck
+T14 Drug 227 233 lipitor
+T15 Symptom 244 249 slight
+T16 Symptom 251 258 headache
+T17 Symptom 263 270 shoulder
+T18 Symptom 272 276 ache
+T19 Drug 294 301 lipitor
+T20 ADR 307 312 side
+T21 ADR 313 318 effect
+T22 Disease 377 386 cholesterol
+T23 Drug 399 403 drug

@@ -1,0 +1,1 @@
+Weakness B-Symptom | , O | cramping B-Symptom | , O | muscle B-Symptom | spasms I-Symptom | . O | Slurred B-Symptom | speech I-Symptom | and O | difficulty B-Symptom | swallowing I-Symptom | . O | Have O | recently O | been O | diagnosed O | with O | ALS B-Disease | . O | I O | blame O | lipitor B-Drug | . O

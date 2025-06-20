@@ -1,0 +1,22 @@
+BIO Sequence:
+zombie O | like O | tired B-Symptom | depressed B-Symptom | state O | , O | severe B-Symptom | pain B-Symptom | in O | calves B-Disease | total O | loss O | of O | support O | unable O | to O | walk B-Symptom | , O | vertigo B-Symptom | like O | attack O | , O | blured B-Symptom | vision B-Symptom | , O | no O | sex B-Symptom | drive O | , O | decrease B-Symptom | in O | balance B-Symptom | . O | after O | going O | off O | it O | , O | significant B-ADR | spectacular I-ADR | improvement O | for O | 4 O | days O | on O | all O | symptons B-Symptom | , O | slight O | continuing O | improvement O | in O | last O | 6 O | weeks O | , O | estimate O | 50 O | percent O | improvement O | over O | next O | 2 O | years O | , O | md's O | no O | help O | , O | act O | like O | they O | work O | for O | drug B-Drug | company O | not O | patient O | , O | this O | sight O | will O | save O | more O | lives O | and O | life O | than O | all O | statins B-Drug | combined O | , O | love O | your O | dotor O | , O | its O | just O | economic O | survival O | for O | him O | . O 
+
+Structured Output:
+T1 Symptom 19 24 tired
+T2 Symptom 25 32 depressed
+T3 Symptom 39 44 severe
+T4 Symptom 46 50 pain
+T5 Disease 52 58 calves
+T6 Symptom 60 64 walk
+T7 Symptom 66 72 vertigo
+T8 Symptom 75 80 blured
+T9 Symptom 81 86 vision
+T10 Symptom 90 93 sex
+T11 Symptom 95 101 drive
+T12 Symptom 104 112 decrease
+T13 Symptom 115 121 balance
+T14 ADR 15 25 significant
+T15 ADR 26 36 spectacular
+T16 Symptom 118 126 symptons
+T17 Drug 118 123 drug
+T18 Drug 131 138 statins

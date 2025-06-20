@@ -1,0 +1,11 @@
+BIO Sequence:
+I O | just O | took O | this O | drug B-Drug | ( O | 10mg I-Drug | ) O | for O | the O | first O | time O | . O | After O | 2 O | hours O | I O | felt O | a O | warm O | sensation B-Symptom | in O | my O | chest B-Symptom | then O | pain B-Symptom | then O | a O | headache B-Symptom | . O | My O | Cholesterol B-Disease | level O | is O | 150 O | . O | Why O | would O | my O | doctor O | recommend O | this O | drug O | ? O
+
+Structured Output:
+T1 Drug 28 32 drug
+T2 Drug 34 39 10mg
+T3 Symptom 62 67 warm sensation
+T4 Symptom 78 83 chest
+T5 Symptom 90 94 pain
+T6 Symptom 101 108 headache
+T7 Disease 117 127 Cholesterol

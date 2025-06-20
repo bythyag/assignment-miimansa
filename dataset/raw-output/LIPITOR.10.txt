@@ -1,0 +1,18 @@
+BIO Sequence:
+In O | last O | 6 O | month O | , O | calf B-Symptom | of O | left O | leg O | began O | to O | burn B-Symptom | Nothing O | will O | stop O | it O | . O | Now O | , O | severe B-Symptom | cramping I-Symptom | . O | Also O | have O | tinnitis B-Symptom | , O | headaches B-Symptom | , O | cannot O | get O | to O | sleep B-Symptom | on O | my O | own O | , O | Just O | had O | surgery O | on O | my O | knee O | for O | torn O | maniscus B-Disease | , O | waiting O | to O | have O | shoulder O | surgery O | on O | rotator O | cuff O | , O | arthritis B-Disease | . O | I O | do O | not O | know O | if O | its O | the O | LIPITOR B-Drug | that O | is O | doing O | it O | . O | My O | doctor O | only O | increased O | my O | dosage O | to O | 60 O | from O | 40 O | about O | 3 O | months O | ago O | . O | can O | we O | quit O | this O | med B-Drug | cold O | turkey O | ? O | I O | have O | had O | a O | Myocardial B-Disease | Infarction I-Disease | in O | ' O | 98 O | , O | have O | 2 O | stents B-Disease | implants O | , O | and O | need O | the O | med B-Drug | to O | keep O | my O | chol B-Symptom | at O | least O | within O | reason O | , O | although O | obviously O | its O | NOT O | doing O | its O | job O | , O | or O | med O | would O | not O | have O | been O | increased O | . O 
+
+Structured Output:
+T1 Symptom 38 43 calf
+T2 Symptom 50 54 burn
+T3 Symptom 66 73 severe cramping
+T4 Symptom 80 86 tinnitis
+T5 Symptom 88 97 headaches
+T6 Symptom 104 109 sleep
+T7 Disease 136 144 torn maniscus
+T8 Disease 147 155 arthritis
+T9 Drug 172 179 LIPITOR
+T10 Drug 185 188 med
+T11 Disease 202 211 Myocardial Infarction
+T12 Disease 224 230 stents
+T13 Drug 237 240 med
+T14 Symptom 244 248 chol

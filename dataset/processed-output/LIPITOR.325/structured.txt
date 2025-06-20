@@ -1,0 +1,14 @@
+T1 Symptom 63 68 muscle pain
+T2 Symptom 70 74 neck
+T3 Symptom 76 80 back
+T4 Symptom 82 86 hips
+T5 Symptom 88 92 legs
+T6 Symptom 94 99 hands
+T7 Symptom 104 109 Aches
+T8 Symptom 114 119 pains
+T9 Symptom 126 131 Weakness
+T10 Disease 157 165 arthritis
+T11 Drug 209 215 statins
+T12 Symptom 229 238 symptons
+T13 Drug 253 259 statin
+T14 Drug 264 271 Fosamax

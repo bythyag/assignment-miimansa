@@ -1,0 +1,10 @@
+BIO Sequence:
+Hospitalization B-Symptom | due O | extreme B-Symptom | rectal I-Symptom | bleed I-Symptom | that O | required O | blood B-Drug | transfusion I-Drug | . O | I O | was O | extremely O | sick B-Symptom | and O | initially O | felt O | I O | might O | not O | survive O | . O | Should O | be O | removed O | from O | market O | . O
+
+Structured Output:
+T1 Symptom 0 13 Hospitalization
+T2 Symptom 15 21 extreme
+T3 Symptom 22 27 rectal
+T4 Symptom 28 33 bleed
+T5 Drug 43 57 blood transfusion
+T6 Symptom 68 73 sick

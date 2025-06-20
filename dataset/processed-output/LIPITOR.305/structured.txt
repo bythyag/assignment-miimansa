@@ -1,0 +1,6 @@
+T1 Symptom 0 5 WEAK
+T2 Symptom 6 13 MUSCLES
+T3 Symptom 15 19 POOR
+T4 Symptom 20 27 BALANCE
+T5 Symptom 31 36 TIRED
+T6 Symptom 40 43 NAP

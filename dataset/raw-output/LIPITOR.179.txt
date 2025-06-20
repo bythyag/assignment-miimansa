@@ -1,0 +1,11 @@
+BIO Sequence:
+It O | made O | me O | extremely O | hyper B-ADR | , O | I O | could O | not O | do O | things O | fast O | enough O | . O | My O | doctor O | had O | me O | try O | it O | although O | my O | cholesterol B-Disease | level O | was O | only O | 205 O | . O | I O | told O | her O | about O | my O | misgivings O | but O | she O | thought O | I O | would O | do O | ok O | on O | it O | . O | I O | even O | questioned O | her O | about O | the O | liver B-Disease | damage O | it O | can O | cause O | but O | she O | said O | it O | hardly O | ever O | happens O | . O | In O | less O | than O | two O | weeks O | I O | was O | so O | hyperactive B-ADR | I O | thought O | I O | was O | going O | crazy O | . O | I O | worked O | overnight O | at O | my O | job O | and O | I O | was O | trying O | to O | do O | things O | so O | fast O | that O | I O | would O | frustrate O | myself O | . O | My O | brain O | also O | felt O | like O | it O | was O | kicked O | into O | high O | gear O | as O | if O | I O | was O | on O | constant O | alert O | for O | something O | . O | I O | stopped O | taking O | Lipitor B-Drug | after O | two O | weeks O | and O | told O | my O | doctor O | . O | She O | said O | if O | it O | was O | the O | Lipitor O | she O | had O | never O | heard O | of O | that O | happening O | to O | anyone O | before O | and O | recommended O | I O | continue O | its' O | use O | . O | I O | stopped O | and O | now O | refuse O | to O | use O | it O | . O | At O | my O | last O | physical O | she O | said O | she O | was O | happy O | that O | I O | was O | so O | healthy O | . O | I O | exercise O | 5-7 O | days O | a O | week O | , O | lots O | of O | biking O | and O | running O | . O | EKG O | perfect O | , O | tri's O | were O | perfect O | , O | blood O | sugar O | perfect O | , O | etc O | My O | blood O | pressure O | is O | constantly O | around O | 106/72 O | . O | My O | cholesterol B-Disease | was O | 212 O | so O | she O | tried O | to O | pu O | . O |
+
+Structured Output:
+T1 ADR 23 27 hyper
+T2 Disease 83 92 cholesterol
+T3 Disease 119 124 liver
+T4 ADR 199 210 hyperactive
+T5 Drug 335 341 Lipitor
+T6 Disease 357 366 Lipitor
+T7 Disease 553 561 cholesterol

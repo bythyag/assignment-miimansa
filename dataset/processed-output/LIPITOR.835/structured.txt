@@ -1,0 +1,3 @@
+T1 Symptom 0 8 muscular  
+T2 Symptom 9 13 pain  
+T3 Symptom 20 24 back

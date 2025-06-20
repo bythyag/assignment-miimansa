@@ -1,0 +1,12 @@
+T1 Drug 25 32 voltaren
+T2 ADR 43 60 allergic reaction
+T3 ADR 77 81 itch
+T4 Symptom 86 93 genitals
+T5 Symptom 98 103 lips
+T6 Symptom 122 127 lips
+T7 Symptom 138 143 tongue
+T8 Drug 155 161 epipen
+T9 Disease 188 193 gout
+T10 Disease 202 210 arthritis
+T11 ADR 227 233 allergic
+T12 Disease 247 253 NSAIDs

@@ -1,0 +1,10 @@
+T1 Symptom 0 14 charlie horses
+T2 Symptom 16 24 cramping
+T3 Symptom 30 45 neck glands
+T4 Disease 70 73 als
+T5 Drug 84 90 lipitor
+T6 Disease 114 117 als
+T7 Drug 136 142 lipitor
+T8 Symptom 144 147 leg pains
+T9 Symptom 153 160 neck glands
+T10 Symptom 162 169 trouble swallowing

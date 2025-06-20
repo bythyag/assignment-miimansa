@@ -1,0 +1,16 @@
+BIO Sequence:
+None O | . O | Doctor O | warned O | of O | possible O | muscle B-ADR | pain I-ADR | but O | none O | was O | experienced O | . O | Cholesterol B-Symptom | was O | 240 O | , O | 10mg B-Drug | reduced O | it O | to O | 190 O | but O | still O | developed O | Coronary B-Disease | Artery I-Disease | Disease I-Disease | . O | 20mg B-Drug | and O | 30 O | mg O | reduced O | it O | to O | 160 O | but O | did O | not O | reduce O | triglycerides B-Symptom | until O | 40mg B-Drug | . O | Conclusion O | : O | drug O | will O | lower O | cholesterol B-Symptom | but O | not O | CHD B-Disease | risk O | . O | Diet O | , O | excercise O | , O | niacin B-Drug | all O | help O | but O | have O | stress O | test O | and O | know O | heart B-Symptom | attack I-Symptom | symptoms I-Symptom | regardless O | . O
+
+Structured Output:
+T1 ADR 46 54 muscle pain
+T2 Symptom 76 87 Cholesterol
+T3 Disease 100 126 Coronary Artery Disease
+T4 Drug 129 133 10mg
+T5 Drug 151 155 20mg
+T6 Drug 159 163 30mg
+T7 Symptom 171 184 triglycerides
+T8 Drug 192 196 40mg
+T9 Symptom 205 213 cholesterol
+T10 Disease 221 224 CHD
+T11 Drug 235 241 niacin
+T12 Symptom 272 277 heart attack symptoms

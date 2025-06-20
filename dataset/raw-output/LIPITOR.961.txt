@@ -1,0 +1,20 @@
+BIO Sequence:
+I O | just O | had O | a O | blood B-Symptom | test O | done O | as O | part O | of O | a O | routine O | physical O | . O | Some O | values O | indicate O | liver B-Disease | disease I-Disease | . O | Wondering O | if O | it O | is O | from O | Lipitor B-Drug | . O | Has O | anyone O | else O | out O | there O | developed O | liver B-Disease | damage I-Disease | from O | Lipitor B-Drug | . O | Please O | e-mail O | me O | . O | Lipitor B-Drug | seems O | to O | work O | , O | but O | I O | am O | very O | concerned O | about O | the O | side B-ADR | effects I-ADR | now O | . O | I O | have O | been O | taking O | Lipitor B-Drug | probably O | over O | 5 O | years O | . O | Also O | have O | experienced O | leg B-Symptom | cramps I-Symptom | , O | mental B-Symptom | confusion I-Symptom | , O | but O | thought O | it O | was O | just O | the O | aging B-Symptom | process I-Symptom | . O 
+
+Structured Output:
+T1 Symptom 23 28 blood
+T2 Disease 50 56 liver
+T3 Disease 57 63 disease
+T4 Drug 75 81 Lipitor
+T5 Disease 88 99 liver
+T6 Disease 100 106 damage
+T7 Drug 108 114 Lipitor
+T8 Drug 116 122 Lipitor
+T9 ADR 138 151 side effects
+T10 Drug 162 168 Lipitor
+T11 Symptom 169 172 leg
+T12 Symptom 173 178 cramps
+T13 Symptom 180 186 mental
+T14 Symptom 187 196 confusion
+T15 Symptom 207 212 aging
+T16 Symptom 213 220 process

@@ -1,0 +1,23 @@
+BIO Sequence:
+It O | concerns O | me O | that O | someone O | else O | is O | recommending O | SIMVISTATIN B-Drug | as O | an O | alternative O | to O | LIPITOR B-Drug | . O | Up O | until O | 3 O | weeks O | ago O | I O | was O | taking O | LIPEX B-Drug | which O | is O | SIMVISTATIN I-Drug | - O | it O | reduced O | my O | cholesterol O | very O | satisfactorily O | . O | However O | - O | over O | time O | , O | the O | following O | symptoms B-Symptom | developed O | - O | pain B-Symptom | in O | hips B-Symptom | cannot O | walk O | even O | a O | short O | distance O | due O | to O | pain I-Symptom | . O | Legs O | felt O | like O | they O | had O | run O | a O | marathon O | ! O | Deep O | bruising B-Symptom | - O | I O | thought O | I O | was O | just O | being O | clumsy O | . O | Joint O | pain I-Symptom | in O | spine B-Symptom | , O | hips I-Symptom | and O | elbows B-Symptom | . O | Exhaustion B-Symptom | . O | A O | colleague O | asked O | if O | I O | was O | on O | cholesterol O | medication O | and O | informed O | me O | there O | could O | be O | a O | connection O | - O | I O | found O | this O | website O | - O | amazed O | at O | all O | the O | similarities O | to O | me O | - O | I O | thought O | I O | was O | going O | MAD O | ! O | I O | came O | of O | LIPEX I-Drug | 3 O | weeks O | ago O | , O | muscles O | feel O | better O | , O | energy O | levels O | picking O | up O | , O | but O | hip I-Symptom | pain I-Symptom | still O | throbbing O | . O | I O | also O | felt O | like O | an O | old O | woman O | , O | I O | have O | over O | the O | years O | been O | to O | physiotherapists O | and O | chiropractors O | who O | did O | not O | know O | what O | to O | do O | - O | recently O | diagnosed O | with O | bursitis B-Disease | in O | the O | hips I-Disease | had O | 2 O | cortizone B-Drug | injections O | - O | still O | suffering O | severe O | hip I-Symptom | pain I-Symptom | and O | cannot O | walk O | more O | than O | 5 O | yards O | . O | Doctor O | agreed O | I O | could O | be O | having O | severe O | side O | effects O | of O | STATIN B-Drug | drug O | - O | has O | insisted O | I O | need O | my O | cholesterol O | attended O | to O | - O | has O | now O | put O | me O | on O | BEZALIP B-Drug | ( O | no O | relation O | to O | STATINS I-Drug | so O | I O | am O | told O | ) O | I O | haven't O | filled O | the O | script O | yet O | - O | need O | to O | do O | more O | research O | . O | My O | heart O | goes O | out O | to O | all O | of O | you O | ! O
+
+Structured Output:
+T1 Drug 73 83 SIMVISTATIN
+T2 Drug 93 100 LIPITOR
+T3 Drug 122 127 LIPEX
+T4 Drug 131 144 SIMVISTATIN
+T5 Symptom 177 183 symptoms
+T6 Symptom 206 210 pain
+T7 Symptom 215 219 hips
+T8 Symptom 260 264 pain
+T9 Symptom 275 285 Deep bruising
+T10 Symptom 307 311 Joint pain
+T11 Symptom 320 325 spine
+T12 Symptom 330 335 hips
+T13 Symptom 340 346 elbows
+T14 Symptom 348 359 Exhaustion
+T15 Disease 442 450 bursitis
+T16 Drug 468 477 cortizone
+T17 Drug 490 496 STATIN
+T18 Drug 509 517 BEZALIP
+T19 Drug 519 526 STATINS

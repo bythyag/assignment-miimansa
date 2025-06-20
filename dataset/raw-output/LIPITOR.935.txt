@@ -1,0 +1,28 @@
+BIO Sequence:
+My O | elder O | brother O | , O | who O | has O | expired O | 15 O | days O | back O | in O | the O | age O | of O | 54 O | years O | , O | was O | put O | on O | the O | same O | medicine O | for O | blood O | pressure O | in O | the O | age O | of O | 45 O | years O | which O | definitely O | resulted O | into O | causing O | him O | ALS B-Disease | in O | the O | last O | three O | years O | before O | his O | tragic O | death O | without O | any O | cure O | . O | He O | developed O | the O | symptoms O | like O | stiffness B-Symptom | in O | whole O | body O | , O | loss B-Symptom | of O | balance O | , O | no O | power O | to O | standup O | himself O | , O | loss B-Symptom | of O | weight O | , O | acute B-Symptom | weakness O | in O | the O | muscles O | of O | whole O | body O | and O | their O | dilution O | in O | size O | , O | constipitation B-Symptom | , O | no O | control O | over O | urination B-Symptom | and O | in O | the O | last O | 20 O | days O | before O | the O | death O | , O | he O | suffered O | with O | loss B-Symptom | of O | vocal O | sound O | , O | choking B-Symptom | the O | throat O | , O | looseness B-Symptom | in O | the O | body O | structure O | , O | complete O | stoppage B-Symptom | of O | easing O | out O | and O | lungs B-Disease | deterioration O | like O | less O | intake O | of O | oxygen O | leading O | to O | his O | painful O | death O | in O | the O | last O | time O | . O | I O | strongly O | feel O | the O | lipitor B-Drug | had O | the O | crucial O | side O | effect O | upon O | my O | brother O | causing O | him O | to O | suffer O | with O | ALS B-Disease | for O | which O | there O | is O | reportedly O | no O | cure O | in O | Allopathy O | , O | while O | therefore O | I O | put O | my O | brother O | on O | Homeopathic B-Drug | treatment O | which O | at O | least O | avoided O | the O | bad O | effect O | . O | Please O | avoid O | the O | allopathic B-Drug | treatment O | and O | follow O | the O | Yoga-sustem B-Drug | or O | regular O | physical O | exercise O | to O | prevent O | the O | diseases O | . O
+
+Structured Output:
+T1 Disease 113 115 ALS
+T2 Symptom 155 164 stiffness
+T3 Symptom 167 171 loss
+T4 Symptom 176 182 balance
+T5 Symptom 184 195 power
+T6 Symptom 198 203 loss
+T7 Symptom 206 211 weight
+T8 Symptom 216 221 acute
+T9 Symptom 223 230 weakness
+T10 Symptom 233 238 constipitation
+T11 Symptom 243 249 control
+T12 Symptom 254 263 urination
+T13 Symptom 267 272 loss
+T14 Symptom 277 283 vocal
+T15 Symptom 288 294 choking
+T16 Symptom 297 305 looseness
+T17 Symptom 313 320 stoppage
+T18 Disease 330 336 lungs
+T19 Drug 419 426 lipitor
+T20 Disease 442 445 ALS
+T21 Drug 448 459 Homeopathic
+T22 Drug 469 479 allopathic
+T23 Drug 481 494 Yoga-sustem
+T24 Drug 504 511 physical

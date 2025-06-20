@@ -1,0 +1,12 @@
+T1 Drug 12 16 drug
+T2 Disease 37 48 cholestorol
+T3 Symptom 68 72 pain
+T4 Symptom 80 84 feet
+T5 Symptom 106 112 tender
+T6 Symptom 117 123 tingle
+T7 Symptom 134 142 forgetful
+T8 Symptom 147 152 tired
+T9 Symptom 171 175 Lack
+T10 Symptom 176 182 libido
+T11 Symptom 189 193 hot
+T12 Symptom 207 215 sunlight

@@ -1,0 +1,9 @@
+BIO Sequence:
+Not O | aware O | of O | any O | side B-ADR | effects I-ADR | . O | I'm O | currently O | on O | the O | maximum O | dose O | allowable O | . O | 80mg/day B-Drug | . O | In O | an O | attempt O | to O | get O | my O | LDLs B-Disease | lower O | , O | my O | doctor O | is O | considering O | switching O | me O | from O | Lipitor B-Drug | to O | Crestor B-Drug | . O 
+
+Structured Output:
+T1 ADR 26 41 side effects
+T2 Drug 67 75 80mg/day
+T3 Disease 88 93 LDLs
+T4 Drug 103 110 Lipitor
+T5 Drug 115 122 Crestor

@@ -1,0 +1,19 @@
+T1 Drug 28 34 Lipitor
+T2 Symptom 74 82 headaches
+T3 Symptom 94 108 neck pain
+T4 Symptom 110 117 fatigue
+T5 Symptom 119 124 sore muscles
+T6 Symptom 130 135 joints
+T7 Symptom 137 143 fevers
+T8 Symptom 145 151 chills
+T9 Symptom 153 160 sweating
+T10 Symptom 162 171 dark urine
+T11 Symptom 173 184 flu-like symptoms
+T12 Symptom 186 192 swelling
+T13 Symptom 196 203 right knee
+T14 Symptom 205 215 irritable
+T15 Symptom 227 232 sleep
+T16 Disease 268 273 virus
+T17 Drug 288 294 lipitor
+T18 Drug 307 313 lipitor
+T19 Symptom 347 354 sore throat

@@ -1,0 +1,8 @@
+T1 Disease 21 34 slipped vertabrae
+T2 Disease 40 61 degenerative disk
+T3 Symptom 82 87 flare
+T4 Drug 98 105 Relafen
+T5 Drug 107 115 vicodine
+T6 Drug 117 125 flexeril
+T7 Drug 127 130 OTC
+T8 Drug 132 137 pain relief

@@ -1,0 +1,12 @@
+BIO Sequence:
+Tight O | throat B-Symptom | , O | holding O | water O | . O | Second O | time O | I O | am O | trying O | to O | live O | with O | Lipitor B-Drug | . O | First O | time O | was O | bad O | , O | I O | went O | with O | another O | product O | which O | sent O | me O | to O | the O | emergency O | room O | twice O | , O | it O | suffocated O | me O | . O | Then O | I O | switched O | to O | another O | one O | which O | was O | worse O | then O | the O | second O | one O | , O | kidneys B-Symptom | hurt O | , O | bladder B-Disease | infection I-Disease | , O | black B-ADR | outs I-ADR | . O | Now O | I O | 'm O | back O | on O | 20mg B-Drug | Lipitor I-Drug | and O | will O | take O | them O | regardless O | of O | side B-ADR | effects I-ADR | . O | I O | have O | low O | tolerance O | to O | any O | medications O | , O | taking O | the O | Lipitor B-Drug | at O | night O | so O | I O | sleep O | through O | most O | side B-ADR | effects I-ADR | . O
+
+Structured Output:
+T1 Symptom 5 11 throat
+T2 Drug 27 34 Lipitor
+T3 ADR 116 125 black outs
+T4 Symptom 138 143 kidneys
+T5 Disease 146 164 bladder infection
+T6 Drug 171 176 Lipitor
+T7 ADR 197 208 side effects
+T8 ADR 250 261 side effects

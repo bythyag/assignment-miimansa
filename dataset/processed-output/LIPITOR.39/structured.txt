@@ -1,0 +1,7 @@
+T1 Symptom 0 12 muscle pain
+T2 Symptom 14 21 fatigue
+T3 Symptom 23 38 swollen tongue
+T4 Drug 36 46 Simvastatin
+T5 Drug 56 62 Inergy
+T6 ADR 73 85 itchiness
+T7 Drug 90 96 Lipitor

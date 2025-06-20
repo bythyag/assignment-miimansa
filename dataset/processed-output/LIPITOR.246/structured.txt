@@ -1,0 +1,21 @@
+T1 Drug 22 29 Lipitor
+T2 Disease 70 79 cholesterol
+T3 ADR 116 123 reaction
+T4 Disease 134 143 shoulder surgery
+T5 Symptom 207 211 pain
+T6 Symptom 216 220 arms
+T7 Symptom 226 231 hands
+T8 Symptom 240 244 back
+T9 Symptom 258 266 upper legs
+T10 Symptom 275 284 buttocks
+T11 Symptom 289 294 knees
+T12 Disease 311 316 MRI's
+T13 Disease 320 323 EMG
+T14 Drug 347 358 Neurologist
+T15 Drug 377 384 Lipitor
+T16 Drug 399 407 Neurologist
+T17 Drug 414 423 Prednisone
+T18 Drug 425 431 10mg
+T19 Drug 440 461 Predisone
+T20 Disease 466 473 condition
+T21 Drug 496 503 Lipitor

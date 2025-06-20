@@ -1,0 +1,24 @@
+BIO Sequence:
+sever O | muscle B-Symptom | weakness I-Symptom | with O | nerve B-Disease | damage I-Disease | , O | memory B-Symptom | loss I-Symptom | , O | red B-Symptom | spots I-Symptom | all O | over O | my O | body O | , O | hair B-Symptom | loss I-Symptom | , O | slowed B-Symptom | speach I-Symptom | , O | aphasia B-Symptom | brain O | not O | sending O | messages O | to O | my O | muscles O | , O | shufflihg B-Symptom | gait I-Symptom | , O | unable O | to O | get O | out O | of O | chairs O | without O | help O | . O | Itook O | Lipitor B-Drug | for O | ten O | plus O | years O | 10mg O | then O | Dr O | raised O | it O | to O | 20mg O | and O | about O | 2 O | weeks O | latter O | raised O | it O | to O | 40mg O | I O | took O | 4 O | pills O | and O | I O | could O | not O | walk O | , O | get O | out O | of O | a O | chair O | , O | put O | my O | hand O | up O | to O | my O | mouth O | , O | ringing B-ADR | in O | my O | ears O | , O | sinus B-Disease | problems I-Disease | , O | I O | was O | told O | the O | pain O | in O | my O | back O | was O | galblader B-Disease | when O | I O | had O | it O | removed O | 20years O | befor O | . O | I O | ask O | my O | Dr O | about O | my O | hairloss B-Symptom | and O | spots O | on O | my O | body O | & O | was O | told O | [Your O | age] O | whenI O | lost O | my O | ability O | to O | walk O | very O | far O | I O | ask O | my O | pharmacist O | what O | drug O | if O | any O | would O | cause O | this O | she O | said O | stop O | the O | Lipitor B-Drug | and O | get O | to O | your O | Dr O | a.s.a.p O | . O | I O | stopped O | the O | drug O | 5weeks O | ago O | and O | have O | been O | in O | physcle B-Disease | therapy I-Disease | for O | almost O | 5wks O | with O | some O | help O | but O | the O | weakness O | comes O | & O | goes O | from O | one O | side O | to O | the O | other O | & O | back O | again O | . O | I O | have O | aphasia B-Symptom | intermittingly O | , O | My O | eyes O | get O | blury B-Symptom | My O | brain O | is O | going O | on O | overload O | right O | now O | so O | I O | pray O | that O | someway O | some O | how O | this O | killer O | drug O | gets O | off O | the O | market O | befor O | any O | more O | trusting O | souls O | get O | simptoms B-Symptom | of O | unsuspected O | side B-ADR | effects I-ADR | . O | After O | reading O | all O | the O | side O | effects O | and O | looking O | back O | on O | all O | my O | proble O | . O
+
+Structured Output:
+T1 Symptom 0 6 muscle weakness
+T2 Disease 13 24 nerve damage
+T3 Symptom 26 31 memory loss
+T4 Symptom 33 41 red spots
+T5 Symptom 43 46 hair loss
+T6 Symptom 48 58 slowed speach
+T7 Symptom 60 66 aphasia
+T8 Symptom 72 107 shufflihg gait
+T9 Drug 109 115 Lipitor
+T10 ADR 214 233 ringing
+T11 Disease 237 253 sinus problems
+T12 Disease 257 267 galblader
+T13 Symptom 280 289 hairloss
+T14 Drug 306 312 Lipitor
+T15 Disease 318 331 physcle therapy
+T16 Symptom 345 352 weakness
+T17 Symptom 362 369 aphasia
+T18 Symptom 378 384 blury
+T19 Symptom 433 440 simptoms
+T20 ADR 442 446 side effects

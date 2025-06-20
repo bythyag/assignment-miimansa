@@ -1,0 +1,1 @@
+Rash B-Symptom | with O | blisters B-Symptom | , O | severe B-Symptom | muscle I-Symptom | aches I-Symptom | and O | joint B-Symptom | pain I-Symptom | , O | extremely O | tired B-Symptom | feeling O | , O | no O | energy B-Symptom | , O | after O | taking O | medicine B-Drug | for O | two O | weeks O | . O

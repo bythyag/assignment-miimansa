@@ -1,0 +1,9 @@
+BIO Sequence:
+Daily O | headaches B-Symptom | . O | I O | also O | started O | on O | hormones B-Drug | and O | thought O | that O | might O | be O | causing O | them O | but O | as O | I'm O | reading O | this O | I'm O | thinking O | it's O | the O | Lipitor B-Drug | . O | I O | haven't O | been O | on O | it O | long O | enough O | to O | know O | if O | it O | reduces O | my O | cholesterol B-Disease | but O | even O | if O | it O | does O | I O | don't O | know O | if O | I'll O | continue O | to O | take O | it O | if O | the O | headaches B-Symptom | don't O | go O | away O | . O
+
+Structured Output:
+T1 Symptom 6 14 headaches
+T2 Drug 31 39 hormones
+T3 Drug 113 120 Lipitor
+T4 Disease 129 138 cholesterol
+T5 Symptom 144 152 headaches

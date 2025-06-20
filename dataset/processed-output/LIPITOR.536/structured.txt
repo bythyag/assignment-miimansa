@@ -1,0 +1,24 @@
+T1 Symptom 0 7 slurring
+T2 Symptom 12 24 lower back pain
+T3 Symptom 26 33 bloated
+T4 Symptom 35 46 constipated
+T5 Symptom 51 66 severe hip pain
+T6 Symptom 68 77 hips
+T7 Symptom 80 85 Memory loss
+T8 Symptom 91 97 fatigue
+T9 Symptom 102 117 muscle weakness
+T10 Symptom 122 132 depression
+T11 Symptom 137 154 sleepless nites
+T12 Symptom 156 164 Sight loss
+T13 Symptom 169 179 off balance
+T14 Symptom 181 185 hip pain
+T15 Drug 199 206 Lipitor
+T16 Drug 219 226 Lipitor
+T17 Symptom 237 248 lower back pain
+T18 Drug 251 258 Lipitor
+T19 Drug 267 274 Lipitor
+T20 Symptom 281 293 all this
+T21 Symptom 295 309 better health and mood
+T22 Symptom 314 319 no pain
+T23 Symptom 329 338 better
+T24 Symptom 347 354 getting off quick

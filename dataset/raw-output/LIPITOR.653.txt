@@ -1,0 +1,11 @@
+BIO Sequence:
+Muscle O | & O | joint O | pain B-Symptom | ; O | severe O | vision B-Symptom | problems I-Symptom | ; O | fibromyalgia B-Disease | numbness B-Symptom | in O | limbs I-Symptom | ; O | lupus B-Disease | . O | IF O | -0 O | were O | a O | choice O | , O | that O | would O | have O | been O | my O | rating O | . O | I O | lost O | my O | job O | ; O | for O | 2+ O | years O | I O | got O | bounced O | from O | doctor O | to O | doctor O | with O | all O | these O | symptoms O | and O | an O | illness O | could O | not O | be O | diagnosed O | . O | God O | forbid O | any O | doctor O | want O | to O | blame O | the O | almighty O | Pfizer B-Drug | . O | This O | is O | THE O | most O | prescribed O | drug O | in O | America O | & O | it O | is O | awful O | . O | Cholesterol O | didn't/couldn't O | cause O | me O | near O | that O | problems O | that O | Lipitor B-Drug | is O | responsible O | for O | causing O | . O
+
+Structured Output:
+T1 Symptom 15 19 pain
+T2 Symptom 30 36 vision problems
+T3 Disease 38 51 fibromyalgia
+T4 Symptom 52 60 numbness
+T5 Disease 62 67 lupus
+T6 Drug 162 168 Pfizer
+T7 Drug 229 235 Lipitor

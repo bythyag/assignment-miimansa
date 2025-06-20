@@ -1,0 +1,16 @@
+T1 Symptom 33 37 toe  
+T2 Symptom 38 47 neuropathy  
+T3 Symptom 64 68 toe  
+T4 Symptom 69 78 neuropathy  
+T5 Symptom 83 90 stomach  
+T6 Symptom 91 98 problems  
+T7 Symptom 99 103 pain  
+T8 Symptom 117 122 heart  
+T9 Symptom 144 149 stomach  
+T10 Symptom 154 159 heart  
+T11 Symptom 165 170 Feet  
+T12 Symptom 173 181 terrible  
+T13 Drug 22 28 Lipitor  
+T14 Drug 178 184 Lipitor  
+T15 Drug 192 198 Lipitor  
+T16 Drug 207 213 Lipitor

@@ -1,0 +1,8 @@
+BIO Sequence:
+I O | don't O | seem O | to O | have O | any O | side B-ADR | effects I-ADR | . O | Been O | taking O | Lipitor B-Drug | for O | more O | than O | 5 O | years O | now O | . O | Has O | brought O | cholestoral B-Disease | level O | down O | to O | around O | 160 O | from O | as O | high O | as O | 220 O | . O | Doing O | a O | much O | better O | job O | than O | the O | Mevacor B-Drug | that O | I O | was O | on O | . O 
+
+Structured Output:
+T1 ADR 34 44 side effects
+T2 Drug 52 59 Lipitor
+T3 Disease 79 90 cholestoral
+T4 Drug 123 130 Mevacor

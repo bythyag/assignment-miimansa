@@ -1,0 +1,23 @@
+BIO Sequence:
+I O | developed O | constipation B-Symptom | and O | flatulence B-Symptom | , O | which O | I O | had O | rarely O | suffered O | from O | before O | taking O | Lipitor B-Drug | . O | I O | developed O | hemorrhoids B-Disease | and O | even O | after O | increasing O | fluids O | and O | correcting O | the O | constipation I-Symptom | , O | they O | did O | not O | go O | away O | . O | After O | a O | year O | of O | taking O | Lipitor B-Drug | my O | urine O | started O | feeling O | as O | if O | it O | was O | corrosive B-ADR | when O | it O | touched O | my O | skin O | and O | I O | developed O | a O | rash B-ADR | that O | I O | could O | not O | get O | rid O | of O | . O | About O | a O | month O | ago O | , O | I O | started O | to O | get O | muscle problems B-Symptom | in O | my O | legs O | that O | made O | it O | difficult O | for O | me O | to O | get O | up O | from O | a O | sitting O | position O | . O | I O | have O | also O | been O | experiencing O | tremendous O | neck pain B-Symptom | in O | my O | shoulders O | that O | was O | causing O | severe B-Symptom | headaches B-Symptom | . O | After O | two O | weeks O | off O | Lipitor B-Drug | my O | rash I-ADR | and O | the O | hemorrhoids I-Disease | are O | gone O | . O | The O | weakness B-Symptom | in O | my O | legs I-Symptom | seems O | to O | have O | diminished O | somewhat O | in O | the O | last O | day O | or O | so O | , O | making O | it O | easier O | to O | get O | up O | from O | a O | sitting O | position O | . O | My O | neck O | is O | still O | a O | problem O | and O | has O | not O | really O | improved O | but O | I O | am O | hoping O | that O | it O | will O | get O | better O | over O | time O | . O
+
+Structured Output:
+T1 Symptom 23 34 constipation
+T2 Symptom 40 49 flatulence
+T3 Drug 83 89 Lipitor
+T4 Disease 113 122 hemorrhoids
+T5 Symptom 138 147 constipation
+T6 Drug 165 171 Lipitor
+T7 ADR 196 205 corrosive
+T8 ADR 222 226 rash
+T9 Symptom 245 260 muscle problems
+T10 Symptom 264 272 neck pain
+T11 Symptom 290 298 severe headaches
+T12 Drug 344 350 Lipitor
+T13 ADR 354 357 rash
+T14 Disease 362 372 hemorrhoids
+T15 Symptom 383 391 weakness
+T16 Symptom 410 410 diminished
+T17 Symptom 448 462 sitting position
+T18 Symptom 482 489 neck
+T19 Symptom 503 511 problem

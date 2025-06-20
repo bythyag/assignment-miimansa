@@ -1,0 +1,2 @@
+T1 Symptom 0 6 Muscle pain
+T2 Disease 18 26 Arthritis

@@ -1,0 +1,18 @@
+BIO Sequence:
+Started O | taking O | Lipitor B-Drug | 20mg I-Drug | in O | Feb B-Disease | '08 O | ; O | in O | Sept B-Disease | '10 O | experienced O | stiff B-Symptom | , O | achy B-Symptom | joints B-Symptom | around O | shoulders/arms B-Symptom | , O | hips B-Symptom | and O | Achilles B-Symptom | tendons I-Symptom | . O | Stopped O | 1/22/11 O | ; O | slowly O | feeling O | less O | stiff B-Symptom | . O | Can O | now O | take O | shirts O | off O | over O | my O | head O | without O | wincing O | ; O | not O | great O | , O | but O | better O | . O
+
+Structured Output:
+T1 Drug 17 24 Lipitor
+T2 Drug 25 30 20mg
+T3 Disease 34 37 Feb
+T4 Disease 39 42 '08
+T5 Disease 44 48 Sept
+T6 Disease 50 53 '10
+T7 Symptom 63 67 stiff
+T8 Symptom 69 73 achy
+T9 Symptom 75 80 joints
+T10 Symptom 86 105 shoulders/arms
+T11 Symptom 107 111 hips
+T12 Symptom 115 123 Achilles
+T13 Symptom 125 133 tendons
+T14 Symptom 137 142 stiff

@@ -1,0 +1,3 @@
+T1 Symptom 5 10 rough
+T2 Symptom 26 32 stomach
+T3 Drug 113 120 Voltaren Gel rub

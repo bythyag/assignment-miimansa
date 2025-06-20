@@ -1,0 +1,13 @@
+T1 Symptom 0 10 Constipation
+T2 Symptom 42 56 extreme joint pain
+T3 Symptom 85 89 Pain
+T4 Symptom 96 101 sleep
+T5 ADR 138 144 extreme itching
+T6 Symptom 164 171 mobility
+T7 Symptom 188 195 DECREASED
+T8 Symptom 239 252 constipation
+T9 Drug 263 271 Arthrotec
+T10 Symptom 292 296 pain
+T11 Symptom 324 335 muscle/joint pain
+T12 Symptom 344 351 sleeping
+T13 Drug 362 373 co-codamol

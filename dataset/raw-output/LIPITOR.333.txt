@@ -1,0 +1,6 @@
+BIO Sequence:
+NONE O | at O | all O | . O | NONE O | . O | Seems O | to O | be O | more O | effective O | than O | Zocor B-Drug | at O | lower O | dosage B-Drug | . O
+
+Structured Output:
+T1 Drug 59 64 Zocor
+T2 Drug 74 80 dosage

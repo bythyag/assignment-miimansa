@@ -1,0 +1,8 @@
+T1 Drug 22 28 Lipitor
+T2 Symptom 62 70 shoulder
+T3 Symptom 75 84 upper arm
+T4 Symptom 85 90 pain
+T5 Drug 108 114 Lipitor
+T6 Drug 156 162 Lipitor
+T7 Drug 177 183 Lipitor
+T8 Symptom 200 208 cognitive function

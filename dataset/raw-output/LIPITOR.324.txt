@@ -1,0 +1,24 @@
+BIO Sequence:
+Shortness O | of O | breath B-Symptom | , O | fatigue B-Symptom | , O | muscle B-Symptom | soreness I-Symptom | , O | numbness B-Symptom | in O | arms B-Symptom | , O | constant O | headaches B-Symptom | , O | impending O | doom B-Symptom | , O | short-term O | memory B-Symptom | loss I-Symptom | , O | flu-like B-Symptom | symptoms I-Symptom | . O | Thank O | you O | for O | this O | website O | . O | I O | have O | been O | looking O | for O | reasons O | why O | I O | feel O | this O | way O | and O | have O | started O | medical O | 101 O | . O | Tomorrow O | am O | scheduled O | for O | lung B-Disease | scan O | and O | chest B-Disease | x-ray O | and O | Dr O | game O | me O | # O | for O | cardiac B-Disease | CT O | scan O | after O | that O | . O | I O | want O | to O | cancel O | all O | appointments O | and O | stop O | taking O | Lovastatin B-Drug | . O | Being O | taking O | 40mg B-Drug | for O | 4 O | months O | now O | and O | symptoms O | began O | immediately O | with O | shortness B-Symptom | of O | breath I-Symptom | . O | The O | muscle O | soreness I-Symptom | and O | headaches I-Symptom | will O | not O | go O | away O | and O | I O | feel O | like O | I O | got O | hit O | by O | a O | truck O | . O | Will O | be O | going O | off O | it O | though O | it O | did O | lower O | my O | cholesterol O | . O | I O | am O | an O | otherwise O | healthy O | woman O | who O | exercises O | 3 O | times O | a O | week O | ( O | walking O | and O | swimming O | laps O | ) O | and O | am O | lacto-ovo O | vegetarian O | . O | Again O | , O | thank O | you O | for O | this O | website O | . O | It O | took O | a O | fews O | weeks O | to O | find O | it O | through O | my O | searching O | . O | I O | definitely O | will O | bookmark O | it O | . O 
+
+Structured Output:
+T1 Symptom 19 31 breath
+T2 Symptom 34 41 fatigue
+T3 Symptom 43 56 muscle soreness
+T4 Symptom 58 64 numbness
+T5 Symptom 67 72 arms
+T6 Symptom 78 86 headaches
+T7 Symptom 88 103 impending doom
+T8 Symptom 105 124 short-term memory loss
+T9 Symptom 126 141 flu-like symptoms
+T10 Disease 174 179 lung
+T11 Disease 186 189 chest
+T12 Disease 196 202 cardiac
+T13 Drug 207 217 Lovastatin
+T14 Drug 219 224 40mg
+T15 Symptom 225 236 breath
+T16 Symptom 239 254 muscle soreness
+T17 Symptom 258 266 headaches
+T18 Disease 283 293 cholesterol
+T19 Disease 305 311 woman
+T20 Disease 359 368 lacto-ovo vegetarian

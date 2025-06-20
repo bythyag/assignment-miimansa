@@ -1,0 +1,6 @@
+T1 Symptom 0 12 Excruciating pain  
+T2 Symptom 32 54 extreme discomfort  
+T3 Symptom 56 60 Pain  
+T4 Symptom 62 70 stiffness  
+T5 Drug 79 89 painkillers  
+T6 Drug 105 112 Lipitor

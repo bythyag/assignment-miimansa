@@ -1,0 +1,32 @@
+BIO Sequence:
+Severe B-Symptom | shoulder I-Symptom | and O | upper I-Symptom | body I-Symptom | pain I-Symptom | including O | tendonitis B-Disease | . O | Was O | in O | PT B-Disease | for O | 7 O | months O | . O | No O | relief O | from O | any O | pain I-Symptom | pills O | . O | Ice O | gave O | some O | relief O | . O | Fatigued B-Symptom | and O | worse B-Symptom | pain I-Symptom | by O | end O | of O | day O | . O | Worse O | when O | changed O | to O | Pravachol B-Drug | - O | this O | made O | all O | joints I-Disease | , O | muscles I-Disease | and O | tendons I-Disease | hurt O | all O | over O | my O | body I-Disease | - O | that's O | how O | I O | learned O | it O | was O | the O | statins B-Drug | causing O | my O | problem O | - O | doctor O | still O | doesn't O | believe O | me O | . O | It O | doesn't O | instantly O | improve O | with O | stopping O | the O | meds O | either O | , O | even O | though O | doctors O | may O | say O | it O | will O | after O | 1 O | month O | . O | It O | takes O | at O | least O | 3+ O | months O | for O | the O | drug O | to O | get O | out O | of O | your O | system O | according O | to O | pharmacists O | - O | but O | you O | still O | may O | have O | pain I-Symptom | that O | continues O | after O | that O | . O | I O | recommend O | the O | website O | spacedoc.net O | for O | lots O | of O | info O | , O | reccommended O | supplements O | , O | and O | help O | on O | this O | . O | Recently O | discovered O | that O | completely O | avoiding O | all O | caffeine B-Drug | and O | alchohol B-Drug | and O | just O | drinking O | water O | durring O | the O | day O | helps O | the O | pain I-Symptom | , O | fatigue I-Symptom | and O | weakness I-Symptom | diminish O | significantly O | . O | Also O | , O | warm B-Symptom | showers I-Symptom | help O | as O | does O | walking B-Symptom | ( O | if O | your O | legs I-Symptom | don't O | hurt O | ) O | . O |
+
+Structured Output:
+T1 Symptom 0 6 Severe
+T2 Symptom 8 15 shoulder
+T3 Symptom 17 21 upper
+T4 Symptom 23 27 body
+T5 Symptom 29 33 pain
+T6 Disease 39 48 tendonitis
+T7 Disease 59 61 PT
+T8 Symptom 73 77 pain
+T9 Symptom 88 95 Fatigued
+T10 Symptom 101 105 worse
+T11 Symptom 107 111 pain
+T12 Drug 129 138 Pravachol
+T13 Disease 145 151 joints
+T14 Disease 153 160 muscles
+T15 Disease 162 169 tendons
+T16 Disease 179 183 body
+T17 Drug 198 205 statins
+T18 Symptom 295 299 pain
+T19 Symptom 368 375 caffeine
+T20 Drug 374 382 alchohol
+T21 Symptom 410 414 pain
+T22 Symptom 416 423 fatigue
+T23 Symptom 428 436 weakness
+T24 Symptom 488 493 warm
+T25 Symptom 495 601 showers
+T26 Symptom 604 610 walking
+T27 Symptom 629 633 legs
+T28 Symptom 656 661 hurt

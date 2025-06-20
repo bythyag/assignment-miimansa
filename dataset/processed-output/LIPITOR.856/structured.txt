@@ -1,0 +1,19 @@
+T1 Drug 73 83 SIMVISTATIN
+T2 Drug 93 100 LIPITOR
+T3 Drug 122 127 LIPEX
+T4 Drug 131 144 SIMVISTATIN
+T5 Symptom 177 183 symptoms
+T6 Symptom 206 210 pain
+T7 Symptom 215 219 hips
+T8 Symptom 260 264 pain
+T9 Symptom 275 285 Deep bruising
+T10 Symptom 307 311 Joint pain
+T11 Symptom 320 325 spine
+T12 Symptom 330 335 hips
+T13 Symptom 340 346 elbows
+T14 Symptom 348 359 Exhaustion
+T15 Disease 442 450 bursitis
+T16 Drug 468 477 cortizone
+T17 Drug 490 496 STATIN
+T18 Drug 509 517 BEZALIP
+T19 Drug 519 526 STATINS

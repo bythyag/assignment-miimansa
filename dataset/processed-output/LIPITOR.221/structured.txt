@@ -1,0 +1,16 @@
+T1 Symptom 56 61 muscle cramps
+T2 Symptom 63 70 spasms
+T3 Symptom 72 80 weakness
+T4 Symptom 90 96 legs
+T5 Symptom 104 111 atrophy
+T6 Symptom 113 118 Foggy
+T7 Symptom 120 133 mental state
+T8 Symptom 135 141 falling over
+T9 Symptom 144 154 clumsiness
+T10 Symptom 156 164 nightmares
+T11 Symptom 166 174 dry mouth
+T12 Drug 30 37 Lipitor
+T13 Disease 114 117 ALS
+T14 Disease 122 126 MND
+T15 Drug 30 37 Lipitor
+T16 ADR 116 121 nerve damage

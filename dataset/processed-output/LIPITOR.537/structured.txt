@@ -1,0 +1,48 @@
+T1 Symptom 10 15 edema
+T2 Symptom 22 29 swelling
+T3 Symptom 34 39 limbs
+T4 Symptom 42 47 vision
+T5 Symptom 48 55 problems
+T6 Symptom 57 64 weakness
+T7 Symptom 66 75 muscle pain
+T8 Symptom 78 90 rhabdomyolysis
+T9 Symptom 92 102 muscle loss
+T10 Symptom 105 116 rapid pulse
+T11 Symptom 118 123 cough
+T12 Symptom 126 145 poor coordination
+T13 Symptom 147 153 walking
+T14 Symptom 155 162 dizziness
+T15 Symptom 164 179 difficulty sleeping
+T16 Symptom 181 202 increased sensitivity
+T17 Drug 231 237 drugs
+T18 ADR 244 250 sweating
+T19 ADR 252 258 nausea
+T20 Symptom 261 274 frequent headaches
+T21 Symptom 276 283 numbness
+T22 Symptom 285 293 tingling
+T23 Symptom 295 300 aching
+T24 Symptom 302 308 heavy feeling
+T25 Symptom 310 314 limps
+T26 Symptom 317 323 difficulty walking
+T27 Symptom 324 331 swelling
+T28 Symptom 334 338 legs
+T29 Symptom 341 348 problems
+T30 Symptom 350 362 coordination
+T31 Symptom 365 372 fatigue
+T32 Drug 487 494 Lipitor
+T33 Drug 509 516 statins
+T34 ADR 533 541 reactions
+T35 Drug 543 550 Lipitor
+T36 Drug 558 566 Pravachol
+T37 Drug 588 596 Lipitor
+T38 Drug 617 625 Pravachol
+T39 Drug 634 641 statins
+T40 Disease 646 653 months
+T41 Disease 678 686 months
+T42 Disease 695 700 months
+T43 Symptom 703 710 problems
+T44 Drug 712 719 statins
+T45 Symptom 743 750 problems
+T46 Symptom 758 765 symptoms
+T47 Drug 784 791 Lipitor
+T48 Drug 806 813 Pravachol

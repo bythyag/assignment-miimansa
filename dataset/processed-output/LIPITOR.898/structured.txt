@@ -1,0 +1,18 @@
+T1 Symptom 0 9 Joint pain
+T2 ADR 10 17 SEVERE muscle pain
+T3 Symptom 66 79 lower calfs
+T4 Symptom 98 108 walking
+T5 Disease 114 124 cholesterol
+T6 Drug 132 136 drug
+T7 Drug 144 151 statins
+T8 Drug 161 166 Zocor
+T9 Disease 203 216 heart attack
+T10 Disease 230 234 heart
+T11 Disease 240 245 weak heart muscle
+T12 Drug 265 271 Lipitor
+T13 Symptom 277 284 hurting
+T14 Symptom 302 308 fatigue
+T15 Drug 318 325 STATINS
+T16 Drug 330 335 CQ10
+T17 Drug 341 348 muscle damage
+T18 Drug 360 366 statins

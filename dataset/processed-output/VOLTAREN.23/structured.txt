@@ -1,0 +1,9 @@
+T1 Disease 21 27 chronic pain
+T2 ADR 43 52 intestinal pain
+T3 ADR 57 64 bleeding
+T4 Disease 81 95 diverticulitis
+T5 Symptom 96 101 blood
+T6 Symptom 104 109 stool
+T7 Symptom 112 116 pain
+T8 Symptom 128 136 cramping
+T9 Symptom 138 156 intestinal/stomach pain

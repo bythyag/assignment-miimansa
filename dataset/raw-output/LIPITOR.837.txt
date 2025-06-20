@@ -1,0 +1,5 @@
+BIO Sequence:
+Temporal B-Disease | Lobe I-Disease | epilepsy I-Disease
+
+Structured Output:
+T1 Disease 0 19 Temporal Lobe epilepsy

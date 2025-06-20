@@ -1,0 +1,17 @@
+T1 Symptom 0 5 Joint
+T2 Symptom 6 12 Muscle
+T3 Symptom 13 17 Pain
+T4 Symptom 18 27 Stiffness
+T5 ADR 107 111 pain
+T6 ADR 117 126 stiffness
+T7 Disease 139 147 arthritis
+T8 ADR 195 199 pain
+T9 Symptom 202 206 legs
+T10 ADR 290 293 fog
+T11 Symptom 299 302 flu
+T12 ADR 309 319 side effects
+T13 Drug 327 334 Lipitor
+T14 Drug 1 9 Pravachol
+T15 Drug 354 361 Statins
+T16 Disease 409 420 cholesterol
+T17 Symptom 454 457 mi

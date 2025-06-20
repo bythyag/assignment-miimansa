@@ -1,0 +1,13 @@
+BIO Sequence:
+Very O | drowsy B-Symptom | and O | tired B-Symptom | and O | no O | pain B-Symptom | relief O | at O | all O | . O | Unlike O | previously O | taking O | just O | one O | tablet O | of O | Aleve B-Drug | , O | which O | immediately O | took O | away O | my O | pain B-Symptom | symptoms I-Symptom | , O | this O | drug B-Drug | had O | absolutely O | no O | effect O | at O | all O | . O | My O | doctor O | prescribed O | this O | drug I-Drug | ( O | instead O | of O | Aleve B-Drug | ) O | , O | to O | be O | taken O | twice O | daily O | , O | but O | after O | reading O | the O | side B-ADR | effects I-ADR | , O | I O | am O | concerned O | about O | that O | frequency O | . O | I'll O | not O | bother O | with O | it O | anymore O | and O | will O | occasionally O | take O | Aleve B-Drug | instead O | . O | Fortunately O | my O | pharmacy O | made O | an O | error O | in O | only O | giving O | me O | 6 O | tablets O | instead O | of O | 60 O | . O | I'm O | glad O | it O | happened O | ; O | it O | saved O | me O | an O | unnecessary O | expense O | . O 
+
+Structured Output:
+T1 Symptom 10 16 drowsy
+T2 Symptom 21 26 tired
+T3 Symptom 30 34 pain
+T4 Drug 47 52 Aleve
+T5 Symptom 67 72 pain
+T6 Drug 78 82 drug
+T7 Drug 87 91 Aleve
+T8 ADR 103 115 side effects
+T9 Drug 145 150 Aleve

@@ -1,0 +1,24 @@
+T1 Symptom 0 9 DEPRESSION
+T2 Symptom 24 32 muscle twitching
+T3 Symptom 37 41 pain
+T4 Symptom 43 48 tired
+T5 Symptom 50 54 loss
+T6 Symptom 56 60 drive
+T7 Symptom 62 71 irritable
+T8 Symptom 73 81 insomnia
+T9 Symptom 83 89 anxiety
+T10 Symptom 91 95 loss
+T11 Symptom 97 103 desire
+T12 Symptom 108 118 accomplish anything
+T13 Disease 167 173 quality
+T14 Disease 175 179 of life
+T15 Disease 188 199 cholesterol
+T16 Disease 207 212 heart desease
+T17 Disease 228 238 cholesterol
+T18 Drug 252 258 lipitor
+T19 Drug 272 278 lipitor
+T20 ADR 293 298 adverse
+T21 Disease 317 325 Lipitor
+T22 Symptom 392 400 Depression
+T23 Symptom 457 463 muscle aches
+T24 Symptom 465 473 twitching

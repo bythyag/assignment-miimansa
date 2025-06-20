@@ -1,0 +1,15 @@
+BIO Sequence:
+For O | the O | past O | year O | and O | half O | I O | have O | been O | taking O | Lipitor B-Drug | . O | I O | have O | been O | experiencing O | extreme O | pain B-Symptom | in O | my O | shoulder B-Symptom | and O | arm B-Symptom | . O | It O | is O | the O | same O | arm O | which O | has O | no O | lymph O | nodes O | and O | a O | modified O | radical O | mastectomy B-Disease | . O | I O | have O | had O | 3 O | steroid B-Drug | shots O | to O | some O | relief O | -- O | but O | -- O | short-lived O | . O | Finally O | , O | dawned O | on O | me O | -- O | I O | missed O | taking O | Lipitor B-Drug | over O | the O | weekend O | and O | on O | Monday O | the O | pain O | was O | gone O | . O | Started O | taking O | it O | again O | on O | Monday O | . O | Pain B-Symptom | returned O | . O | Is O | there O | a O | correlation O | . O | I O | was O | stopping O | the O | Lipitor B-Drug | . O | I O | was O | due O | a O | MRI B-Disease | next O | week O | and O | possibly O | surgery O | on O | right O | shoulder B-Disease | with O | the O | pain O | . O 
+
+Structured Output:
+T1 Drug 43 50 Lipitor
+T2 Symptom 75 79 pain
+T3 Symptom 87 95 shoulder
+T4 Symptom 101 104 arm
+T5 Disease 130 146 mastectomy
+T6 Drug 201 207 steroid
+T7 Drug 220 227 Lipitor
+T8 Symptom 246 250 Pain
+T9 Drug 266 272 Lipitor
+T10 Disease 277 280 MRI
+T11 Disease 312 319 shoulder

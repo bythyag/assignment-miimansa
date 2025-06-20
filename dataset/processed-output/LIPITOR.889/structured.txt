@@ -1,0 +1,2 @@
+T1 Symptom 0 15 extreme muscle pain
+T2 Drug 21 25 drug

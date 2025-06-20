@@ -1,0 +1,14 @@
+BIO Sequence:
+I O | took O | Lipitor B-Drug | for O | one O | month O | . O | I O | was O | having O | severe B-Symptom | pain I-Symptom | in O | my O | legs I-Disease | . O | After O | I O | quit O | taking O | it O | , O | I O | still O | have O | muscle B-Symptom | weakness I-Symptom | in O | my O | legs I-Disease | and O | pain I-Symptom | when O | I O | sit O | down O | or O | stand O | from O | a O | sitting O | position O | . O | My O | doctor O | doesn't O | seem O | to O | know O | what O | to O | do O | about O | it O | . O | I O | am O | scheduled O | to O | see O | another O | doctor O | next O | month O | . O | I O | was O | taking O | 20 O | mg O | of O | Lipitor B-Drug | . O | Everyone O | I O | talk O | to O | who O | is O | taking O | Lipitor B-Drug | says O | they O | have O | leg B-Symptom | pain I-Symptom | . O | I O | will O | not O | ever O | take O | another O | Lipitor B-Drug | tablet O | . O
+
+Structured Output:
+T1 Drug 8 15 Lipitor
+T2 Symptom 49 54 severe pain
+T3 Disease 66 70 legs
+T4 Symptom 97 108 muscle weakness
+T5 Disease 116 120 legs
+T6 Symptom 134 138 pain
+T7 Drug 132 139 Lipitor
+T8 Drug 169 176 Lipitor
+T9 Symptom 192 199 leg pain
+T10 Drug 201 208 Lipitor

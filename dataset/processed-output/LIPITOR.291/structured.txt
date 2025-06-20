@@ -1,0 +1,10 @@
+T1 Symptom 0 6 Muscle weakness
+T2 Symptom 13 18 extreme pain
+T3 ADR 20 26 nausea
+T4 ADR 28 36 diarrhea
+T5 Symptom 38 47 dark urine
+T6 Symptom 49 56 dizziness
+T7 Disease 89 93 flu bug
+T8 Drug 102 110 pravochol
+T9 ADR 114 126 side effects
+T10 Disease 132 143 cholesterol

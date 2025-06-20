@@ -1,0 +1,12 @@
+BIO Sequence:
+I O | have O | taken O | Lipitor B-Drug | for O | 4 O | years O | with O | no O | problems O | - O | lowered O | my O | cholesterol O | . O | Insurance B-Disease | co. I-Disease | has O | decided O | I O | need O | a O | generic O | Pravachol B-Drug | . O | In O | just O | two O | weeks O | , O | I O | feel O | achy B-ADR | , O | muscle B-Symptom | fatigue I-Symptom | , O | memory B-Symptom | loss I-Symptom | . O | I O | don’t O | think O | insurance B-Disease | co. I-Disease | should O | have O | the O | say O | on O | what O | medicines O | I O | take O | . O
+
+Structured Output:
+T1 Drug 17 24 Lipitor
+T2 Disease 93 99 Insurance co.
+T3 Drug 119 128 Pravachol
+T4 ADR 51 56 achy
+T5 Symptom 58 64 muscle fatigue
+T6 Symptom 66 71 memory
+T7 Symptom 73 77 loss
+T8 Disease 134 140 insurance co.

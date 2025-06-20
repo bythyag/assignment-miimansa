@@ -1,0 +1,5 @@
+T1 Symptom 6 14 headaches
+T2 Drug 31 39 hormones
+T3 Drug 113 120 Lipitor
+T4 Disease 129 138 cholesterol
+T5 Symptom 144 152 headaches

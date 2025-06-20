@@ -1,0 +1,9 @@
+BIO Sequence:
+muscle B-Symptom | weakness I-Symptom | , O | extreme B-Symptom | fatigue I-Symptom | , O | can't O | sleep B-Symptom | good O | , O | muscle B-Symptom | aches I-Symptom | and O | pain I-Symptom | . O | I O | am O | going O | to O | quit O | taking O | it O | . O 
+
+Structured Output:
+T1 Symptom 0 14 muscle weakness
+T2 Symptom 16 31 extreme fatigue
+T3 Symptom 33 41 sleep 
+T4 Symptom 43 56 muscle aches
+T5 Symptom 57 61 pain 

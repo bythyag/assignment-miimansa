@@ -1,0 +1,12 @@
+BIO Sequence:
+pain B-Symptom | in O | upper B-Symptom | right I-Symptom | arm I-Symptom | , O | could O | not O | sleep O | on O | it O | or O | move O | it O | behind O | my O | back O | . O | the O | drug B-Drug | has O | worked O | very O | well O | to O | resuce O | my O | cholesterol B-Disease | rating I-Disease | 5 O | however O | the O | pain B-Symptom | in O | my O | arm I-Symptom | and O | shoulder I-Symptom | has O | reduced O | within O | 2 O | days O | of O | stopping O | the O | drug B-Drug | Rating O | 1 O | . O | therefore O | overal O | rating O | 3 O | . O
+
+Structured Output:
+T1 Symptom 0 4 pain
+T2 Symptom 11 27 upper right arm
+T3 Drug 74 78 drug
+T4 Disease 88 98 cholesterol rating
+T5 Symptom 115 119 pain
+T6 Symptom 124 134 arm
+T7 Symptom 139 147 shoulder
+T8 Drug 160 164 drug

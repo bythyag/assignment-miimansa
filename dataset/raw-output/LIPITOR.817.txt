@@ -1,0 +1,16 @@
+BIO Sequence:
+Extreme O | fatigue B-Symptom | , O | headaches B-Symptom | , O | cramping B-Symptom | in O | both O | calves I-Symptom | , O | memory B-Symptom | problems I-Symptom | , O | like O | Im O | in O | a O | fog B-Symptom | all O | the O | time O | . O | Dr O | has O | taken O | me O | off O | the O | drug B-Drug | . O | Previously O | I O | have O | taken O | ZOCOR B-Drug | and O | MEVACOR B-Drug | with O | similar O | results O | , O | but O | not O | has O | pronounced O | as O | with O | LIPITOR B-Drug | . O | Find O | another O | way O | to O | reduce O | blood O | cholesterol B-Disease | .
+
+Structured Output:
+T1 Symptom 8 15 fatigue
+T2 Symptom 17 25 headaches
+T3 Symptom 27 34 cramping
+T4 Symptom 40 45 calves
+T5 Symptom 47 53 memory
+T6 Symptom 55 63 problems
+T7 Symptom 66 70 fog
+T8 Drug 83 87 drug
+T9 Drug 104 110 ZOCOR
+T10 Drug 115 122 MEVACOR
+T11 Drug 132 139 LIPITOR
+T12 Disease 146 163 blood cholesterol

@@ -1,0 +1,1 @@
+was O | given O | this O | to O | replace O | ibuprofen B-Drug | ( O | possible O | sun B-ADR | sensitivity I-ADR | developed O | with O | ibu B-Drug | ) O | but O | it O | doesn't O | relieve O | any O | pain B-Symptom | for O | me O | or O | reduce O | inflammation B-Symptom | . O

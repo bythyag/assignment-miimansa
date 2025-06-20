@@ -1,0 +1,6 @@
+BIO Sequence:
+none O | -taking O | it O | for O | 6 O | years O | . O | My O | cholesterol B-Symptom | is O | in O | 110 O | range O | on O | Lipitor B-Drug | . O
+
+Structured Output:
+T1 Symptom 40 49 cholesterol
+T2 Drug 59 66 Lipitor

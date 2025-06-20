@@ -1,0 +1,4 @@
+T1 Disease 24 34 cholesterol
+T2 Disease 45 50 good
+T3 Disease 54 57 bad
+T4 Disease 58 67 cholesterol

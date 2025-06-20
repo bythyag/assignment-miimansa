@@ -1,0 +1,10 @@
+BIO Sequence:
+WEAK B-Symptom | MUSCLES I-Symptom | , O | POOR B-Symptom | BALANCE I-Symptom | , O | VERY O | VERY O | TIRED B-Symptom | CAN'T O | WORK O | MORE O | THAN O | 2 O | HOURS O | WITHOUT O | A O | NAP B-Symptom | . O 
+
+Structured Output:
+T1 Symptom 0 5 WEAK
+T2 Symptom 6 13 MUSCLES
+T3 Symptom 15 19 POOR
+T4 Symptom 20 27 BALANCE
+T5 Symptom 31 36 TIRED
+T6 Symptom 40 43 NAP

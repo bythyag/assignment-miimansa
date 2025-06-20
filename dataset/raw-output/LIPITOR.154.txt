@@ -1,0 +1,14 @@
+BIO Sequence:
+My O | brother O | experienced O | memory B-Symptom | loss I-Symptom | and O | paranoia B-Symptom | , O | leading O | to O | a O | uncharacteristic O | suicide B-ADR | . O | No O | history O | of O | mental B-Disease | illness I-Disease | or O | suicide B-Disease | in O | the O | family O | . O | No O | motivation O | for O | suicide B-ADR | ( O | police O | investigation O | is O | ongoing O | ) O | . O | His O | experience O | of O | the O | side B-ADR | effects I-ADR | apparently O | frightened O | him O | into O | suicide B-ADR | . O | He O | also O | seems O | to O | have O | had O | hallucinations B-ADR | . O | Extremely O | dangerous O | drug B-Drug | . O 
+
+Structured Output:
+T1 Symptom 29 41 memory loss
+T2 Symptom 44 52 paranoia
+T3 ADR 72 79 suicide
+T4 Disease 94 109 mental illness
+T5 Disease 111 118 suicide
+T6 ADR 127 133 suicide
+T7 ADR 143 158 side effects
+T8 ADR 174 180 suicide
+T9 ADR 197 209 hallucinations
+T10 Drug 222 226 drug

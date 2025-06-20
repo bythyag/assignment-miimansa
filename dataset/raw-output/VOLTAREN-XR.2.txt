@@ -1,0 +1,15 @@
+BIO Sequence:
+Serious O | stomach B-Symptom | discomfort I-Symptom | . O | Diarreha B-Symptom | , O | cramps B-Symptom | , O | gas B-Symptom | , O | bloating B-Symptom | . O | It O | started O | about O | 10 O | day O | into O | my O | treatment O | . O | Around O | 4 O | hours O | after O | I O | took O | the O | pill B-Drug | ( O | on O | a O | full O | stomach O | ) O | the O | pain B-Symptom | and O | diarreha I-Symptom | would O | start O | . O | I O | stop O | treatment O | and O | went O | to O | an O | over-the-counter B-Drug | med I-Drug | . O | The O | kneejoin B-Symptom | paint I-Symptom | stopped O | but O | the O | side O | effects B-ADR | were O | awful O | . O
+
+Structured Output:
+T1 Symptom 16 34 stomach discomfort
+T2 Symptom 36 44 Diarreha
+T3 Symptom 46 52 cramps
+T4 Symptom 54 57 gas
+T5 Symptom 59 66 bloating
+T6 Drug 94 98 pill
+T7 Symptom 107 111 pain
+T8 Symptom 113 121 diarreha
+T9 Drug 133 151 over-the-counter med
+T10 Symptom 170 183 kneejoin paint
+T11 ADR 195 209 side effects

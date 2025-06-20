@@ -1,0 +1,10 @@
+T1 Symptom 49 53 pain
+T2 Symptom 58 62 feet
+T3 Symptom 67 71 legs
+T4 ADR 88 96 leg cramps
+T5 Symptom 109 118 difficulty sleeping
+T6 Symptom 120 129 headaches
+T7 Symptom 133 140 fatigue
+T8 ADR 151 158 decreased
+T9 Disease 3 12 Cholesterol
+T10 Drug 163 172 alternative

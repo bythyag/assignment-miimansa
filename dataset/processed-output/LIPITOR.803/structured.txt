@@ -1,0 +1,5 @@
+T1 Disease 20 27 tennis elbow
+T2 Disease 32 48 plantar fasciatis
+T3 Drug 69 76 Lipitor
+T4 Symptom 81 85 neck pain
+T5 Symptom 107 116 cholesterol level

@@ -1,0 +1,9 @@
+T1 Symptom 10 16 drowsy
+T2 Symptom 21 26 tired
+T3 Symptom 30 34 pain
+T4 Drug 47 52 Aleve
+T5 Symptom 67 72 pain
+T6 Drug 78 82 drug
+T7 Drug 87 91 Aleve
+T8 ADR 103 115 side effects
+T9 Drug 145 150 Aleve

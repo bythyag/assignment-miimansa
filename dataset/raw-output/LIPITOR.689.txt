@@ -1,0 +1,10 @@
+BIO Sequence:
+My O | boyfriend O | is O | 49 O | and O | has O | had O | high B-Disease | cholesterol I-Disease | for O | about O | 10 O | years O | . O | his O | doctor O | put O | him O | on O | Lipitor B-Drug | . O | he O | took O | it O | twice O | and O | could O | hardly O | stay O | awake B-ADR | . O | Also O | noticed O | pains B-ADR | in O | his O | legs O | and O | weakness B-ADR | in O | his O | knees O | after O | the O | first O | dose O | . O | He O | has O | stopped O | and O | will O | not O | resume O | this O | treatment O | . O | There O | must O | be O | a O | better O | alternative O | . O | Don't O | do O | it O | ! O | There O | are O | too O | many O | websites O | like O | these O | with O | pages O | and O | pages O | of O | similar O | complaints B-Symptom | . O
+
+Structured Output:
+T1 Disease 43 52 high cholesterol
+T2 Drug 81 88 Lipitor
+T3 ADR 110 115 awake
+T4 ADR 130 135 pains
+T5 ADR 149 157 weakness
+T6 Symptom 197 206 complaints

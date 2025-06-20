@@ -1,0 +1,3 @@
+T1 Drug 18 25 lipitor
+T2 Drug 27 31 10mg
+T3 Symptom 107 112 server pain

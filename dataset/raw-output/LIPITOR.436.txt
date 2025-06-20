@@ -1,0 +1,11 @@
+BIO Sequence:
+The O | first O | day O | I O | took O | Lipitor B-Drug | I O | couldn't O | sleep O | at O | night O | because O | I O | couldn't O | relax O | . O | It O | was O | like O | Restless B-Symptom | Leg I-Symptom | Syndrome I-Symptom | . O | The O | second O | day O | I O | got O | very O | weak B-Symptom | , O | shaky B-Symptom | , O | and O | had O | a O | cold O | sweat B-Symptom | in O | the O | evening O | . O | Had O | chills B-Symptom | till O | I O | went O | to O | bed O | . O | Third O | day O | was O | fine O | . O | Fourth O | day O | was O | a O | repeat O | of O | the O | second O | day O | , O | only O | worse B-Symptom | . O | I O | quit O | taking O | it O | then O | . O
+
+Structured Output:
+T1 Drug 25 31 Lipitor
+T2 Symptom 48 65 Restless Leg Syndrome
+T3 Symptom 79 83 weak
+T4 Symptom 85 90 shaky
+T5 Symptom 93 104 cold sweat
+T6 Symptom 111 116 chills
+T7 Symptom 137 142 worse

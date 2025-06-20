@@ -1,0 +1,10 @@
+BIO Sequence:
+This O | medicine O | completely O | relieves O | my O | thumb B-Symptom | pain I-Symptom | , O | and O | really O | helps O | with O | my O | back B-Symptom | pain I-Symptom | . O | BUT O | , O | it O | makes O | my O | stomach B-ADR | hurt I-ADR | soooo O | bad O | that O | I O | ' O | m O | not O | sure O | what O | is O | worse O | . O | I O | only O | use O | it O | when O | my O | thumbs B-Symptom | hurt I-Symptom | so O | bad O | I O | want O | to O | cry O | . O | Then O | I O | put O | up O | with O | the O | stomach B-ADR | pain I-ADR | . O | It O | also O | give O | you O | diarrhea B-ADR | but O | I O | can O | handle O | that O | . O |
+
+Structured Output:
+T1 Symptom 51 55 thumb pain
+T2 Symptom 72 76 back pain
+T3 ADR 94 100 stomach hurt
+T4 Symptom 131 136 thumbs hurt
+T5 ADR 150 155 stomach pain
+T6 ADR 163 171 diarrhea

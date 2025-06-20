@@ -1,0 +1,20 @@
+T1 Symptom 41 50 Joint pain
+T2 Symptom 52 57 elbows
+T3 Symptom 59 63 buzzing
+T4 Symptom 68 71 left leg
+T5 Symptom 81 86 loss
+T6 Symptom 91 95 balance
+T7 Symptom 97 109 MEMORY LOSS
+T8 Symptom 114 126 blurred vision
+T9 Disease 15 25 Cholesterol
+T10 Disease 36 46 cholesterol
+T11 Drug 114 118 HDL
+T12 Drug 130 136 Lipitor
+T13 Symptom 173 177 pain
+T14 Symptom 181 185 pain
+T15 Symptom 227 237 short-term memory
+T16 Drug 244 248 drug
+T17 Drug 255 264 vitamin C
+T18 Drug 274 278 HDL
+T19 Drug 360 364 drug
+T20 Disease 397 403 heart disease

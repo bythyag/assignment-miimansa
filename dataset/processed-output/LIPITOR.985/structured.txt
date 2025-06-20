@@ -1,0 +1,8 @@
+T1 Symptom 28 34 severe
+T2 Disease 35 44 depression
+T3 Drug 96 105 medication
+T4 Drug 111 115 SSRI
+T5 ADR 133 136 HDL
+T6 ADR 145 151 intense
+T7 ADR 153 158 anxiety
+T8 Symptom 165 173 depression

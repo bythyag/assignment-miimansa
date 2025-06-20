@@ -1,0 +1,12 @@
+T1 Drug 37 44 LIPITOR
+T2 Drug 73 79 Baycol
+T3 Symptom 106 111 joint
+T4 Symptom 116 121 muscle
+T5 Symptom 122 126 pain
+T6 Symptom 146 153 depressed
+T7 Symptom 186 190 walk
+T8 Symptom 195 200 stairs
+T9 Symptom 207 212 thigh
+T10 Symptom 218 224 cramps
+T11 Symptom 238 250 generalized weakness
+T12 Drug 322 327 statin

@@ -1,0 +1,14 @@
+BIO Sequence:
+Nothing O | that O | over O | the O | counter O | Tums B-Drug | or O | Gas-X B-Drug | couldn't O | control O | . O | I'm O | avoiding O | ( O | or O | delaying O | ) O | Total B-Disease | Ankle I-Disease | + O | both O | knees B-Disease | replacement O | for O | post B-Disease | traumatic I-Disease | osteoarthritis I-Disease | due O | to O | injuries B-Disease | 30 O | years O | . O | After O | starting O | on O | Arthrotec B-Drug | , O | I O | am O | able O | walk O | with O | almost O | no O | pain B-Symptom | and O | sometimes O | , O | no O | limp B-Symptom | . O | It O | has O | been O | great O | , O | I O | can O | walk O | my O | dog O | , O | go O | up O | & O | down O | stairs O | , O | walk O | on O | the O | beach O | , O | go O | hiking O | & O | kayaking O | . O | I O | will O | take O | it O | as O | long O | as O | I O | can O | to O | delay O | surgery O | . O | I O | will O | eventually O | have O | the O | ankle O | surgery O | , O | fighting O | insurance O | companies O | now O | . O | It O | has O | truly O | been O | amazing O | how O | this O | drug B-Drug | has O | helped O | me O | . O 
+
+Structured Output:
+T1 Drug 22 26 Tums
+T2 Drug 32 37 Gas-X
+T3 Disease 79 90 Total Ankle
+T4 Disease 93 98 knees
+T5 Disease 109 130 post traumatic osteoarthritis
+T6 Disease 137 145 injuries
+T7 Drug 175 183 Arthrotec
+T8 Symptom 195 199 pain
+T9 Symptom 214 218 limp
+T10 Drug 317 321 drug

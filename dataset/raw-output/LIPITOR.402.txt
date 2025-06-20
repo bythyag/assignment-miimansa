@@ -1,0 +1,6 @@
+BIO Sequence:
+leg B-Symptom | pain I-Symptom | . O | quit O | taking O | condition B-Disease | improved O | . O
+
+Structured Output:
+T1 Symptom 0 8 leg pain
+T2 Disease 19 27 condition

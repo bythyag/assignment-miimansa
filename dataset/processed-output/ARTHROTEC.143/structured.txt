@@ -1,0 +1,11 @@
+T1 Drug 20 28 arthrotec
+T2 Drug 34 42 tylenol
+T3 Symptom 67 74 abdominal pain
+T4 Symptom 80 85 bowel
+T5 Symptom 87 94 uterine cramping
+T6 Disease 109 123 emergency room
+T7 Symptom 138 144 shoulder pain
+T8 ADR 154 166 side effects
+T9 Symptom 170 175 severe pain
+T10 Drug 203 210 codeine
+T11 Drug 217 225 tylenol

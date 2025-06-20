@@ -1,0 +1,7 @@
+T1 Disease 0 9 depression
+T2 Symptom 11 30 exercise intolerance
+T3 Symptom 32 46 muscle weakness
+T4 Symptom 48 62 memory problems
+T5 Symptom 64 71 amnesia
+T6 ADR 86 92 nausea
+T7 ADR 97 104 vomiting

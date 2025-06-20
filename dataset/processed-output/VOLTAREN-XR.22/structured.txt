@@ -1,0 +1,8 @@
+T1 Drug 30 42 pharmological 
+T2 Drug 97 101 drug
+T3 Disease 115 126 blood clots
+T4 Disease 134 140 strokes
+T5 Disease 147 152 heart attacks
+T6 ADR 166 171 upset stomach
+T7 ADR 177 189 side effects
+T8 Drug 191 197 Asprin

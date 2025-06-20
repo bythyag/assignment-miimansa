@@ -1,0 +1,12 @@
+T1 Symptom 0 6 Muscle
+T2 Symptom 7 15 twitching
+T3 Symptom 17 21 stiff
+T4 Symptom 22 26 neck
+T5 Symptom 28 45 constant lightheadedness
+T6 Disease 75 84 brain tumor
+T7 Drug 85 91 Lipitor
+T8 Disease 126 138 nuerologist
+T9 Symptom 149 157 twitching
+T10 Symptom 161 170 light head
+T11 Drug 189 195 Lipitor
+T12 Disease 209 219 Cholesterol

@@ -1,0 +1,4 @@
+T1 Symptom 50 54 pain
+T2 Symptom 59 66 tingling
+T3 Symptom 104 108 pain
+T4 Symptom 121 124 gas

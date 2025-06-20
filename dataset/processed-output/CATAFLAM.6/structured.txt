@@ -1,0 +1,6 @@
+T1 Symptom 5 8 gut
+T2 Symptom 9 13 pain
+T3 Symptom 15 23 diahrrea
+T4 Drug 47 52 NSAID
+T5 Disease 56 70 Gastrointestinal problems
+T6 Drug 95 102 alcohol

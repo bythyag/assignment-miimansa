@@ -1,0 +1,12 @@
+BIO Sequence:
+Doctor O | gave O | me O | a O | prescription O | for O | a O | year's O | worth O | of O | Lipitor B-Drug | . O | I O | took O | it O | for O | four O | months O | and O | asked O | for O | a O | retest O | before O | renewing O | my O | prescription O | . O | In O | four O | months O | , O | my O | cholesterol B-Disease | dropped O | 100 O | points O | , O | HDL B-Disease | and O | LDL B-Disease | were O | in O | better O | , O | though O | not O | perfect O | balance O | . O | With O | my O | cholesterol O | at O | 139 O | , O | I O | declined O | to O | take O | more O | Lipitor B-Drug | . O | Got O | HDL I-Disease | and O | LDL I-Disease | into O | perfect O | balance O | within O | another O | two O | months O | using O | certain O | over-the-counter O | amino B-Drug | acids I-Drug | , O | tocotrienols B-Drug | , O | and O | other O | nutrients O | I O | found O | online O | that O | supposedly O | do O | the O | job O | . O | They O | do O | ! O | And O | the O | nice O | thing O | is O | , O | if O | my O | cholesterol O | goes O | up O | again O | , O | I O | know O | that O | very O | low O | dose O | of O | Lipitor B-Drug | will O | take O | care O | of O | it O | . O | Good O | stuff O | ! O
+
+Structured Output:
+T1 Drug 38 45 Lipitor
+T2 Disease 79 88 cholesterol
+T3 Disease 95 98 HDL
+T4 Disease 103 106 LDL
+T5 Drug 131 138 Lipitor
+T6 Drug 167 177 amino acids
+T7 Drug 179 192 tocotrienols
+T8 Drug 203 210 Lipitor

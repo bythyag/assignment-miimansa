@@ -1,0 +1,10 @@
+BIO Sequence:
+Mild O | sedation B-Symptom | . O | This O | is O | a O | GREAT O | drug B-Drug | for O | me O | . O | I O | am O | usually O | VERY O | affected O | negatively O | with O | most O | meds B-Drug | . O | Voltaren B-Drug | totally O | relieves O | my O | pain B-Symptom | when O | nothing O | else O | worked O | . O | I O | take O | it O | with O | a O | meal O | so O | I O | don't O | have O | any O | stomach B-Symptom | problems I-Symptom | with O | it O | . O | It O | mellows O | me O | out O | a O | little O | but O | not O | too O | much O | . O
+
+Structured Output:
+T1 Symptom 6 14 sedation
+T2 Drug 29 33 drug
+T3 Drug 80 84 meds
+T4 Drug 86 93 Voltaren
+T5 Symptom 101 105 pain
+T6 Symptom 132 139 stomach problems

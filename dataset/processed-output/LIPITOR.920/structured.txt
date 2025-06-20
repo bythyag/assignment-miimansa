@@ -1,0 +1,10 @@
+T1 Symptom 10 15 muscle pain
+T2 Symptom 21 28 weakness
+T3 Disease 75 79 age
+T4 Disease 90 95 liver enzymes
+T5 Drug 118 125 Lipitor
+T6 Symptom 29 34 pain
+T7 Symptom 36 43 fatigue
+T8 Disease 73 78 muscle
+T9 Disease 90 95 damage
+T10 Disease 121 126 muscle damage

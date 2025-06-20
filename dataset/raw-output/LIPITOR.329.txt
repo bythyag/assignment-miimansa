@@ -1,0 +1,6 @@
+BIO Sequence:
+None O | that O | I O | am O | aware O | of O | . O | Used O | other O | cholesterol B-Drug | medication I-Drug | and O | lifestyle O | changes O | , O | but O | cholesterol O | did O | not O | reach O | normal O | levels O | until O | I O | was O | put O | on O | Lipitor B-Drug | . O
+
+Structured Output:
+T1 Drug 43 59 cholesterol medication
+T2 Drug 98 105 Lipitor

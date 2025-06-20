@@ -1,0 +1,21 @@
+BIO Sequence:
+Took O | for O | 30 O | days O | . O | Was O | aware O | of O | side B-ADR | effects I-ADR | , O | but O | DOC B-Drug | assured O | me O | they O | were O | minimal O | . O | I O | started O | getting O | some O | pain B-Symptom | in O | ankles I-Symptom | from O | time O | to O | time O | , O | I O | work O | out O | so O | attributed O | the O | pain O | to O | " O | old B-Disease | age I-Disease | " O | ( O | 45 O | ) O | . O | I O | was O | in O | Baltimore O | on O | business O | when O | one O | night O | I O | started O | experiencing O | severe B-Symptom | pain I-Symptom | in O | one O | ankle B-Symptom | - O | I O | could O | not O | sleep O | . O | I O | was O | a O | bit O | better O | the O | next O | day O | , O | but O | limped O | around O | a O | bit O | . O | A O | week O | later O | the O | pain O | came O | back O | , O | my O | ankle O | hurt O | so O | much O | I O | could O | hardly O | make O | to O | work O | . O | I O | could O | not O | walk O | up O | the O | stairs O | in O | my O | house O | without O | extreme B-ADR | pain I-ADR | . O | I O | felt O | horrible O | & O | made O | an O | appointment O | with O | DOC B-Drug | . O | Thought O | it O | might O | be O | gout B-Disease | , O | but O | found O | this O | website O | . O | I O | quit O | taking O | the O | crap O | before O | my O | appointment O | with O | DOC B-Drug | . O | The O | nurse O | told O | me O | " O | we O | have O | a O | lot O | of O | people O | who O | complain O | about O | pain B-Symptom | . O | " O | DOC B-Drug | understood O | and O | has O | kept O | me O | off O | Statins B-Drug | . O | I O | wish O | those O | who O | take O | this O | stuff O | successfully O | the O | best O | , O | but O | for O | those O | of O | us O | who O | have O | adverse B-ADR | effects I-ADR | this O | can O | be O | deviating O | . O | It O | took O | me O | 3-4 O | weeks O | to O | fully O | recover O | . O | MD's O | need O | to O | take O | their O | patients O | reports O | about O | Lipitor B-Drug | seriously O | . O | I O | would O | rater O | drink O | gasoline O | than O | take O | this O | stuff O | again O | ! O | . O | I O | have O | to O | wonder O | if O | the O | effects O | of O | this O | Med B-Drug | are O | being O | downplayed O | by O | the O | powers O | that O | be O | . O | ? O | ? O | ? O | ? O | ? O | ? O | ? O | . O | 
+
+Structured Output:
+T1 ADR 20 30 side effects
+T2 Drug 59 62 DOC
+T3 Symptom 81 85 pain
+T4 Symptom 91 97 ankles
+T5 Disease 107 115 old age
+T6 Symptom 147 151 severe
+T7 Symptom 156 160 pain
+T8 Symptom 165 170 ankle
+T9 ADR 232 236 extreme pain
+T10 Drug 263 266 DOC
+T11 Disease 326 331 gout
+T12 Drug 355 358 DOC
+T13 Symptom 371 375 pain
+T14 Drug 387 393 Statins
+T15 ADR 420 427 adverse effects
+T16 Drug 462 468 Lipitor
+T17 Drug 488 492 Med

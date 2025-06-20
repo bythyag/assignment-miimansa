@@ -1,0 +1,17 @@
+T1 Symptom 0 6 Muscle
+T2 Symptom 7 13 wasting
+T3 Symptom 15 22 weakness
+T4 Symptom 24 31 fatigue
+T5 Symptom 33 40 diarrhea
+T6 Symptom 42 50 anorexic
+T7 Drug 18 20 10
+T8 Disease 47 57 Cholesterol
+T9 Symptom 78 83 weight
+T10 Symptom 84 88 loss
+T11 Disease 95 101 muscles
+T12 Disease 102 109 wasting
+T13 Disease 111 117 Kidney
+T14 Disease 118 126 function
+T15 Disease 133 138 heart
+T16 Disease 139 145 muscle
+T17 Symptom 146 153 weakness

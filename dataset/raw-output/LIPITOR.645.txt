@@ -1,0 +1,12 @@
+BIO Sequence:
+Body B-Symptom | aches I-Symptom | . O | Thinking O | of O | decreasing O | my O | dose O | from O | 20mg B-Drug | to O | 10mg I-Drug | . O | Just O | read O | an O | article O | about O | it O | being O | very O | important O | to O | take O | CO-Q10 B-Drug | if O | you O | are O | on O | a O | statin B-Drug | because O | statins I-Drug | deplete O | your O | natural O | CO-Q10 I-Drug | which O | can O | affect O | the O | heart B-Disease | . O
+
+Structured Output:
+T1 Symptom 0 9 Body aches
+T2 Drug 27 32 20mg
+T3 Drug 36 41 10mg
+T4 Drug 70 75 CO-Q10
+T5 Drug 82 88 statin
+T6 Drug 90 97 statins
+T7 Drug 99 105 CO-Q10
+T8 Disease 107 112 heart

@@ -1,0 +1,9 @@
+T1 ADR 30 41 side effects
+T2 ADR 47 50 gas
+T3 ADR 189 197 darkness
+T4 Drug 133 137 drug
+T5 Drug 157 163 20mgs
+T6 Drug 166 171 40mg
+T7 Drug 175 180 20mg
+T8 Disease 117 128 heart attack
+T9 Drug 140 147 Lipitor

@@ -1,0 +1,16 @@
+T1 Drug 29 36 Lipitor
+T2 Symptom 79 86 headache
+T3 Symptom 88 94 muscle ache
+T4 Symptom 96 104 diarrhea
+T5 Symptom 106 116 indigestion
+T6 Symptom 118 131 abdominal pain
+T7 Symptom 133 140 back pain
+T8 Symptom 142 150 eyesight
+T9 Symptom 164 172 sinus problems
+T10 Symptom 174 184 joint pain
+T11 Symptom 186 196 leg cramps
+T12 Symptom 220 224 pain
+T13 Disease 255 263 artritic
+T14 Drug 283 290 codine
+T15 ADR 309 322 side effect
+T16 Disease 329 338 arthrites

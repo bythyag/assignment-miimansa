@@ -1,0 +1,29 @@
+BIO Sequence:
+severe O | overall O | body O | pain B-Symptom | in O | every O | joint B-Symptom | and O | muscle B-Symptom | from O | my O | neck B-Symptom | down O | to O | my O | big O | toes B-Symptom | . O | Foggy B-Symptom | brain I-Symptom | , O | exhaustion B-Symptom | , O | tingling B-Symptom | in O | arms B-Symptom | and O | hands B-Symptom | , O | flu-like B-Symptom | symptoms I-Symptom | , O | lack B-Symptom | of O | energy B-Symptom | , O | sensitivity B-Symptom | to O | cold B-Symptom | , O | . O | I O | started O | taking O | Lipitor B-Drug | about O | three O | weeks O | ago O | and O | felt O | the O | before O | mentioned O | symptoms O | almost O | immediately O | . O | At O | first O | I O | thought O | it O | was O | the O | stress O | of O | Christmas O | . O | However O | I O | did O | consider O | the O | side B-ADR | effects I-ADR | of O | Lipitor B-Drug | I O | read O | in O | other O | websites O | . O | I O | stopped O | taking O | Lipitor B-Drug | for O | about O | a O | week O | and O | felt O | somewhat O | better O | , O | Christmas O | over O | by O | then O | , O | once O | again O | I O | considered O | stress O | as O | the O | cause O | and O | not O | Lipitor B-Drug | . O | I O | went O | back O | on O | Lipitor B-Drug | about O | a O | week O | ago O | and O | feel O | horrible B-Symptom | again O | . O | Found O | this O | website O | and O | no O | longer O | doubt O | the O | source O | of O | pain B-Symptom | , O | etc O | is O | definitely O | from O | taking O | Lipitor B-Drug | . O | I O | am O | seeing O | my O | GP B-Disease | this O | afternoon O | and O | I O | am O | taking O | myself O | off O | this O | drug B-Drug | and O | will O | seek O | a O | natural O | method O | of O | lowering O | my O | cholesterol B-Disease | . O 
+
+Structured Output:
+T1 Symptom 27 31 pain
+T2 Symptom 39 45 joint
+T3 Symptom 52 57 muscle
+T4 Symptom 74 78 neck
+T5 Symptom 88 92 toes
+T6 Symptom 100 105 Foggy
+T7 Symptom 113 122 exhaustion
+T8 Symptom 124 132 tingling
+T9 Symptom 135 139 arms
+T10 Symptom 144 149 hands
+T11 Symptom 151 163 flu-like
+T12 Symptom 165 169 lack
+T13 Symptom 172 178 energy
+T14 Symptom 183 193 sensitivity
+T15 Symptom 196 200 cold
+T16 Drug 55 61 Lipitor
+T17 ADR 194 203 effects
+T18 Drug 205 211 Lipitor
+T19 Drug 227 233 Lipitor
+T20 Drug 245 251 Lipitor
+T21 Symptom 271 278 horrible
+T22 Symptom 305 309 pain
+T23 Disease 270 272 GP
+T24 Drug 343 347 drug
+T25 Disease 358 367 cholesterol

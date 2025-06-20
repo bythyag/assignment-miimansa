@@ -1,0 +1,9 @@
+T1 Symptom 0 4 heel
+T2 Symptom 5 9 pain
+T3 Symptom 21 26 ankle
+T4 Symptom 44 48 hot
+T5 Symptom 66 70 feels
+T6 Symptom 92 96 foot
+T7 Disease 116 126 coalesteral
+T8 Disease 158 162 goat
+T9 Drug 42 49 lipitor

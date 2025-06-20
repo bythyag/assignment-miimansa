@@ -1,0 +1,6 @@
+BIO Sequence:
+tremors B-Symptom | and O | tingles B-Symptom | although O | the O | body O | .
+
+Structured Output:
+T1 Symptom 0 7 tremors
+T2 Symptom 12 19 tingles

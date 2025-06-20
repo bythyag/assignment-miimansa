@@ -1,0 +1,18 @@
+T1 Drug 8 14 Lipitor
+T2 Disease 36 42 heart attack
+T3 ADR 71 89 extreme muscle weakness
+T4 Symptom 94 101 Mental clarity
+T5 Symptom 105 122 reading comprehension
+T6 Symptom 126 142 short term memory
+T7 Symptom 159 164 chest
+T8 Symptom 169 174 heart
+T9 Drug 186 192 Lipitor
+T10 Drug 202 207 Nitro
+T11 Symptom 213 220 soreness
+T12 Symptom 225 232 weakness
+T13 Symptom 240 246 thighs
+T14 Symptom 263 268 sharp
+T15 Symptom 270 276 mentally
+T16 Symptom 290 295 vision
+T17 Drug 312 318 Lipitor
+T18 Disease 336 342 heart attack

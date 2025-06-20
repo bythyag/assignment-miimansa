@@ -1,0 +1,6 @@
+BIO Sequence:
+Quick O | reduction O | in O | LDL B-Disease | . O | No O | side B-ADR | effects I-ADR | . O
+
+Structured Output:
+T1 Disease 17 20 LDL
+T2 ADR 24 34 side effects

@@ -1,0 +1,19 @@
+BIO Sequence:
+After O | taking O | lipitor B-Drug | for O | 1 O | week O | , O | my O | resting O | pulse O | jumped O | to O | between O | 100 O | and O | 105 O | , O | and O | I O | started O | experiencing O | dizziness B-ADR | , O | lack B-ADR | of O | energy B-Symptom | ( O | tireness I-Symptom | ) O | , O | and O | unexplained B-ADR | sweating I-ADR | . O | The O | doctor O | said O | these O | were O | not O | listed O | as O | known O | possible O | side B-ADR | effects I-ADR | . O | But O | after O | one O | ( O | 1 O | ) O | month O | my O | resting O | pulse O | had O | jumped O | to O | about O | 120 O | and O | the O | dizziness I-ADR | has O | become O | both O | more O | frequent O | and O | more O | pronounced O | . O | Have O | discontinued O | lipitor B-Drug | and O | will O | not O | take O | it O | for O | 1 O | month O | to O | see O | if O | symptoms O | disappear O | . O | Other O | symptoms O | which O | started O | occurring O | after O | a O | few O | days O | of O | lipiltor B-Drug | include O | sever B-ADR | leg O | muscle O | pain I-ADR | , O | swelling B-ADR | of O | the O | lower O | legs O | and O | feet O | , O | and O | even O | more O | sudden O | and O | pronounced O | sweating I-ADR | at O | random O | , O | unexplained O | times O | . O | My O | physical O | ( O | 6 O | days O | before O | starting O | the O | lipitor B-Drug | ) O | was O | perfectly O | normal O | except O | for O | the O | cholestorol B-Symptom | which O | had O | jumped O | from O | 175 O | to O | 220 O | , O | primarily O | due O | to O | changed O | job/work O | conditions/diet/lack O | of O | exercise O | . O | Have O | appointment O | to O | see O | doctor O | again O | next O | week O | . O | And O | will O | discuss O | further O | with O | her O | . O | There O | has O | been O | some O | increase O | in O | jo O | . O | I O | discussed O | lipitor B-Drug | with O | two O | friends O | who O | are O | both O | teaching O | pharmacologists O | . O | BOTH O | had O | heard O | similar O | stories O | about O | lipitor B-Drug | and O | they O | had O | each O | heard O | of O | all O | of O | these O | symptoms O | being O | connected O | with O | it O | ( O | FWIW O | , O | I O | have O | a O | large O | number O | of O | hypersensitivities O | to O | several O | other O | drugs O | [ O | as O | well O | as O | to O | alcohol O | ] O | , O | so O | this O | was O | not O | a O | big O | surprise O | to O | me O | . O |
+
+Structured Output:
+T1 Drug 23 30 lipitor
+T2 ADR 70 77 dizziness  
+T3 ADR 79 83 lack  
+T4 Symptom 84 89 energy  
+T5 ADR 109 118 unexplained sweating  
+T6 ADR 157 169 side effects  
+T7 ADR 192 199 dizziness  
+T8 Drug 252 259 lipitor  
+T9 ADR 274 278 sever  
+T10 ADR 280 294 leg muscle pain  
+T11 ADR 296 303 swelling  
+T12 ADR 326 333 pronounced sweating  
+T13 Symptom 346 358 cholestorol  
+T14 Drug 387 394 lipitor  
+T15 Drug 493 500 lipitor  

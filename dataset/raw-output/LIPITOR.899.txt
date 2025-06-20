@@ -1,0 +1,26 @@
+BIO Sequence:
+I O | started O | to O | take O | 20 O | mg O | lipitor B-Drug | in O | August O | 2006 O | , O | after O | 6 O | months O | , O | I O | reduced O | to O | take O | 10 O | mg O | , O | and O | after O | another O | 6 O | months O | , O | I O | reduced O | the O | lipitor B-Drug | intake O | to O | 5 O | mg O | . O | During O | all O | these O | 18 O | months O | , O | my O | LDL O | and O | cholesterol O | in O | 70s O | and O | 120s O | and O | I O | did O | not O | feel O | much O | side O | effects B-ADR | . O | When O | I O | increased O | lipitor B-Drug | from O | 5 O | mg O | to O | 10 O | mg O | about O | 3 O | months O | ago O | , O | I O | started O | to O | experience O | the O | following O | side O | - O | effects B-ADR | started O | at O | different O | time O | : O | loss B-Symptom | body O | balance I-Symptom | , O | joint B-Symptom | pain I-Symptom | , O | muscle B-Symptom | aches I-Symptom | , O | weak B-Symptom | legs I-Symptom | , O | and O | some O | memory B-Symptom | loss I-Symptom | . O | About O | 2 O | months O | ago O | while O | I O | first O | told O | my O | doctor O | I O | lost O | some O | body O | balance I-Symptom | and O | it O | might O | be O | due O | to O | lipitor B-Drug | but O | my O | doctor O | told O | me O | the O | side O | effect O | was O | most O | likely O | by O | some O | other O | reason O | ( O | s O | ) O | . O | During O | my O | second O | visit O | ing O | him O | , O | he O | told O | me O | my O | blood O | test O | CK O | is O | 90 O | and O | my O | muscle O | should O | be O | OK O | . O | Then O | I O | continued O | to O | take O | 10 O | mg O | lipitor B-Drug | , O | but O | I O | felt O | more O | on O | muscle B-Symptom | and O | joint B-Symptom | pain I-Symptom | and O | I O | started O | to O | feel O | I O | lost O | some O | memory B-Symptom | . O | Therefore O | , O | I O | deeply O | believed O | that O | I O | had O | side O | effects B-ADR | by O | taking O | lipitor B-Drug | . O | After O | about O | a O | week O | to O | 10 O | day O | without O | lipitor B-Drug | , O | I O | got O | my O | memory O | back O | to O | nomal O | level O | and O | my O | body O | balance I-Symptom | is O | getting O | better O | . O | During O | my O | third O | doctor O | visit O | , O | my O | doctor O | finally O | believed O | that O | I O | got O | bad O | side O | effects B-ADR | and O | he O | told O | me O | it O | would O | take O | months O | for O | recovery O | . O | Now O | my O | doctor O | wants O | me O | to O | take O | B3 B-Drug | or O | Niaspan B-Drug | instead O | of O | lipitor B-Drug | .
+
+Structured Output:
+T1 Drug 46 53 lipitor
+T2 ADR 137 149 side effects
+T3 Drug 162 169 lipitor
+T4 ADR 181 195 side effects
+T5 Symptom 204 207 loss
+T6 Symptom 212 219 body balance
+T7 Symptom 225 234 joint pain
+T8 Symptom 240 252 muscle aches
+T9 Symptom 257 265 weak legs
+T10 Symptom 270 281 memory loss
+T11 Drug 329 336 lipitor
+T12 Symptom 377 382 body balance
+T13 Drug 394 401 lipitor
+T14 Drug 404 409 lipitor
+T15 Symptom 435 440 muscle
+T16 Symptom 458 464 joint pain
+T17 Symptom 472 477 memory
+T18 ADR 482 495 side effects
+T19 Drug 515 518 lipitor
+T20 Drug 526 529 B3
+T21 Drug 533 540 Niaspan
+T22 Drug 546 553 lipitor

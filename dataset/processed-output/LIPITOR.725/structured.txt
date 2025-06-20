@@ -1,0 +1,8 @@
+T1 ADR 97 115 extreme vomiting
+T2 ADR 120 128 diarrhea
+T3 Disease 144 152 flu
+T4 Drug 220 226 Lipitor
+T5 ADR 232 243 memory loss
+T6 ADR 248 257 tiredness
+T7 Drug 272 276 10mg
+T8 Drug 283 288 20 mg

@@ -1,0 +1,8 @@
+T1 Drug 19 30 Voltaren-XR
+T2 Disease 49 63 lower back pain
+T3 ADR 111 118 massive
+T4 ADR 133 138 blood
+T5 ADR 157 163 bleeding
+T6 Disease 204 209 ulcer
+T7 Disease 217 223 lower bowel
+T8 Drug 258 265 Voltaren

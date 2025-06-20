@@ -1,0 +1,5 @@
+T1 ADR 25 34 diarreah
+T2 ADR 36 47 aches
+T3 ADR 49 54 pains
+T4 ADR 56 62 fatigue
+T5 ADR 74 85 side effects

@@ -1,0 +1,9 @@
+BIO Sequence:
+I O | had O | muscle B-Symptom | cramps I-Symptom | and O | muscle B-Symptom | pain I-Symptom | . O | I O | had O | muscle B-Symptom | pain I-Symptom | in O | my O | chest B-Symptom | . O | After O | I O | quit O | taking O | Lipitor B-Drug | for O | 3 O | days O | the O | pain O | was O | almost O | gone O | . O
+
+Structured Output:
+T1 Symptom 3 12 muscle cramps
+T2 Symptom 14 23 muscle pain
+T3 Symptom 35 40 muscle pain
+T4 Symptom 44 49 chest
+T5 Drug 20 26 Lipitor

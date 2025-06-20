@@ -1,0 +1,20 @@
+T1 Symptom 19 24 mouth
+T2 Symptom 37 52 joint aches
+T3 Symptom 55 68 muscle cramps
+T4 ADR 74 81 swelling
+T5 Symptom 89 93 feet
+T6 Symptom 95 100 hands
+T7 Symptom 105 111 ankles
+T8 Symptom 118 135 difficulty breathing
+T9 Symptom 137 142 tired
+T10 Symptom 144 154 memory loss
+T11 Symptom 157 169 mild depression
+T12 Symptom 171 181 diminished eyesight
+T13 Drug 252 258 Lipitor
+T14 ADR 307 314 swelling
+T15 Symptom 324 336 muscle aches
+T16 Symptom 339 348 joint pain
+T17 Symptom 350 356 memory loss
+T18 Symptom 373 379 breathing
+T19 Symptom 382 389 stamina
+T20 Disease 397 404 doctors

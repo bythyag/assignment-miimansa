@@ -1,0 +1,5 @@
+T1 Drug 22 28 Lipitor
+T2 Drug 56 60 40mg
+T3 ADR 110 117 fatigued
+T4 Disease 174 183 cholesterol
+T5 Symptom 228 233 tired

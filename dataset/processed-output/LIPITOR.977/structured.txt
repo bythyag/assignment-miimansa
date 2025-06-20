@@ -1,0 +1,13 @@
+T1 Symptom 0 16 Muscle
+T2 Symptom 18 23 joint
+T3 Symptom 24 29 pains
+T4 Symptom 31 37 gastric
+T5 Symptom 39 45 upsets
+T6 Symptom 47 54 insomnia
+T7 Symptom 56 67 memory
+T8 Symptom 68 71 loss
+T9 Symptom 73 79 anxiety
+T10 Symptom 81 87 frozen
+T11 Symptom 89 96 shoulder
+T12 ADR 101 114 side-effects
+T13 Symptom 120 126 misery

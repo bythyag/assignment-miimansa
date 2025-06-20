@@ -1,0 +1,16 @@
+BIO Sequence:
+Terrible O | burning B-Symptom | / O | numb I-Symptom | sensation O | in O | hands B-Symptom | & O | feet B-Symptom | . O | Joint B-Symptom | pain I-Symptom | is O | worse O | than O | pre O | surgery B-Disease | ! O | My O | chiropractor O | advised O | me O | to O | look O | at O | this O | website O | . O | Will O | be O | quitting O | this O | . O | Since O | surgery B-Disease | , O | I've O | suddenly O | gone O | on O | blood B-Drug | pressure I-Drug | , O | cholesterol B-Drug | & O | diabetes B-Drug | meds I-Drug | . O | Never O | had O | these O | problems O | before O | . O
+
+Structured Output:
+T1 Symptom 10 16 burning
+T2 Symptom 18 22 numb
+T3 Symptom 25 30 hands
+T4 Symptom 33 37 feet
+T5 Symptom 39 43 Joint
+T6 Symptom 44 48 pain
+T7 Disease 59 66 surgery
+T8 Disease 75 81 surgery
+T9 Drug 88 103 blood pressure
+T10 Drug 105 115 cholesterol
+T11 Drug 118 126 diabetes
+T12 Drug 128 133 meds

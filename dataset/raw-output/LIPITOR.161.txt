@@ -1,0 +1,5 @@
+BIO Sequence:
+muscle B-Symptom | ache I-Symptom
+
+Structured Output:
+T1 Symptom 0 12 muscle ache

@@ -1,0 +1,6 @@
+BIO Sequence:
+works O | fine O | , O | but O | Pfizer B-Drug | is O | now O | screwing O | the O | American O | public O | by O | denying O | access O | to O | the O | drug O | through O | legitimate O | Candian O | pharmacies O | . O | Therefore O | , O | I O | 'm O | switching O | to O | Zocor B-Drug | . O
+
+Structured Output:
+T1 Drug 15 21 Pfizer
+T2 Drug 98 103 Zocor

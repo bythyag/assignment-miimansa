@@ -1,0 +1,18 @@
+T1 Drug 28 34 Lipitor
+T2 Symptom 119 132 weakness
+T3 ADR 134 143 cramping
+T4 Drug 163 169 Baycor
+T5 Drug 171 177 Lipitor
+T6 Drug 205 211 Lipitor
+T7 ADR 236 266 INFLAMMATORY muscle weakness & degeneration
+T8 Drug 298 304 Lipitor
+T9 Disease 388 398 Neurologist
+T10 Disease 400 415 Vascular Surgeon
+T11 Disease 418 426 blood Dr
+T12 Symptom 444 467 debilitated
+T13 Symptom 506 513 inability
+T14 Symptom 515 546 fine motor skills
+T15 Drug 618 624 Lipitor
+T16 Drug 726 732 Lipitor
+T17 Drug 749 753 drug
+T18 Disease 773 779 father's

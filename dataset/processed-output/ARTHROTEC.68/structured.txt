@@ -1,0 +1,5 @@
+T1 ADR 54 59 nausea
+T2 Symptom 120 124 pain
+T3 Symptom 166 170 pain
+T4 Symptom 194 198 spinal pain
+T5 Drug 270 278 Naprosyn

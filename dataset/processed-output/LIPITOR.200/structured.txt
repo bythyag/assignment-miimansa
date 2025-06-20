@@ -1,0 +1,12 @@
+T1 Drug 17 25 Lipitor  
+T2 Symptom 39 54 muscle weakness  
+T3 Symptom 58 62 legs  
+T4 Symptom 63 75 dropping off  
+T5 Symptom 77 89 muscle cramps  
+T6 Symptom 91 99 twitching  
+T7 Symptom 102 112 leathargy  
+T8 Symptom 117 122 tired  
+T9 Symptom 130 134 pain  
+T10 Symptom 137 158 shoulder muscles  
+T11 Drug 204 212 Lipitor  
+T12 Drug 225 232 statin drug

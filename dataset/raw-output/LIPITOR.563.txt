@@ -1,0 +1,27 @@
+BIO Sequence:
+I O | have O | been O | taking O | lipitor B-Drug | for O | 3 O | years O | . O | I O | though O | the O | side O | effects B-ADR | was O | just O | me O | . O | It O | wasn't O | until O | I O | talked O | to O | a O | friend O | and O | she O | told O | me O | about O | her O | boyfriends O | side O | effects I-ADR | , O | it O | was O | like O | she O | was O | talking O | about O | me O | . O | Memory B-Symptom | loss I-Symptom | , O | joint B-Symptom | pain I-Symptom | , O | swollen B-Symptom | feet I-Symptom | and O | hands I-Symptom | , O | sore B-Symptom | ribs I-Symptom | , O | inability B-Symptom | to O | sleep B-Symptom | well I-Symptom | , O | no O | sex B-Symptom | drive I-Symptom | , O | moodiness B-Symptom | , O | always O | tired B-Symptom | , O | lack O | of O | energy B-Symptom | , O | increased B-Symptom | heart O | rate I-Symptom | , O | headaches B-Symptom | every O | day O | , O | and O | dry B-Symptom | joints I-Symptom | . O | This O | all O | became O | worst O | when O | my O | dose O | was O | increased O | from O | 40mg B-Drug | to O | 80 O | mg O | 3 O | months O | ago O | . O | I O | have O | now O | decided O | to O | try O | other O | methods O | to O | reduce O | my O | cholesterol B-Disease | . O | ( O | Mine O | is O | hereditary O | ) O | . O | I O | have O | a O | wonderful O | chiro O | whom O | suggested O | I O | try O | lecithin B-Drug | , O | with O | Omega B-Drug | 3 I-Drug | , O | and O | Vit B-Drug | C I-Drug | . O | Here O | goes O | , O | I O | hope O | to O | be O | to O | get O | back O | to O | my O | walk O | of O | 6km O | a O | day O | . O 
+
+Structured Output:
+T1 Drug 21 27 lipitor  
+T2 ADR 72 84 side effects  
+T3 ADR 114 129 side effects  
+T4 Symptom 146 156 Memory loss  
+T5 Symptom 160 169 joint pain  
+T6 Symptom 175 185 swollen feet  
+T7 Symptom 191 197 hands  
+T8 Symptom 203 211 sore ribs  
+T9 Symptom 218 236 inability to sleep well  
+T10 Symptom 244 256 no sex drive  
+T11 Symptom 263 272 moodiness  
+T12 Symptom 283 288 always tired  
+T13 Symptom 298 309 lack of energy  
+T14 Symptom 319 332 increased heart rate  
+T15 Symptom 338 345 headaches  
+T16 Symptom 352 363 dry joints  
+T17 Drug 434 439 40mg  
+T18 Drug 443 447 80  
+T19 Disease 463 474 cholesterol  
+T20 Drug 494 503 lecithin  
+T21 Drug 511 517 Omega 3  
+T22 Drug 520 526 Vit C  
+T23 Symptom 626 637 walk

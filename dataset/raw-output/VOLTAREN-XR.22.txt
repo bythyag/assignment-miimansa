@@ -1,0 +1,12 @@
+BIO Sequence:
+i O | notice O | there O | are O | a O | bunch O | of O | random O | ppl O | who O | gave O | the O | medicine O | a O | score O | of O | 5 O | without O | any O | explanation O | . O | i O | wouldn’t O | be O | surprised O | if O | that O | was O | the O | pharmological B-Drug | company O | trying O | to O | promote O | their O | medicine O | . O | This O | drug B-Drug | is O | unsafe O | , O | leads O | to O | blood B-Disease | clots I-Disease | ( O | which O | casuses O | strokes B-Disease | and O | heart B-Disease | attacks I-Disease | ) O | , O | upset B-ADR | stomach I-ADR | , O | etc O | Asprin B-Drug | is O | safer O | and O | has O | less O | side B-ADR | effects I-ADR | . O
+
+Structured Output:
+T1 Drug 30 42 pharmological 
+T2 Drug 97 101 drug
+T3 Disease 115 126 blood clots
+T4 Disease 134 140 strokes
+T5 Disease 147 152 heart attacks
+T6 ADR 166 171 upset stomach
+T7 ADR 177 189 side effects
+T8 Drug 191 197 Asprin

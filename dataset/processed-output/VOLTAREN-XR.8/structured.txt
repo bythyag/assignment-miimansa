@@ -1,0 +1,7 @@
+T1 Symptom 8 14 stomach upset
+T2 Symptom 18 22 blood
+T3 Symptom 26 42 bowel movements
+T4 Symptom 44 51 bloating
+T5 Symptom 54 58 Pain
+T6 Symptom 66 71 limber
+T7 Symptom 83 93 inflamation

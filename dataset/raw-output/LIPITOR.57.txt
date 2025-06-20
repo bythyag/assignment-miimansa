@@ -1,0 +1,11 @@
+BIO Sequence:
+Fatigue B-Symptom | , O | Brain B-Symptom | Fog I-Symptom | , O | Stuttering B-Symptom | , O | Bad O | OCD B-Disease | ! O | I O | am O | diabetic B-Disease | and O | my O | numbers O | weren't O | horrible O | but O | they O | want O | you O | below O | 100 O | - O | this O | drug B-Drug | and O | the O | statins B-Drug | they O | tried O | on O | me O | were O | not O | worth O | it O | at O | all O | . O 
+
+Structured Output:
+T1 Symptom 0 7 Fatigue
+T2 Symptom 9 18 Brain Fog
+T3 Symptom 20 29 Stuttering
+T4 Disease 31 34 OCD
+T5 Disease 37 44 diabetic
+T6 Drug 77 81 drug
+T7 Drug 86 92 statins

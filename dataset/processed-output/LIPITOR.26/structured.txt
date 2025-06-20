@@ -1,0 +1,5 @@
+T1 Symptom 10 16 fatigue  
+T2 Symptom 38 42 weak  
+T3 Drug 117 126 medication  
+T4 Drug 129 133 M.D.  
+T5 Drug 141 150 medication

@@ -1,0 +1,8 @@
+T1 Symptom 28 37 Heartburn
+T2 Disease 52 60 Chlestrol
+T3 Disease 66 70 LDL
+T4 Disease 75 79 HDL
+T5 Drug 96 103 Niaspan
+T6 Drug 109 116 Folgard
+T7 Disease 120 124 HDL
+T8 Symptom 142 150 exercise

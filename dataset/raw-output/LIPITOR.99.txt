@@ -1,0 +1,13 @@
+BIO Sequence:
+Torn O | ham B-Disease | string I-Disease | . O | Had O | months O | of O | aquatic O | therapy O | & O | it O | did O | not O | help O | . O | Finally O | I O | had O | such O | pain B-Symptom | in O | both O | legs O | in O | my O | upper O | thigh B-Symptom | and O | upper O | leg B-Symptom | by O | my O | hip O | area O | that O | I O | could O | hardly O | stand O | it O | . O | I O | had O | noticed O | 5 O | years O | prior O | to O | this O | that O | my O | muscles O | seemed O | to O | never O | feel O | the O | same O | as O | before O | I O | started O | on O | a O | statin B-Drug | drug I-Drug | . O | I O | kept O | thinking O | is O | this O | old O | age O | . O | It O | got O | so O | bad O | that O | I O | could O | hardly O | walk O | after O | sitting O | for O | any O | period O | of O | time O | . O | I O | finally O | called O | my O | doctor O | and O | was O | advised O | to O | stop O | the O | statin B-Drug | drug I-Drug | . O | It O | took O | a O | few O | months O | for O | the O | pain B-Symptom | to O | subside O | . O | I O | took O | 40 B-Drug | Mg I-Drug | for O | 10 O | years O | . O | It O | brought O | my O | cholestrol B-Drug | down O | but O | I O | could O | not O | stand O | all O | of O | the O | muscle O | pain B-ADR | . O
+
+Structured Output:
+T1 Disease 0 14 ham string
+T2 Symptom 86 90 pain
+T3 Symptom 98 103 thigh
+T4 Symptom 112 116 leg
+T5 Drug 199 204 statin drug
+T6 Drug 292 297 statin drug
+T7 Drug 307 309 40 Mg
+T8 Drug 314 323 cholestrol
+T9 ADR 341 345 pain

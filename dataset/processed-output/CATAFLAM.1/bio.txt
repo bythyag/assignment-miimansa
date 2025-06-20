@@ -1,0 +1,1 @@
+rectal B-Symptom | bleeding I-Symptom | , O | collapse B-Symptom | . O | Emergency O | admission O | to O | the O | hospital O | . O | I O | would O | never O | recommend O | this O | drug B-Drug | to O | anyone O | . O | It O | is O | not O | worth O | the O | chance O | of O | GI B-Disease | hemorrhage I-Disease | which O | is O | what O | I O | experienced O | . O

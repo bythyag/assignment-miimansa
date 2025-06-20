@@ -1,0 +1,15 @@
+T1 Symptom 0 8 dizzines
+T2 Symptom 9 16 dioreah
+T3 Symptom 17 30 stomach
+T4 Symptom 31 36 cramps
+T5 Symptom 37 50 disorientation
+T6 Symptom 58 68 ulceration
+T7 Disease 72 82 osophragus
+T8 Disease 86 92 stomach
+T9 Disease 96 100 gut
+T10 Symptom 107 116 infections
+T11 Disease 127 132 blader
+T12 Drug 147 151 drug
+T13 ADR 164 178 side effects
+T14 Symptom 204 212 exausted
+T15 Symptom 217 226 depressed

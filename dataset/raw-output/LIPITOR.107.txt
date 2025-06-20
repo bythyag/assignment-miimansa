@@ -1,0 +1,24 @@
+BIO Sequence:
+ALL O | AND O | SOME O | NOT O | NOT O | NOTED O | - O | KIDNEY B-Disease | - O | METAL O | MOODS O | - O | ANZITY B-Symptom | - O | SUGAR B-Symptom | LEVEL O | DROPS O | - O | STOMACH B-Disease | ULCER I-Disease | - O | JOINT B-Symptom | PAIN I-Symptom | - O | MEMORY B-Symptom | TROUBLE I-Symptom | - O | PUT O | ON O | MORE O | MEDS O | - O | LIPITOR B-Drug | ADMITED O | TO O | GIVING O | KIDNEY B-Disease | TROUBLES I-Disease | TO O | ME O | - O | I O | TOOK O | OTHER O | S O | WITH O | SAME O | TROUBLES O | AND O | MORE O | . O | I O | TOOK O | MANY O | SATIN B-Drug | DRUGS I-Drug | FOR O | 5 O | YEARS O | OF O | HORROR O | , O | THEY O | ALMOST O | KILLED O | ME O | , O | I O | WAS O | 45 O | , O | 55 O | NOW O | AND O | STILL O | HAVE O | HEALTH O | TROUBLES O | RELATED O | TO O | THESE O | MEDS O | , O | MOSTLY O | DEJESTIVE B-Disease | SYSTEM I-Disease | AND O | STOMACH B-Disease | ULCERS I-Disease | - O | ALMOST O | A O | YEAR O | NOW O | TAKING O | MEDS O | TO O | HEAL O | MY O | STOMACH O | - O | CANCER B-Disease | ? O | DON'T O | KNOW O | - O | LOOK O | UP O | MENTAL B-Symptom | HORRORS I-Symptom | ON O | GOOGLE O | FOR O | MORE O | HORROR O | STORYS O | ON O | CHOLESTEROL B-Disease | MEDS I-Disease | AND O | OTHERS O | THIS O | PUT O | YOU O | ON O | AND O | OTHER O | HEALTH O | TROULBES O | RELATED O | TO O | THESE O | DRUGS O | YOU O | ARE O | NOT O | TOLD O | ABOUT O | . O 
+
+Structured Output:
+T1 Disease 51 57 KIDNEY
+T2 Symptom 66 72 ANZITY
+T3 Symptom 74 79 SUGAR
+T4 Disease 85 91 STOMACH
+T5 Disease 92 98 ULCER
+T6 Symptom 100 105 JOINT
+T7 Symptom 107 111 PAIN
+T8 Symptom 113 119 MEMORY
+T9 Symptom 121 128 TROUBLE
+T10 Drug 155 162 LIPITOR
+T11 Disease 174 180 KIDNEY
+T12 Disease 182 189 TROUBLES
+T13 Drug 218 223 SATIN
+T14 Disease 255 262 DEJESTIVE
+T15 Disease 267 273 STOMACH
+T16 Disease 275 281 ULCERS
+T17 Disease 284 290 CANCER
+T18 Symptom 302 308 MENTAL
+T19 Disease 310 320 HORRORS
+T20 Disease 322 332 CHOLESTEROL

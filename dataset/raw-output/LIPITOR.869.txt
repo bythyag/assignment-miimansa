@@ -1,0 +1,5 @@
+BIO Sequence:
+severe B-Symptom | leg I-Symptom | pains I-Symptom
+
+Structured Output:
+T1 Symptom 0 17 severe leg pains

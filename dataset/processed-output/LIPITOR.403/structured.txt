@@ -1,0 +1,5 @@
+T1 Disease 51 60 cholesterol
+T2 Symptom 139 147 depressed
+T3 Symptom 156 171 muscle pain
+T4 Disease 217 229 liver function
+T5 Drug 258 265 Lipitor

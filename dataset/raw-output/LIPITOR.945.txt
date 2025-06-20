@@ -1,0 +1,12 @@
+BIO Sequence:
+I O | have O | had O | unexplained B-Symptom | fatigue I-Symptom | ( O | sleeping O | 11-12 O | hours O | a O | night O | , O | and O | still O | having O | no O | energy O | all O | day O | ) O | since O | starting O | Lipitor B-Drug | 2 O | years O | ago O | ; O | my O | new O | doctor O | did O | a O | new O | test O | and O | said O | my O | SED B-Disease | rate I-Disease | is O | high O | - O | he O | suspects O | it O | is O | the O | Lipitor B-Drug | and O | told O | me O | to O | go O | off O | it O | immediately O | . O | I O | don't O | know O | if O | this O | is O | the O | problem O | , O | but O | after O | reading O | this O | site O | I O | will O | not O | take O | a O | statin B-Drug | drug I-Drug | again O | . O | I O | also O | have O | short B-Symptom | term I-Symptom | memory I-Symptom | loss I-Symptom | , O | and O | an O | unexplained B-Symptom | cough I-Symptom | . O | Sure O | , O | it O | lowers O | cholesterol O | , O | but O | I O | am O | a O | zombie B-ADR | . O 
+
+Structured Output:
+T1 Symptom 28 37 unexplained fatigue
+T2 Drug 97 103 Lipitor
+T3 Disease 125 133 SED rate
+T4 Drug 147 153 Lipitor
+T5 Drug 161 166 statin
+T6 Symptom 178 194 short term memory loss
+T7 Symptom 196 203 unexplained cough
+T8 ADR 232 237 zombie

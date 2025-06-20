@@ -1,0 +1,8 @@
+BIO Sequence:
+insomnia B-Symptom | , O | muscle B-Symptom | aches I-Symptom | . O | It's O | 1:00am O | , O | taking O | 10 O | mg O | , O | haven't O | slept O | in O | over O | a O | week O | . O | Plan O | to O | stop O | taking O | Lipitor B-Drug | tomorrow O | . O | It O | did O | lower O | my O | cholesterol B-Disease | tho O | . O
+
+Structured Output:
+T1 Symptom 0 8 insomnia
+T2 Symptom 10 22 muscle aches
+T3 Drug 60 67 Lipitor
+T4 Disease 86 96 cholesterol

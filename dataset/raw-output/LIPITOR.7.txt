@@ -1,0 +1,16 @@
+BIO Sequence:
+I O | am O | a O | physician O | . O | I O | have O | been O | on O | simvastatin B-Drug | , O | pravastatin B-Drug | , O | and O | now O | atorvastatin B-Drug | . O | My O | joint B-Symptom | pains I-Symptom | are O | severe O | and O | I O | have O | developed O | a O | dys-motility B-Disease | , O | irritable B-Disease | bowel I-Disease | syndrome I-Disease | of O | the O | sigmoid O | area O | and O | descending O | colon O | with O | obstipation B-Symptom | and O | constipation B-Symptom | that O | is O | very O | bothersome O | . O | Cannot O | take O | statins B-Drug | and O | I O | agree O | with O | most O | other O | comments O | of O | patients O | on O | fatigue B-ADR | and O | joint I-ADR | pain I-ADR | and O | short B-Symptom | term I-Symptom | memory I-Symptom | dysfunction I-Symptom | . O
+
+Structured Output:
+T1 Drug 36 47 simvastatin
+T2 Drug 49 61 pravastatin
+T3 Drug 64 75 atorvastatin
+T4 Symptom 90 101 joint pains
+T5 Disease 124 138 dys-motility
+T6 Disease 140 159 irritable bowel syndrome
+T7 Symptom 170 180 obstipation
+T8 Symptom 183 195 constipation
+T9 Drug 207 214 statins
+T10 ADR 232 239 fatigue
+T11 ADR 245 255 joint pain
+T12 Symptom 260 274 short term memory dysfunction

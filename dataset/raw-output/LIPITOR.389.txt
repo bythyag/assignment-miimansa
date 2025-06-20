@@ -1,0 +1,32 @@
+BIO Sequence:
+75 O | yo O | mother-in-law O | has O | memory B-Symptom | loss I-Symptom | , O | hair B-Symptom | loss I-Symptom | , O | muscle B-Symptom | spasms I-Symptom | in O | left B-Symptom | arm I-Symptom | and O | legs O | , O | odd O | blood B-Symptom | sugar I-Symptom | pattern I-Symptom | , O | sciatic B-Symptom | pain I-Symptom | which O | is O | not O | sciatica O | , O | periodic O | back B-Symptom | and O | hip B-Symptom | pain I-Symptom | , O | gradual O | loss O | of O | feeling B-Symptom | in O | toes O | , O | dizziness B-Symptom | , O | vision B-Symptom | problems I-Symptom | , O | extreme O | tiredness B-Symptom | , O | lack O | of O | appetite B-Symptom | , O | and O | no O | enthusiasm B-Symptom | for O | life O | . O | She O | has O | had O | several O | TIAs B-Disease | and O | who O | knows O | what O | else O | she O | has O | experienced O | and O | not O | reported O | to O | us O | . O | Dr O | wanted O | to O | double O | dose O | to O | 40 O | mg O | . O | We O | took O | her O | totally O | off O | the O | drug B-Drug | and O | she O | is O | beginning O | to O | have O | return O | of O | feeling B-Symptom | in O | her O | toes O | , O | no O | more O | muscle B-ADR | cramps I-ADR | at O | night O | or O | dizziness B-ADR | . O | Taking O | lipoic B-Drug | acid I-Drug | , O | vit B-Drug | C I-Drug | & O | mega O | dose O | of O | CoQ10 B-Drug | and O | will O | never O | take O | another O | statin B-Drug | . O | Higher O | cholesterol B-Disease | in O | those O | over O | 60 O | is O | now O | found O | to O | be O | PROTECTIVE O | particularly O | against O | stroke B-Disease | ! O
+
+Structured Output:
+T1 Symptom 20 30 memory loss
+T2 Symptom 32 41 hair loss
+T3 Symptom 43 57 muscle spasms
+T4 Symptom 62 69 left arm
+T5 Symptom 72 76 legs
+T6 Symptom 78 83 odd blood sugar pattern
+T7 Symptom 85 97 sciatic pain
+T8 Symptom 101 107 sciatica
+T9 Symptom 110 121 periodic back pain
+T10 Symptom 123 127 hip pain
+T11 Symptom 129 146 loss of feeling
+T12 Symptom 150 154 toes
+T13 Symptom 157 165 dizziness
+T14 Symptom 168 173 vision problems
+T15 Symptom 176 191 extreme tiredness
+T16 Symptom 194 210 lack of appetite
+T17 Symptom 213 226 no enthusiasm
+T18 Disease 240 243 TIAs
+T19 Drug 304 308 drug
+T20 Symptom 286 300 return of feeling
+T21 ADR 314 321 muscle cramps
+T22 ADR 332 340 dizziness 
+T23 Drug 343 353 lipoic acid
+T24 Drug 355 360 vit C
+T25 Drug 368 373 CoQ10
+T26 Drug 375 381 statin
+T27 Disease 388 397 cholesterol
+T28 Disease 409 415 stroke

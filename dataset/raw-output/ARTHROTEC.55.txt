@@ -1,0 +1,9 @@
+BIO Sequence:
+I O | have O | nothing O | yet O | just O | took O | it O | my O | first O | time O | , O | but O | I O | am O | also O | on O | occupycet B-Drug | 5/325Nguyen I-Drug | I O | have O | bad O | back B-Symptom | and O | knew O | pain B-Symptom | has O | anyone O | been O | on O | the O | same O | pills O | just O | felling O | really O | tied B-ADR | now O | clicking O | in O | this O | new O | pill O | . O 
+
+Structured Output:
+T1 Drug 27 37 occupycet
+T2 Drug 38 48 5/325Nguyen
+T3 Symptom 52 56 back
+T4 Symptom 62 66 pain
+T5 ADR 76 80 tied

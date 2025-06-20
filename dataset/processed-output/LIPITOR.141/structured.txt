@@ -1,0 +1,14 @@
+T1 Symptom 21 26 severe
+T2 Symptom 27 31 pain
+T3 Disease 40 47 left shoulder
+T4 Disease 52 56 neck
+T5 Disease 68 72 left arm
+T6 Disease 85 101 physical therapy
+T7 Disease 116 120 arm
+T8 Disease 125 129 neck
+T9 Disease 135 150 orthopedic surgeon
+T10 Disease 157 171 frozen shoulder
+T11 Drug 64 70 Lipitor
+T12 Symptom 194 198 pain
+T13 ADR 215 223 grapefruit
+T14 Drug 234 240 Lipitor

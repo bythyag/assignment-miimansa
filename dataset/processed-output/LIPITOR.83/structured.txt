@@ -1,0 +1,15 @@
+T1 Symptom 13 26 leg cramps
+T2 Drug 39 41 40
+T3 Drug 43 50 Lipitor
+T4 Disease 66 81 mild heart attack
+T5 Drug 95 103 potassium
+T6 Drug 105 113 magnesium
+T7 Drug 115 126 vitamin E
+T8 Drug 133 140 Lipitor
+T9 Drug 161 163 40
+T10 Drug 165 172 Lipitor
+T11 ADR 189 195 cramps
+T12 ADR 228 234 cramps
+T13 Symptom 268 273 night cramps
+T14 ADR 306 312 mild
+T15 ADR 314 322 cramping

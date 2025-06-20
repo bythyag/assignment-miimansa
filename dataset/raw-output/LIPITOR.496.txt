@@ -1,0 +1,35 @@
+BIO Sequence:
+Constant B-Symptom | aching/pain I-Symptom | and O | weakness B-Symptom | in O | arms B-Symptom | , O | wrists B-Symptom | , O | back B-Symptom | of O | hands I-Symptom | and O | shoulders B-Symptom | . O | Pain B-Symptom | in O | lower B-Symptom | legs I-Symptom | and O | lower B-Symptom | back I-Symptom | not O | quite O | as O | severe B-Symptom | but O | still O | present O | . O | Gas B-Symptom | and O | frequent B-Symptom | diarrhea I-Symptom | . O | Difficulty B-Symptom | getting O | to O | sleep B-Symptom | due O | to O | aching B-Symptom | muscles I-Symptom | . O | 'Severe B-ADR | aggitation I-ADR | ' O | and O | quick O | to O | snap O | . O | For O | a O | while O | I O | was O | almost O | looking O | for O | someone O | to O | push O | a O | little O | too O | far O | so O | I O | could O | punch O | them O | . O | I O | usually O | avoid O | confrontations O | . O | The B-ADR | aggitation I-ADR | is O | one O | of O | my O | biggest O | concerns O | . O | Also O | growing O | more O | and O | more O | tired B-Symptom | . O | I O | cut O | the O | dose B-ADR | from O | 10mg B-Drug | to O | 5mg B-Drug | and O | reduced O | above O | side B-ADR | effects I-ADR | by O | about O | 40% O | . O | Surprised O | when O | I O | found O | others O | had O | similar O | symptoms O | . O | Took O | 10mg B-Drug | of O | Lipitor B-Drug | for O | 6 O | weeks O | and O | dropped O | my O | cholesterol B-Symptom | from O | 310 O | down O | to O | 225 O | . O | Mentioned O | how O | I O | felt O | and O | was O | directed O | to O | cut O | the O | dose B-ADR | in O | half O | . O | Have O | taken O | 5 O | mg B-Drug | for O | about O | 4 O | weeks O | and O | cholesterol O | is O | now O | around O | 210 O | . O 
+
+Structured Output:
+T1 Symptom 0 15 Constant aching/pain  
+T2 Symptom 18 26 weakness  
+T3 Symptom 31 35 arms  
+T4 Symptom 37 43 wrists  
+T5 Symptom 46 49 back  
+T6 Symptom 54 59 hands  
+T7 Symptom 63 72 shoulders  
+T8 Symptom 75 79 Pain  
+T9 Symptom 83 92 lower legs  
+T10 Symptom 97 102 lower back  
+T11 Symptom 111 118 severe  
+T12 Symptom 127 132 present  
+T13 Symptom 135 138 Gas  
+T14 Symptom 143 155 frequent diarrhea  
+T15 Symptom 157 165 Difficulty  
+T16 Symptom 171 176 sleep  
+T17 Symptom 182 188 aching muscles  
+T18 ADR 191 204 Severe aggitation  
+T19 ADR 213 220 aggitation  
+T20 Symptom 226 231 tired  
+T21 ADR 234 237 dose  
+T22 Drug 240 244 10mg  
+T23 Drug 247 251 5mg  
+T24 ADR 257 270 side effects  
+T25 Drug 273 277 10mg  
+T26 Drug 280 287 Lipitor  
+T27 Symptom 299 309 cholesterol  
+T28 ADR 322 326 dose  
+T29 Drug 329 332 5  
+T30 Drug 350 353 mg  
+T31 Symptom 360 370 cholesterol  

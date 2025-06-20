@@ -1,0 +1,20 @@
+BIO Sequence:
+HORRIBLE O | GAS B-Symptom | AND O | CONSTIPATION B-Symptom | . O | My O | trigycerides B-LabTest | and O | cholesterol B-LabTest | were O | all O | normal O | and O | healhty O | ranges O | , O | before O | taking O | Lipitor B-Drug | . O | But O | because O | of O | a O | high O | C-reactive B-Disease | protein I-Disease | level O | , O | I O | was O | prescribed O | Lipitor B-Drug | . O | After O | 3 O | months O | , O | My O | trigycerides B-LabTest | and O | total O | cholesteral I-LabTest | went O | down O | , O | even O | though O | they O | were O | fine O | to O | begin O | with O | , O | but O | my O | CRP B-LabTest | level O | went O | UP O | !!! O | From O | 5.96 B-LabValue | to O | 13.2 B-LabValue | !! O | Since O | treating O | the O | CRP B-LabTest | levels O | was O | the O | initial O | purpose O | in O | prescribing O | me O | Lipitor B-Drug | , O | and O | since O | it O | did O | NOTHING O | to O | help O | these O | levels O | , O | I O | am O | therefore O | unsure O | if O | taking O | LIPITOR B-Drug | for O | high O | C-reactive B-Disease | protein I-Disease | levels O | is O | necessary O | , O | let O | alone O | effective O | . O | I O | ca n't O | deal O | with O | this O | gas B-Symptom | much O | longer O | . O
+
+Structured Output:
+T1 Symptom 1 4 GAS
+T2 Symptom 6 16 CONSTIPATION
+T3 LabTest 51 63 trigycerides
+T4 LabTest 66 75 cholesterol
+T5 Drug 103 109 Lipitor
+T6 Disease 130 145 C-reactive protein
+T7 Drug 161 167 Lipitor
+T8 LabTest 178 181 trigycerides
+T9 LabTest 188 199 cholesteral
+T10 LabTest 207 210 CRP
+T11 LabValue 224 228 5.96
+T12 LabValue 232 236 13.2
+T13 LabTest 241 244 CRP
+T14 Drug 257 263 Lipitor
+T15 Disease 278 293 C-reactive protein
+T16 Symptom 297 300 gas

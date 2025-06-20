@@ -1,0 +1,5 @@
+T1 Disease 28 38 cholesterol
+T2 Symptom 45 53 depressed
+T3 ADR 73 83 interaction
+T4 Drug 88 107 birth control pill
+T5 Symptom 124 132 miserable

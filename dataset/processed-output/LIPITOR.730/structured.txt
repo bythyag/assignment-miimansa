@@ -1,0 +1,22 @@
+T1 Disease 3 11 Prostate
+T2 Drug 38 40 10
+T3 Disease 50 53 high LDL
+T4 Symptom 132 140 neck pain
+T5 Symptom 160 164 tired
+T6 Symptom 169 174 Pain
+T7 Symptom 177 185 cramping
+T8 Symptom 235 247 flu like symptoms
+T9 Symptom 261 278 lower back ache
+T10 Symptom 283 292 irritable
+T11 Symptom 299 313 no motivation
+T12 Symptom 335 339 pain
+T13 Symptom 344 348 neck
+T14 Symptom 353 364 upper legs
+T15 Symptom 369 378 headache
+T16 Disease 395 401 migraine
+T17 Drug 426 432 Lipitor
+T18 ADR 443 449 muscle pain
+T19 Drug 481 487 Lipitor
+T20 Disease 492 513 prostate cancer
+T21 Disease 515 518 LDL
+T22 ADR 556 560 muscle pain

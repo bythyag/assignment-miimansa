@@ -1,0 +1,7 @@
+BIO Sequence:
+My O | levels O | went O | from O | 518 O | down O | to O | 175 O | to O | 190 O | . O | No O | muscle O | pain O | or O | side O | effects O | . O | I O | also O | take O | 2000 B-Drug | MG I-Drug | of O | Niacin B-Drug | a O | day O | . O | Liver B-Disease | functions I-Disease | normal O | . O
+
+Structured Output:
+T1 Drug 31 34 2000
+T2 Drug 36 42 Niacin
+T3 Disease 54 60 Liver functions

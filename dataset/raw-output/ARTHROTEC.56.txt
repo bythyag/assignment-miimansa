@@ -1,0 +1,12 @@
+BIO Sequence:
+Took O | away O | all O | my O | hip B-Symptom | pain I-Symptom | . O | Had O | very O | bad O | cramps B-ADR | diarrhea I-ADR | and O | heavy O | bleeding I-ADR | even O | thought O | my O | period B-Disease | wasn't O | due O | for O | 3 O | more O | weeks O | been O | off O | this O | pill B-Drug | for O | two O | days O | now O | and O | still O | feeling O | same O | hoping O | cramps B-Symptom | stop O | soon O | can't O | stand O | feeling O | sick B-Symptom | all O | day O | . O
+
+Structured Output:
+T1 Symptom 25 32 hip pain
+T2 ADR 45 51 cramps
+T3 ADR 53 60 diarrhea
+T4 ADR 62 69 heavy bleeding
+T5 Disease 73 79 period
+T6 Drug 83 87 pill
+T7 Symptom 103 109 cramps
+T8 Symptom 123 127 sick

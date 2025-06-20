@@ -1,0 +1,1 @@
+No O | side B-ADR | effect I-ADR | noticed O | . O | Lipitor B-Drug | lowered O | my O | cholesterol B-Disease | . O

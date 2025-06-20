@@ -1,0 +1,8 @@
+T1 Symptom 0 6 Severe
+T2 Symptom 7 12 muscle
+T3 Symptom 13 17 pain
+T4 Symptom 40 58 high temperature
+T5 Drug 141 147 Lipitor
+T6 Drug 168 174 Lipitor
+T7 ADR 129 143 side effects
+T8 Disease 388 397 high cholesterol

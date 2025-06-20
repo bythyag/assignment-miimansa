@@ -1,0 +1,13 @@
+BIO Sequence:
+Blured O | vision B-Symptom | , O | chest B-Symptom | pain I-Symptom | , O | sore B-Symptom | muscles I-Symptom | . O | Very O | shaky B-Symptom | ? O | After O | only O | two O | weeks O | . O | Feels O | like O | a O | 'panic B-Symptom | attack' I-Symptom | . O | I O | would O | not O | risk O | taking O | this O | drug B-Drug | any O | longer O | , O | I O | feel O | like O | it O | changed O | my O | personality O | , O | from O | happy O | to O | a O | grouch O | , O | it O | is O | scary O | it O | did O | this O | so O | fast O | . O
+
+Structured Output:
+T1 Symptom 8 13 vision
+T2 Symptom 15 24 chest pain
+T3 Symptom 26 37 sore muscles
+T4 Symptom 43 48 shaky
+T5 Symptom 55 67 panic attack
+T6 Drug 86 90 drug
+T7 Symptom 92 101 personality
+T8 Symptom 107 112 happy
+T9 Symptom 117 123 grouch

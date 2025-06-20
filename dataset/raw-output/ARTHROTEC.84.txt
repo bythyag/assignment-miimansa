@@ -1,0 +1,7 @@
+BIO Sequence:
+No O | side B-ADR | affects I-ADR | . O | This O | pill O | works O | like O | magic O | to O | releive O | my O | arthritic B-Disease | pain I-Disease | ! O | I O | don't O | take O | it O | regularly O | , O | only O | when O | required O | - O | approximately O | once O | per O | month O | . O |
+
+Structured Output:
+T1 ADR 3 14 side affects
+T2 Disease 50 58 arthritic
+T3 Disease 59 63 pain

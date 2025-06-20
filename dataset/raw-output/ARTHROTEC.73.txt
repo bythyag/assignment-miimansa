@@ -1,0 +1,9 @@
+BIO Sequence:
+I've O | post-menopausal B-Disease | for O | five O | years O | and O | have O | now O | had O | a O | six O | day O | period B-Symptom | with O | all O | the O | accompanying O | tender B-Symptom | breasts I-Symptom | , O | bloating B-Symptom | , O | cramping B-Symptom | etc O | I O | had O | only O | been O | taking O | on O | an O | "as O | needed O | basis O | so O | one O | or O | two O | a O | day O | approx O | . O | every O | 3 O | to O | 4 O | weeks O | . O
+
+Structured Output:
+T1 Disease 10 25 post-menopausal
+T2 Symptom 54 60 period
+T3 Symptom 79 84 tender breasts
+T4 Symptom 87 95 bloating
+T5 Symptom 97 105 cramping

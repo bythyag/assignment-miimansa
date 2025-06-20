@@ -1,0 +1,1 @@
+Within O | 5 O | minutes O | of O | taking O | drug B-Drug | , O | developed O | severe B-Symptom | colon B-Symptom | and O | uterine B-Symptom | cramping I-Symptom | . O | Cold O | sweat B-Symptom | , O | fainting B-ADR | , O | heart B-Symptom | palpitations I-Symptom | . O | Will O | never O | use O | again O | or O | recommend O | . O

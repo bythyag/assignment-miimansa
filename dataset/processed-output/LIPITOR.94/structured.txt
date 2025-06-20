@@ -1,0 +1,13 @@
+T1 Drug 29 35 Lipitor
+T2 Disease 81 91 cholesterol
+T3 Drug 124 131 generic
+T4 Symptom 150 156 fingers
+T5 Symptom 162 167 toes
+T6 ADR 177 184 tingling
+T7 Symptom 188 192 pins
+T8 Symptom 197 203 needles
+T9 ADR 238 245 tingling
+T10 Drug 368 374 generics
+T11 Drug 397 404 medicine
+T12 Disease 414 423 cholesterol
+T13 Drug 457 463 Lipitor

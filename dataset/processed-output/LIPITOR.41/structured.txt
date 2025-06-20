@@ -1,0 +1,2 @@
+T1 ADR 3 16 side effects
+T2 Disease 20 23 LDL

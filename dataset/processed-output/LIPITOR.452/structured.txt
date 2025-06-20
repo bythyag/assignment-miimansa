@@ -1,0 +1,11 @@
+T1 Symptom 0 9 Calf Pain
+T2 Symptom 13 22 Calves
+T3 Symptom 27 31 tire
+T4 Symptom 36 40 burn
+T5 Symptom 109 115 cramps
+T6 Symptom 139 148 cramping
+T7 Symptom 157 165 fatigued
+T8 Symptom 176 181 tired
+T9 Symptom 193 200 burning muscles
+T10 Symptom 205 219 breathlessness
+T11 Symptom 221 229 Exercize

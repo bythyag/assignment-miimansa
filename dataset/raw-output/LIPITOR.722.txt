@@ -1,0 +1,11 @@
+BIO Sequence:
+Severe B-Symptom | Joint I-Symptom | Pain I-Symptom | . O | Without O | lipitor B-Drug | total O | cholestrol B-Disease | is O | 300 O | and O | hdl B-Disease | is O | 72 O | . O | don't O | think O | i O | need O | the O | lipitor B-Drug | . O | the O | hdl O | is O | high O | because O | of O | the O | Chlorella B-Drug | ( O | 3grams O | daily I-Drug | ) O | . O
+
+Structured Output:
+T1 Symptom 0 13 Severe Joint Pain
+T2 Drug 20 26 lipitor
+T3 Disease 36 49 cholestrol
+T4 Disease 53 56 hdl
+T5 Drug 63 69 lipitor
+T6 Drug 83 91 Chlorella
+T7 Drug 92 98 3grams daily

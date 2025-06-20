@@ -1,0 +1,24 @@
+BIO Sequence:
+Stopped O | because O | of O | HIGH B-Symptom | CPK I-Symptom | . O | My O | Liver B-Disease | blood O | test O | are O | also O | mildly O | elevated O | . O | I O | was O | in O | deniel O | that O | the O | statins B-Drug | would O | cause O | ME O | side O | effects O | - O | I O | have O | Terrible B-ADR | muscle I-ADR | and O | joint I-ADR | pain I-ADR | , O | Burning B-ADR | sensations I-ADR | in O | neck B-Symptom | shoulders I-Symptom | and O | upper O | chest I-Symptom | . O | Palpatations B-Symptom | . O | Insomnia B-Symptom | because O | can O | not O | sleep O | from O | pain O | . O | I O | do O | not O | want O | to O | take O | pain B-ADR | killers I-ADR | all O | the O | time O | since O | they O | have O | side O | effects O | too O | . O | Weight B-Symptom | gain I-Symptom | - O | probably O | not O | associated O | . O | I O | One O | of O | the O | reasons O | I O | left O | my O | job O | is O | because O | I O | was O | so O | weak B-Symptom | all O | the O | time O | and O | had O | difficulty O | walking B-Symptom | and O | driving B-Symptom | . O | I O | was O | a O | Sales O | rep O | for O | a O | drug O | company O | and O | many O | years O | ago O | I O | promoted O | Zocor B-Drug | . O | How O | IRONIC O | that O | I O | should O | suffer O | from O | statins B-Drug | my O | self O | . O | My O | life O | is O | miserable O | . O | I O | feel O | like O | dying B-Symptom | . O | I O | am O | sorry O | I O | did O | not O | keep O | my O | weight O | low O | so O | as O | to O | avoid O | my O | lipids O | to O | go O | so O | high O | . O | That O | way O | I O | would O | have O | never O | had O | to O | suffer O | like O | I O | am O | now O | . O | The O | doctors O | just O | say O | and O | my O | husband O | OH O | your O | in O | pain O | because O | you O | are O | over O | weight O | . O | The O | doctors O | also O | did O | not O | even O | follow O | me O | up O | properly O | . O | WHo O | can O | I O | sue O | ???? O | That O | is O | the O | question O | . O
+
+Structured Output:
+T1 Symptom 21 25 HIGH
+T2 Symptom 29 33 CPK
+T3 Disease 36 41 Liver
+T4 ADR 102 111 Terrible muscle and joint pain
+T5 ADR 113 132 Burning sensations
+T6 Symptom 139 143 neck
+T7 Symptom 145 153 shoulders
+T8 Symptom 158 167 upper chest
+T9 Symptom 169 181 Palpatations
+T10 Symptom 183 191 Insomnia
+T11 ADR 207 219 pain killers
+T12 Symptom 220 224 Weight gain
+T13 Symptom 237 241 weak
+T14 Symptom 261 268 walking
+T15 Symptom 275 281 driving
+T16 Drug 293 299 Zocor
+T17 Drug 307 313 statins
+T18 Symptom 324 329 miserable
+T19 Symptom 334 342 dying
+T20 Symptom 353 359 over weight

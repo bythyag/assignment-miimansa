@@ -1,0 +1,19 @@
+T1 Symptom 0 3 Hip
+T2 Symptom 5 8 leg
+T3 Symptom 10 18 shoulder pain
+T4 Symptom 37 41 limp
+T5 Symptom 44 48 left side
+T6 Symptom 57 66 Stiffness
+T7 Symptom 74 80 morning
+T8 Symptom 83 88 sitting
+T9 Symptom 98 110 Extreme fatigue
+T10 Symptom 113 123 Depression
+T11 Symptom 126 142 Difficulty sleeping
+T12 ADR 141 153 side effects
+T13 Drug 157 164 statins
+T14 Drug 179 185 Lipitor
+T15 Symptom 211 216 pain
+T16 Symptom 219 226 stiffness
+T17 Symptom 229 234 more energy
+T18 Symptom 237 247 improved sleep quality
+T19 Drug 256 260 drug

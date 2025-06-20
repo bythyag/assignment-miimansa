@@ -1,0 +1,21 @@
+T1 Symptom 0 6 vision
+T2 Symptom 7 14 problems
+T3 Symptom 16 20 stiff
+T4 Symptom 21 25 neck
+T5 Symptom 34 38 nerve
+T6 Symptom 39 43 pain
+T7 Symptom 44 51 weakness
+T8 Symptom 60 68 forearms
+T9 Symptom 76 82 elbows
+T10 Symptom 91 97 wrists
+T11 Symptom 104 108 pain
+T12 Drug 36 39 co q 10
+T13 Drug 61 68 vitamins
+T14 Drug 69 76 prinivil
+T15 Drug 77 86 estratest
+T16 Drug 87 94 actose
+T17 Drug 95 103 flaxseed
+T18 Symptom 111 118 choles.
+T19 Symptom 129 141 triglycerides
+T20 Symptom 144 147 hdl
+T21 Symptom 151 163 ldl

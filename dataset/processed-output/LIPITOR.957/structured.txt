@@ -1,0 +1,16 @@
+T1 Drug 19 22 5mg
+T2 Drug 34 39 10mg
+T3 Symptom 65 69 leg cramps
+T4 Symptom 133 144 foot/leg cramps
+T5 Drug 177 184 Lipitor
+T6 Disease 204 208 legs
+T7 Symptom 250 258 cramping
+T8 Drug 293 305 5mg/day
+T9 Drug 307 314 Lipitor
+T10 Symptom 388 396 cramping
+T11 Symptom 418 421 TC
+T12 Symptom 454 459 HDL
+T13 Symptom 478 484 70-90
+T14 Disease 486 490 legs
+T15 Symptom 505 509 weak
+T16 Symptom 517 522 cramp

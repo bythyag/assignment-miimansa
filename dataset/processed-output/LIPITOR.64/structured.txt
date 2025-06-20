@@ -1,0 +1,8 @@
+T1 Symptom 39 43 low mood
+T2 Symptom 45 62 loss of self-confidence
+T3 Symptom 64 82 loss of interest
+T4 ADR 106 114 brain fog
+T5 ADR 116 123 impaired memory
+T6 Drug 66 74 40mg/day
+T7 Symptom 151 160 symptoms
+T8 Symptom 197 204 symptoms

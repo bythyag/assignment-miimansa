@@ -1,0 +1,8 @@
+BIO Sequence:
+day O | two O | of O | taking O | the O | product O | , O | and O | I O | have O | pain B-Symptom | and O | tingling B-Symptom | in O | my O | fingers I-Symptom | as O | well O | as O | a O | major O | sharp O | pain B-Symptom | in O | the O | side O | , O | which O | could O | be O | of O | of O | many O | things O | including O | simply O | gas B-Symptom | - O | a O | common O | problem O | as O | reported O | here O | . O | Way O | too O | early O | to O | post O | something O | more O | constructive O | , O | but O | I O | will O | come O | back O | later O | . O | Thanks O | to O | all O | posters O | here O | - O | big O | relief O | from O | your O | reports O | to O | know O | this O | is O | not O | unusual O | .
+
+Structured Output:
+T1 Symptom 50 54 pain
+T2 Symptom 59 66 tingling
+T3 Symptom 104 108 pain
+T4 Symptom 121 124 gas

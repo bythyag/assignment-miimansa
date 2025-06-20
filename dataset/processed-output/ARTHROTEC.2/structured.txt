@@ -1,0 +1,6 @@
+T1 Symptom 0 8 heartburn
+T2 Symptom 10 16 nausea
+T3 Symptom 39 67 voracious hunger
+T4 Symptom 72 106 cramping pains
+T5 Symptom 119 124 gut
+T6 Symptom 169 173 forearms

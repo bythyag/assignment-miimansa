@@ -1,0 +1,8 @@
+T1 Disease 53 59 eczema
+T2 Symptom 116 120 rash
+T3 Drug 172 178 Lipitor
+T4 Drug 231 237 Lipitor
+T5 Disease 319 325 eczema
+T6 Drug 347 353 Lipitor
+T7 Symptom 384 387 CHO
+T8 Drug 487 493 Lipitor

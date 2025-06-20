@@ -1,0 +1,8 @@
+BIO Sequence:
+terrible O | neck B-Symptom | pain I-Symptom | , O | memory B-Symptom | loss I-Symptom | is O | just O | terrible O | . O | Brain B-Symptom | feel O | kind O | of O | foggy B-Symptom | . O
+
+Structured Output:
+T1 Symptom 9 13 neck pain  
+T2 Symptom 15 27 memory loss  
+T3 Symptom 52 57 Brain  
+T4 Symptom 59 64 foggy

@@ -1,0 +1,8 @@
+BIO Sequence:
+Very O | very O | severe O | abdonimal B-Symptom | pain I-Symptom | , O | next O | day O | my O | stool O | was O | black B-Symptom | which O | could O | indicate O | blood B-Symptom | in O | my O | stool I-Symptom | , O | going O | to O | doctor O | today O | . O | I O | will O | never O | take O | it O | again O | . O 
+
+Structured Output:
+T1 Symptom 28 41 abdonimal pain
+T2 Symptom 49 54 black
+T3 Symptom 61 66 blood
+T4 Symptom 69 74 stool

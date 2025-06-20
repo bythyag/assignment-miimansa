@@ -1,0 +1,23 @@
+T1 Symptom 21 24 gas
+T2 Symptom 26 30 wind
+T3 Drug 49 58 80mg/day
+T4 Symptom 90 97 'windy'
+T5 ADR 118 129 side effects
+T6 Symptom 134 141 fatique
+T7 Diet 148 153 sugar
+T8 Diet 155 161 butter
+T9 Diet 163 168 cream
+T10 Diet 176 182 coffee
+T11 Diet 205 211 English tea
+T12 Diet 215 221 skimmed milk
+T13 Diet 225 234 margarine
+T14 Diet 236 246 red meat
+T15 Diet 266 272 cheese
+T16 Diet 290 296 alcohol
+T17 Diet 300 303 ale
+T18 Diet 306 310 red wine
+T19 Symptom 324 329 liver
+T20 Symptom 341 353 cholesterol
+T21 Disease 399 412 cardiologists
+T22 Disease 414 420 heart consultants
+T23 Drug 447 451 drug

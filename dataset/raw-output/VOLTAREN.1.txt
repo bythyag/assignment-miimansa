@@ -1,0 +1,12 @@
+BIO Sequence:
+Heartburn B-Symptom | and O | stomach B-Symptom | upset I-Symptom | . O | It O | seems O | to O | be O | working O | pretty O | well O | . O | I O | still O | have O | pain B-Symptom | but O | less O | severe I-Symptom | . O | I O | have O | been O | somewhat O | concerned O | about O | taking O | this O | drug B-Drug | for O | so O | long O | due O | to O | the O | possible O | side B-ADR | effects I-ADR | , O | but O | my O | Dr O | checks O | me O | out O | ( O | blood B-ADR | work I-ADR | , O | etc O | ) O | every O | four O | months O | and O | I O | seem O | to O | be O | doing O | allright O | . O | I O | don't O | want O | to O | get O | started O | on O | stronger O | , O | possibly O | habit B-ADR | forming I-ADR | drugs I-ADR | . O 
+
+Structured Output:
+T1 Symptom 0 8 Heartburn  
+T2 Symptom 13 29 stomach upset  
+T3 Symptom 63 67 pain  
+T4 Symptom 73 79 severe  
+T5 Drug 117 121 drug  
+T6 ADR 142 155 side effects  
+T7 ADR 183 188 blood work  
+T8 ADR 198 209 habit forming drugs  

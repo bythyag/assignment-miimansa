@@ -1,0 +1,9 @@
+T1 ADR 8 20 side effects
+T2 Disease 31 41 cholesterol
+T3 Symptom 70 82 leg cramps
+T4 Symptom 89 105 spinning head
+T5 Disease 120 125 sugar
+T6 Symptom 150 157 Tinnitus
+T7 ADR 164 177 side effects
+T8 Drug 234 240 Lipitor
+T9 Drug 268 274 Lipitor

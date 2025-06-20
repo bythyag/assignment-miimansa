@@ -1,0 +1,25 @@
+T1 Symptom 8 15 fatigue
+T2 Symptom 17 22 aches
+T3 Symptom 24 29 pains
+T4 Disease 44 52 menopause
+T5 ADR 64 70 severe
+T6 ADR 73 93 swolen/inflamation
+T7 Symptom 97 116 fingers/hands
+T8 Symptom 118 123 wrist
+T9 Symptom 125 129 pain
+T10 Symptom 160 166 geneal
+T11 Symptom 168 173 aches
+T12 Symptom 175 180 pains
+T13 ADR 208 214 severe
+T14 ADR 217 236 swolen/inflamation
+T15 Symptom 241 255 fingers/hand
+T16 Symptom 257 261 wrist
+T17 Symptom 263 267 pain
+T18 Drug 287 303 blood pressure medicine
+T19 Disease 310 318 arthritis
+T20 Drug 340 356 blood pressure meds
+T21 Disease 363 371 arthritis
+T22 Drug 422 429 Lipitor
+T23 Drug 454 461 Lipitor
+T24 Symptom 470 476 relief
+T25 Drug 482 492 cholesterol lowering drug

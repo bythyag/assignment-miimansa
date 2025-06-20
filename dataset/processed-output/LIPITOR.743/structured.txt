@@ -1,0 +1,6 @@
+T1 Symptom 1 10 Exhaustion
+T2 Symptom 42 47 skiing
+T3 Symptom 51 57 hiking
+T4 Symptom 59 64 limbs
+T5 Disease 81 90 cholesterol
+T6 ADR 97 107 side effects

@@ -1,0 +1,6 @@
+BIO Sequence:
+very O | minor O | -- O | slight B-ADR | nausea I-ADR | when O | taken O | on O | empty O | stomach O | -- O | which O | was O | gone O | in O | 15 B-Symptom | minutes I-Symptom | . O | gave O | me O | my O | life O | back O | . O | concerned O | about O | long O | term O | effects O | . O
+
+Structured Output:
+T1 ADR 18 24 slight nausea
+T2 Symptom 56 65 15 minutes

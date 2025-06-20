@@ -1,0 +1,9 @@
+T1 Symptom 57 76 debilitating muscle pains
+T2 Symptom 78 85 horrible fatigue
+T3 Symptom 87 95 tingling
+T4 Symptom 100 109 arms
+T5 Symptom 111 115 legs
+T6 Symptom 119 126 fingers
+T7 Drug 175 180 CoQ10
+T8 Drug 197 207 supplement
+T9 Drug 224 231 Lipitor

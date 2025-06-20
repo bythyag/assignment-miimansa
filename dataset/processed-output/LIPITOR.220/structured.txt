@@ -1,0 +1,15 @@
+T1 Symptom 11 15 eyes
+T2 Symptom 35 41 painful
+T3 Symptom 42 51 inflammed
+T4 Symptom 70 76 painful
+T5 Symptom 81 86 muscle
+T6 Symptom 88 95 cramps
+T7 Symptom 97 104 numbness
+T8 Symptom 110 117 tingling
+T9 Symptom 125 129 feet
+T10 Symptom 138 142 legs
+T11 Symptom 157 163 muscle
+T12 Symptom 165 171 spasams
+T13 Symptom 177 181 face
+T14 Symptom 187 191 neck
+T15 Drug 221 225 drug

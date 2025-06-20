@@ -1,0 +1,5 @@
+BIO Sequence:
+muscle B-Symptom | pain I-Symptom
+
+Structured Output:
+T1 Symptom 0 11 muscle pain

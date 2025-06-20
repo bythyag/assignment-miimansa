@@ -1,0 +1,18 @@
+BIO Sequence:
+After O | being O | on O | 10 B-Drug | mg O | of O | Lipitor B-Drug | for O | about O | 3 O | years O | , O | I O | started O | to O | experience O | speech B-Symptom | and O | swallowing B-Symptom | problems B-Symptom | which O | got O | worse O | while O | I O | continued O | to O | take O | it O | as O | recommended O | by O | my O | physician O | . O | After O | 6 O | months O | , O | my O | speech B-Symptom | and O | swallowing I-Symptom | were O | so O | bad O | that O | I O | stopped O | the O | Lipitor B-Drug | . O | It O | is O | now O | one O | year O | after O | stopping O | and O | I O | was O | diagnosed O | with O | ALS B-Disease | ( O | which O | tests O | later O | verified O | was O | incorrect O | ) O | and O | I O | think O | that O | I O | am O | beginning O | to O | improve O | in O | speech B-Symptom | and O | swallowing I-Symptom | . O | but O | very O | slowly O | and O | I O | may O | never O | get O | back O | to O | where O | I O | was O | before O | Lipitor B-Drug | . O | It O | has O | also O | affected O | my O | memory B-Symptom | . O | Had O | Pfizer O | just O | mentioned O | in O | their O | precautions O | that O | Lipitor B-Drug | just O | might O | cause O | speech B-Symptom | and O | swallowing I-Symptom | problems O | , O | I O | would O | have O | stopped O | taking O | statin B-Drug | drugs O | 6 O | months O | earlier O | and O | I O | would O | have O | been O | OK O | again O | . O 
+
+Structured Output:
+T1 Drug 20 23 10
+T2 Drug 25 31 Lipitor
+T3 Symptom 102 108 speech
+T4 Symptom 113 121 swallowing
+T5 Symptom 122 130 problems
+T6 Symptom 198 204 speech
+T7 Symptom 209 217 swallowing
+T8 Disease 261 264 ALS
+T9 Symptom 423 429 speech
+T10 Symptom 434 442 swallowing
+T11 Drug 463 469 Lipitor
+T12 Symptom 482 487 memory
+T13 Drug 539 544 Lipitor
+T14 Drug 554 560 statin

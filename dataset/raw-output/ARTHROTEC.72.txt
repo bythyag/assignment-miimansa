@@ -1,0 +1,5 @@
+BIO Sequence:
+more O | frequent O | menstral B-Symptom | periods I-Symptom | ( O | twice O | a O | month O | ). O | Works O | but O | can O | realy O | tell O | how O | good O | it O | works O | when O | I O | had O | to O | go O | off O | of O | it O | . O 
+
+Structured Output:
+T1 Symptom 20 28 menstral periods

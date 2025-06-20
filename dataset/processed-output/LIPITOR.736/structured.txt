@@ -1,0 +1,7 @@
+T1 Drug 20 27 Lipitor
+T2 Drug 32 38 Tricor
+T3 Symptom 51 65 abdominal pain
+T4 Disease 72 74 G.I.
+T5 Symptom 99 110 severe chest pain
+T6 Disease 115 121 Cardio
+T7 Drug 139 145 statin drugs

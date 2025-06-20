@@ -1,0 +1,13 @@
+T1 Symptom 40 48 foot pain
+T2 Disease 64 70 bunion
+T3 Disease 76 85 hammer toe
+T4 ADR 112 125 side effects
+T5 ADR 128 136 neuropathy
+T6 Symptom 144 152 sensation
+T7 Symptom 162 166 cold toes
+T8 ADR 179 184 severe burning
+T9 Symptom 196 200 feet
+T10 Symptom 205 209 leg cramps
+T11 Disease 239 248 cholesterol
+T12 Drug 292 298 LIPITOR
+T13 Drug 302 308 statin

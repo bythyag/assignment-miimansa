@@ -1,0 +1,10 @@
+T1 Drug 61 64 gel  
+T2 Symptom 90 102 hard to breathe  
+T3 Symptom 104 109 lungs  
+T4 Symptom 112 117 heavy  
+T5 Symptom 134 140 sadness  
+T6 Symptom 143 152 tiredness  
+T7 Drug 188 197 antibiotic  
+T8 Drug 220 228 solaraze  
+T9 Disease 251 257 eczema  
+T10 Drug 262 266 q-tip

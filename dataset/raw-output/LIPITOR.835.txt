@@ -1,0 +1,7 @@
+BIO Sequence:  
+muscular B-Symptom | pain I-Symptom | in O | the O | back B-Symptom | . O  
+
+Structured Output:  
+T1 Symptom 0 8 muscular  
+T2 Symptom 9 13 pain  
+T3 Symptom 20 24 back  

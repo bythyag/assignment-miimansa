@@ -1,0 +1,15 @@
+T1 Drug 5 9 drug
+T2 ADR 41 48 agitated
+T3 ADR 52 60 insomnia
+T4 ADR 75 95 short tempered
+T5 ADR 97 105 impatient
+T6 Symptom 124 128 pain
+T7 Symptom 134 138 hand
+T8 Symptom 141 144 arm
+T9 ADR 153 161 agitation
+T10 ADR 177 185 unbearable
+T11 Symptom 208 214 spasms
+T12 Symptom 219 222 back
+T13 Symptom 227 233 therapy
+T14 Drug 259 263 topical
+T15 Drug 265 268 gel

@@ -1,0 +1,10 @@
+T1 Drug 28 34 Lipitor
+T2 Symptom 66 71 weight loss
+T3 Symptom 73 77 muscle pain
+T4 Symptom 83 87 loss
+T5 Symptom 90 97 strength
+T6 Drug 118 124 Lipitor
+T7 Disease 126 134 arthritis
+T8 Drug 142 148 Lipitor
+T9 Disease 155 163 arthritis
+T10 Drug 178 184 Lipitor

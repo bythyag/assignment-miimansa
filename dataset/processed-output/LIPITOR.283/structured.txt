@@ -1,0 +1,7 @@
+T1 Symptom 17 29 tighening
+T2 Symptom 32 37 chest
+T3 Symptom 40 44 leg
+T4 Symptom 45 51 cramps
+T5 ADR 65 72 reaction
+T6 Drug 85 96 Medicatiion
+T7 Drug 113 120 Niaspan

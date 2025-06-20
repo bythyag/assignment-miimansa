@@ -1,0 +1,10 @@
+T1 Symptom 13 18 Pains
+T2 Symptom 29 34 muscle cramps
+T3 Symptom 41 55 stomach pains
+T4 Symptom 62 78 nervous system problems
+T5 Symptom 83 105 blood presure
+T6 Disease 118 133 osteoarthritis
+T7 Disease 164 174 cholesterol
+T8 Drug 206 212 Lipitor
+T9 Drug 234 238 drug
+T10 Symptom 259 275 health problems

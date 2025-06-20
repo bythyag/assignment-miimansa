@@ -1,0 +1,7 @@
+T1 Symptom 4 15 muscle spasms
+T2 Drug 66 71 drugs
+T3 Drug 101 105 med
+T4 ADR 126 138 side effects
+T5 Disease 143 156 vitamin C deficiency
+T6 Drug 161 168 lipitol
+T7 Symptom 173 181 symptoms

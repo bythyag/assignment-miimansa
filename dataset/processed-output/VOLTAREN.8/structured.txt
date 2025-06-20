@@ -1,0 +1,22 @@
+T1 Disease 30 39 acute pancreatic attack
+T2 Symptom 77 80 BP
+T3 Symptom 85 90 very low
+T4 Symptom 92 97 fever
+T5 Symptom 114 123 weight loss
+T6 Symptom 130 141 yellow color
+T7 Disease 144 150 prostate infection
+T8 ADR 158 165 sweating
+T9 ADR 167 172 nausea
+T10 Symptom 178 184 pain
+T11 Disease 187 194 stomach
+T12 Disease 196 200 back
+T13 Symptom 207 213 urination
+T14 Symptom 221 230 hoarseness
+T15 Symptom 232 241 coughing
+T16 Symptom 246 259 heart racing
+T17 Symptom 263 274 disoriented
+T18 Drug 100 107 Voltaren
+T19 ADR 115 122 adverse reactions
+T20 Drug 135 142 Voltaren
+T21 Drug 186 191 drug
+T22 Drug 325 330 drug

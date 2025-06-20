@@ -1,0 +1,30 @@
+T1 Symptom 0 4 Leg
+T2 Symptom 5 10 cramps
+T3 Symptom 11 15 and
+T4 Symptom 16 20 pain
+T5 Disease 24 36 Peripheral Neuropathy
+T6 Symptom 56 60 feet
+T7 Symptom 62 66 legs
+T8 Symptom 71 76 hands
+T9 Symptom 78 86 Tingeling
+T10 Symptom 94 100 fingers
+T11 Symptom 105 109 feet
+T12 Symptom 113 120 painful
+T13 Symptom 132 137 Difficult
+T14 Symptom 150 154 balance
+T15 Symptom 166 171 Difficult
+T16 Symptom 176 181 sleep
+T17 Symptom 194 200 burning
+T18 Symptom 205 209 pain
+T19 Drug 211 213 20 mg
+T20 Drug 229 231 40 mg
+T21 ADR 253 267 leg cramps
+T22 Symptom 272 276 feet
+T23 ADR 278 285 itching
+T24 ADR 287 294 tingling
+T25 Disease 318 328 Neuropathy
+T26 Drug 339 345 Lipitor
+T27 Symptom 347 353 hands
+T28 Symptom 358 362 legs
+T29 Drug 379 385 Lipitor
+T30 Disease 392 399 Statins

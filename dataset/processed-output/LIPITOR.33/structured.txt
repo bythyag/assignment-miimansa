@@ -1,0 +1,6 @@
+T1 Disease 41 55 heart attact
+T2 Symptom 64 75 head aches
+T3 Symptom 79 91 muscels hurts
+T4 Symptom 93 98 week
+T5 Symptom 101 114 sick at stomach
+T6 Symptom 116 121 tired

@@ -1,0 +1,8 @@
+BIO Sequence:
+None O | that O | I O | am O | aware O | of O | . O | This O | drug B-Drug | has O | been O | extremely O | helpful O | to O | me O | so O | far O | . O | I've O | been O | on O | it O | over O | a O | year O | now O | . O | It O | significantly O | lowered O | my O | cholesterol B-Disease | within O | 3 O | months O | , O | which O | shocked O | me O | . O | To O | be O | fair O | , O | I O | am O | on O | 3 O | other O | medications B-Drug | , O | so O | if O | I O | was O | to O | have O | any O | side B-ADR | effects I-ADR | I O | wouldn't O | know O | what O | to O | attribute O | it O | to O | anyway O | . O | But O | so O | far O | so O | excellent O | . O
+
+Structured Output:
+T1 Drug 44 48 drug
+T2 Disease 116 126 cholesterol
+T3 Drug 141 152 medications
+T4 ADR 171 180 side effects

@@ -1,0 +1,10 @@
+T1 Symptom 44 62 uterine cramping
+T2 Symptom 78 84 cold sweat
+T3 ADR 105 126 shaking uncontrollably
+T4 ADR 128 138 nauseated
+T5 Symptom 142 160 bowel movements
+T6 Symptom 179 183 pain
+T7 Symptom 222 229 vaginal bleeding
+T8 Symptom 234 248 gut wrenching pain
+T9 ADR 254 259 shock
+T10 Drug 270 278 Ibuprofen

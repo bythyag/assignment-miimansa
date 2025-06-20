@@ -1,0 +1,5 @@
+BIO Sequence:
+tendonitis B-Disease
+
+Structured Output:
+T1 Disease 0 10 tendonitis

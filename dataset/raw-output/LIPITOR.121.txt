@@ -1,0 +1,14 @@
+BIO Sequence:
+Unusually O | fatigued B-Symptom | in O | afternoon O | . O | Felt O | lazy B-Symptom | and O | unmotivated B-Symptom | to O | do O | anything O | . O | Went O | off O | them O | cold O | turkey O | early O | May B-Disease | and O | rededicated O | myself O | to O | a O | low O | carb/paleo B-Diet | diet I-Diet | . O | Now O | focusing O | on O | TRIG/HDL B-Drug | ratio I-Drug | , O | TRIGlyceride B-Drug | levels I-Drug | , O | and O | keeping O | blood O | sugar O | in O | acceptable O | range O | . O | Ratios O | and O | numbers O | have O | significantly O | improved O | and O | weight O | has O | dropped O | another O | 15 O | lbs O | although O | LDL B-Disease | has O | gone O | up O | ( O | probably O | due O | to O | increase O | in O | dietary O | saturated O | fats O | ) O | . O | Will O | retest O | ( O | out O | of O | pocket O | ) O | in O | a O | few O | months O | to O | see O | if O | my O | numbers O | improve O | . O | Fatigue B-Symptom | and O | laziness B-Symptom | is O | gone O | and O | afternoon O | energy O | levels O | are O | high O | ( O | as O | indicated O | by O | no O | yawning O | ! O | ) O | .
+
+Structured Output:
+T1 Symptom 13 20 fatigued
+T2 Symptom 37 41 lazy
+T3 Symptom 50 60 unmotivated
+T4 Disease 73 76 May
+T5 Diet 84 94 low carb/paleo
+T6 Drug 100 107 TRIG/HDL
+T7 Drug 109 120 TRIGlyceride
+T8 Disease 137 140 LDL
+T9 Symptom 210 217 Fatigue
+T10 Symptom 225 232 laziness

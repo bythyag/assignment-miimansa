@@ -1,0 +1,5 @@
+T1 Symptom 0 8 Stomach problems
+T2 Symptom 10 21 muscle pain
+T3 Symptom 23 33 mood swings
+T4 Symptom 35 43 headaches
+T5 Symptom 45 54 joint pain

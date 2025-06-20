@@ -1,0 +1,11 @@
+BIO Sequence:
+Blurred B-Symptom | vision I-Symptom | , O | dizziness B-Symptom | , O | brain O | . O | I O | will O | never O | , O | ever O | take O | Lipitor B-Drug | again O | . O | I O | have O | been O | on O | it O | for O | more O | than O | four O | years O | . O | I've O | taken O | myself O | off O | of O | it O | twice O | . O | Most O | recently O | , O | been O | taking O | 80 B-Drug | mg I-Drug | . O | for O | two O | weeks O | . O | Enough O | already O | ! O | I O | can't O | tell O | you O | how O | I O | regained O | my O | sanity O | when O | I O | found O | this O | on O | the O | web O | . O | Do O | your O | own O | research O | - O | don't O | blindly O | follow O | doctors O | who O | just O | push O | pills O | without O | regard O | to O | long O | term O | damage O | . O | This O | is O | the O | number O | one O | prescribed O | medicine O | in O | the O | US O | right O | now O | , O | don't O | expect O | it O | to O | go O | away O | unless O | we O | stand O | against O | Pfizer B-Drug | and O | the O | FDA B-Drug | . O
+
+Structured Output:
+T1 Symptom 0 13 Blurred vision
+T2 Symptom 15 23 dizziness
+T3 Drug 52 58 Lipitor
+T4 Drug 81 83 80
+T5 Drug 84 86 mg
+T6 Drug 122 128 Pfizer
+T7 Drug 133 136 FDA

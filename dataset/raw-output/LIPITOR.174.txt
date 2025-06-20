@@ -1,0 +1,15 @@
+BIO Sequence:
+Joint B-Symptom | pain I-Symptom | especially O | spine B-Symptom | at O | 10mg O | . O | I O | had O | this O | reaction O | before O | but O | my O | doctor O | doubted O | it O | would O | be O | the O | lipitor B-Drug | . O | Stopped O | lipitor B-Drug | and O | symptems B-ADR | went O | away O | . O | Restarted O | lipitor B-Drug | at O | 5 O | mg O | and O | after O | 7 O | days O | seem O | to O | be O | having O | wicked O | joint B-Symptom | pain I-Symptom | again O | . O | Will O | stop O | lipitor B-Drug | again O | and O | see O | results O | . O | By O | the O | way O | 10 O | mg O | dropped O | my O | LDL B-Disease | to O | 77 O | . O 
+
+Structured Output:
+T1 Symptom 0 10 Joint
+T2 Symptom 11 15 pain
+T3 Symptom 29 34 spine
+T4 Drug 52 58 lipitor
+T5 ADR 61 69 symptems
+T6 Drug 73 79 lipitor
+T7 Drug 86 92 lipitor
+T8 Symptom 99 104 joint
+T9 Symptom 105 109 pain
+T10 Drug 126 132 lipitor
+T11 Disease 174 177 LDL

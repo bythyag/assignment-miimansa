@@ -1,0 +1,5 @@
+BIO Sequence:
+No O | problems O | with O | this O | drug B-Drug | . O
+
+Structured Output:
+T1 Drug 19 23 drug

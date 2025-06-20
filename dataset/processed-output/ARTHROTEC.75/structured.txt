@@ -1,0 +1,11 @@
+T1 Symptom 1 16 Vaginal bleeding
+T2 Symptom 24 33 headaches
+T3 Symptom 35 44 neck pain
+T4 Symptom 46 54 bloating
+T5 Symptom 56 66 weight gain
+T6 Symptom 90 103 lower back
+T7 Disease 113 118 women
+T8 Drug 136 142 Bextra
+T9 Drug 146 155 Neurontin
+T10 Drug 173 179 advil
+T11 Drug 181 191 medication

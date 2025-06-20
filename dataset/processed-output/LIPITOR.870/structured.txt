@@ -1,0 +1,11 @@
+T1 Symptom 38 42 pain
+T2 Disease 77 83 neuroma
+T3 Disease 98 113 metatarsalgia
+T4 Disease 137 143 surgery
+T5 Drug 149 155 Lipitor
+T6 Drug 184 190 this drug
+T7 Drug 192 198 Lipitor
+T8 ADR 217 227 inflamation
+T9 Disease 236 251 heart disease
+T10 Disease 256 262 stroke
+T11 ADR 287 293 side effects

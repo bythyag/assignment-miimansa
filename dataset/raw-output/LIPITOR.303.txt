@@ -1,0 +1,9 @@
+BIO Sequence:
+very O | persistent O | dry B-Symptom | skin I-Symptom | spots I-Symptom | especially O | on O | my O | legs B-Symptom | . O | Some O | leg B-Symptom | pains I-Symptom | at O | first O | , O | reduced O | with O | time O | . O | small O | amounts O | of O | gas B-Symptom | , O | but O | almost O | constantly O | . O
+
+Structured Output:
+T1 Symptom 30 33 dry  
+T2 Symptom 42 46 spots  
+T3 Symptom 67 71 legs  
+T4 Symptom 74 78 pains  
+T5 Symptom 94 97 gas  

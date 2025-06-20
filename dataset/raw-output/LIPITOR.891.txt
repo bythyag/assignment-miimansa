@@ -1,0 +1,28 @@
+BIO Sequence:
+mostly O | i O | suffer O | restless B-Symptom | leg I-Symptom | syndrom I-Symptom | 30 O | min O | . O | into O | taking O | it O | . O | otherwise O | , O | first O | dose O | i O | felt O | better O | . O | be O | careful O | if O | you O | ' O | re O | on O | lipitor B-Drug | and O | your O | doctor O | begins O | to O | try O | and O | put O | you O | on O | medications O | for O | high O | triglycerides B-Disease | . O | i O | was O | put O | on O | tricor B-Drug | and O | it O | was O | extraordinarily O | horrible O | . O | side O | effects O | you O | ca O | n't O | believe O | . O | we O | summerized O | it O | as O | a O | conflict O | between O | the O | lipitor B-Drug | and O | tricor I-Drug | . O | if O | you O | must O | take O | another O | med O | for O | triglycerides B-Disease | and O | you O | begin O | to O | feel O | flu B-Symptom | like O | , O | cramps B-Symptom | in O | chest B-Symptom | , O | legs B-Symptom | , O | rashes B-Symptom | appear O | , O | sleep O | very O | heavily O | , O | sleep O | alot O | or O | feel O | fatigued B-Symptom | consider O | keeping O | tabs O | and O | if O | the O | side O | effects O | do O | n’t O | improve O | or O | there O | ' O | s O | more O | added O | in O | 2 O | weeks O | time O | , O | discontinue O | doseage O | . O | side O | effects O | may O | increase O | IE: O | gums B-ADR | swelling I-ADR | , O | visual B-ADR | anomalies I-ADR | , O | numbness B-ADR | in O | muscles B-ADR | , O | sore B-ADR | throat I-ADR | , O | soreness B-ADR | in O | mucous B-ADR | membrane I-ADR | areas O | . O
+
+Structured Output:
+T1 Symptom 18 40 restless leg syndrom
+T2 Drug 113 120 lipitor
+T3 Disease 127 143 high triglycerides
+T4 Drug 146 152 tricor
+T5 Drug 155 161 lipitor
+T6 Drug 163 169 tricor
+T7 Disease 173 186 triglycerides
+T8 Symptom 218 223 flu
+T9 Symptom 225 231 cramps
+T10 Symptom 235 240 chest
+T11 Symptom 242 246 legs
+T12 Symptom 248 254 rashes
+T13 Symptom 270 277 fatigued
+T14 ADR 309 312 gums
+T15 ADR 314 322 swelling
+T16 ADR 324 330 visual
+T17 ADR 332 340 anomalies
+T18 ADR 342 350 numbness
+T19 ADR 352 358 muscles
+T20 ADR 363 368 sore
+T21 ADR 374 380 soreness
+T22 ADR 382 387 mucous
+T23 ADR 389 396 membrane
+T24 ADR 398 404 areas

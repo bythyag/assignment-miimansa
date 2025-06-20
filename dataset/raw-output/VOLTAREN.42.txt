@@ -1,0 +1,10 @@
+BIO Sequence:
+It's O | not O | clear O | that O | I'm O | imagining O | them O | because O | of O | the O | long O | list O | of O | potential O | side O | effects O | . O | Medicine O | is O | scary O | , O | but O | it's O | sure O | working O | . O | This O | drug B-Drug | was O | prescribed O | to O | help O | with O | severe B-Symptom | knee B-Symptom | pain I-Symptom | while O | I O | wait O | for O | additional O | diagnostics O | and O | possibly O | surgery O | after O | 1/1 O | ( O | due O | to O | high O | deductible O | on O | health O | insurance O | ) O | . O | Pain B-Symptom | was O | bad O | enough O | that O | I O | had O | trouble O | standing O | up O | from O | sitting O | position O | . O | After O | about O | 24 O | hours O | , O | the O | pain B-Symptom | was O | essentially O | gone O | and O | has O | stayed O | gone O | so O | far O | . O
+
+Structured Output:
+T1 Drug 106 110 drug
+T2 Symptom 136 141 severe
+T3 Symptom 142 146 knee
+T4 Symptom 147 151 pain
+T5 Symptom 180 184 Pain
+T6 Symptom 203 207 pain

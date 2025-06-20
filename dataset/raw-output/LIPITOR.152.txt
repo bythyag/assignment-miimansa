@@ -1,0 +1,30 @@
+BIO Sequence:
+Did O | not O | help O | to O | lower O | my O | cholesterol B-Disease | , O | 55 O | put O | on O | 60 O | pounds O | . O | Will O | die O | on O | this O | medication B-Drug | - O | all O | my O | symptons O | on O | your O | site O | - O | hubby O | will O | get O | off O | as O | well O | ( O | he O | 's O | having O | eye B-Symptom | problems I-Symptom | ) O | . O | I O | have O | the O | rash B-ADR | on O | the O | forehead I-ADR | , O | insomnia B-ADR | ( O | big O | time I-ADR | ) O | , O | sweats B-ADR | ( O | so O | severe I-ADR | ) O | , O | difficulty B-Symptom | breathing I-Symptom | ( O | huge O | athlete O | before O | all O | of O | this O | ) O | - O | but O | no O | matter O | what O | I O | did O | - O | weight B-Symptom | increased I-Symptom | - O | huge O | bloating B-Symptom | of O | stomach I-Symptom | and O | difficulty B-Symptom | breathing I-Symptom | . O | Rashes B-ADR | on O | arms I-ADR | and O | legs I-ADR | as O | well O | . O | Tightness B-Symptom | of O | throat I-Symptom | at O | night O | ( O | choking B-ADR | easily I-ADR | all O | the O | time O | - O | especially O | on O | crackers I-Symptom | ) O | . O | Pravachol B-Drug | was O | the O | worst O | - O | or O | so O | I O | thought O | until O | I O | read O | all O | of O | this O | . O | My O | muscles B-Symptom | have O | diminished I-Symptom | greatly O | . O | Thanks O | 4 O | all O | of O | your O | input O | . O | ( O | Also O | very O | aggitated B-Symptom | and O | easily O | excited I-Symptom | ) O | . O 
+
+Structured Output:
+T1 Disease 26 36 cholesterol
+T2 Drug 59 68 medication
+T3 Symptom 86 99 eye problems
+T4 ADR 101 105 rash
+T5 ADR 114 123 forehead
+T6 ADR 126 134 insomnia
+T7 ADR 139 146 big time
+T8 ADR 148 153 sweats
+T9 ADR 158 165 so severe
+T10 Symptom 170 182 difficulty breathing
+T11 Symptom 184 192 weight
+T12 Symptom 195 203 increased
+T13 Symptom 209 216 bloating
+T14 Symptom 220 227 stomach
+T15 Symptom 229 237 difficulty breathing
+T16 ADR 240 246 Rashes
+T17 ADR 251 255 arms
+T18 ADR 261 265 legs
+T19 Symptom 269 276 Tightness
+T20 Symptom 279 285 throat
+T21 ADR 288 294 choking
+T22 Drug 321 329 Pravachol
+T23 Symptom 334 340 worst
+T24 Symptom 362 368 muscles
+T25 Symptom 376 382 aggitated
+T26 Symptom 387 393 excited

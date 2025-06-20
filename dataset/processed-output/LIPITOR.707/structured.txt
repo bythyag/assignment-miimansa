@@ -1,0 +1,14 @@
+T1 Drug 19 25 Lipitor
+T2 Symptom 66 73 muscle pain
+T3 Symptom 80 87 fatique
+T4 Disease 103 116 type 11 diabetic
+T5 Drug 127 133 Lipitor
+T6 Disease 142 151 cholestrol
+T7 Drug 162 168 Lipitor
+T8 ADR 180 188 syptoms
+T9 Symptom 220 227 syptoms
+T10 Symptom 234 239 pain
+T11 Symptom 244 251 fatique
+T12 ADR 261 267 gastro
+T13 ADR 274 281 problem
+T14 Drug 299 303 drug

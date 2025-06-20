@@ -1,0 +1,8 @@
+T1 Symptom 39 50 Stomach cramps
+T2 Symptom 52 55 gas
+T3 Symptom 57 68 constipation
+T4 Symptom 70 78 headaches
+T5 Symptom 114 126 muscles in my left leg
+T6 Symptom 139 142 pee
+T7 Drug 164 168 drug
+T8 ADR 116 127 side effects

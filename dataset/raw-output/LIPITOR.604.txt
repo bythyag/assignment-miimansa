@@ -1,0 +1,9 @@
+BIO Sequence:
+depression B-Disease | was O | awful O | !!!! O | Took O | increasing O | doses O | to O | be O | good O | . O | Depression B-Disease | increased O | as O | well O | . O | Went O | on O | and O | off O | it O | six O | times O | and O | each O | time O | I O | restarted O | the O | medicine O | severe B-Disease | depression I-Disease | reoccured O | the O | went O | away O | quickly O | after O | stopping O | it O | . O | Will O | not O | go O | near O | it O | again O | . O | Better O | a O | heart B-Disease | attack I-Disease | than O | suicide B-Disease | . O 
+
+Structured Output:
+T1 Disease 0 8 depression
+T2 Disease 66 74 Depression
+T3 Disease 93 99 severe depression
+T4 Disease 127 132 heart attack
+T5 Disease 138 145 suicide

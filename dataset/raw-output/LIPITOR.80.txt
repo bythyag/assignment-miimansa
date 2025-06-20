@@ -1,0 +1,17 @@
+BIO Sequence:
+Muscle B-Symptom | Fatigue I-Symptom | , O | Memory B-Symptom | Loss I-Symptom | , O | Cramping B-Symptom | , O | Cold B-Symptom | Extremities I-Symptom | , O | Shortness B-Symptom | of I-Symptom | Breath I-Symptom | , O | General B-Symptom | Fatigue I-Symptom | , O | Joint B-Symptom | and O | Muscle B-Symptom | Pain I-Symptom | , O | Inability B-Symptom | to O | Sleep I-Symptom | and O | induced O | Depression B-Symptom | . O | This O | Med B-Drug | was O | Prescribed O | to O | help O | control O | Scaling B-Disease | - O | not O | really O | necessary O | as O | all O | my O | blood O | work O | was O | within O | range O | . O | I O | could O | not O | recommend O | this O | Medication B-Drug | to O | anyone O | , O | just O | too O | many O | side B-ADR | affects I-ADR | . O
+
+Structured Output:
+T1 Symptom 0 16 Muscle Fatigue
+T2 Symptom 18 30 Memory Loss
+T3 Symptom 32 40 Cramping
+T4 Symptom 42 56 Cold Extremities
+T5 Symptom 58 75 Shortness of Breath
+T6 Symptom 77 92 General Fatigue
+T7 Symptom 94 112 Joint and Muscle Pain
+T8 Symptom 114 134 Inability to Sleep
+T9 Symptom 136 148 induced Depression
+T10 Drug 150 153 Med
+T11 Disease 175 182 Scaling
+T12 Drug 226 236 Medication
+T13 ADR 217 228 side affects

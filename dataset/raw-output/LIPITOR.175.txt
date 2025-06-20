@@ -1,0 +1,18 @@
+BIO Sequence:
+rapid B-Symptom | shallow I-Symptom | breathing I-Symptom | , O | fatigue B-Symptom | , O | disorientation B-Symptom | , O | slightly I-Symptom | blurred I-Symptom | vision I-Symptom | , O | erectile B-Symptom | disfunction I-Symptom | , O | muscle B-Symptom | pain I-Symptom | . O | My O | GP O | and O | a O | respiratory B-Disease | specialist I-Disease | were O | totally O | unable O | to O | diagnose O | the O | problem O | . O | I O | tried O | stopping O | each O | med O | I O | was O | taking O | , O | some O | allergy B-Disease | / O | asthma B-Disease | stuff O | and O | Lipitor B-Drug | . O | All O | the O | symptoms O | largely O | disappeared O | after O | two O | days O | off O | Lipitor B-Drug | . O | Took O | months O | for O | lingering O | effects O | to O | clear O | completely O | . O | Anyone O | taking O | Lipitor B-Drug | and O | showing O | any O | undiagnosed O | symptoms O | , O | should O | be O | taken O | off O | Lipitor B-Drug | for O | awhile O | as O | a O | test O | . O
+
+Structured Output:
+T1 Symptom 0 5 rapid
+T2 Symptom 6 12 shallow breathing
+T3 Symptom 14 21 fatigue
+T4 Symptom 23 35 disorientation
+T5 Symptom 37 56 slightly blurred vision
+T6 Symptom 58 77 erectile disfunction
+T7 Symptom 79 91 muscle pain
+T8 Disease 99 120 respiratory specialist
+T9 Disease 132 140 allergy
+T10 Disease 142 148 asthma
+T11 Drug 150 156 Lipitor
+T12 Drug 172 178 Lipitor
+T13 Drug 192 198 Lipitor
+T14 Drug 206 212 Lipitor

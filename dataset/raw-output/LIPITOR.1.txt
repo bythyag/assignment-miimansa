@@ -1,0 +1,12 @@
+BIO Sequence:
+Muscle B-Symptom | pain I-Symptom | , O | leg B-Symptom | cramps I-Symptom | , O | fatigue B-Symptom | , O | irritable B-Symptom | , O | pain B-Symptom | in O | feet B-Symptom | , O | neuropathy B-Symptom | . O | I O | have O | stopped O | this O | medication O | a O | couple O | of O | times O | and O | my O | doctor O | keeps O | insisting O | I O | take O | it O | , O | rather O | then O | alternative B-Drug | medications I-Drug | . O | I O | ' O | m O | getting O | off O | of O | this O | stuff O | after O | reading O | so O | many O | people O | are O | having O | similiar B-ADR | side-effects I-ADR | . O | Doctors O | need O | this O | information O | ! O
+
+Structured Output:
+T1 Symptom 0 12 Muscle pain
+T2 Symptom 14 24 leg cramps
+T3 Symptom 26 32 fatigue
+T4 Symptom 34 42 irritable
+T5 Symptom 44 58 pain in feet
+T6 Symptom 60 68 neuropathy
+T7 Drug 90 108 alternative medications
+T8 ADR 116 129 similiar side-effects

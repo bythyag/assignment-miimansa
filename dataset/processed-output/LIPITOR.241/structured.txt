@@ -1,0 +1,3 @@
+T1 Symptom 8 15 weakness  
+T2 Symptom 17 24 reduced stamina  
+T3 Disease 26 37 tennis elbow

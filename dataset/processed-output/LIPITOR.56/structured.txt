@@ -1,0 +1,12 @@
+T1 Drug 56 62 Lipitor
+T2 Disease 85 94 Neuropathy
+T3 Symptom 103 109 Burning feet
+T4 Disease 130 138 Diabetes
+T5 Drug 144 150 WRAMC
+T6 Drug 158 166 Capsaicin
+T7 Disease 175 191 Frozen Shoulder
+T8 Drug 216 223 Bethesda
+T9 Drug 237 243 Lipitor
+T10 Symptom 261 274 Memory Loss
+T11 Drug 276 283 Statins
+T12 Disease 294 306 Cholesterol

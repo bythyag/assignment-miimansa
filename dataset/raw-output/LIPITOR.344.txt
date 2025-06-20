@@ -1,0 +1,31 @@
+BIO Sequence:
+Very O | sore B-Symptom | and O | achy B-Symptom | joints B-Symptom | , O | especially O | ankles B-Symptom | and O | knees B-Symptom | . O | Mild O | headache B-Symptom | that O | rarely O | goes O | away O | . O | Feel O | foggy B-Symptom | like O | in O | a O | slight O | daze B-Symptom | . O | Many O | muscle B-Symptom | cramps B-Symptom | in O | legs B-Symptom | and O | left O | arm B-Symptom | . O | Muscle B-Symptom | spasms B-Symptom | all O | the O | time O | especially O | right O | leg B-Symptom | constantly O | feels O | like O | a O | buzzing B-Symptom | sensation O | all O | over O | it O | . O | The O | spasms B-Symptom | rarely O | go O | away O | as O | muscles O | are O | constantly O | quivering B-Symptom | - O | more O | at O | night O | time O | . O | Makes O | me O | restless B-Symptom | at O | night O | and O | hard O | to O | sleep B-Symptom | . O | I O | have O | only O | been O | on O | Lipitor B-Drug | for O | 3 O | weeks O | so O | I O | don't O | know O | how O | it O | has O | worked O | on O | my O | cholesterol B-Disease | but O | the O | muscle B-Symptom | cramps B-Symptom | , O | spasms B-Symptom | , O | and O | joint B-Symptom | pain B-Symptom | are O | soon O | going O | to O | force O | me O | from O | taking O | the O | drug O | . O
+
+Structured Output:
+T1 Symptom 9 13 sore
+T2 Symptom 18 23 achy
+T3 Symptom 25 30 joints
+T4 Symptom 41 47 ankles
+T5 Symptom 52 57 knees
+T6 Symptom 63 70 headache
+T7 Symptom 80 85 foggy
+T8 Symptom 92 96 daze
+T9 Symptom 108 113 muscle
+T10 Symptom 114 120 cramps
+T11 Symptom 126 130 legs
+T12 Symptom 135 139 arm
+T13 Symptom 141 147 Muscle
+T14 Symptom 149 155 spasms
+T15 Symptom 163 166 right
+T16 Symptom 174 179 buzzing
+T17 Symptom 185 192 spasms
+T18 Symptom 215 222 quivering
+T19 Symptom 237 244 restless
+T20 Symptom 253 258 sleep
+T21 Drug 71 77 Lipitor
+T22 Disease 98 108 cholesterol
+T23 Symptom 131 136 muscle
+T24 Symptom 139 145 cramps
+T25 Symptom 148 154 spasms
+T26 Symptom 157 162 joint
+T27 Symptom 167 171 pain

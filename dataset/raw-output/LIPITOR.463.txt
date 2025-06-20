@@ -1,0 +1,14 @@
+BIO Sequence:
+Extremely O | severe O | pain B-Symptom | in O | right O | shoulder B-Symptom | as O | if O | from O | extreme O | workout O | or O | injury B-Disease | (none O | which O | apply O |). O | Stopped O | taking O | lipitor B-Drug | seven O | days O | ago O | and O | still O | experiencing O | pain B-Symptom | in O | shoulder O | and O | tingling B-Symptom | and O | numbness B-Symptom | down O | right O | arm O | radiating O | into O | fingers O |. O | No O | more O | medications O |. O | will O | attempt O | holistic O | approach O |. O | vitamins B-Drug | C I-Drug | and/or O | niacin B-Drug |. O
+
+Structured Output:
+T1 Symptom 22 26 pain
+T2 Symptom 36 43 shoulder
+T3 Disease 59 65 injury
+T4 Drug 80 86 lipitor
+T5 Symptom 101 105 pain
+T6 Symptom 117 124 tingling
+T7 Symptom 129 136 numbness
+T8 Drug 146 152 vitamins
+T9 Drug 154 155 C
+T10 Drug 164 170 niacin

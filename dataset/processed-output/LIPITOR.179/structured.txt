@@ -1,0 +1,7 @@
+T1 ADR 23 27 hyper
+T2 Disease 83 92 cholesterol
+T3 Disease 119 124 liver
+T4 ADR 199 210 hyperactive
+T5 Drug 335 341 Lipitor
+T6 Disease 357 366 Lipitor
+T7 Disease 553 561 cholesterol

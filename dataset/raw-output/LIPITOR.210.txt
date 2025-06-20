@@ -1,0 +1,12 @@
+BIO Sequence:
+I O | took O | it O | for O | about O | 8 O | years O | , O | starting O | at O | age O | 25 O | , O | with O | no O | side O | effects O | ( O | at O | least O | , O | nothing O | I O | attributed O | to O | the O | Lipitor B-Drug | ) O | . O | Went O | off O | on O | a O | couple O | occasions O | to O | have O | a O | baby O | then O | right O | back O | on O | . O | After O | 8 O | years O | , O | suddenly O | started O | having O | severe B-ADR | weaknesses I-ADR | in O | my O | legs O | , O | specifically O | thigh B-Symptom | muscles I-Symptom | felt O | like O | I O | had O | been O | trying O | to O | run O | marathons O | with O | no O | exertion O | . O | Went O | off O | Lipitor B-Drug | and O | pain B-ADR | went O | away O | . O | Now O | I O | 'm O | on O | Crestor B-Drug | and O | just O | started O | having O | even O | worse B-ADR | side I-ADR | effects I-ADR | : O | ( O | O O | ) O | . O | This O | medication O | DID O | help O | lower O | my O | cholesterol O | , O | I O | was O | close O | to O | 300 O | when O | I O | started O | it O | ( O | and O | I O | did O | eat O | healthy O | and O | exercise O | moderately O | at O | the O | time O | , O | it O | 's O | hereditary O | for O | me O | ) O | . O | and O | I O | was O | taking O | 40 O | mg O | . O | to O | get O | my O | cholesterol O | down O | around O | 200 O | . O | My O | mother O | has O | taken O | it O | for O | even O | longer O | at O | max O | dose O | ( O | 80 O | mg O | ) O | and O | has O | had O | no O | side O | effects O | she O | attributes O | to O | the O | medication O | . O | The O | bottom O | line O | is O | , O | listen O | and O | pay O | attention O | to O | your O | body O | . O | everyone O | 's O | body O | is O | different O | and O | some O | people O | ca O | n't O | take O | the O | same O | thing O | ! O | My O | brother O | also O | tried O | Lipitor B-Drug | and O | he O | could O | n't O | tolerate O | it O | , O | it O | made O | him O | fall O | asleep O | ! O 
+
+Structured Output:
+T1 Drug 150 156 Lipitor
+T2 ADR 177 185 severe weaknesses
+T3 Symptom 192 196 thigh
+T4 ADR 213 217 pain
+T5 Drug 229 236 Lipitor
+T6 Drug 245 252 Crestor
+T7 ADR 264 277 worse side effects
+T8 Drug 307 313 Lipitor

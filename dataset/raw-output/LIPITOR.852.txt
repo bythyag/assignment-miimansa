@@ -1,0 +1,12 @@
+BIO Sequence:
+No O | significant O | side B-ADR | effects I-ADR | . O | Slight O | muscle B-Symptom | aches I-Symptom | in O | my O | back B-Symptom | in O | the O | morning O | when O | I O | first O | started O | taking O | it O | , O | but O | that O | passed O | with O | time O | . O | I've O | been O | taking O | a O | 40 B-Drug | mg I-Drug | tablet I-Drug | before O | bedtime O | every O | day O | for O | four O | years O | . O | Combined O | with O | a O | low O | fat O | / O | low O | cholesterol O | diet O | , O | the O | drug B-Drug | helped O | lower O | my O | cholesterol B-Symptom | to O | 125 B-Symptom | from O | well O | over O | 200 B-Symptom | . O
+
+Structured Output:
+T1 ADR 19 33 side effects
+T2 Symptom 37 52 muscle aches
+T3 Symptom 55 59 back
+T4 Drug 86 93 40 mg
+T5 Drug 161 165 drug
+T6 Symptom 207 216 cholesterol
+T7 Symptom 222 225 125
+T8 Symptom 251 254 200

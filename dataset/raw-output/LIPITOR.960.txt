@@ -1,0 +1,7 @@
+BIO Sequence:
+No O | side B-ADR | effects I-ADR | . O | Cut O | my O | cholesterol B-Symptom | in O | half O | , O | no O | side B-ADR | effects I-ADR | that O | I've O | been O | aware O | of O | . O
+
+Structured Output:
+T1 ADR 3 15 side effects
+T2 Symptom 24 34 cholesterol
+T3 ADR 36 50 side effects

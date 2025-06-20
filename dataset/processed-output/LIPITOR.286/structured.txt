@@ -1,0 +1,7 @@
+T1 Drug 28 34 Lipitor
+T2 Symptom 83 87 pain
+T3 Symptom 89 95 cramps
+T4 Symptom 112 120 tightness
+T5 Symptom 160 164 pain
+T6 Drug 198 204 Lipitor
+T7 Symptom 263 275 pain/tightness

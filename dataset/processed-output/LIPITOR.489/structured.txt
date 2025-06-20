@@ -1,0 +1,2 @@
+T1 Drug 23 32 medication
+T2 Disease 36 41 years

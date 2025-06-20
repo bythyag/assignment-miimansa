@@ -1,0 +1,4 @@
+T1 ADR 28 39 side effects
+T2 Disease 47 57 Cholesterol
+T3 Disease 98 115 cholesterol
+T4 Disease 121 141 Hypercholesterolemia

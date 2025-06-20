@@ -1,0 +1,6 @@
+BIO Sequence:
+headaches B-Symptom | within O | 2 O | hrs O | of O | taking O | it O | . O | Low O | sex B-Symptom | drive I-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 9 headaches
+T2 Symptom 12 23 sex drive

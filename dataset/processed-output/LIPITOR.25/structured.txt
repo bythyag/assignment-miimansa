@@ -1,0 +1,8 @@
+T1 Drug 0 6 Lipitor
+T2 Disease 37 46 cholestrol
+T3 ADR 63 78 problems
+T4 Symptom 89 97 digestion problems
+T5 Disease 116 123 pancreas
+T6 Disease 139 145 swollen
+T7 Drug 200 206 lipitor
+T8 Symptom 251 258 problems

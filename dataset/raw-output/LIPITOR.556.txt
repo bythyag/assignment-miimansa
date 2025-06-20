@@ -1,0 +1,14 @@
+BIO Sequence:
+I O | didn't O | think O | I O | had O | any O | side O | effects B-ADR | until O | I O | started O | reading O | through O | some O | of O | the O | list O | of O | problems O | other O | people O | are O | having O | . O | I O | thought O | it O | was O | just O | the O | over O | 40 O | factor O | . O | But O | , O | I O | too O | have O | joint B-Symptom | pain I-Symptom | in O | my O | knees B-Symptom | , O | hips B-Symptom | , O | lower O | back B-Symptom | , O | and O | shoulders B-Symptom | . O | I O | have O | been O | having O | pain B-Symptom | in O | my O | left O | thigh I-Symptom | . O | As O | far O | as O | forgetting O | things O | , O | I O | am O | occasionally O | saying O | to O | my O | fellow O | worker O | . O | It O | has O | done O | a O | good O | job O | of O | lowering O | my O | cholestoral B-Symptom | but O | , O | are O | the O | side O | effects I-ADR | worth O | it O | ? O
+
+Structured Output:
+T1 ADR 44 55 side effects
+T2 Symptom 93 102 joint pain
+T3 Symptom 108 113 knees
+T4 Symptom 115 119 hips
+T5 Symptom 121 130 lower back
+T6 Symptom 132 140 shoulders
+T7 Symptom 146 150 pain
+T8 Symptom 158 165 left thigh
+T9 Symptom 170 182 cholestoral
+T10 ADR 184 195 side effects

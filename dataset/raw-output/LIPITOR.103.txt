@@ -1,0 +1,16 @@
+BIO Sequence:
+Muscle B-Symptom | aches I-Symptom | . O | now O | have O | fibromyalgia B-Disease | . O | Memory B-Symptom | , O | learning B-Symptom | problems I-Symptom | , O | brain B-Symptom | fog I-Symptom | , O | depression B-Symptom | , O | extreme B-Symptom | fatigue I-Symptom | . O | In O | horrible B-Symptom | pain I-Symptom | , O | I O | quit O | taking O | it O | and O | replaced O | it O | with O | natural B-Drug | therapies I-Drug | . O | Starting O | to O | feel O | better O | . O | I O | hope O | and O | pray O | the O | damage O | isn't O | permanent O | . O | This O | medication B-Drug | is O | nothing O | but O | a O | pharmaceutical O | money O | maker O | . O | It O | should O | be O | banned O | !! O | I O | wish O | I O | would O | have O | known O | the O | side B-ADR | effects I-ADR | when O | I O | started O | taking O | it O | , O | instead O | of O | dealing O | with O | extreme B-Symptom | pain I-Symptom | for O | so O | many O | years O | ! O
+
+Structured Output:
+T1 Symptom 0 12 Muscle aches
+T2 Disease 20 32 fibromyalgia
+T3 Symptom 34 40 Memory
+T4 Symptom 42 56 learning problems
+T5 Symptom 58 66 brain fog
+T6 Symptom 68 77 depression
+T7 Symptom 79 95 extreme fatigue
+T8 Symptom 100 112 horrible pain
+T9 Drug 128 144 natural therapies
+T10 Drug 159 169 medication
+T11 ADR 171 183 side effects
+T12 Symptom 187 200 extreme pain

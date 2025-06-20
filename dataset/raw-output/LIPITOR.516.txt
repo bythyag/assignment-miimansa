@@ -1,0 +1,8 @@
+BIO Sequence:
+10 B-Drug | mg I-Drug | lowered O | my O | cholesterol B-Disease | in O | the O | first O | 6 O | months O | . O | Continues O | to O | decrease O | with O | each O | blood B-Symptom | test I-Symptom | . O | Risk O | factor O | is O | down O | to O | 2.2 O | . O
+
+Structured Output:
+T1 Drug 0 7 10 mg
+T2 Disease 27 37 cholesterol
+T3 Symptom 74 81 blood test
+T4 Symptom 95 100 Risk factor

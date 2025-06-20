@@ -1,0 +1,7 @@
+T1 Drug 35 40 zocor
+T2 Drug 48 55 lipitor
+T3 Drug 79 84 statins
+T4 Drug 99 104 lipitor
+T5 Disease 118 121 LAD
+T6 Disease 125 138 angioplasty
+T7 Drug 140 147 statins

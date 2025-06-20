@@ -1,0 +1,7 @@
+T1 Symptom 0 13 muscle cramps
+T2 Symptom 15 24 depression
+T3 Symptom 30 40 irritable
+T4 Symptom 42 47 tired
+T5 Drug 51 58 Statins
+T6 Disease 74 84 circulatory problems
+T7 Drug 126 133 statins

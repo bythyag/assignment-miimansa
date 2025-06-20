@@ -1,0 +1,8 @@
+T1 Disease 20 30 tendonitis  
+T2 Symptom 60 64 pain  
+T3 Symptom 104 113 excrutiating pain  
+T4 Disease 150 154 gout  
+T5 Disease 168 172 gout  
+T6 Drug 184 191 Lipitor  
+T7 Drug 256 262 drug  
+T8 Drug 305 311 Lipitor

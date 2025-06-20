@@ -1,0 +1,13 @@
+T1 Symptom 8 13 heart
+T2 Symptom 20 24 beats
+T3 Symptom 62 66 heart
+T4 Symptom 70 75 lungs
+T5 Symptom 80 85 heart
+T6 Symptom 97 101 breath
+T7 Symptom 113 117 hert
+T8 Symptom 120 124 head
+T9 Symptom 130 133 toe
+T10 Symptom 158 161 die
+T11 Drug 168 174 lipitor
+T12 Drug 180 185 statin
+T13 Drug 191 196 statin

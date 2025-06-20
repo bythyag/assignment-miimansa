@@ -1,0 +1,11 @@
+BIO Sequence:
+Weakness B-Symptom | , O | cramping B-Symptom | , O | muscle B-Symptom | spasms I-Symptom | . O | Slurred B-Symptom | speech I-Symptom | and O | difficulty B-Symptom | swallowing I-Symptom | . O | Have O | recently O | been O | diagnosed O | with O | ALS B-Disease | . O | I O | blame O | lipitor B-Drug | . O
+
+Structured Output:
+T1 Symptom 0 8 Weakness  
+T2 Symptom 10 18 cramping  
+T3 Symptom 20 31 muscle spasms  
+T4 Symptom 33 48 Slurred speech  
+T5 Symptom 50 67 difficulty swallowing  
+T6 Disease 73 76 ALS  
+T7 Drug 81 87 lipitor  

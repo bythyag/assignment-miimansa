@@ -1,0 +1,7 @@
+BIO Sequence:
+Some O | muscle B-Symptom | soreness I-Symptom | , O | but O | tolerable O | . O | However O | weight B-Symptom | gain I-Symptom | has O | been O | a O | problem O | . O | Several O | friends O | mentioned O | the O | same O | weight B-Symptom | gain I-Symptom | problem O | . O 
+
+Structured Output:
+T1 Symptom 5 11 muscle soreness
+T2 Symptom 33 42 weight gain
+T3 Symptom 65 74 weight gain

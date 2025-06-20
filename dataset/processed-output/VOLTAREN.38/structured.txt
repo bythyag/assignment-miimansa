@@ -1,0 +1,3 @@
+T1 Symptom 0 13 Stomach cramps
+T2 ADR 34 46 side effects
+T3 ADR 69 81 side effects

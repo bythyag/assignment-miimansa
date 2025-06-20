@@ -1,0 +1,18 @@
+BIO Sequence:
+Weakness B-Symptom | in O | both O | legs B-Symptom | , O | hip B-Symptom | pain I-Symptom | , O | knee B-Symptom | pain I-Symptom | , O | feet B-Symptom | and O | ankle B-Symptom | pain I-Symptom | . O | Lower O | back B-Symptom | pain I-Symptom | . O | Muscle B-Symptom | weakness I-Symptom | from O | the O | pevis B-Disease | down O | to O | my O | toes B-Symptom | ! O | Could O | not O | stand O | comfortably O | for O | 5 O | minutes O | . O | Started O | seeing O | a O | chiropractor B-Drug | for O | relief-did O | not O | work O | . O | Stopped O | taking O | Lipitor B-Drug | 40 O | ml O | . O | and O | side B-ADR | effects I-ADR | started O | to O | go O | away O | after O | 5 O | days O | . O | Have O | some O | lingering O | aches B-Symptom | in O | legs B-Symptom | . O
+
+Structured Output:
+T1 Symptom 1 8 Weakness
+T2 Symptom 18 22 legs
+T3 Symptom 24 31 hip pain
+T4 Symptom 34 42 knee pain
+T5 Symptom 45 53 feet and ankle pain
+T6 Symptom 55 68 Lower back pain
+T7 Symptom 70 77 Muscle weakness
+T8 Disease 78 83 pevis
+T9 Symptom 86 90 toes
+T10 Drug 119 128 chiropractor
+T11 Drug 130 136 Lipitor
+T12 ADR 151 163 side effects
+T13 Symptom 187 192 aches
+T14 Symptom 196 200 legs

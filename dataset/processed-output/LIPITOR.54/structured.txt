@@ -1,0 +1,32 @@
+T1 Symptom 1 6 Severe
+T2 Symptom 8 13 muscle
+T3 Symptom 15 19 pain
+T4 Symptom 24 32 shoulders
+T5 Symptom 44 49 chest
+T6 Symptom 51 58 cramping
+T7 Symptom 62 66 back
+T8 Symptom 74 80 calves
+T9 Symptom 84 93 hamstrings
+T10 Symptom 95 101 Severe
+T11 Symptom 103 108 muscle
+T12 Symptom 110 114 pain
+T13 Drug 127 133 weights
+T14 Symptom 156 163 Difficulty
+T15 Symptom 165 171 memory
+T16 Symptom 174 177 times
+T17 Symptom 179 183 word
+T18 Symptom 198 205 shoulder
+T19 Symptom 207 211 pain
+T20 Disease 221 233 inflammation
+T21 Disease 246 263 rotator cuff
+T22 Drug 269 285 physical therapy
+T23 Symptom 294 298 pain
+T24 Symptom 320 325 back
+T25 Symptom 327 332 spasm/cramp
+T26 Drug 368 372 drug
+T27 Symptom 431 439 cramping
+T28 Symptom 441 450 shoulder
+T29 Disease 451 458 blockage
+T30 Drug 470 477 Crestor
+T31 Drug 482 488 Zocar
+T32 Disease 497 508 cholesterol

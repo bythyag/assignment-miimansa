@@ -1,0 +1,4 @@
+T1 Symptom 19 34 muscle/joint pain
+T2 Symptom 60 64 arms
+T3 Disease 75 85 Cholesterol
+T4 Symptom 107 111 pain

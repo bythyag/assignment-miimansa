@@ -1,0 +1,4 @@
+T1 Disease 0 7 Anxiety
+T2 Symptom 9 17 paranoia
+T3 Drug 26 32 Niacin
+T4 Drug 88 95 Niaspan

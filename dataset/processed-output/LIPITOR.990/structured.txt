@@ -1,0 +1,15 @@
+T1 Symptom 22 28 memory
+T2 Symptom 39 43 loss
+T3 Symptom 55 66 concentration
+T4 ADR 73 78 Dizzy
+T5 Symptom 84 91 hightened
+T6 Symptom 93 99 Anxiety
+T7 Symptom 113 119 unwell
+T8 Symptom 132 137 Zombie
+T9 Symptom 144 153 Weakness
+T10 Symptom 156 169 Leg Muscles
+T11 Drug 79 87 Medication
+T12 Disease 161 171 cholesterol
+T13 Drug 175 181 Lipitor
+T14 ADR 205 209 sick
+T15 Drug 212 220 Naturepath

@@ -1,0 +1,19 @@
+BIO Sequence:
+I O | HAVE O | MUSCLE B-Symptom | SORENESS I-Symptom | IN O | MY O | LEFT O | LEG B-Symptom | ALSO O | MY O | HIP B-Symptom | , O | PINS B-Symptom | AND O | NEEDLES I-Symptom | , O | INSOMNIA B-Symptom | , O | NECK B-Symptom | PAIN I-Symptom | , O | NOW O | A O | SPUR B-Symptom | IN O | MY O | RIGHT O | HEEL B-Symptom | PAD I-Symptom | , O | WEIGHT B-Symptom | GAIN I-Symptom | , O | TRUBLE B-Symptom | REMEMBERING I-Symptom | SOMETIMES O | , O | WHEN O | I O | WRITE O | MY O | HAND B-Symptom | FEELS O | LIKE O | IT'S O | NOT O | MINE O | LIKE O | I O | 'M O | WATCHING O | SMEONE O | ELSES O | HAND I-Symptom | , O | ODD B-Symptom | FEELING I-Symptom | THAT O | . O | TIREDNESS B-Symptom | , O | DEPRESSED B-Symptom | AS O | WELL O | . O
+
+Structured Output:
+T1 Symptom 8 15 MUSCLE SORENESS
+T2 Symptom 24 29 LEFT LEG
+T3 Symptom 36 39 HIP
+T4 Symptom 42 54 PINS AND NEEDLES
+T5 Symptom 56 64 INSOMNIA
+T6 Symptom 66 74 NECK PAIN
+T7 Symptom 78 88 SPUR
+T8 Symptom 91 98 RIGHT HEEL PAD
+T9 Symptom 103 114 WEIGHT GAIN
+T10 Symptom 116 130 TRUBLE REMEMBERING
+T11 Symptom 135 139 HAND
+T12 Symptom 157 166 SMEONE ELSES HAND
+T13 Symptom 168 182 ODD FEELING
+T14 Symptom 184 193 TIREDNESS
+T15 Symptom 195 203 DEPRESSED

@@ -1,0 +1,1 @@
+pain B-Symptom | in O | my O | legs B-Symptom | , O | loss B-Symptom | of O | sense B-Symptom | of O | smell B-Symptom | , O | increase B-Symptom | appetite I-Symptom | , O | headaches B-Symptom | , O | extreme O | fatigued B-Symptom | , O | tingling B-Symptom | in O | my O | arms B-Symptom | and O | legs I-Symptom | . O

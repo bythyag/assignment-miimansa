@@ -1,0 +1,7 @@
+T1 Symptom 17 24 fatigue
+T2 Symptom 26 31 muscle
+T3 Symptom 36 41 joint
+T4 Symptom 42 46 pain
+T5 Symptom 48 56 insomnia
+T6 Disease 66 75 cholesterol
+T7 Drug 82 90 provacal

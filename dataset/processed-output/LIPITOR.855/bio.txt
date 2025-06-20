@@ -1,0 +1,1 @@
+none O | -taking O | it O | for O | 6 O | years O | . O | My O | cholesterol B-Symptom | is O | in O | 110 O | range O | on O | Lipitor B-Drug | . O

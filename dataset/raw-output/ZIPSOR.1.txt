@@ -1,0 +1,6 @@
+BIO Sequence:
+nausea B-Symptom | . O | some O | pain B-Symptom | relief I-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 6 nausea
+T2 Symptom 12 18 pain relief

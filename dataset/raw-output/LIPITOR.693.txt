@@ -1,0 +1,15 @@
+BIO Sequence:
+Extreme O | lower B-Symptom | back I-Symptom | pain I-Symptom | , O | pain O | in O | neck B-Symptom | and O | shoulders B-Symptom | , O | calf B-Symptom | cramping I-Symptom | , O | red B-Symptom | bumps I-Symptom | on O | my O | skin O | . O | Muscle B-Symptom | fatigue I-Symptom | . O | I O | only O | took O | this O | drug B-Drug | for O | 4 O | months O | . O | I O | have O | inherited O | my O | high B-Disease | cholesterol I-Disease | . O | My O | career O | involves O | great O | physical O | activity O | . O | I O | thought O | I O | had O | just O | overexerted O | myself O | and O | was O | over O | stressed O | . O | I O | had O | no O | idea O | a O | medication B-Drug | could O | cause O | so O | much O | economic O | and O | physical O | damage O | . O | I O | am O | still O | in O | the O | process O | of O | recovering O | from O | both O | . O
+
+Structured Output:
+T1 Symptom 0 27 lower back pain
+T2 Symptom 29 52 pain in neck and shoulders
+T3 Symptom 54 70 calf cramping
+T4 Symptom 72 86 red bumps
+T5 Symptom 88 102 skin
+T6 Symptom 104 118 Muscle fatigue
+T7 Drug 126 130 drug
+T8 Disease 141 155 high cholesterol
+T9 Drug 163 172 medication
+T10 Symptom 174 222 economic and physical damage
+T11 Symptom 224 242 process of recovering

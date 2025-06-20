@@ -1,0 +1,16 @@
+T1 Symptom 40 56 muscle aches
+T2 Disease 66 70 neck
+T3 Disease 76 80 back
+T4 Symptom 84 88 pain
+T5 Symptom 100 105 knee
+T6 Symptom 109 116 severe headaches
+T7 Symptom 135 139 pain
+T8 Symptom 143 155 leg muscles
+T9 Drug 72 78 lipitor
+T10 Disease 131 144 fibromyalgia
+T11 Disease 146 157 brain tumor
+T12 Symptom 174 179 muscle pain
+T13 Disease 193 197 neck
+T14 Symptom 199 207 headaches
+T15 Symptom 218 225 headache
+T16 Disease 238 248 cholesterol

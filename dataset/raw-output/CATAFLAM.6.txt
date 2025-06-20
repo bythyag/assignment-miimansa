@@ -1,0 +1,10 @@
+BIO Sequence:
+Lower O | gut B-Symptom | pain I-Symptom | , O | diahrrea B-Symptom | . O | This O | is O | the O | only O | NSAID B-Drug | I've O | ever O | taken O | that O | gave O | me O | discernable O | relief O | within O | 90 O | minutes O | of O | taking O | it O | . O | Gastrointestinal B-Disease | problems I-Disease | were O | due O | largely O | to O | my O | taking O | the O | drug O | too O | close O | together O | , O | or O | after O | having O | consumed O | large O | amounts O | of O | alcohol B-Drug | . O
+
+Structured Output:
+T1 Symptom 5 8 gut
+T2 Symptom 9 13 pain
+T3 Symptom 15 23 diahrrea
+T4 Drug 47 52 NSAID
+T5 Disease 56 70 Gastrointestinal problems
+T6 Drug 95 102 alcohol

@@ -1,0 +1,7 @@
+T1 Symptom 28 34 muscle pain
+T2 Symptom 41 56 short term memory
+T3 Drug 138 142 drug
+T4 Symptom 167 177 Cholesterol numbers
+T5 Drug 188 199 Simvastatin
+T6 Symptom 213 218 Memory
+T7 Disease 231 241 cholesterol

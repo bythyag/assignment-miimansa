@@ -1,0 +1,12 @@
+T1 Drug 61 67 Lipitor
+T2 Symptom 106 110 pain
+T3 Symptom 118 126 legs
+T4 Symptom 142 147 stiff
+T5 Drug 164 170 Lipitor
+T6 ADR 198 202 severe
+T7 ADR 204 208 pain
+T8 Disease 233 238 stress
+T9 Drug 334 340 Lipitor
+T10 Drug 356 362 Lipitor
+T11 Drug 387 393 Lipitor
+T12 Disease 453 462 collesterol

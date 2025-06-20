@@ -1,0 +1,5 @@
+T1 Symptom 0 7 Swelling
+T2 Symptom 26 32 itching
+T3 Symptom 41 50 itching
+T4 Symptom 56 61 dreams
+T5 ADR 74 80 bruise

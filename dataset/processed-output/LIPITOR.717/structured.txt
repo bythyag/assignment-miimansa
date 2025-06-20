@@ -1,0 +1,7 @@
+T1 Symptom 0 16 extreme muscle pain
+T2 Symptom 21 26 arms
+T3 Symptom 28 37 shoulders
+T4 Drug 52 57 80mg
+T5 Disease 78 83 heart
+T6 Disease 85 92 attacks
+T7 Disease 104 114 blockages

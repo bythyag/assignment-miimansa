@@ -1,0 +1,19 @@
+BIO Sequence:
+Lower O | dose O | for O | first O | month O | produced O | sporadic O | intense O | stomach B-Symptom | cramps I-Symptom | , O | diarrhea B-ADR | and O | nausea B-ADR | . O | Always O | prided O | myself O | on O | having O | a O | cast O | iron O | stomach O | until O | this O | script O | came O | along O | . O | I O | have O | to O | rate O | it O | a O | 5 O | for O | knee B-Symptom | pain I-Symptom | so O | I O | lived O | with O | it O | . O | Then O | my O | doctor O | increased O | the O | dose O | after O | one O | month O | and O | I O | have O | never O | had O | anything O | work O | so O | well O | on O | reducing O | osteoarthritis B-Disease | pain I-Disease | . O | Unfortunately, O | I O | have O | also O | never O | been O | so O | sick O | from O | a O | prescription O | . O | Increased O | dosage O | produced O | constant O | , O | unyielding O | stomach B-Symptom | gas I-Symptom | and O | intense O | pain B-Symptom | , O | gastrointestinal B-Symptom | cramping I-Symptom | , O | diarrhea B-ADR | and O | pain B-Symptom | pain I-Symptom | pain I-Symptom | . O | If O | your O | gastrointestinal O | system O | can O | handle O | it O | , O | its O | an O | amazingly O | effective O | arthritis B-Drug | drug I-Drug | . O | however O | I O | welcomed O | the O | knee B-Symptom | pain I-Symptom | back O | after O | suffering O | the O | side B-ADR | effects I-ADR | and O | booked O | an O | appointment O | with O | a O | knee B-Disease | surgeon I-Disease | ! O | Was O | so O | sick O | after O | 2 O | days O | at O | the O | increased O | dose O | , O | I O | decided O | it O | just O | was O | not O | worth O | it O | . O 
+
+Structured Output:
+T1 Symptom 61 66 stomach cramps
+T2 ADR 76 83 diarrhea
+T3 ADR 90 96 nausea
+T4 Symptom 127 135 knee pain
+T5 Disease 177 193 osteoarthritis
+T6 Symptom 224 229 stomach gas
+T7 Symptom 233 237 pain
+T8 Symptom 239 260 gastrointestinal cramping
+T9 ADR 263 269 diarrhea
+T10 Symptom 274 278 pain
+T11 Drug 300 308 arthritis drug
+T12 Symptom 326 331 knee pain
+T13 ADR 346 358 side effects
+T14 Disease 363 377 knee surgeon
+T15 Symptom 394 398 sick

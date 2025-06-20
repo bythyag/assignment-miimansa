@@ -1,0 +1,17 @@
+BIO Sequence:
+I O | have O | been O | on O | Arthrotec B-Drug | for O | a O | year O | and O | a O | half O | and O | have O | been O | very O | pleased O | that O | it O | does O | help O | deal O | with O | my O | back B-Symptom | pain I-Symptom | . O | However O | . O | over O | the O | last O | six O | months O | , O | I O | have O | started O | having O | vaginal B-Symptom | bleeding I-Symptom | almost O | every O | day O | of O | the O | month O | . O | Lots O | of O | clotting B-ADR | , O | and O | horrible B-ADR | periods I-ADR | . O | I O | went O | to O | the O | obgyn B-Disease | and O | everything O | came O | out O | normal O | . O | The O | doc O | put O | me O | on O | birth B-Drug | control I-Drug | . O | But O | , O | the O | bleeding O | has O | not O | subsided O | . O | So O | now O | I O | am O | scheduled O | to O | have O | an O | endometrial B-Disease | biopsy I-Disease | on O | Wed O | . O | I O | had O | an O | ephiphany O | last O | night O | about O | Arthrotec B-Drug | and O | began O | researching O | the O | side O | effect O | . O | When O | I O | came O | across O | this O | website O | , O | I O | was O | appalled O | that O | the O | majority O | of O | the O | females O | mention O | heavy/extra B-ADR | vaginal I-ADR | bleeding I-ADR | . O | I O | firmly O | believe O | this O | is O | the O | answer O | to O | my O | bleeding O | problem O | and O | will O | be O | telling O | the O | doctor O | on O | Monday O | , O | . O | Although O | this O | drug O | has O | helped O | with O | the O | pain O | , O | it O | is O | not O | worth O | the O | cost O | and O | hassle O | of O | bleeding O | constantly O | . O | On O | top O | of O | that O | , O | I O | am O | now O | having O | to O | have O | a O | procedure O | that O | a O | 31 O | year O | old O | should O | not O | have O | to O | endure O | . O | I O | truly O | hope O | that O | there O | are O | no O | long O | term O | effects O | from O | this O | . O | I O | have O | not O | taken O | Arthrotec B-Drug | in O | almost O | a O | week O | , O | yet O | I O | am O | still O | bleeding O | . O | I O | do O | not O | look O | forward O | to O | the O | extra O | pains B-Symptom | I-ADR | will O | likely O | experience O | in O | a O | couple O | weeks O | , O | but O | I O | am O | sure O | I O | can O | find O | something O | else O | to O | deal O | with O | them O | . O | I O | feel O | that O | I O | have O | become O | dependent O | on O | this O | medicine O | to O | function O | . O
+
+Structured Output:
+T1 Drug 23 31 Arthrotec
+T2 Symptom 104 113 back pain
+T3 Symptom 172 178 vaginal bleeding
+T4 ADR 204 212 clotting
+T5 ADR 217 225 horrible periods
+T6 Disease 238 243 obgyn
+T7 Drug 265 278 birth control
+T8 Disease 290 307 endometrial biopsy
+T9 Drug 335 343 Arthrotec
+T10 ADR 490 508 heavy/extra vaginal bleeding
+T11 ADR 630 636 bleeding
+T12 Symptom 685 690 extra pains
+T13 Drug 711 719 medicine

@@ -1,0 +1,13 @@
+BIO Sequence:
+I O | am O | thrilled O | to O | have O | found O | this O | site O | . O | The O | depression B-Disease | , O | lazyness B-Symptom | ( O | I O | don O | ' O | t O | feel O | like O | doing O | anything O | ) O | , O | lack B-Symptom | of O | ability O | to O | concentrate B-Symptom | , O | short B-Symptom | attention B-Symptom | span I-Symptom | , O | feeling O | of O | . O | Cholersterol B-Disease | went O | from O | 260 O | to O | 180 O | in O | the O | first O | month O | . O | The O | stuff O | works O | ; O | however O | it O | ' O | s O | changed O | my O | personality O | . O | Quality O | of O | life O | is O | worth O | something O | . O | However O | , O | I O | agreed O | to O | it O | because O | diet B-Disease | and O | exercise B-Disease | didn O | ' O | t O | work O | . O | I O | had O | even O | lost O | 15 O | pounds O | ( O | I O | ' O | m O | 5 O | 8 O | . O
+
+Structured Output:
+T1 Disease 11 20 depression
+T2 Symptom 22 30 lazyness
+T3 Symptom 39 43 lack
+T4 Symptom 54 66 concentrate
+T5 Symptom 68 73 short
+T6 Symptom 74 81 attention
+T7 Disease 94 103 Cholersterol
+T8 Disease 111 119 diet
+T9 Disease 123 130 exercise

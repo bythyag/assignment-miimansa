@@ -1,0 +1,9 @@
+T1 Disease 0 14 ham string
+T2 Symptom 86 90 pain
+T3 Symptom 98 103 thigh
+T4 Symptom 112 116 leg
+T5 Drug 199 204 statin drug
+T6 Drug 292 297 statin drug
+T7 Drug 307 309 40 Mg
+T8 Drug 314 323 cholestrol
+T9 ADR 341 345 pain

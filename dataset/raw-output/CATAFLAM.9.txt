@@ -1,0 +1,19 @@
+BIO Sequence:
+None O | , O | unless O | too O | much O | is O | taken O | too O | close O | together O | , O | then O | it O | can O | cause O | gassy B-ADR | abdominal I-ADR | cramping I-ADR | . O | It O | is O | the O | BEST O | pain B-Symptom | reliever I-Symptom | I O | have O | ever O | been O | prescribed O | and O | I O | will O | never O | do O | without O | it O | ! O | I O | happen O | to O | have O | Endometriosis B-Disease | that O | has O | attached O | to O | " O | everything O | " O | in O | the O | backside O | , O | including O | my O | Sciatic B-Disease | nerve I-Disease | . O | Sciatic B-Disease | Endo I-Disease | is O | rarely O | seen O | , O | but O | they O | found O | it O | in O | me O | . O | I O | do O | Restorative B-Symptom | Yoga I-Symptom | postures I-Symptom | to O | get O | myself O | loosened O | up O | every O | day O | , O | but O | keep O | the O | Cataflam B-Drug | handy O | as O | nothing O | works O | better O | for O | the O | pain B-Symptom | , O | unless O | I O | have O | an O | extremely O | bad O | time O | where O | I O | have O | to O | take O | a O | Demerol B-Drug | with O | it O | ( O | rarely O | ) O | . O | However O | , O | I O | have O | noticed O | in O | the O | " O | patient O | info O | " O | they O | give O | with O | my O | Rx B-Drug | that O | now O | warnings O | of O | NSAID's B-Drug | causing O | heart B-Symptom | attacks I-Symptom | and O | strokes O | are O | written O | where O | they O | were O | not O | before O | when O | I O | started O | this O | Rx B-Drug | . O | The O | best O | dose O | for O | me O | ( O | per O | my O | doctor O | ) O | is O | 2 O | pills O | to O | get O | in O | your O | system O | , O | then O | 1 O | every O | 8 O | hours O | afterward O | . O | Luckily O | , O | I O | only O | need O | this O | a O | few O | days O | a O | week O | at O | the O | most O | , O | here O | & O | there O | . O | I O | highly O | recommend O | this O | especially O | for O | lower O | lumbar B-Disease | arthritis I-Disease | and O | to O | women O | for O | dysmennorhea B-Disease | . O | it O | will O | do O | the O | trick O | ! O
+
+Structured Output:
+T1 ADR 37 57 gassy abdominal cramping
+T2 Symptom 68 72 pain
+T3 Disease 92 106 Endometriosis
+T4 Disease 126 133 Sciatic
+T5 Disease 135 139 Sciatic Endo
+T6 Drug 237 245 Cataflam
+T7 Symptom 261 265 pain
+T8 Drug 269 276 Demerol
+T9 Drug 281 283 Rx
+T10 Drug 296 302 NSAID's
+T11 Symptom 314 319 heart
+T12 Symptom 321 328 attacks
+T13 Drug 384 389 Rx
+T14 Disease 413 420 lumbar arthritis
+T15 Disease 426 439 dysmennorhea

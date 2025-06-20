@@ -1,0 +1,7 @@
+T1 Symptom 45 67 digestive system
+T2 Symptom 72 83 muscle pain
+T3 Symptom 88 98 joint pain
+T4 Drug 9 15 Lipitor
+T5 Disease 40 43 LDL
+T6 Disease 49 52 HDL
+T7 Drug 210 214 drug

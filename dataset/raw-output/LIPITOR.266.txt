@@ -1,0 +1,16 @@
+BIO Sequence:
+fatigue B-Symptom | , O | neuropathy B-Symptom | , O | taste B-Symptom | perversion I-Symptom | , O | back B-Symptom | pain I-Symptom | , O | suicidal B-Symptom | depression I-Symptom | , O | weight B-Symptom | loss I-Symptom | , O | paranoia B-Symptom | , O | general B-Symptom | change I-Symptom | in O | personality I-Symptom | . O | Everything O | in O | my O | career O | and O | family O | life O | was O | going O | fine O | for O | me O | but O | a O | feeling B-Symptom | of O | impending B-Symptom | doom I-Symptom | persisted O | in O | me O | . O | I O | do O | not O | think O | that O | enough O | long O | terms O | trials O | are O | done O | on O | this O | drug B-Drug | . O | Patients O | often O | struggle O | with O | its O | side B-ADR | effect I-ADR | and O | their O | experiences O | are O | not O | validated O | by O | physicians O | . O
+
+Structured Output:
+T1 Symptom 0 7 fatigue
+T2 Symptom 9 17 neuropathy
+T3 Symptom 19 35 taste perversion
+T4 Symptom 37 45 back pain
+T5 Symptom 47 66 suicidal depression
+T6 Symptom 68 78 weight loss
+T7 Symptom 80 87 paranoia
+T8 Symptom 89 115 general change in personality
+T9 Symptom 126 139 feeling
+T10 Symptom 141 156 impending doom
+T11 Drug 178 182 drug
+T12 ADR 146 157 side effect

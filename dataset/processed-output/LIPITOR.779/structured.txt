@@ -1,0 +1,17 @@
+T1 Symptom 17 21 3
+T2 Symptom 30 50 extreme muscle pain
+T3 Symptom 54 61 weakness
+T4 Symptom 83 86 2
+T5 Symptom 105 110 sleep
+T6 Symptom 114 118 energy
+T7 Disease 43 48 trouble
+T8 Disease 57 62 liver
+T9 ADR 99 118 edema-swelling
+T10 Drug 168 174 lasiks
+T11 Drug 199 204 medication
+T12 Drug 213 215 3
+T13 Drug 216 220 10mg
+T14 ADR 229 240 side effects
+T15 Drug 279 285 lipitor
+T16 Symptom 263 266 muscle ache
+T17 Symptom 262 265 days

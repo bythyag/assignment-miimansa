@@ -1,0 +1,17 @@
+T1 Symptom 37 45 weakness
+T2 Symptom 66 70 legs
+T3 Symptom 75 80 aches
+T4 Symptom 82 87 pains
+T5 Symptom 90 94 loss
+T6 Symptom 108 114 thought
+T7 Symptom 116 121 memory
+T8 Symptom 128 133 blood
+T9 Symptom 135 143 pressure
+T10 Symptom 145 152 syptoms
+T11 Disease 159 164 TIA's
+T12 Drug 52 56 drug
+T13 Drug 74 80 Lipitor
+T14 Disease 96 102 surgery
+T15 Symptom 168 177 symptons
+T16 Drug 176 182 Lipitor
+T17 ADR 185 191 damage

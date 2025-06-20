@@ -1,0 +1,8 @@
+BIO Sequence:
+HAVE O | BEEN O | TAKING O | 1 O | 75 O | ARTHROTEC B-Drug | DAILY O | IT O | HAS O | ALMOST O | TOTALY O | ELIMINATED O | MY O | KNEE B-Symptom | PAIN I-Symptom | I O | HAD O | ALMOST O | RESIGNED O | MYSELF O | TO O | A O | KNEE B-Disease | REPLACEMENT I-Disease | . O
+
+Structured Output:
+T1 Drug 21 29 ARTHROTEC
+T2 Symptom 77 81 KNEE
+T3 Symptom 82 86 PAIN
+T4 Disease 95 101 KNEE REPLACEMENT

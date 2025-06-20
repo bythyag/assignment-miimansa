@@ -1,0 +1,11 @@
+T1 Drug 23 34 simvostatin
+T2 Symptom 81 85 pain
+T3 Symptom 91 95 leg
+T4 Symptom 101 105 foot
+T5 Symptom 118 123 pain
+T6 Symptom 131 136 ankle
+T7 Symptom 157 164 walking
+T8 Symptom 171 175 pain
+T9 Symptom 184 188 arm
+T10 Drug 395 400 statin
+T11 Drug 404 411 simvostatin

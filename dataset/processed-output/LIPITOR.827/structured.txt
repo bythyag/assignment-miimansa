@@ -1,0 +1,13 @@
+T1 Symptom 21 27 tremor
+T2 Symptom 43 47 gait
+T3 Symptom 103 111 slowness
+T4 Symptom 115 122 movement
+T5 Drug 104 110 lipitor
+T6 Disease 133 142 parkinson's
+T7 Drug 164 170 statin
+T8 Disease 179 200 neurodegenerative
+T9 Disease 278 300 amyotrophic lateral sclerosis
+T10 Disease 310 321 parkinson/s
+T11 Disease 328 337 alzheimer's
+T12 Drug 346 353 statin
+T13 Disease 359 377 neurodegenerative

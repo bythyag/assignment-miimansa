@@ -1,0 +1,11 @@
+BIO Sequence:
+pain O | in O | both O | legs B-Symptom | , O | unable O | to O | climb O | stairs O | for O | eight O | months O | , O | unable O | to O | stand O | for O | any O | time O | with O | out O | extrem B-ADR | pain I-ADR | in O | knee B-Symptom | joints I-Symptom | . O | When O | I O | notified O | the O | prescribing O | doctor O | ther O | was O | a O | problem O | , O | he O | eventualy O | said O | that O | there O | is O | a O | problem O | with O | the O | medication B-Drug | and O | the O | pain O | in O | the O | legs B-Symptom | should O | subside O | in O | eight O | or O | nine O | weeks O | . O | It O | finaly O | took O | fifteen O | weeks O | and O | left O | me O | with O | two O | failed O | knee O | joits I-Disease | that O | were O | perfect O | before O | taking O | the O | medication B-Drug | . O | The O | product O | should O | be O | removed O | from O | the O | market O | for O | further O | evaluation O | . O
+
+Structured Output:
+T1 Symptom 25 29 legs
+T2 ADR 90 94 extrem pain
+T3 Symptom 102 106 knee joints
+T4 Drug 132 140 medication
+T5 Symptom 142 146 legs
+T6 Drug 157 165 medication
+T7 Disease 167 171 joits

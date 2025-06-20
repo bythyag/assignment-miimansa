@@ -1,0 +1,8 @@
+T1 Symptom 10 17 swelling
+T2 Symptom 28 33 ankle
+T3 Symptom 38 42 knee
+T4 Symptom 52 56 knee
+T5 Symptom 67 74 soreness
+T6 Symptom 80 88 shoulders
+T7 Symptom 95 102 lowering
+T8 Symptom 107 113 energy

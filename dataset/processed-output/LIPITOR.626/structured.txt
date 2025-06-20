@@ -1,0 +1,12 @@
+T1 Symptom 28 32 legs
+T2 Symptom 34 41 ached
+T3 Symptom 44 52 diziness
+T4 Drug 80 84 20mg
+T5 Drug 115 121 Lipitor
+T6 Disease 192 200 5-bypass
+T7 Disease 206 213 9-stents
+T8 Drug 225 232 Mevecor
+T9 Drug 237 243 lipitor
+T10 Drug 245 251 Lipitor
+T11 Drug 253 257 20mg
+T12 Symptom 281 291 Collestrol

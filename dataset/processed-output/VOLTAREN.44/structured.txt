@@ -1,0 +1,13 @@
+T1 Symptom 61 65 pain
+T2 ADR 89 94 mild headache
+T3 ADR 123 132 abdominal cramps
+T4 ADR 140 148 diarrhea
+T5 ADR 154 157 gas
+T6 ADR 159 168 gurgling
+T7 ADR 173 180 mild cramping
+T8 ADR 215 221 bad headache
+T9 ADR 229 237 cramping
+T10 ADR 239 245 nausea
+T11 ADR 249 257 heartburn
+T12 Drug 298 306 iubrofen
+T13 Disease 327 335 February

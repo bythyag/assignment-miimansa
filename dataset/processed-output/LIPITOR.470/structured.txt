@@ -1,0 +1,13 @@
+T1 Disease 61 70 cholesterol
+T2 Symptom 125 143 ankle/knee/leg/hip pain
+T3 Symptom 145 151 aching
+T4 Symptom 156 163 soreness
+T5 Disease 180 186 muscle problem
+T6 Symptom 231 235 ache
+T7 Symptom 263 273 discomfort
+T8 Disease 281 290 legs
+T9 Disease 307 317 wheelchair
+T10 Symptom 340 347 depressed
+T11 Drug 420 426 Lipitor
+T12 Disease 544 550 muscle tone
+T13 Disease 586 591 legs

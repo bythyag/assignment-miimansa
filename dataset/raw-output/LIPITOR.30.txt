@@ -1,0 +1,13 @@
+BIO Sequence:
+MUSCLE B-Symptom | PAIN I-Symptom | IN O | LEFT B-Symptom | ARM I-Symptom | WEAK B-Symptom | FEELING I-Symptom | GENERAL B-Symptom | MALAISE I-Symptom | . O | I O | WOULD O | NOT O | RECOMMEND O | THIS O | DRUG B-Drug | . O
+
+Structured Output:
+T1 Symptom 0 6 MUSCLE
+T2 Symptom 7 11 PAIN
+T3 Symptom 15 19 LEFT
+T4 Symptom 20 23 ARM
+T5 Symptom 24 28 WEAK
+T6 Symptom 29 36 FEELING
+T7 Symptom 37 43 GENERAL
+T8 Symptom 44 51 MALAISE
+T9 Drug 69 73 DRUG

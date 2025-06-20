@@ -1,0 +1,8 @@
+T1 Drug 20 27 Lipitor
+T2 ADR 41 55 muscle aches  
+T3 Symptom 69 101 severe intense left arm and shoulder pain
+T4 Disease 119 136 rotator cuff injury
+T5 Symptom 147 155 twitch
+T6 Disease 227 237 Parkinson's
+T7 Symptom 253 288 pain between my shoulder blades
+T8 Disease 296 308 cholesterol

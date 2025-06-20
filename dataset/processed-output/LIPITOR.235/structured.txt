@@ -1,0 +1,8 @@
+T1 Symptom 1 6 Severe
+T2 Symptom 8 13 muscle pain
+T3 Symptom 24 42 movement restriction
+T4 Symptom 44 52 hand tremor
+T5 Symptom 54 66 memory deficits
+T6 Symptom 68 79 worsening cataract
+T7 Symptom 81 95 gum infections
+T8 Symptom 128 132 arms

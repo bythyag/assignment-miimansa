@@ -1,0 +1,10 @@
+T1 Symptom 29 41 memory loss
+T2 Symptom 44 52 paranoia
+T3 ADR 72 79 suicide
+T4 Disease 94 109 mental illness
+T5 Disease 111 118 suicide
+T6 ADR 127 133 suicide
+T7 ADR 143 158 side effects
+T8 ADR 174 180 suicide
+T9 ADR 197 209 hallucinations
+T10 Drug 222 226 drug

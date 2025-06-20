@@ -1,0 +1,28 @@
+BIO Sequence:
+Did O | reduce O | cholesterol O | but O | after O | 18 B-Disease | months O | suddenly O | developed O | muscle B-Symptom | cramps I-Symptom | and O | tendon B-Symptom | pain I-Symptom | everywhere O | - O | feet B-Symptom | , O | knees B-Symptom | , O | shins B-Symptom | , O | thigh B-Symptom | , O | hips B-Symptom | , O | upper B-Symptom | arms I-Symptom | , O | shoulders B-Symptom | , O | elbows B-Symptom | , O | wrists B-Symptom | , O | hands B-Symptom | , O | tightened B-Symptom | muscles I-Symptom | in O | neck B-Symptom | which O | aggravated O | spinal B-Disease | disc I-Disease | symptoms I-Disease | in O | areas O | where O | I O | have O | had O | problems O | in O | the O | past O | . O | In O | great B-Symptom | acute I-Symptom | pain I-Symptom | doing O | most O | things O | . O | Living O | hell O | . O | Gave O | up O | Lipitor B-Drug | for O | 5 O | weeks O | and O | symptoms O | rapidly O | improved O | . O | Started O | taking O | again O | and O | day O | 1 O | had O | very O | severe B-ADR | cramps I-ADR | and O | pains I-ADR | again O | all O | over O | everwhere O | at O | once O | , O | these O | faded O | slightly O | so O | I O | thought O | I O | would O | try O | another O | - O | same O | very O | severe B-ADR | reaction I-ADR | . O | No O | question O | in O | my O | mind O | that O | it O | is O | the O | culprit O | . O
+
+Structured Output:
+T1 Disease 29 31 18
+T2 Symptom 51 56 muscle cramps
+T3 Symptom 61 75 tendon pain
+T4 Symptom 81 89 feet
+T5 Symptom 91 96 knees
+T6 Symptom 98 103 shins
+T7 Symptom 105 109 thigh
+T8 Symptom 111 115 hips
+T9 Symptom 122 130 upper arms
+T10 Symptom 132 140 shoulders
+T11 Symptom 142 148 elbows
+T12 Symptom 150 156 wrists
+T13 Symptom 158 163 hands
+T14 Symptom 165 173 tightened muscles
+T15 Symptom 176 180 neck
+T16 Disease 199 204 spinal disc
+T17 Disease 206 214 symptoms
+T18 Symptom 238 242 great
+T19 Symptom 250 255 acute pain
+T20 Drug 294 300 Lipitor
+T21 ADR 327 333 severe cramps
+T22 ADR 338 343 pains
+T23 ADR 355 363 severe reaction
+T24 O 0 0 culprit

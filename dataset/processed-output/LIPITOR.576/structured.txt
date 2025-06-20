@@ -1,0 +1,12 @@
+T1 Symptom 20 28 insomnia
+T2 Symptom 72 76 sore
+T3 Symptom 84 90 ringing
+T4 Symptom 111 118 tinnitus
+T5 Drug 45 50 10mg
+T6 Drug 63 69 Lipitor
+T7 Drug 115 120 5mg
+T8 Drug 130 137 Crestor
+T9 ADR 108 114 aching
+T10 Symptom 150 153 flu
+T11 Drug 143 148 statin
+T12 ADR 154 164 side effects

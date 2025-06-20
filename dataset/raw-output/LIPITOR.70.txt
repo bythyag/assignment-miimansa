@@ -1,0 +1,15 @@
+BIO Sequence:
+Muscle B-Symptom | weakness I-Symptom | , O | lack B-Symptom | of O | concentration I-Symptom | , O | joint B-Symptom | pain I-Symptom | , O | abnormal B-Symptom | liver I-Symptom | function I-Symptom | , O | ( O | ? O | ) O | unknown B-Disease | skin I-Disease | condition I-Disease | on O | hands O | . O | I O | was O | living O | with O | the O | initial O | , O | common O | side B-ADR | effects I-ADR | , O | but O | after O | 2 O | years O | my O | fingertips O | got O | puffy B-ADR | and O | / O | or O | scaly B-ADR | . O | In O | a O | couple O | weeks O | the O | skin O | began O | to O | come O | off O | and O | the O | condition O | spread O | to O | the O | sides O | of O | my O | fingers O | and O | my O | palms O | . O | I O | DO O | NOT O | KNOW O | if O | this O | is O | lipitor B-Drug | related O | , O | but O | after O | using O | 2 O | prescription O | ointments O | with O | little O | relief O | , O | I O | quit O | taking O | lipitor B-Drug | and O | after O | 1 O | month O | my O | hands O | were O | healed O | and O | I O | have O | had O | no O | problems O | since O | ( O | 1 O | yr O | . O | ) O | None O | of O | my O | doctors O | can O | ( O | or O | are O | unwilling O | ) O | to O | explain O | this O | . O | They O | want O | me O | back O | on O | a O | statin B-Drug | drug O | , O | but O | I O | will O | not O | untill O | I O | have O | an O | answer O | . O
+
+Structured Output:
+T1 Symptom 0 6 Muscle weakness
+T2 Symptom 8 30 lack of concentration
+T3 Symptom 32 42 joint pain
+T4 Symptom 44 64 abnormal liver function
+T5 Disease 66 85 unknown skin condition
+T6 ADR 97 110 side effects
+T7 ADR 125 131 puffy
+T8 ADR 136 141 scaly
+T9 Drug 158 165 lipitor
+T10 Drug 172 179 lipitor
+T11 Drug 184 191 statin

@@ -1,0 +1,23 @@
+BIO Sequence:
+Some O | swelling B-Symptom | of O | the O | legs I-Symptom | . O | I O | had O | been O | unable O | to O | get O | relief O | from O | my O | pain B-Symptom | for O | 2 O | months O | following O | a O | bone B-Disease | marrow I-Disease | biopsy I-Disease | . O | I O | was O | up O | to O | 30 O | arthritis B-Disease | strength O | tylenol B-Drug | and O | numerous O | Tylenol I-Drug | 3 I-Drug | daily O | . O | Couldn't O | sleep B-Symptom | because O | of O | the O | pain B-Symptom | . O | No O | concentration B-Symptom | . O | Loosing O | days O | of O | work O | . O | Within O | 2 O | days O | of O | taking O | the O | arthrotec B-Drug | 50 I-Drug | ( O | twice O | daily O | ) O | , O | the O | pain B-Symptom | was O | gone O | . O | Even O | the O | arthritic B-Symptom | pain I-Symptom | I O | had O | in O | the O | knees B-Symptom | and O | an O | ankle I-Symptom | . O | gone O | . O | I O | can O | sleep B-Symptom | again O | . O | It O | is O | great O | to O | be O | able O | to O | sleep B-Symptom | & O | function O | again O | . O
+
+Structured Output:
+T1 Symptom 5 13 swelling
+T2 Symptom 31 35 legs
+T3 Symptom 66 70 pain
+T4 Disease 82 89 bone marrow biopsy
+T5 Disease 93 102 arthritis
+T6 Drug 111 118 tylenol
+T7 Drug 126 135 Tylenol 3
+T8 Symptom 147 152 sleep
+T9 Symptom 163 167 pain
+T10 Symptom 172 183 concentration
+T11 Symptom 197 201 days
+T12 Drug 221 228 arthrotec
+T13 Drug 230 232 50
+T14 Symptom 243 247 pain
+T15 Symptom 270 276 arthritic pain
+T16 Symptom 282 286 knees
+T17 Symptom 293 298 ankle
+T18 Symptom 306 311 sleep
+T19 Symptom 322 327 sleep

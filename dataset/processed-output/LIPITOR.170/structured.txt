@@ -1,0 +1,7 @@
+T1 Disease 39 47 myopathy
+T2 Disease 51 55 muscle pain
+T3 Symptom 56 64 cramping
+T4 Symptom 90 94 CPK
+T5 Disease 117 123 heart attack
+T6 Symptom 132 136 liver
+T7 Drug 174 176 10 mg

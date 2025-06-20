@@ -1,0 +1,13 @@
+T1 Symptom 1 8 weakness
+T2 Symptom 10 15 tired
+T3 Symptom 37 40 leg
+T4 Symptom 42 45 arm
+T5 Symptom 49 53 back pain
+T6 Symptom 71 86 not concentrating
+T7 Symptom 88 105 flu symptoms
+T8 Symptom 107 110 randomly
+T9 Symptom 111 115 every
+T10 Symptom 117 120 few
+T11 Symptom 124 128 bad dreams
+T12 Symptom 142 153 purple sploches
+T13 Symptom 155 159 waist

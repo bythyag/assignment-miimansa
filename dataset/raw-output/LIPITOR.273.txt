@@ -1,0 +1,30 @@
+BIO Sequence:
+extreme O | muscle B-Symptom | and O | joint B-Symptom | pain I-Symptom | ; O | extreme O | fatigue B-Symptom | ; O | muscle B-Symptom | stiffness I-Symptom | ; O | tingling B-Symptom | in O | feet B-Symptom | , O | hands B-Symptom | , O | and O | finally O | legs B-Symptom | and O | arms B-Symptom | as O | well O | ; O | inability B-Symptom | to O | walk B-Symptom | any O | distance O | --- O | felt O | like O | 90-year-old O | ; O | contact O | pain B-Symptom | where O | weight O | presses O | against O | things O | -- O | bottom O | of O | feet B-Symptom | , O | back O | of O | legs B-Symptom | against O | a O | chair O | etc O | I O | complained O | to O | my O | doctor O | after O | just O | 3 O | weeks O | of O | 5 O | mg./day O | about O | muscle B-Symptom | and O | joint B-Symptom | pains I-Symptom | . O | ( O | I O | stopped O | the O | Lipitor B-Drug | myself O | after O | reading O | the O | label O | warnings O | . O | The O | pain B-ADR | stopped O | within O | days O | . O | ) O | He O | checked O | the O | CK O | reading O | , O | which O | came O | back O | negeative O | . O | I O | used O | to O | work O | out O | at O | a O | gym O | for O | one O | hour O | twice O | a O | week O | , O | and O | he O | suggested O | that O | I O | was O | getting O | older O | and O | the O | workouts O | might O | be O | too O | extreme O | . O | I O | went O | back O | to O | taking O | the O | Lipitor B-Drug | and O | began O | cutting O | back O | on O | my O | exercise O | . O | After O | 6 O | months O | , O | in O | agony O | , O | I O | went O | for O | more O | blood O | work O | -- O | everything O | was O | negative O | . O | After O | 9 O | months O | I O | stopped O | the O | Lipitor B-Drug | myself O | , O | but O | by O | then O | I O | was O | a O | mess O | : O | couldn't O | walk O | , O | couldn't O | lift O | my O | arms B-Symptom | , O | horrible O | neck B-Symptom | and O | muscle B-Symptom | pain I-Symptom | , O | horrible O | pain B-ADR | in O | every O | tendon B-Symptom | in O | my O | body O | , O | particularly O | the O | Achilles B-Symptom | tendon I-Symptom | and O | those O | on O | the O | back O | of O | the O | head O | . O | My O | family O | doctor O | was O | at O | a O | loss O | . O | I O | went O | to O | a O | NY O | neurologist O | , O | then O | to O | a O | neuromuscular O | doctor O | who O | said O | it O | sounded O | like O | Lipitor B-Drug | , O | even O | though O | I O | had O | been O | off O | the O | Lipitor B-Drug | for O | almost O | 6 O | months O | . O | He O | suggested O | coenzymeQ10 B-Drug | , O | 600 O | mg O | per O | day O | .
+
+Structured Output:
+T1 Symptom 0 13 muscle
+T2 Symptom 15 28 joint pain
+T3 Symptom 30 36 fatigue
+T4 Symptom 38 53 muscle stiffness
+T5 Symptom 55 61 tingling
+T6 Symptom 63 67 feet
+T7 Symptom 69 74 hands
+T8 Symptom 76 80 legs
+T9 Symptom 82 86 arms
+T10 Symptom 93 107 inability to walk any distance
+T11 Symptom 145 149 contact pain
+T12 Symptom 163 168 feet
+T13 Symptom 177 182 legs
+T14 Symptom 185 193 joint pains
+T15 ADR 174 178 pain
+T16 ADR 222 226 pain
+T17 Symptom 259 263 arms
+T18 Symptom 277 281 neck
+T19 Symptom 283 288 muscle pain
+T20 ADR 298 302 pain
+T21 Symptom 314 320 tendon
+T22 Symptom 348 358 Achilles tendon
+T23 Drug 195 201 Lipitor
+T24 Drug 284 290 Lipitor
+T25 Drug 291 297 Lipitor
+T26 Drug 393 404 coenzymeQ10

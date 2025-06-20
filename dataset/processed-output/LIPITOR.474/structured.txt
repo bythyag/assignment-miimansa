@@ -1,0 +1,4 @@
+T1 Disease 19 28 Parkinsons  
+T2 Drug 33 37 drug  
+T3 Symptom 46 53 weakness  
+T4 Symptom 73 80 tremors

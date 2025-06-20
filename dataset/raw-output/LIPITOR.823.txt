@@ -1,0 +1,12 @@
+BIO Sequence:
+Cramps B-Symptom | in O | calves B-Symptom | several O | times O | a O | day O | . O | Legs B-Symptom | feel O | tired B-Symptom | and O | swollen B-Symptom | . O | Neck B-Symptom | and O | shoulders B-Symptom | ache O | and O | are O | sore O | all O | the O | time O | . O | I O | am O | going O | off O | of O | it O | . O 
+
+Structured Output:
+T1 Symptom 0 6 Cramps
+T2 Symptom 9 15 calves
+T3 Symptom 40 45 tired
+T4 Symptom 52 58 swollen
+T5 Symptom 61 65 Neck
+T6 Symptom 70 79 shoulders
+T7 Symptom 81 85 ache
+T8 Symptom 90 94 sore

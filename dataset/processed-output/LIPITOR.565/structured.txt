@@ -1,0 +1,8 @@
+T1 Disease 74 79 liver
+T2 Disease 85 96 Triglycerides
+T3 Disease 101 111 cholesterol
+T4 Drug 127 133 Lopid
+T5 Drug 134 146 Gemfibrozil
+T6 Drug 152 159 Lipitor
+T7 Disease 188 190 TG
+T8 Drug 214 220 Tricor

@@ -1,0 +1,6 @@
+BIO Sequence:
+I O | was O | fine O | for O | 3 O | weeks O | and O | then O | it O | felt O | like O | a O | neo-nazi O | skinhead O | gang O | kicked O | me O | in O | the O | gut B-Symptom | 150 O | times O | . O | I O | quit O | it O | and O | felt O | sore B-Symptom | but O | better O | in O | a O | week O | . O
+
+Structured Output:
+T1 Symptom 36 39 gut
+T2 Symptom 83 87 sore

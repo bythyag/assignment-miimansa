@@ -1,0 +1,6 @@
+T1 ADR 28 37 side effects
+T2 Symptom 51 55 numb
+T3 Symptom 78 90 light headed
+T4 Drug 153 160 voltaren
+T5 Disease 178 192 inflammation
+T6 ADR 194 199 panic

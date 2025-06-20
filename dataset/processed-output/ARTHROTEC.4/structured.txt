@@ -1,0 +1,8 @@
+T1 Symptom 24 29 heavy  
+T2 Symptom 30 37 bleeding  
+T3 Symptom 93 100 horrific  
+T4 Symptom 101 107 cramps  
+T5 Drug 120 128 arthrotec  
+T6 Disease 134 147 endometriosis  
+T7 Drug 164 172 arthrotec  
+T8 Disease 185 192 pinched nerve

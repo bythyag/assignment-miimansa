@@ -1,0 +1,7 @@
+T1 Drug 23 30 lipitor
+T2 Disease 47 57 cholesteral
+T3 Symptom 114 118 feet
+T4 Disease 196 200 CPK
+T5 Disease 269 273 CPK
+T6 Symptom 470 474 Tingly hands
+T7 ADR 487 497 musche aches

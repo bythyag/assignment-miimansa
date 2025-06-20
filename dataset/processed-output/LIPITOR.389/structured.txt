@@ -1,0 +1,28 @@
+T1 Symptom 20 30 memory loss
+T2 Symptom 32 41 hair loss
+T3 Symptom 43 57 muscle spasms
+T4 Symptom 62 69 left arm
+T5 Symptom 72 76 legs
+T6 Symptom 78 83 odd blood sugar pattern
+T7 Symptom 85 97 sciatic pain
+T8 Symptom 101 107 sciatica
+T9 Symptom 110 121 periodic back pain
+T10 Symptom 123 127 hip pain
+T11 Symptom 129 146 loss of feeling
+T12 Symptom 150 154 toes
+T13 Symptom 157 165 dizziness
+T14 Symptom 168 173 vision problems
+T15 Symptom 176 191 extreme tiredness
+T16 Symptom 194 210 lack of appetite
+T17 Symptom 213 226 no enthusiasm
+T18 Disease 240 243 TIAs
+T19 Drug 304 308 drug
+T20 Symptom 286 300 return of feeling
+T21 ADR 314 321 muscle cramps
+T22 ADR 332 340 dizziness 
+T23 Drug 343 353 lipoic acid
+T24 Drug 355 360 vit C
+T25 Drug 368 373 CoQ10
+T26 Drug 375 381 statin
+T27 Disease 388 397 cholesterol
+T28 Disease 409 415 stroke

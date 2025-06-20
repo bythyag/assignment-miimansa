@@ -1,0 +1,8 @@
+T1 Symptom 25 32 hip pain
+T2 ADR 45 51 cramps
+T3 ADR 53 60 diarrhea
+T4 ADR 62 69 heavy bleeding
+T5 Disease 73 79 period
+T6 Drug 83 87 pill
+T7 Symptom 103 109 cramps
+T8 Symptom 123 127 sick

@@ -1,0 +1,9 @@
+T1 Symptom 0 7 Weakness
+T2 Symptom 9 19 muscle ache
+T3 Symptom 21 27 fatigue
+T4 Symptom 29 55 noticible loss of muscle structure
+T5 Drug 120 124 drug
+T6 Drug 173 177 drug
+T7 Disease 198 208 cholesterol
+T8 Drug 270 274 drug
+T9 Disease 281 286 chol. level

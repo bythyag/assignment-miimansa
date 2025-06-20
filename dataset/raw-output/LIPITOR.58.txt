@@ -1,0 +1,18 @@
+BIO Sequence:
+initially O | noticed O | twitching B-Symptom | in O | thighs I-Symptom | thought O | because O | im O | a O | rn O | it O | was O | just O | in O | my O | mind O | 5 O | wks O | into O | pain B-Symptom | in O | ankle I-Symptom | to O | point O | i O | couldnt O | walk O | went O | to O | podiatrist O | who O | ive O | seen O | for O | plantar B-Disease | fascitits I-Disease | and O | was O | told O | bones B-Disease | in O | foot I-Disease | collapsing O | mechanical B-Disease | problem I-Disease | not O | lipitor B-Drug | made O | orthotics O | put O | on O | nsaid B-Drug | no O | reief O | got O | orthotics O | and O | now O | on O | medrol B-Drug | dose O | pack O | having O | mri B-Procedure | tommarrow O | will O | never O | take O | again O | . O | was O | a O | big O | lipitor B-Drug | fan O | before O | started O | on O | studies O | showed O | helped O | alzheimers B-Disease | now O | would O | never O | reccomend O | and O | have O | talked O | to O | numerous O | people O | who O | had O | problems O | . O
+
+Structured Output:
+T1 Symptom 27 35 twitching
+T2 Symptom 59 63 pain
+T3 Symptom 68 73 ankle
+T4 Disease 100 115 plantar fascitits
+T5 Disease 121 126 bones
+T6 Disease 129 133 foot
+T7 Disease 136 144 collapsing
+T8 Disease 146 155 mechanical problem
+T9 Drug 165 171 lipitor
+T10 Drug 181 186 nsaid
+T11 Drug 194 200 medrol
+T12 Procedure 206 209 mri
+T13 Drug 219 225 lipitor
+T14 Disease 246 255 alzheimers

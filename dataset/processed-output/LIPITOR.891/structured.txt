@@ -1,0 +1,24 @@
+T1 Symptom 18 40 restless leg syndrom
+T2 Drug 113 120 lipitor
+T3 Disease 127 143 high triglycerides
+T4 Drug 146 152 tricor
+T5 Drug 155 161 lipitor
+T6 Drug 163 169 tricor
+T7 Disease 173 186 triglycerides
+T8 Symptom 218 223 flu
+T9 Symptom 225 231 cramps
+T10 Symptom 235 240 chest
+T11 Symptom 242 246 legs
+T12 Symptom 248 254 rashes
+T13 Symptom 270 277 fatigued
+T14 ADR 309 312 gums
+T15 ADR 314 322 swelling
+T16 ADR 324 330 visual
+T17 ADR 332 340 anomalies
+T18 ADR 342 350 numbness
+T19 ADR 352 358 muscles
+T20 ADR 363 368 sore
+T21 ADR 374 380 soreness
+T22 ADR 382 387 mucous
+T23 ADR 389 396 membrane
+T24 ADR 398 404 areas

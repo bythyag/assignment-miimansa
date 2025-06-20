@@ -1,0 +1,7 @@
+T1 Drug 58 63 zetia
+T2 Drug 69 76 vytorin
+T3 Disease 99 104 Heart attack
+T4 Disease 112 120 quadruple bypass
+T5 Drug 132 136 10mg
+T6 Drug 148 152 40mg
+T7 Disease 157 163 bypass

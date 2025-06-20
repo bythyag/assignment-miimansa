@@ -1,0 +1,15 @@
+BIO Sequence:
+Lethargy B-Symptom | , O | fuzzy B-Symptom | thinking I-Symptom | , O | blurry B-Symptom | vision I-Symptom | , O | dull B-Symptom | muscle I-Symptom | pains I-Symptom | constantly O | . O | It O | has O | done O | almost O | nothing O | for O | my O | Triglycerides B-Disease | , O | nor O | has O | it O | elevated O | my O | HDL B-Disease | . O | My O | LDL B-Disease | and O | total O | Cholesteral B-Disease | , O | however O | responded O | quite O | favorably O | . O | Make O | sure O | you O | don O | ' O | t O | take O | Lopid B-Drug | with O | this O | . O | It O | can O | damage O | your O | heart B-Disease | and O | keep O | you O | short O | of O | breath B-Symptom | and O | constantly O | weak B-Symptom | . O 
+
+Structured Output:
+T1 Symptom 0 8 Lethargy
+T2 Symptom 10 24 fuzzy thinking
+T3 Symptom 26 38 blurry vision
+T4 Symptom 40 56 dull muscle pains
+T5 Disease 76 89 Triglycerides
+T6 Disease 106 109 HDL
+T7 Disease 113 117 LDL
+T8 Disease 123 134 Cholesteral
+T9 Disease 142 147 heart
+T10 Symptom 157 162 breath
+T11 Symptom 178 183 weak

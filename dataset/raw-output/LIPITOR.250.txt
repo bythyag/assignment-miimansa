@@ -1,0 +1,13 @@
+BIO Sequence:
+heel B-Symptom | pain I-Symptom | goiing O | into O | my O | ankle I-Symptom | . O | heel O | is O | hot O | and O | feels O | like O | i O | am O | walking O | on O | a O | stone O | . O | when O | i O | go O | off O | off O | the O | lipitor B-Drug | for O | a O | few O | days O | it O | gets O | better O | . O | i O | took O | this O | for O | 6 O | months O | 20 O | mg O | and O | did O | not O | have O | a O | problem O | but O | my O | coalesteral B-Disease | went O | back O | up O | to O | 250 O | even O | though O | i O | am O | not O | a O | big O | meat O | eater O | . O | i O | have O | been O | on O | it O | for O | 4 O | months O | this O | time O | . O | i O | am O | going O | off O | it O | for O | good O | and O | see O | if O | my O | foot B-Symptom | gets O | better O | . O | it O | has O | bothered O | me O | for O | 2 O | months O | thought O | I O | had O | the O | goat B-Disease | . O | I O | am O | 74 O | female O | and O | not O | a O | drinker O | or O | eat O | rich O | food O | . O
+
+Structured Output:
+T1 Symptom 0 4 heel
+T2 Symptom 5 9 pain
+T3 Symptom 21 26 ankle
+T4 Symptom 44 48 hot
+T5 Symptom 66 70 feels
+T6 Symptom 92 96 foot
+T7 Disease 116 126 coalesteral
+T8 Disease 158 162 goat
+T9 Drug 42 49 lipitor

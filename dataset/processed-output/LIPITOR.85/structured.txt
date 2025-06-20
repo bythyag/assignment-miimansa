@@ -1,0 +1,18 @@
+T1 Symptom 0 6 Severe
+T2 Symptom 7 13 chronic fatigue
+T3 Symptom 15 29 muscle weakness
+T4 Symptom 31 39 problems
+T5 Symptom 41 46 memory
+T6 Symptom 48 58 concentration
+T7 Disease 60 66 Severe depression
+T8 Symptom 69 78 Cholesterol
+T9 ADR 90 98 exhausted
+T10 ADR 105 109 weak
+T11 Symptom 130 139 Legs
+T12 Symptom 143 149 wobbly
+T13 Symptom 158 169 exhausting
+T14 Symptom 175 183 Symptoms
+T15 Drug 187 194 Lipitor
+T16 Drug 198 205 Lipitor
+T17 ADR 219 234 side effect
+T18 ADR 238 243 muscle pain

@@ -1,0 +1,1 @@
+general O | weakness B-Symptom | , O | decreased B-Symptom | stamina I-Symptom | . O

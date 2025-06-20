@@ -1,0 +1,23 @@
+T1 Symptom 34 39 legs
+T2 Symptom 41 45 foot
+T3 Symptom 50 53 leg
+T4 Symptom 54 59 cramps
+T5 ADR 77 83 rashes
+T6 Symptom 90 93 sun
+T7 Symptom 95 104 sensitivity
+T8 Symptom 113 120 itching
+T9 Symptom 126 130 scabs
+T10 Drug 144 158 St John's Wort
+T11 Disease 163 172 depression
+T12 Symptom 179 183 sun
+T13 Symptom 195 198 sensitivity
+T14 Drug 206 212 Lipitor
+T15 Drug 230 236 statin
+T16 Drug 238 246 Pravachol
+T17 Disease 259 269 cholesterol
+T18 ADR 274 279 boils
+T19 Drug 281 287 Lopids
+T20 Disease 299 302 flu
+T21 Symptom 337 341 sick
+T22 Drug 352 358 Lipitor
+T23 Symptom 380 384 sick

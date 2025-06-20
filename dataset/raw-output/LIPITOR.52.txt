@@ -1,0 +1,16 @@
+BIO Sequence:
+developed O | parkinson's B-Disease | disease I-Disease | . O | discovered O | thru O | 23andme B-Drug | DNA O | profiling O | I O | possess O | a O | mutation O | in O | a O | gene O | , O | SLCO1B1 B-Drug | , O | that O | codes O | a O | transport O | protein O | responsible O | for O | moving O | statins B-Drug | into O | the O | liver O | to O | be O | detoxified O | . O | Studies O | have O | noted O | patients O | with O | greatly O | incrased O | plasma O | statin B-Drug | levels O | (> O | 134% O | and O | AUCs O | more O | than O | 400% O | ABOVE O | NORMAL O | ) O | toxic O | levels O | indeed O | . O | The O | neurological B-Disease | damage O | I O | have O | suffered O | due O | to O | toxic O | levels O | of O | lipitor B-Drug | seems O | to O | be O | permanent O | . O | Nothing O | I O | have O | tried O | has O | reversed O | the O | extreme O | symptoms O | . O | in O | the O | beginning O | megadoses O | of O | coenzyme B-Drug | Q10 B-Drug | did O | help O | ; O | that O | was O | 6 O | yrs O | ago O | . O | the O | deterioration O | continues O | . O | the O | slco1b1 B-Drug | mutation O | IS O | NOT O | rare O | , O | occurring O | in O | 26-34% O | of O | caucasian O | poulation O | , O | less O | in O | african O | am O | , O | and O | more O | in O | Asian O | pop O | . O | seems O | many O | individuals O | with O | the O | mutation(s) O | develop O | severe O | myalgias B-Symptom | and O | myopathies B-Disease | , O | prompting O | discontinuance O | of O | the O | statin B-Drug | . O | for O | those O | of O | us O | who O | did O | not O | suffer O | the O | muscle O | dmaage O | , O | neurodegeneration B-Disease | is O | what O | occurs O | in O | my O | opinion O | . O | Am O | aware O | of O | 7 O | other O | indicviduals O | who O | feel O | they O | are O | sufferring O | same O | effects O | as O | I O | from O | a O | fat O | soluble O | statin B-Drug | . O
+
+Structured Output:
+T1 Disease 11 30 parkinson's disease
+T2 Drug 51 57 23andme
+T3 Drug 74 82 SLCO1B1
+T4 Drug 91 97 statins
+T5 Drug 144 150 statin
+T6 Drug 166 172 lipitor
+T7 Drug 187 197 coenzyme Q10
+T8 Drug 200 207 slco1b1
+T9 Symptom 277 284 myalgias
+T10 Disease 290 300 myopathies
+T11 Disease 315 330 neurodegeneration
+T12 Drug 377 383 statin

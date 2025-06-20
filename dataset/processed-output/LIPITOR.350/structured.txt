@@ -1,0 +1,4 @@
+T1 Symptom 13 21 Painful feet
+T2 Symptom 67 72 hurt
+T3 Symptom 94 103 higher pain level
+T4 Drug 36 42 Lipitor

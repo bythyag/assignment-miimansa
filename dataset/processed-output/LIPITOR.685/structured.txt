@@ -1,0 +1,10 @@
+T1 Drug 8 15 Lipitor
+T2 Symptom 49 54 severe pain
+T3 Disease 66 70 legs
+T4 Symptom 97 108 muscle weakness
+T5 Disease 116 120 legs
+T6 Symptom 134 138 pain
+T7 Drug 132 139 Lipitor
+T8 Drug 169 176 Lipitor
+T9 Symptom 192 199 leg pain
+T10 Drug 201 208 Lipitor

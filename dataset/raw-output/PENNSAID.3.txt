@@ -1,0 +1,11 @@
+BIO Sequence:
+I O | only O | used O | it O | 3 O | X O | but O | developed O | kidney B-Disease | pain I-Disease | each O | time O | and O | elevated O | BP B-Symptom | . O | Within O | an O | hour O | of O | the O | last O | time O | I O | applied O | it O | , O | my O | heart B-Symptom | rate I-Symptom | jumped O | to O | 106 O | & O | my O | BP B-Symptom | 145/95 I-Symptom | . O | I O | also O | experienced O | horrible O | anxiety B-ADR | . O | I O | thought O | I O | was O | going O | to O | have O | heart B-Symptom | attack I-Symptom | or O | stroke B-Disease | . O 
+
+Structured Output:
+T1 Disease 43 49 kidney
+T2 Symptom 58 60 BP
+T3 Symptom 87 93 heart rate
+T4 Symptom 100 102 BP
+T5 ADR 114 120 anxiety
+T6 Symptom 144 149 heart attack
+T7 Disease 155 161 stroke

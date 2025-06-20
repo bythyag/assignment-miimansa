@@ -1,0 +1,13 @@
+BIO Sequence:
+no O | side B-ADR | effects I-ADR | for O | the O | first O | two O | months O | . O | then O | vaginal B-Symptom | bleeding I-Symptom | 2 O | wks O | after O | menstral B-Symptom | cycle I-Symptom | . O | stomach B-Symptom | pain I-Symptom | . O | canker B-Symptom | sores I-Symptom | in O | my O | mouth O | . O | headache B-Symptom | . O | been O | off O | for O | 1 O | week O | still O | have O | bleeding B-Symptom | . O | helped O | my O | pain B-Symptom | alot O | . O | too O | scared O | to O | take O | this O | drug B-Drug | again O | . O 
+
+Structured Output:
+T1 ADR 10 21 side effects
+T2 Symptom 31 50 vaginal bleeding
+T3 Symptom 57 69 menstral cycle
+T4 Symptom 71 83 stomach pain
+T5 Symptom 85 97 canker sores
+T6 Symptom 102 110 headache
+T7 Symptom 122 130 bleeding
+T8 Symptom 135 139 pain
+T9 Drug 150 154 drug

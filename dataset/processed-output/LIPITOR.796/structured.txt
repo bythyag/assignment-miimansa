@@ -1,0 +1,18 @@
+T1 Symptom 0 8 Hair loss
+T2 Disease 9 24 Diffuse Alopecia
+T3 Symptom 26 31 hair thinning
+T4 Disease 47 54 type 1 diabetes
+T5 Symptom 71 82 blood sugar
+T6 Disease 83 90 Hemoglobin A1C
+T7 Disease 92 93 6%
+T8 Disease 99 106 Thyroid
+T9 Drug 115 135 Olmetec(olmesartan)
+T10 Drug 138 152 Istin(amlodipine)
+T11 Drug 155 177 Lipitor(atorvastatin)
+T12 Drug 169 175 Lipitor
+T13 Symptom 191 205 hair
+T14 Symptom 224 231 alarming rate
+T15 Disease 228 238 male pattern baldness
+T16 Disease 253 262 cholesterol
+T17 Symptom 267 273 stress
+T18 Disease 314 327 high cholesterol

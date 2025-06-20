@@ -1,0 +1,10 @@
+BIO Sequence:
+Extreme O | muscle B-Symptom | weakness I-Symptom | and O | thinking B-Symptom | problems I-Symptom | . O | This O | has O | gone O | on O | for O | 2 O | years O | now O | and O | is O | not O | getting O | straightened O | out O | . O | I O | would O | not O | advise O | any O | body O | to O | take O | Lipitor B-Drug | unless O | their O | cholesterol B-Disease | is O | over O | 300 O | and O | then O | only O | with O | extreme O | close O | care O | by O | the O | physician B-Disease | . O | Physicians O | should O | study O | the O | drugs B-Drug | they O | give O | their O | patients O | instead O | of O | just O | taking O | the O | pharmacy O | salesmen O | word O | for O | it O | . O
+
+Structured Output:
+T1 Symptom 8 23 muscle weakness
+T2 Symptom 32 49 thinking problems
+T3 Drug 90 96 Lipitor
+T4 Disease 108 118 cholesterol
+T5 Disease 133 142 physician
+T6 Drug 157 162 drugs

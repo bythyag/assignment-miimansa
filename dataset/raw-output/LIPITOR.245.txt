@@ -1,0 +1,7 @@
+BIO Sequence:
+Tingling B-Symptom | all O | over O | my O | body B-Symptom | and O | numbness B-Symptom.
+
+Structured Output:
+T1 Symptom 0 8 Tingling
+T2 Symptom 20 25 body
+T3 Symptom 30 37 numbness

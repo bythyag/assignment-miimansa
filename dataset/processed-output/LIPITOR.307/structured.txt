@@ -1,0 +1,11 @@
+T1 ADR 126 130 Gas
+T2 ADR 132 139 bloating
+T3 ADR 141 155 sleeplessness
+T4 ADR 163 170 fatigue
+T5 ADR 179 194 muscle stiffness
+T6 Disease 220 228 menopause
+T7 Disease 233 241 arthritis
+T8 Drug 307 313 lipitor
+T9 Drug 375 380 herbs
+T10 Drug 406 415 alternative treatment
+T11 ADR 452 460 depressed

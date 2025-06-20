@@ -1,0 +1,15 @@
+T1 Drug 19 25 Lipitor
+T2 Symptom 52 56 pain
+T3 Symptom 63 67 hips
+T4 Symptom 70 74 legs
+T5 Symptom 90 94 pain
+T6 Symptom 111 119 stiffness
+T7 Symptom 121 128 weakness
+T8 Symptom 131 135 pain
+T9 Symptom 142 146 legs
+T10 Symptom 148 152 hips
+T11 Symptom 166 170 side
+T12 Symptom 173 177 limp
+T13 Drug 204 213 physical therapy
+T14 Drug 216 223 massage theraphy
+T15 Drug 226 230 pain medicine

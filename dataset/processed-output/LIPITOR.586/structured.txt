@@ -1,0 +1,9 @@
+T1 Drug 21 28 Lipitor
+T2 Symptom 64 69 swollen
+T3 Symptom 71 75 legs
+T4 Symptom 77 83 ankles
+T5 Symptom 88 92 pain
+T6 Symptom 96 100 lower
+T7 Symptom 101 104 leg
+T8 Drug 147 154 Lipitor
+T9 Drug 190 197 Lipitor

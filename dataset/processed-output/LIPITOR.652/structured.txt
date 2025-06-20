@@ -1,0 +1,16 @@
+T1 Drug 26 32 Lipitor
+T2 ADR 75 81 nausea
+T3 ADR 84 90 diziness
+T4 ADR 94 102 trembling
+T5 Symptom 113 130 trouble concentrating
+T6 Symptom 133 139 sadness
+T7 Symptom 142 150 moodiness
+T8 Symptom 153 160 insomia
+T9 Symptom 169 177 neck pain
+T10 Symptom 180 194 dull headaches
+T11 Symptom 196 203 feverish
+T12 Symptom 206 218 clamy feeling
+T13 Symptom 220 234 tingly feeling
+T14 Symptom 249 255 rotton
+T15 ADR 289 298 poisened
+T16 Drug 331 337 Lipitor

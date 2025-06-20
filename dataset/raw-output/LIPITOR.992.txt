@@ -1,0 +1,22 @@
+BIO Sequence:
+muscle B-Symptom | wasting I-Symptom | in O | the O | shoulders B-Symptom | and O | arms B-Symptom | , O | nerve B-Symptom | problems I-Symptom | in O | shoulder B-Symptom | , O | fatigue B-Symptom | and O | very O | sensitive I-Symptom | to O | the O | cold B-Symptom | . O | started O | on O | 10mg B-Drug | raised O | to O | 20 O | . O | numbers O | are O | great O | with O | the O | bloods O | but O | symptoms B-Symptom | gradually O | got O | worse O | . O | ive O | just O | stopped O | taking O | them O | , O | going O | to O | start O | high O | dose O | fish B-Drug | oil I-Drug | , O | coenzyme B-Drug | 10 I-Drug | , O | vit B-Drug | c I-Drug | and O | alpha B-Drug | lipoic I-Drug | acid I-Drug | and O | see O | what O | the O | next O | bloods O | say O | , O | please O | note O | other O | meds O | were O | taken O | at O | the O | same O | time O | as O | the O | lipitor B-Drug | - O | ramipril B-Drug | and O | metoprolol I-Drug | & O | acid O | reducers O | for O | gout B-Disease | , O | so O | anybodies O | guess O | ? O 
+
+Structured Output:
+T1 Symptom 0 18 muscle wasting
+T2 Symptom 22 30 shoulders
+T3 Symptom 34 38 arms
+T4 Symptom 41 56 nerve problems
+T5 Symptom 61 68 shoulder
+T6 Symptom 70 77 fatigue
+T7 Symptom 82 108 very sensitive to the cold
+T8 Drug 45 50 10mg
+T9 Drug 59 62 20
+T10 Symptom 94 102 symptoms
+T11 Drug 112 120 fish oil
+T12 Drug 124 133 coenzyme 10
+T13 Drug 138 143 vit c
+T14 Drug 148 161 alpha lipoic acid
+T15 Drug 171 178 lipitor
+T16 Drug 180 188 ramipril
+T17 Drug 194 204 metoprolol
+T18 Disease 211 215 gout

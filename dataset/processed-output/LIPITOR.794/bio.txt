@@ -1,0 +1,1 @@
+Aching B-Symptom | weakness I-Symptom | in O | legs B-Symptom | back I-Symptom | and O | shoulders I-Symptom | . O | Side O | effects B-ADR | subsided O | after O | lipitor B-Drug | stopped O | . O | The O | drug O | is O | toxic B-ADR | and O | will O | probably O | kill O | you O | before O | the O | high O | cholesterol B-Disease | will O | . O

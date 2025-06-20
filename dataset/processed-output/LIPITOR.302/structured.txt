@@ -1,0 +1,15 @@
+T1 Symptom 0 6 Severe
+T2 Symptom 7 12 muscle
+T3 Symptom 13 17 and
+T4 Symptom 18 23 joint
+T5 Symptom 24 28 pain
+T6 Disease 30 34 left
+T7 Disease 35 38 leg
+T8 Drug 54 60 80
+T9 ADR 102 106 pain
+T10 Drug 113 119 Lipitor
+T11 Drug 131 137 Lipitor
+T12 Disease 152 158 heart
+T13 Disease 159 165 attack
+T14 Symptom 182 187 weight
+T15 Symptom 188 192 gain

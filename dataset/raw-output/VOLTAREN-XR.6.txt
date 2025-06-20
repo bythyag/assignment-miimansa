@@ -1,0 +1,7 @@
+BIO Sequence:
+Despite O | concerns B-Symptom | I-Symptom | think O | it O | is O | worth O | to O | try O | this O | for O | the O | long B-Disease | I-Disease | term I-Disease | . O | Of O | course O | cautions B-Symptom | have O | to O | be O | made O | . O
+
+Structured Output:
+T1 Symptom 10 18 concerns
+T2 Disease 53 61 long term
+T3 Symptom 64 72 cautions

@@ -1,0 +1,11 @@
+T1 Drug 6 14 mg/day
+T2 Symptom 32 46 stomach discomfort
+T3 Symptom 69 82 muscle aches and pains
+T4 ADR 119 130 grouchier
+T5 Symptom 144 149 extreme fatigue
+T6 Symptom 154 175 shortness of breath
+T7 Drug 181 188 Lipitor
+T8 Drug 201 208 Atacand
+T9 Disease 218 233 high blood pressure
+T10 Symptom 244 251 fatigue
+T11 Symptom 257 275 shortness of breath

@@ -1,0 +1,10 @@
+T1 Symptom 0 12 muscle pain
+T2 Symptom 14 25 joint pain
+T3 Symptom 27 34 weakness
+T4 Symptom 36 53 overall exhaustion
+T5 Symptom 55 70 gum ulcerations
+T6 Symptom 72 80 hair loss
+T7 Drug 90 94 drug
+T8 Symptom 135 140 pain
+T9 Symptom 153 161 stiffness
+T10 Drug 174 178 drug

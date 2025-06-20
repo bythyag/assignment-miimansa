@@ -1,0 +1,11 @@
+BIO Sequence:
+I've O | been O | taking O | 20 O | mg. B-Drug | lipitor I-Drug | daily O | since O | 1989 O | or O | 1990 O | . O | no O | side B-ADR | effects I-ADR | to O | date O | and O | I O | have O | liver B-Disease | functions I-Disease | tests O | every O | six O | months O | . O | I O | tried O | other O | statins B-Drug | before O | lipitor I-Drug | , O | but O | they O | didn't O | have O | the O | affect O | lipitor I-Drug | did O | . O
+
+Structured Output:
+T1 Drug 18 23 mg.
+T2 Drug 25 31 lipitor
+T3 ADR 85 95 side effects
+T4 Disease 96 112 liver functions
+T5 Drug 128 135 statins
+T6 Drug 144 150 lipitor
+T7 Drug 160 166 lipitor

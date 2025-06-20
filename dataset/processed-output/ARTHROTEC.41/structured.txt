@@ -1,0 +1,27 @@
+T1 Symptom 0 8 Dizziness
+T2 Symptom 10 17 sickness
+T3 Symptom 19 32 stomach gas
+T4 Symptom 52 62 chest
+T5 Symptom 75 81 hunger pangs
+T6 Disease 87 92 acids
+T7 Disease 94 97 gas
+T8 Disease 99 106 stomach
+T9 Drug 118 128 co-codamol
+T10 Disease 132 143 fibromyalgia
+T11 ADR 144 157 side effects
+T12 Symptom 164 169 severe
+T13 Symptom 174 177 hip pain
+T14 Drug 183 194 co codamol
+T15 Drug 202 215 anti-inflamatory
+T16 Drug 222 231 cortozone
+T17 Drug 247 258 injections
+T18 ADR 277 283 dreadful
+T19 ADR 293 298 sick
+T20 Symptom 301 313 light-headed
+T21 ADR 317 323 waves of nausea
+T22 Symptom 346 353 clammy
+T23 Symptom 372 382 permanent hangover
+T24 Symptom 392 397 hunger
+T25 Disease 409 414 hips
+T26 ADR 431 446 side effects
+T27 Drug 459 463 drug

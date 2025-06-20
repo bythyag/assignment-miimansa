@@ -1,0 +1,16 @@
+T1 Symptom 12 19 leg pain
+T2 Symptom 34 40 cripple
+T3 Symptom 54 62 hip pain
+T4 Disease 73 78 hips
+T5 ADR 97 101 blood
+T6 ADR 103 115 liver function
+T7 Symptom 142 146 walk
+T8 Symptom 157 161 bend
+T9 Symptom 167 172 walk
+T10 Symptom 182 186 walk
+T11 Symptom 203 210 leg pain
+T12 Symptom 220 225 hip pain
+T13 Drug 25 31 motrin
+T14 Drug 37 49 asper-cream
+T15 Drug 55 62 Lipitor
+T16 Disease 65 80 heart attack

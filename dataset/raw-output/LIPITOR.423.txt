@@ -1,0 +1,10 @@
+BIO Sequence:
+Rare O | Side O | Effect O | . O | Total O | loss B-ADR | of O | libido B-Symptom | . O | I O | lost O | all O | sexual B-Symptom | desires I-Symptom | and O | thoughts I-Symptom | . O | It O | took O | a O | while O | to O | figure O | out O | why O | . O | When O | I O | stopped O | taking O | Lipitor B-Drug | I O | was O | back O | to O | myself O | within O | 3 O | days O | . O | I O | will O | never O | take O | this O | drug B-Drug | again O | . O 
+
+Structured Output:
+T1 ADR 32 36 loss
+T2 Symptom 37 43 libido
+T3 Symptom 46 64 sexual desires
+T4 Symptom 66 72 thoughts
+T5 Drug 91 97 Lipitor
+T6 Drug 121 125 drug

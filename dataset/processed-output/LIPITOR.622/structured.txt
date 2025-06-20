@@ -1,0 +1,10 @@
+T1 Disease 28 38 cholesterol
+T2 Disease 43 55 triglycerides
+T3 ADR 76 82 extreme fatigue
+T4 ADR 84 101 muscle weakness
+T5 ADR 103 112 depression
+T6 Symptom 126 132 chronic
+T7 Symptom 133 138 elbow
+T8 Symptom 139 143 pain
+T9 Drug 178 185 Lipitor
+T10 Symptom 233 239 energy

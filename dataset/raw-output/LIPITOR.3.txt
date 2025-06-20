@@ -1,0 +1,21 @@
+BIO Sequence:
+I O | started O | taking O | Lipitor B-Drug | in O | December O | 2009 O | and O | stopped O | after O | 4 O | months O | . O | During O | this O | time O | I O | experienced O | extreme O | pain B-Symptom | in O | both O | shoulders B-Symptom | , O | sometimes O | in O | the O | neck B-Symptom | also O | , O | causing O | me O | to O | wake O | several O | times O | each O | night O | . O | Pain B-Symptom | was O | worse O | in O | the O | morning O | but O | rarely O | went O | away O | completely O | during O | the O | day O | . O | Most O | mornings O | it O | was O | impossible O | to O | wash O | my O | hair O | in O | the O | shower O | as O | I O | was O | unable O | to O | reach O | the O | top O | of O | my O | head O | with O | my O | hands O | . O | Pain B-Symptom | and O | restricted O | movement B-Symptom | often O | prevented O | me O | from O | putting O | on O | shoes O | and O | socks O | without O | assistance O | . O | In O | January O | this O | year O | I O | started O | experiencing O | discomfort B-Symptom | in O | my O | left O | hand O | for O | the O | first O | time O | . O | Now O | in O | both O | hands O | , O | the O | pain B-Symptom | has O | increased O | , O | fingers O | are O | swollen B-Symptom | and O | movement B-Symptom | is O | restricted O | . O | My O | wife O | tells O | me O | my O | hands O | are O | warm O | to O | touch O | . O | The O | mornings O | are O | worse O | when O | they O | hurt O | the O | most O | , O | movement B-Symptom | is O | restricted O | and O | it O | is O | impossible O | to O | make O | a O | fist O | . O | Ice O | and O | ibruprofen B-Drug | gel O | help O | but O | only O | for O | a O | short O | while O | . O | I O | have O | been O | taking O | 400 O | mg O | Ibruprofen B-Drug | 3 O | times O | daily O | for O | a O | couple O | of O | weeks O | on O | my O | doctors O | advice O | without O | . O | This O | drug O | is O | clearly O | POISON O | to O | so O | many O | people O | and O | perhaps O | there O | is O | good O | reason O | to O | take O | Pfizer O | to O | the O | courts O | . O | However O | I O | do O | believe O | that O | any O | Doctor O | prescribing O | Lipitor B-Drug | should O | make O | it O | abundantly O | clear O | to O | the O | patient O | that O | very O | serious O | consequences O | could O | ensue O | that O | would O | cause O | extreme O | pain B-Symptom | and O | could O | effect O | quality O | of O | life O | . O | I O | believe O | that O | failure O | to O | do O | so O | is O | a O | serious O | deriliction O | of O | duty O | that O | should O | be O | tested O | with O | complaints O | to O | the O | medical O | authorities O | that O | oversee O | our O | doctors O | and O | / O | or O | the O | courts O | . O
+
+Structured Output:
+T1 Drug 17 23 Lipitor
+T2 Symptom 100 104 pain
+T3 Symptom 108 116 shoulders
+T4 Symptom 128 132 neck
+T5 Symptom 153 157 Pain
+T6 Symptom 179 184 morning
+T7 Symptom 226 233 Pain
+T8 Symptom 246 265 restricted movement
+T9 Symptom 311 320 discomfort
+T10 Symptom 391 395 pain
+T11 Symptom 409 415 swollen
+T12 Symptom 426 434 movement
+T13 Symptom 443 450 movement
+T14 Symptom 464 468 fist
+T15 Drug 526 535 ibruprofen
+T16 Drug 547 558 Ibruprofen
+T17 Drug 575 580 Lipitor

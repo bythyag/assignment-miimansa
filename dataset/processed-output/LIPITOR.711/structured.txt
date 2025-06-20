@@ -1,0 +1,9 @@
+T1 Symptom 0 13 charley horses
+T2 Symptom 15 28 back and neck pain
+T3 Symptom 38 42 ache
+T4 Symptom 45 58 lack of appetite
+T5 Symptom 62 68 sense
+T6 Symptom 73 79 nausea
+T7 Symptom 81 87 veneer of sadness
+T8 Symptom 90 97 chostral
+T9 Drug 117 122 pills

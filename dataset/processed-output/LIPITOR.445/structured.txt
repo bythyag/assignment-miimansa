@@ -1,0 +1,11 @@
+T1 Symptom 30 38 muscel
+T2 Symptom 42 45 hair loss
+T3 Symptom 53 71 pale/yellow complexion
+T4 Symptom 73 80 dizzyness
+T5 Symptom 83 91 heat stress
+T6 Symptom 96 115 loss of concentration
+T7 Symptom 132 148 muscel fatigue
+T8 Symptom 178 184 cold sweats
+T9 Symptom 186 193 dizzyness
+T10 Symptom 199 206 sever heat intolerance
+T11 Drug 88 97 pravachol

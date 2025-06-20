@@ -1,0 +1,22 @@
+T1 Symptom 66 72 weakness
+T2 Symptom 77 81 legs
+T3 Symptom 85 89 pain
+T4 Symptom 94 98 legs
+T5 Symptom 100 104 hair
+T6 Symptom 106 112 losss
+T7 Symptom 114 119 Rashes
+T8 Symptom 121 125 itchy
+T9 Symptom 177 182 arms
+T10 Symptom 184 189 hands
+T11 Drug 53 56 20 
+T12 Drug 61 63 10
+T13 Drug 136 143 Lipitor
+T14 Disease 145 160 heart surgery
+T15 Symptom 182 189 burning
+T16 Symptom 191 197 sensations
+T17 Symptom 202 206 pains
+T18 Symptom 211 217 back
+T19 Symptom 219 227 frequent
+T20 Symptom 229 238 urination
+T21 Symptom 242 248 time
+T22 Symptom 250 257 sleeping

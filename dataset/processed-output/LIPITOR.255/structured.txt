@@ -1,0 +1,9 @@
+T1 Symptom 12 22 temperature elevation
+T2 Symptom 24 32 chronic diarrhea
+T3 Symptom 35 51 severe joint aches
+T4 Disease 56 70 abdominal flu
+T5 Drug 81 88 Lipitor
+T6 Duration 95 101 6 weeks
+T7 Disease 116 133 cholecystectomy
+T8 Duration 138 145 10 years
+T9 Disease 149 163 osteoarthritis

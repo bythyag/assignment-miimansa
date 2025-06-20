@@ -1,0 +1,8 @@
+T1 Symptom 6 11 muscle fatigue
+T2 Disease 30 45 Rhabdomyolosis
+T3 Disease 58 68 tendonitis
+T4 Symptom 78 85 strength
+T5 Drug 105 111 Lipitor
+T6 Symptom 117 121 eye muscle
+T7 Drug 127 132 Zocor
+T8 ADR 134 149 side-effects

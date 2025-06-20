@@ -1,0 +1,36 @@
+BIO Sequence:
+Severe B-Symptom | muscle I-Symptom | pain I-Symptom | in O | shoulders B-Symptom | radiating I-Symptom | through O | the O | chest B-Symptom | , O | cramping B-Symptom | in O | back B-Symptom | muscles I-Symptom | , O | calves B-Symptom | and O | hamstrings B-Symptom | . O | Severe B-Symptom | muscle I-Symptom | pain I-Symptom | after O | working O | out O | with O | weights B-Drug | , O | all O | the O | while O | losing O | strength O | . O | Difficulty B-Symptom | with O | memory B-Symptom | at O | times O | ( O | i.e. O | remembering O | a O | name O | or O | a O | word B-Symptom | ) O | . O | My O | shoulder B-Symptom | pain I-Symptom | resulted O | in O | a O | visit O | to O | a O | specialist O | who O | said O | inflammation B-Disease | was O | present O | but O | no O | torn O | rotator I-Disease | cuff I-Disease | . O | Prescribed O | physical B-Drug | therapy I-Drug | which O | made O | it O | hurt O | even O | more O | . O | I O | first O | noticed O | the O | pain O | several O | months O | in O | to O | taking O | the O | drug O | . O | After O | an O | ER O | visit O | due O | to O | severe B-Symptom | back B-Symptom | spasm/cramp I-Symptom | , O | my O | Cardiologist O | suggested O | going O | off O | the O | drug O | and O | in O | the O | past O | 10 O | days O | , O | no O | cramping I-Symptom | , O | the O | shoulder B-Symptom | pain I-Symptom | has O | eased O | 80% O | and O | I O | actually O | feel O | good O | . O | Because O | of O | blockage B-Disease | issues O | I O | need O | to O | move O | on O | to O | another O | drug O | like O | Crestor B-Drug | or O | Zocar B-Drug | but O | after O | reading O | some O | of O | the O | comments O | I O | am O | concerned O | . O | The O | medication O | worked O | at O | lowering O | my O | cholesterol B-Disease | ( O | 127 O | with O | good O | cholesterol O | over O | 40 O | and O | bad O | cholesterol O | under O | 70 O | ) O | but O | at O | a O | steep O | price O | physically O | . O 
+
+Structured Output:
+T1 Symptom 1 6 Severe
+T2 Symptom 8 13 muscle
+T3 Symptom 15 19 pain
+T4 Symptom 24 32 shoulders
+T5 Symptom 44 49 chest
+T6 Symptom 51 58 cramping
+T7 Symptom 62 66 back
+T8 Symptom 74 80 calves
+T9 Symptom 84 93 hamstrings
+T10 Symptom 95 101 Severe
+T11 Symptom 103 108 muscle
+T12 Symptom 110 114 pain
+T13 Drug 127 133 weights
+T14 Symptom 156 163 Difficulty
+T15 Symptom 165 171 memory
+T16 Symptom 174 177 times
+T17 Symptom 179 183 word
+T18 Symptom 198 205 shoulder
+T19 Symptom 207 211 pain
+T20 Disease 221 233 inflammation
+T21 Disease 246 263 rotator cuff
+T22 Drug 269 285 physical therapy
+T23 Symptom 294 298 pain
+T24 Symptom 320 325 back
+T25 Symptom 327 332 spasm/cramp
+T26 Drug 368 372 drug
+T27 Symptom 431 439 cramping
+T28 Symptom 441 450 shoulder
+T29 Disease 451 458 blockage
+T30 Drug 470 477 Crestor
+T31 Drug 482 488 Zocar
+T32 Disease 497 508 cholesterol

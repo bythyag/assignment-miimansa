@@ -1,0 +1,22 @@
+T1 Symptom 6 11 muscle pain
+T2 Symptom 16 22 burning
+T3 Drug 49 55 Tricor
+T4 Drug 57 62 145mg
+T5 Drug 70 76 Lipitor
+T6 Disease 86 95 cholesterol
+T7 Drug 127 133 Tricor
+T8 Drug 135 140 145mg
+T9 Disease 146 158 triglycerides
+T10 ADR 165 170 Side effects
+T11 Drug 198 204 tricor
+T12 ADR 220 226 side effects
+T13 ADR 238 243 severe
+T14 Symptom 245 250 muscle pain
+T15 ADR 252 259 burning
+T16 ADR 261 267 cramps
+T17 Symptom 270 278 exhaustion
+T18 ADR 280 284 mild
+T19 ADR 286 291 nausea
+T20 Symptom 293 304 inability to concentrate
+T21 ADR 313 318 side effects
+T22 Drug 373 379 combination

@@ -1,0 +1,9 @@
+T1 Symptom 0 6 Fatigue
+T2 Symptom 8 13 toes
+T3 Symptom 14 20 acking
+T4 Symptom 22 32 depression
+T5 Symptom 34 43 moodiness
+T6 Drug 83 90 Zorcor
+T7 Drug 93 101 Mevacore
+T8 Drug 113 120 Vytorin
+T9 Drug 122 135 simvastatin/ezetimbe

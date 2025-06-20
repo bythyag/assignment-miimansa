@@ -1,0 +1,14 @@
+BIO Sequence:
+constant O | pain B-Symptom | in O | right B-Symptom | thigh I-Symptom | , O | abdominal B-Symptom | pain I-Symptom | , O | intermittent B-Symptom | pain I-Symptom | throughout O | body O | , O | unable O | to O | walk O | more O | than O | 1/8 O | mile O | w/o O | excruciating B-Symptom | pain I-Symptom | in O | the O | leg B-Symptom | , O | tingling B-Symptom | of O | feet I-Symptom | , O | elevated B-Symptom | liver I-Symptom | function I-Symptom | . O | wicked O | drug B-Drug | . O | wonder O | how O | much O | my O | doc O | was O | compensated O | by O | the O | drug B-Drug | company I-Drug | for O | prescribing O | it O | . O 
+
+Structured Output:
+T1 Symptom 8 12 pain
+T2 Symptom 31 35 right thigh
+T3 Symptom 38 43 abdominal pain
+T4 Symptom 46 55 intermittent pain
+T5 Symptom 104 107 excruciating pain
+T6 Symptom 120 123 leg
+T7 Symptom 127 135 tingling of feet
+T8 Symptom 148 168 elevated liver function
+T9 Drug 172 176 drug
+T10 Drug 206 210 drug company

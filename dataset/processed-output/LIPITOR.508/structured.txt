@@ -1,0 +1,19 @@
+T1 Symptom 0 6 Muscle pain
+T2 Symptom 28 32 legs
+T3 Symptom 47 50 arms
+T4 Symptom 54 61 Hip pain
+T5 Symptom 77 81 left hip
+T6 Symptom 85 91 severe
+T7 Symptom 96 100 limp
+T8 Symptom 112 118 buzzing sensation
+T9 Symptom 123 138 lower right leg
+T10 Symptom 145 151 Severe
+T11 Symptom 158 165 muscle cramps
+T12 Symptom 167 170 lower legs
+T13 Symptom 179 183 feet
+T14 Symptom 185 190 Knee pain
+T15 Symptom 202 208 terrible
+T16 Symptom 221 226 energy
+T17 Symptom 232 239 constant pain
+T18 Symptom 245 251 severe
+T19 Drug 268 275 Lipitor

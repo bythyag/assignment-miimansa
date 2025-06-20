@@ -1,0 +1,20 @@
+T1 Symptom 0 6 muscle weakness
+T2 Disease 13 24 nerve damage
+T3 Symptom 26 31 memory loss
+T4 Symptom 33 41 red spots
+T5 Symptom 43 46 hair loss
+T6 Symptom 48 58 slowed speach
+T7 Symptom 60 66 aphasia
+T8 Symptom 72 107 shufflihg gait
+T9 Drug 109 115 Lipitor
+T10 ADR 214 233 ringing
+T11 Disease 237 253 sinus problems
+T12 Disease 257 267 galblader
+T13 Symptom 280 289 hairloss
+T14 Drug 306 312 Lipitor
+T15 Disease 318 331 physcle therapy
+T16 Symptom 345 352 weakness
+T17 Symptom 362 369 aphasia
+T18 Symptom 378 384 blury
+T19 Symptom 433 440 simptoms
+T20 ADR 442 446 side effects

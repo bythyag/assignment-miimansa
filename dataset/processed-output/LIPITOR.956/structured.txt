@@ -1,0 +1,16 @@
+T1 Drug 29 35 Lipitor
+T2 Disease 53 58 TIA's
+T3 Symptom 68 73 Loss
+T4 Symptom 75 81 balance
+T5 Symptom 86 91 loss
+T6 Symptom 93 99 speech
+T7 Symptom 113 119 seizure
+T8 Symptom 126 134 symptoms
+T9 Disease 146 157 Neurologist
+T10 Disease 184 189 TIA's
+T11 Disease 194 197 TEE
+T12 Disease 202 207 brain
+T13 Disease 215 222 catheter
+T14 Disease 233 243 Neurologist
+T15 Drug 55 61 Lipitor
+T16 Symptom 289 294 tired

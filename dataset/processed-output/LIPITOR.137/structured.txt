@@ -1,0 +1,13 @@
+T1 Drug 41 48 Lipitor
+T2 Disease 60 66 high cholesterol
+T3 Disease 121 143 stage 1 diastolic dysfunction
+T4 Disease 149 170 left ventricular
+T5 Disease 179 197 right ventricular
+T6 Symptom 226 233 elevated calcium
+T7 Disease 248 271 diastolic dysfunction
+T8 Symptom 278 293 low blood pressure
+T9 Disease 315 338 coronary artery disease
+T10 Disease 344 351 diabetic
+T11 Drug 377 384 Lipitor
+T12 Disease 387 389 DD
+T13 Drug 395 402 Lipitor

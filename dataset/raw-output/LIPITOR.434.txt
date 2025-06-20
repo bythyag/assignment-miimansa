@@ -1,0 +1,10 @@
+BIO Sequence:
+Burning B-Symptom | of O | tongue B-Symptom | , O | dry B-Symptom | throat I-Symptom | and O | mouth I-Symptom | . O | I O | took O | Lipitor B-Drug | for O | two O | months O | and O | I O | decided O | to O | discontinue O | taking O | it O | and O | see O | what O | happens O | . O 
+
+Structured Output:
+T1 Symptom 0 7 Burning
+T2 Symptom 8 13 tongue
+T3 Symptom 15 20 dry
+T4 Symptom 21 27 throat
+T5 Symptom 29 33 mouth
+T6 Drug 43 50 Lipitor

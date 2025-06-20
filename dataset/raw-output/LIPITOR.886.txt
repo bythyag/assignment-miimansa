@@ -1,0 +1,14 @@
+BIO Sequence:
+severe B-Symptom | pain I-Symptom | in O | buttocks B-Symptom | and O | left B-Symptom | leg I-Symptom | Sciatica B-Symptom | like O | symptoms O | . O | I O | don't O | know O | if O | it O | helped O | anything O | . O | Felt O | no O | difference O | except O | sudden B-Symptom | onset I-Symptom | of O | pain B-Symptom | after O | one O | month O | . O | Couldn't O | sleep B-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 6 severe
+T2 Symptom 7 11 pain
+T3 Symptom 13 21 buttocks
+T4 Symptom 24 27 left
+T5 Symptom 28 31 leg
+T6 Symptom 32 40 Sciatica
+T7 Symptom 53 58 sudden
+T8 Symptom 59 64 onset
+T9 Symptom 66 70 pain
+T10 Symptom 81 86 sleep

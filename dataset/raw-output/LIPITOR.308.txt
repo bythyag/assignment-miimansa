@@ -1,0 +1,7 @@
+BIO Sequence:
+No O | side B-ADR | effects I-ADR | . O | On O | for O | 3 B-Disease | years I-Disease | so O | far O | . O | feel O | great O | . O | 20mg B-Drug | and O | working O | fine O | . O
+
+Structured Output:
+T1 ADR 3 15 side effects
+T2 Disease 19 23 3 years
+T3 Drug 64 68 20mg

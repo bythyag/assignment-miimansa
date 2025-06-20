@@ -1,0 +1,8 @@
+BIO Sequence:
+extreme B-Symptom | moodiness I-Symptom | , O | constipation B-Symptom | , O | irritibility B-Symptom | , O | anger B-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 17 extreme moodiness  
+T2 Symptom 19 30 constipation  
+T3 Symptom 32 43 irritibility  
+T4 Symptom 45 50 anger  

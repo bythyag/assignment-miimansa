@@ -1,0 +1,16 @@
+T1 Drug 0 6 Lipitor
+T2 Drug 30 35 Zocor
+T3 Drug 46 51 Zocor
+T4 ADR 57 64 myalgia
+T5 ADR 66 74 neuralgia
+T6 ADR 76 83 insomnia
+T7 ADR 85 92 dementia
+T8 ADR 94 109 polyneuropathy
+T9 ADR 111 125 rhabdomyolysis
+T10 ADR 128 145 subdural hematoma
+T11 ADR 147 151 coma
+T12 ADR 153 157 pain
+T13 Drug 159 165 Lipitor
+T14 Drug 176 181 Zocor
+T15 Drug 183 189 Pfizer
+T16 Drug 217 223 Pfizer

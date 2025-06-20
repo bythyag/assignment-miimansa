@@ -1,0 +1,14 @@
+T1 Symptom 0 24 Severe leg muscle pain
+T2 Symptom 29 43 leg cramping
+T3 Symptom 56 60 calf muscle cramping
+T4 Disease 114 117 LDL
+T5 Drug 129 133 drug
+T6 Drug 138 142 drug
+T7 Symptom 168 171 leg pain
+T8 Symptom 177 180 leg pain
+T9 Symptom 185 194 discomfort
+T10 Drug 211 215 drug
+T11 Drug 222 226 drug
+T12 Drug 236 240 drug
+T13 Symptom 262 282 leg muscle pain
+T14 Drug 293 297 drug

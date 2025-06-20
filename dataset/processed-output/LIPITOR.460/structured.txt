@@ -1,0 +1,13 @@
+T1 Symptom 4 13 calf cramps
+T2 Symptom 20 27 pressure
+T3 Symptom 38 53 spaced out feeling
+T4 Disease 78 86 depression
+T5 Symptom 95 107 mood swings
+T6 Symptom 120 140 impending doom
+T7 Symptom 142 158 sinus congestion
+T8 Symptom 161 168 fatigue
+T9 Symptom 171 186 lack of motivation
+T10 Symptom 189 207 difficulty thinking
+T11 Symptom 210 222 memory loss
+T12 Drug 353 356 cursed drug
+T13 Drug 390 394 drug

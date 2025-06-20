@@ -1,0 +1,6 @@
+T1 Disease 0 7 General depression
+T2 Symptom 15 22 severe insomnia
+T3 Symptom 24 34 Irrational feelings
+T4 Symptom 35 43 of impending doom
+T5 ADR 61 73 side effects
+T6 Drug 83 87 drug

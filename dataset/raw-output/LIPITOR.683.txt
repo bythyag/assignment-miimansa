@@ -1,0 +1,11 @@
+BIO Sequence:
+Diarrhea B-Symptom | , O | muscle B-Symptom | pain I-Symptom | , O | joint B-Symptom | aches I-Symptom | . O | Lipitor B-Drug | did O | a O | wonderful O | job O | on O | my O | cholesterol B-Disease | but O | after O | about O | 4 O | weeks O | , O | I O | developed O | what O | I O | thought O | were O | strained B-Symptom | muscles I-Symptom | from O | exercise O | . O | It O | seems O | to O | be O | getting O | worse O | . O | After O | all O | I've O | read O | , O | I O | think O | I O | will O | stop O | taking O | this O | and O | find O | another O | alternative O | . O | I O | am O | a O | type B-Disease | one I-Disease | diabetic I-Disease | . O
+
+Structured Output:
+T1 Symptom 0 8 Diarrhea
+T2 Symptom 10 22 muscle pain
+T3 Symptom 24 36 joint aches
+T4 Drug 45 51 Lipitor
+T5 Disease 73 82 cholesterol
+T6 Symptom 119 127 strained muscles
+T7 Disease 164 168 type one diabetic

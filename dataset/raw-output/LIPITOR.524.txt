@@ -1,0 +1,7 @@
+BIO Sequence:
+Diarrhea B-Symptom | after O | only O | one O | pill O | . O | Unbearable B-ADR | after O | two O | . O | I O | stopped O | after O | 2 O | days O | , O | waited O | 2 O | weeks O | and O | tried O | again O | . O | Same O | results O | . O | I O | have O | lots O | of O | food O | and O | chemical B-Disease | sensitivities I-Disease | , O | so O | I O | 'm O | sure O | this O | is O | not O | a O | typical O | response O | . O
+
+Structured Output:
+T1 Symptom 0 8 Diarrhea
+T2 ADR 36 46 Unbearable
+T3 Disease 62 75 chemical sensitivities

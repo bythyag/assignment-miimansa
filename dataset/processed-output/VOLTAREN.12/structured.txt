@@ -1,0 +1,10 @@
+T1 Symptom 23 30 leg cramps
+T2 Symptom 35 40 lower
+T3 ADR 48 58 side effects
+T4 Drug 90 94 drug
+T5 Symptom 118 123 aches
+T6 Symptom 128 138 discomfort
+T7 Disease 153 161 arthritis
+T8 Symptom 173 177 pain
+T9 Disease 188 197 tendonitis
+T10 Disease 203 216 plantar fasciitis

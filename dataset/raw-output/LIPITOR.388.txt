@@ -1,0 +1,26 @@
+BIO Sequence:
+Husband O | gradually O | developed O | muscle B-Symptom | pains I-Symptom | , O | extreme B-Symptom | tiredness I-Symptom | , O | irritability B-Symptom | , O | weird B-Symptom | dreams I-Symptom | , O | restless B-Symptom | leg I-Symptom | syndrome I-Symptom | , O | hair B-Symptom | loss I-Symptom | , O | lack B-Symptom | of O | enthusiasm B-Symptom | for O | anything O | , O | strange B-Symptom | blood I-Symptom | test I-Symptom | results I-Symptom | w/O | elevated B-Symptom | CRP I-Symptom | , O | BUN I-Symptom | , O | Creatinine I-Symptom | , O | urine B-Symptom | albumin I-Symptom | , O | increased B-Symptom | blood I-Symptom | glucose I-Symptom | , O | periodic B-Symptom | memory I-Symptom | lapses I-Symptom | and O | belly B-Symptom | weight I-Symptom | gain I-Symptom | . O | Perhaps O | the O | effects O | were O | slower O | because O | he O | was O | on O | 75 O | mg O | of O | CoQ10 B-Drug | . O | We O | stopped O | the O | drug B-Drug | cold O | when O | he O | stated O | he O | felt O | as O | if O | he O | was O | losing O | muscle O | ! O | Effective O | dose O | for O | most O | people O | is O | apparently O | 2.5 O | mg O | and O | Pfizer B-Drug | starts O | people O | at O | 10 O | ! O | Statins B-Drug | are O | sneaky O | and O | deceptive O | drugs I-Drug | which O | have O | ruined O | many O | lives O | . O | I'm O | hoping O | husband O | does O | not O | have O | permanent O | heart B-Disease | , O | kidney B-Disease | and O | muscle B-Disease | damage I-Disease | . O 
+
+Structured Output:
+T1 Symptom 39 54 muscle pains  
+T2 Symptom 56 71 extreme tiredness  
+T3 Symptom 73 85 irritability  
+T4 Symptom 87 99 weird dreams  
+T5 Symptom 101 121 restless leg syndrome  
+T6 Symptom 123 131 hair loss  
+T7 Symptom 134 153 lack of enthusiasm  
+T8 Symptom 165 182 strange blood test results  
+T9 Symptom 188 195 elevated CRP  
+T10 Symptom 198 201 BUN  
+T11 Symptom 203 213 Creatinine  
+T12 Symptom 216 229 urine albumin  
+T13 Symptom 232 249 increased blood glucose  
+T14 Symptom 251 272 periodic memory lapses  
+T15 Symptom 274 285 belly weight gain  
+T16 Drug 127 133 CoQ10  
+T17 Drug 144 148 drug  
+T18 Drug 154 160 Pfizer  
+T19 Drug 168 175 Statins  
+T20 Disease 186 191 heart  
+T21 Disease 193 199 kidney  
+T22 Disease 201 207 muscle damage  

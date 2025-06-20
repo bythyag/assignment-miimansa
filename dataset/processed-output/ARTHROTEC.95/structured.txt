@@ -1,0 +1,7 @@
+T1 ADR 45 54 diarrhoea
+T2 Drug 76 78 75
+T3 ADR 116 123 swelling
+T4 Disease 139 144 liver
+T5 Symptom 170 177 swelling
+T6 Drug 196 204 Arthrotec
+T7 Drug 232 240 Pernamax

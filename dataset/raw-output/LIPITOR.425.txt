@@ -1,0 +1,14 @@
+BIO Sequence:
+Severe B-Symptom | neck/ B-Symptom | shoulder/pain I-Symptom | achiness B-Symptom | acid B-Symptom | reflux I-Symptom | . O | I O | went O | on O | it O | for O | 2 O | months O | , O | I O | didn’t O | first O | associate O | this O | as O | the O | muscle B-Disease | pains I-Disease | they O | were O | talking O | about O | but O | within O | 24 O | hours O | of O | going O | off O | of O | it O | ( O | with O | my O | dr's O | blessing O | ) O | I O | felt O | much O | better O | . O | It O | did O | lower O | my O | cholesterol B-Disease | very O | significantly O | within O | one O | month O | . O | Muscle B-Symptom | aches I-Symptom | cleared O | up O | quickly O | but O | acid B-Symptom | reflux I-Symptom | is O | still O | going O | strong O | and O | I O | didn’t O | have O | it O | before O | . O
+
+Structured Output:
+T1 Symptom 1 6 Severe
+T2 Symptom 8 25 neck/shoulder/pain
+T3 Symptom 27 35 achiness
+T4 Symptom 36 47 acid
+T5 Symptom 48 54 reflux
+T6 Disease 84 90 muscle pains
+T7 Disease 136 145 cholesterol
+T8 Symptom 151 159 Muscle aches
+T9 Symptom 161 166 acid
+T10 Symptom 167 173 reflux

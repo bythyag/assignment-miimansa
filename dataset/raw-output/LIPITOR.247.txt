@@ -1,0 +1,23 @@
+BIO Sequence:
+Thyroid B-Disease | disease I-Disease | ( O | not O | sure O | if O | Lipitor B-Drug | caused O), | vision B-Symptom | problems I-Symptom | ( O | blind B-Symptom | spot I-Symptom | in O | right O | eye O), | hives B-ADR | , O | severe B-Symptom | pain I-Symptom | in O | left O | shoulder O | , O | arm B-Symptom | , O | and O | hand B-Symptom | . O | Muscle O | atrophy B-Symptom | in O | left O | shoulder O | so O | bad O | that O | I O | cannot O | lift O | objects O. | Bad O | gas B-Symptom | and O | constant B-Symptom | diarrhea I-Symptom | . O | Memory B-Symptom | loss I-Symptom | and O | difficulty B-Symptom | concentratiing I-Symptom | . O | These O | symptoms O | ( O | except O | for O | the O | blind B-Symptom | spot I-Symptom | ) O | manifested O | gradually O | after O | several O | years O | on O | Lipitor B-Drug | . O | I O | stopped O | 1 O | week O | ago O, | and O | the O | symptoms O | have O | seemed O | to O | stop O | worsening O. | I O | am O | hoping O | for O | the O | best O, | as O | my O | quality O | of O | life O | has O | suffered O | dramatically O. 
+
+Structured Output:
+T1 Disease 1 14 Thyroid disease
+T2 Drug 68 74 Lipitor
+T3 Symptom 83 96 vision problems
+T4 Symptom 98 109 blind spot
+T5 ADR 111 115 hives
+T6 Symptom 120 131 severe pain
+T7 Symptom 136 140 arm
+T8 Symptom 143 147 hand
+T9 Symptom 151 163 Muscle atrophy
+T10 Symptom 167 170 gas
+T11 Symptom 175 183 constant diarrhea
+T12 Symptom 189 200 Memory loss
+T13 Symptom 203 212 difficulty concentrating
+T14 Symptom 230 241 blind spot
+T15 Drug 246 252 Lipitor
+T16 Symptom 264 273 symptoms
+T17 Symptom 276 281 stop worsening
+T18 Symptom 298 317 quality of life
+T19 Symptom 319 325 suffered dramatically

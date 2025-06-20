@@ -1,0 +1,8 @@
+T1 Symptom 0 6 Cramps
+T2 Symptom 9 15 calves
+T3 Symptom 40 45 tired
+T4 Symptom 52 58 swollen
+T5 Symptom 61 65 Neck
+T6 Symptom 70 79 shoulders
+T7 Symptom 81 85 ache
+T8 Symptom 90 94 sore

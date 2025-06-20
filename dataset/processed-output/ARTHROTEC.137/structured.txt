@@ -1,0 +1,26 @@
+T1 Symptom 70 76 stomach
+T2 Symptom 78 82 pain
+T3 Symptom 92 95 gas
+T4 ADR 244 258 hot flashes
+T5 Symptom 266 270 pain
+T6 Symptom 285 288 deep ache
+T7 Symptom 305 308 back labor
+T8 Symptom 394 402 stomach
+T9 Symptom 414 420 painful
+T10 Symptom 487 502 deep pain
+T11 Drug 605 611 ibuprofen
+T12 Drug 618 623 Aleve
+T13 Drug 625 632 naproxen sodium
+T14 Drug 708 713 Lyrica
+T15 Drug 728 737 Prednisone
+T16 ADR 1101 1107 Codeine
+T17 ADR 1112 1122 hydrocodone
+T18 ADR 1124 1134 prednisone
+T19 ADR 1136 1153 corti-cortisones
+T20 ADR 1155 1173 pseudoephedrine
+T21 ADR 1175 1182 morphine
+T22 ADR 1184 1191 demerol
+T23 ADR 1193 1201 percocette
+T24 ADR 1203 1210 darvon
+T25 ADR 1212 1230 cyclobenzoprene
+T26 ADR 1259 1267 topical Benedryl

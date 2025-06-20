@@ -1,0 +1,15 @@
+BIO Sequence:
+Vaginal B-Symptom | bleeding I-Symptom | when O | it O | was O | not O | time O | for O | my O | period B-Symptom | , O | headaches B-Symptom | , O | neck B-Symptom | pain I-Symptom | , O | bloating B-Symptom | and O | weight B-Symptom | gain I-Symptom | . O | It O | helped O | relieve O | the O | pain O | in O | my O | lower B-Symptom | back I-Symptom | but O | I O | would O | not O | recommend O | this O | to O | be O | used O | by O | women B-Disease | of O | any O | age O | . O | Not O | quite O | sure O | what O | I O | will O | do O | now O | because O | I O | cannot O | take O | Bextra B-Drug | or O | Neurontin B-Drug | . O | I O | guess O | go O | back O | to O | plain O | old O | advil B-Drug | and O | deal O | with O | it O | unless O | the O | doctor O | has O | another O | medication B-Drug | I O | can O | try O | . O 
+
+Structured Output:
+T1 Symptom 1 16 Vaginal bleeding
+T2 Symptom 24 33 headaches
+T3 Symptom 35 44 neck pain
+T4 Symptom 46 54 bloating
+T5 Symptom 56 66 weight gain
+T6 Symptom 90 103 lower back
+T7 Disease 113 118 women
+T8 Drug 136 142 Bextra
+T9 Drug 146 155 Neurontin
+T10 Drug 173 179 advil
+T11 Drug 181 191 medication

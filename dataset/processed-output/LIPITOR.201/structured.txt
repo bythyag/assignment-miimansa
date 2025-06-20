@@ -1,0 +1,11 @@
+T1 Disease 56 61 stroke
+T2 Disease 113 118 stroke
+T3 Symptom 161 169 symptoms
+T4 Drug 119 127 Aggrenox
+T5 Drug 132 139 Lipitor
+T6 Symptom 154 162 tingling
+T7 Symptom 172 176 pain
+T8 Symptom 205 210 thigh
+T9 Symptom 236 240 pain
+T10 Drug 284 290 Lipitor
+T11 Symptom 304 308 pain

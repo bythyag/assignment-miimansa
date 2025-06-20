@@ -1,0 +1,4 @@
+T1 Symptom 4 10 muscle pains
+T2 Symptom 14 18 legs
+T3 Symptom 21 31 tiredness
+T4 Drug 37 42 Zocor

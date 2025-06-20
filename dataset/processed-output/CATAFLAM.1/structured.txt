@@ -1,0 +1,5 @@
+T1 Symptom 0 6 rectal
+T2 Symptom 7 14 bleeding
+T3 Symptom 16 23 collapse
+T4 Drug 77 81 drug
+T5 Disease 94 102 GI hemorrhage

@@ -1,0 +1,6 @@
+BIO Sequence:
+worked O | well O | on O | cholesterol B-Disease | level I-Disease | and O | even O | better O | on O | tryglycerides B-Disease | . O
+
+Structured Output:
+T1 Disease 21 30 cholesterol level
+T2 Disease 39 52 tryglycerides

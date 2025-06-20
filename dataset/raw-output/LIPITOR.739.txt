@@ -1,0 +1,25 @@
+BIO Sequence:
+Chronic B-Symptom | pain I-Symptom | in O | all O | my O | joints B-Symptom | and O | muscles B-Symptom | . O | Really O | bad O | in O | my O | thighs B-Symptom | . O | I O | had O | been O | on O | Pravachol B-Drug | for O | aboout O | 3 O | years O | and O | switched O | to O | Lipitor B-Drug | because O | it's O | supposed O | to O | lower O | triglycerides B-Disease | too O | . O | I O | had O | the O | joint B-Symptom | and O | muscle I-Symptom | pain I-Symptom | already O | and O | was O | told O | it O | was O | arthritis B-Disease | or O | neuropathy B-Disease | ( O | I'm O | also O | a O | diabetic B-Disease | ) O | . O | My O | thighs I-Symptom | were O | never O | this O | sore O | before O | I O | started O | the O | Lipitor B-Drug | , O | though O | . O | Both O | of O | my O | parents O | died O | at O | from O | heart B-Disease | disease I-Disease | at O | a O | relatively O | young O | age O | ( O | dad-57 O | , O | mom-66 O | ) O | , O | but O | if O | this O | is O | what O | is O | causing O | this O | pain I-Symptom | I O | think O | I O | would O | rather O | die O | prematurely O | than O | live O | like O | this O | . O | I O | am O | 41 O | and O | feel O | like O | I'm O | 81 O | . O | I O | came O | across O | this O | site O | while O | searching O | for O | Lipitor B-Drug | side O | effects O | . O | I O | was O | also O | going O | to O | do O | a O | search O | on O | MS B-Disease | or O | fibromyalgia B-Disease | , O | but O | maybe O | I O | should O | just O | quit O | taking O | this O | medicine O | and O | take O | my O | chances O | . O |
+
+Structured Output:
+T1 Symptom 1 6 Chronic
+T2 Symptom 13 17 pain
+T3 Symptom 28 33 joints
+T4 Symptom 38 45 muscles
+T5 Symptom 62 67 thighs
+T6 Drug 88 96 Pravachol
+T7 Drug 106 112 Lipitor
+T8 Disease 136 149 triglycerides
+T9 Symptom 165 169 joint
+T10 Symptom 174 179 muscle
+T11 Symptom 183 187 pain
+T12 Disease 201 209 arthritis
+T13 Disease 215 225 neuropathy
+T14 Disease 240 248 diabetic
+T15 Disease 254 259 thighs
+T16 Disease 268 279 heart
+T17 Disease 281 287 disease
+T18 Symptom 300 304 pain
+T19 Drug 309 315 Lipitor
+T20 Disease 325 327 MS
+T21 Disease 331 343 fibromyalgia

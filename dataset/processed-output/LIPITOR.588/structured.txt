@@ -1,0 +1,13 @@
+T1 Symptom 0 4 Pain
+T2 Symptom 8 11 hip
+T3 Symptom 13 23 lower back
+T4 Symptom 25 30 knees
+T5 Symptom 32 37 elbow
+T6 Symptom 40 48 Stiffness
+T7 Symptom 50 60 lower back
+T8 Symptom 65 69 legs
+T9 Symptom 76 90 Excercise intolerance
+T10 Symptom 95 112 muscle weakness
+T11 Symptom 115 120 pains
+T12 Drug 122 128 lipitor
+T13 Drug 134 143 medication

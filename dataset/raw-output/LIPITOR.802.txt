@@ -1,0 +1,8 @@
+BIO Sequence:
+None O | whatsoever O | Cholesterol B-Disease | dropped O | from O | 180 O | ( O | January B-Disease | 2005 I-Disease | ) O | to O | 123 O | ( O | April B-Disease | 2005 I-Disease | ) O | . O | LDL B-Disease | dropped O | to O | within O | normal O | range O | . O
+
+Structured Output:
+T1 Disease 39 49 Cholesterol
+T2 Disease 64 69 January 2005
+T3 Disease 74 79 April 2005
+T4 Disease 83 86 LDL

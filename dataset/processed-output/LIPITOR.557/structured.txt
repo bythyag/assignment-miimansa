@@ -1,0 +1,2 @@
+T1 Symptom 0 9 Nightmares
+T2 Symptom 11 19 knee pain

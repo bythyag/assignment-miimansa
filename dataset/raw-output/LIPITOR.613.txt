@@ -1,0 +1,17 @@
+BIO Sequence:
+On O | lipitor B-Drug | for O | 4 O | years O | . O | Reduced O | cholesterol B-Symptom | levels O | to O | normal O | BUT O | since O | taking O | lipitor B-Drug | I've O | developed O | horrible O | pain B-ADR | in O | both O | shoulders B-Symptom | and O | left O | knee B-Symptom | . O | Sleeping O | has O | become O | extemely O | difficult O | due O | to O | pain B-ADR | . O | Have O | to O | sleep O | in O | a O | chair O | most O | nights O | . O | Orthopedist O | seems O | to O | think O | its O | normal O | aging B-Disease | ( O | I'm O | only O | 55 O | ) O | and O | internist O | is O | skeptical O | that O | lipitor B-Drug | is O | the O | culprit O | . O | I O | have O | also O | noticed O | that O | I O | have O | short B-Symptom | term O | memory B-Symptom | loss O | and O | am O | easily O | fatigued B-Symptom | . O | After O | reading O | the O | entries O | on O | this O | site O | I'm O | stopping O | the O | lipitor B-Drug | today O | and O | we'll O | see O | the O | result O | . O
+
+Structured Output:
+T1 Drug 8 14 lipitor
+T2 Symptom 71 80 cholesterol
+T3 ADR 93 97 pain
+T4 Symptom 109 116 shoulders
+T5 Symptom 123 126 knee
+T6 ADR 135 139 pain
+T7 Disease 197 202 aging
+T8 Drug 213 219 lipitor
+T9 Symptom 251 257 short
+T10 Symptom 259 265 memory
+T11 Symptom 267 271 loss
+T12 Symptom 280 288 fatigued
+T13 Drug 334 340 lipitor

@@ -1,0 +1,10 @@
+T1 Drug 42 50 Arthrotec  
+T2 Disease 60 66 chronic back  
+T3 Symptom 93 100 stomach trouble  
+T4 Symptom 102 108 cramps  
+T5 Drug 136 143 Celebrex  
+T6 Disease 151 156 ulcer  
+T7 Drug 169 176 Celebrex  
+T8 Symptom 197 203 stomach trouble  
+T9 Disease 240 246 kidney  
+T10 Disease 248 253 liver

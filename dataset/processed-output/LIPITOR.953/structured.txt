@@ -1,0 +1,2 @@
+T1 Symptom 0 12 Blury vision
+T2 Symptom 16 22 balance

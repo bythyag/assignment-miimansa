@@ -1,0 +1,13 @@
+T1 Symptom 44 48 pain
+T2 Symptom 56 64 headaches
+T3 Symptom 94 100 servere pain
+T4 Symptom 142 147 trouble
+T5 Symptom 173 177 pain
+T6 Symptom 196 203 Frequent headaches
+T7 Symptom 211 219 stomache aches
+T8 Symptom 223 228 tired
+T9 Symptom 233 238 sleep
+T10 Symptom 247 253 anxiety
+T11 Drug 160 175 cholosterol medications
+T12 Drug 178 184 lipitor
+T13 Drug 194 200 Lipitor

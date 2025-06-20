@@ -1,0 +1,14 @@
+BIO Sequence:
+While O | this O | medicine O | did O | help O | with O | my O | pain B-Symptom | , O | the O | side B-ADR | affects I-ADR | out O | - O | weigh O | the O | benefits O | . O | My O | menstrual B-Disease | cycle I-Disease | is O | completely O | out O | of O | whack O | , O | I O | ' O | m O | bleeding B-Symptom | several O | times O | a O | month O | . O | Nausea B-Symptom | occurs O | when O | I O | ' O | m O | hungry O | - O | very O | odd O | . O | Irregular B-Symptom | cramping I-Symptom | . O | This O | has O | been O | to O | date O | the O | only O | medicine O | to O | relieve O | my O | hip B-Symptom | pain I-Symptom | , O | but O | it O | ' O | s O | affecting O | my O | quality O | of O | life O | . O | Who O | wants O | to O | have O | their O | period B-Symptom | all O | month O | long O | and O | be O | non-stop O | nauseous B-ADR | ? O | If O | they O | ever O | fix O | the O | kinks O | I O | ' O | ll O | be O | the O | first O | in O | line O | , O | but O | at O | this O | point O | I O | don | ' | t O | consider O | this O | a O | safe O | medication B-Drug | . O
+
+Structured Output:
+T1 Symptom 40 44 pain
+T2 ADR 61 67 side affects
+T3 Disease 83 91 menstrual cycle
+T4 Symptom 106 113 bleeding
+T5 Symptom 115 121 Nausea
+T6 Symptom 143 151 Irregular cramping
+T7 Symptom 166 170 hip pain
+T8 Symptom 185 191 period
+T9 ADR 218 226 nauseous
+T10 Drug 250 258 medication

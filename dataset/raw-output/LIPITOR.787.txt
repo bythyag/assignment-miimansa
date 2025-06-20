@@ -1,0 +1,37 @@
+BIO Sequence:
+Thank O | God O | , O | I O | found O | this O | site O | . O | Pfizer B-Drug | Inc. I-Drug | ( O | maker O | of O | Lipitor B-Drug | ) O | AMOUNT O | AT O | ISSUE O | : O | $$$ O | Pending O | , O | Cholesterol-Fighting O | Drug O | Tied O | to O | Liver B-Disease | , O | Kidney B-Disease | Injury O | , O | The O | Kahn O | Gauthier O | Law O | Group O | is O | investigating O | possible O | legal O | actions O | against O | Pfizer B-Drug | Inc. I-Drug | , O | the O | manufacturer O | of O | the O | cholesterol-lowering O | drug O | Lipitor B-Drug | ( O | atorvastatin I-Drug | ) O | , O | to O | recover O | for O | liver B-Disease | or O | kidney B-Disease | damage O | suffered O | by O | patients O | prescribed O | Lipitor B-Drug | . O | Like O | other O | drugs O | in O | its O | class O | ( O | the O | statins I-Drug | ) O | , O | Lipitor B-Drug | can O | cause O | elevated O | liver B-Disease | enzymes O | . O | In O | clinical O | trials O | , O | this O | occurred O | in O | 0.7 O | percent O | of O | the O | patients O | , O | but O | the O | rate O | was O | much O | higher O | for O | those O | taking O | the O | 80 O | mg O | dose O | . O | Another O | serious O | side O | effect O | of O | Lipitor B-Drug | and O | other O | statins I-Drug | is O | a O | condition O | called O | rhabdomyolysis B-Disease | , O | in O | which O | muscle O | cells O | break O | down O | and O | release O | potentially O | toxic O | cell O | contents O | into O | the O | bloodstream O | . O | Symptoms O | of O | rhabdomyolysis B-Disease | include O | muscle O | pain B-Symptom | , O | tenderness B-Symptom | and O | weakness B-Symptom | -- O | most O | commonly O | in O | the O | calves B-Symptom | and O | lower O | back B-Symptom | . O | Malaise B-Symptom | , O | fever B-Symptom | , O | dark O | urine B-Symptom | , O | vomiting B-Symptom | and O | nausea B-Symptom | can O | also O | be O | symptoms O | . O | The O | most O | feared O | consequence O | of O | rhabdomyolysis B-Disease | is O | acute B-Disease | kidney B-Disease | failure O | , O | occurring O | in O | 30-40% O | of O | the O | cases O | . O | Some O | of O | the O | warning O | signs O | of O | liver B-Disease | failure O | are O | nausea B-Symptom | , O | vomiting B-Symptom | , O | abdominal O | pain B-Symptom | , O | fatigue B-Symptom | , O | loss O | of O | appetite B-Symptom | , O | dark O | urine B-Symptom | , O | and O | generalized O | skin O | discoloration O | . O | For O | more O | information O | on O | this O | case O | , O | you O | should O | become O | a O | member O | of O | ClassActionAmerica O | . O 
+
+Structured Output:
+T1 Drug 44 50 Pfizer
+T2 Drug 74 80 Lipitor
+T3 Disease 85 90 liver
+T4 Disease 92 98 Kidney
+T5 Drug 99 105 Lipitor
+T6 Drug 118 128 atorvastatin
+T7 Disease 133 140 liver
+T8 Disease 143 149 kidney
+T9 Drug 155 161 Lipitor
+T10 Drug 169 174 Lipitor
+T11 Drug 182 189 statins
+T12 Disease 205 220 rhabdomyolysis
+T13 Symptom 246 250 pain
+T14 Symptom 252 261 tenderness
+T15 Symptom 266 273 weakness
+T16 Symptom 287 294 calves
+T17 Symptom 306 310 back
+T18 Symptom 319 325 Malaise
+T19 Symptom 327 332 fever
+T20 Symptom 338 347 dark urine
+T21 Symptom 349 356 vomiting
+T22 Symptom 358 364 nausea
+T23 Disease 369 384 rhabdomyolysis
+T24 Disease 387 393 acute
+T25 Disease 395 400 kidney
+T26 Disease 409 415 liver
+T27 Symptom 420 426 nausea
+T28 Symptom 429 436 vomiting
+T29 Symptom 438 453 abdominal pain
+T30 Symptom 455 462 fatigue
+T31 Symptom 465 479 loss of appetite
+T32 Symptom 483 491 dark urine
+T33 Symptom 494 514 generalized skin discoloration

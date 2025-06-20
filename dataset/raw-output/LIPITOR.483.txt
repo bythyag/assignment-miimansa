@@ -1,0 +1,17 @@
+BIO Sequence:
+I O | have O | had O | several O | boughts O | of O | severe B-Symptom | muscle I-Symptom | cramps I-Symptom | that O | lead O | to O | dehydration B-Symptom | . O | I O | have O | had O | these O | while O | on O | Lipitor B-Drug | and O | Zocor B-Drug | . O | There O | is O | no O | way O | I O | can O | be O | dehydrated O | because O | I O | am O | now O | aware O | of O | the O | problem O | and O | drink O | water O | and O | gatorade B-Drug | constantly O | when O | I O | am O | outside O | . O | This O | site O | has O | been O | amazing O | to O | me O | . O | I O | am O | 37 O | and O | have O | been O | on O | statins B-Drug | for O | 13 O | years O | . O | Other O | than O | the O | cramps O | I O | also O | have O | fatigue B-Symptom | , O | muscle I-Symptom | twitching I-Symptom | , O | foot I-Symptom | pain I-Symptom | ( O | 10 O | x-rays O | ) O | , O | and O | numbness B-Symptom | and O | tingling I-Symptom | in O | the O | hands O | and O | arms O | . O | I O | went O | to O | the O | doctor O | last O | week O | about O | the O | cramps O | , O | and O | he O | took O | me O | off O | Zocor B-Drug | and O | I O | am O | going O | to O | wait O | and O | see O | how O | things O | are O | doing O | . O | The O | drugs O | do O | lower O | cholesterol O | . O |
+
+Structured Output:
+T1 Symptom 47 52 severe muscle cramps
+T2 Symptom 70 80 dehydration
+T3 Drug 56 62 Lipitor
+T4 Drug 67 73 Zocor
+T5 Drug 123 130 gatorade
+T6 Drug 147 154 statins
+T7 Symptom 198 205 fatigue
+T8 Symptom 207 213 muscle twitching
+T9 Symptom 219 227 foot pain
+T10 Symptom 231 239 numbness
+T11 Symptom 244 251 tingling
+T12 Drug 274 280 Zocor
+T13 Drug 287 292 drugs

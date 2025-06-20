@@ -1,0 +1,10 @@
+BIO Sequence:
+Abdominal B-Symptom | pain I-Symptom | , O | Dizzieness B-Symptom | and O | blood B-Symptom | clots I-Symptom | in O | urine O | which O | caused O | problems O | with O | urine O | leaking B-Symptom | . O | I O | stopped O | the O | Arthrotec B-Drug | twice O | and O | restarted O | but O | the O | same O | symptoms O | came O | back O | . O | I O | will O | not O | take O | this O | medication O | again O | . O 
+
+Structured Output:
+T1 Symptom 0 17 Abdominal pain
+T2 Symptom 19 29 Dizzieness
+T3 Symptom 34 45 blood clots
+T4 Symptom 49 55 urine
+T5 Symptom 70 76 leaking
+T6 Drug 87 95 Arthrotec

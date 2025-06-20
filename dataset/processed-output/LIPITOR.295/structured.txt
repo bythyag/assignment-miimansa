@@ -1,0 +1,42 @@
+T1 Symptom 20 26 memory
+T2 Symptom 42 52 lack of motivation
+T3 Symptom 54 58 weak
+T4 Symptom 60 66 wobbly
+T5 Symptom 68 78 unbalanced
+T6 Symptom 108 113 not sure footed
+T7 Symptom 126 130 overall weak
+T8 Symptom 142 152 difficulty driving
+T9 Disease 155 162 muscle function
+T10 Symptom 184 191 tightness
+T11 Symptom 197 203 choking
+T12 Symptom 207 218 lightheaded
+T13 Symptom 219 223 foggy
+T14 Symptom 224 229 brain
+T15 Symptom 242 246 loss of endurance
+T16 Symptom 254 258 heavy
+T17 Symptom 259 263 legs
+T18 Symptom 267 272 arms
+T19 Symptom 276 288 eye muscle
+T20 Symptom 290 296 spasms
+T21 Symptom 299 306 dizziness
+T22 Disease 308 314 vertigo
+T23 Symptom 321 325 lousy sleeping
+T24 Symptom 330 341 terrible concentration
+T25 Symptom 343 359 bad dreams
+T26 Symptom 375 382 foot and leg cramps
+T27 Symptom 427 434 always exhausted
+T28 Disease 437 450 hip joint pain
+T29 Symptom 452 457 muscular aches
+T30 Symptom 466 483 swallowing problems
+T31 Symptom 487 496 hard to get out
+T32 Symptom 501 503 constant muscle tension
+T33 Symptom 516 519 legs
+T34 Symptom 522 528 sadness
+T35 Symptom 532 544 mood swings
+T36 Symptom 547 560 loss of muscle mass
+T37 Disease 563 568 chest
+T38 Symptom 570 573 arms
+T39 Drug 589 596 Lipitor
+T40 Disease 628 646 Triglycerides
+T41 Drug 686 693 Lipitor
+T42 Drug 703 710 Lipitor

@@ -1,0 +1,2 @@
+T1 Drug 5 11 Lipitor
+T2 Disease 30 40 cholesterol

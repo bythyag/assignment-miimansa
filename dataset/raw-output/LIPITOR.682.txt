@@ -1,0 +1,13 @@
+BIO Sequence:
+extreme O | muscle B-Symptom | spazms I-Symptom | in O | my O | lower B-Symptom | back I-Symptom | , O | eye B-Symptom | sight I-Symptom | changes I-Symptom | , O | fatigue B-Symptom | and O | weakness B-Symptom | . O | I O | stopped O | taking O | the O | drub B-Drug | almost O | two O | weeks O | ago O | and O | my O | back B-Symptom | pain I-Symptom | is O | beginning O | to O | go O | away O | . O | I O | would O | not O | recommend O | this O | drug B-Drug | even O | though O | it O | did O | work O | to O | lower O | my O | cholesterol B-Disease | . O
+
+Structured Output:
+T1 Symptom 8 22 muscle spazms
+T2 Symptom 27 42 lower back
+T3 Symptom 44 60 eye sight changes
+T4 Symptom 62 68 fatigue
+T5 Symptom 73 81 weakness
+T6 Drug 99 104 drub
+T7 Symptom 118 126 back pain
+T8 Drug 133 137 drug
+T9 Disease 145 154 cholesterol

@@ -1,0 +1,15 @@
+BIO Sequence:
+Severe B-Symptom | lower I-Symptom | back I-Symptom | pain I-Symptom | after O | increasing O | Lipitor B-Drug | form O | 10-20 B-Drug | mg O | . O | I O | couldn't O | get O | out O | of O | bed O | or O | walk O | after O | taking O | it O | for O | about O | one O | week O | . O | I O | stopped O | taking O | it O | and O | I O | have O | pain B-Symptom | in O | my O | right O | leg I-Symptom | . O | It O | has O | been O | three O | weeks O | and O | it O | is O | still O | hard O | to O | walk O | and O | go O | to O | work O | . O | I O | thought O | I O | had O | the O | flu B-Disease | for O | the O | first O | week O | when O | I O | first O | started O | taking O | 10 B-Drug | mg O | . O | about O | two O | years O | ago O | . O | Now O | after O | getting O | the O | back I-Symptom | pain I-Symptom | when O | we O | doubled O | the O | dosage O | , O | I O | think O | it O | wasn't O | the O | flu B-Disease | but O | a O | reaction B-ADR | to O | the O | drug I-ADR | . O 
+
+Structured Output:
+T1 Symptom 0 29 Severe lower back pain
+T2 Drug 49 55 Lipitor
+T3 Drug 64 71 10-20
+T4 Symptom 106 110 pain
+T5 Symptom 141 144 leg
+T6 Disease 157 160 flu
+T7 Drug 182 187 10
+T8 Symptom 196 207 back pain
+T9 Disease 215 218 flu
+T10 ADR 244 251 reaction
+T11 Drug 255 259 drug

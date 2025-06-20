@@ -1,0 +1,9 @@
+T1 Symptom 50 55 hunger feeling
+T2 Symptom 61 68 stomach cramping
+T3 ADR 98 102 muscle cramps
+T4 Symptom 114 117 calf
+T5 ADR 123 129 cramps
+T6 Disease 152 160 arthritis
+T7 Symptom 177 185 sensitive stomach
+T8 ADR 207 218 Charlie Horses
+T9 Drug 222 225 med

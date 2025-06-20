@@ -1,0 +1,11 @@
+BIO Sequence:
+EXTREME O | AND O | EXCRUCIATING O | MUSCLE B-Symptom | PAIN I-Symptom | IN O | SHOULDERS B-Symptom | , O | NECK B-Symptom | AND O | HIP B-Symptom | . O | HAS O | TAKEN O | 5 O | MONTHS O | OFF O | THIS O | HORRIBLE O | DRUG B-Drug | TO O | BE O | ABLE O | TO O | EVEN O | LIFT O | MY O | ARMS O | . O | I O | WILL O | NEVER O | TOUCH O | A O | STATIN B-Drug | DRUG I-Drug | AGAIN O | . O | THESE O | DRUGS B-Drug | ARE O | ABSOLUTE O | POISON O | AND O | EXTREMELY O | DANGEROUS O | . O | SHOULD O | BE O | TAKEN O | OFF O | THE O | MARKET O | . O 
+
+Structured Output:
+T1 Symptom 1 27 MUSCLE PAIN
+T2 Symptom 30 39 SHOULDERS
+T3 Symptom 41 45 NECK
+T4 Symptom 49 52 HIP
+T5 Drug 75 79 DRUG
+T6 Drug 101 107 STATIN DRUG
+T7 Drug 109 114 DRUGS

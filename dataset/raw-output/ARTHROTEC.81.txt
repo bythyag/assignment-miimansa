@@ -1,0 +1,6 @@
+BIO Sequence:
+frequent O | heartburn B-Symptom | . O | take O | it O | once O | a O | day O | and O | it O | works O | very O | well O | on O | the O | pain B-Symptom | . O
+
+Structured Output:
+T1 Symptom 9 17 heartburn
+T2 Symptom 46 50 pain

@@ -1,0 +1,6 @@
+T1 Disease 55 60 acid reflux
+T2 Symptom 92 96 pain
+T3 ADR 140 153 side effects
+T4 Drug 174 182 arthrotec
+T5 Symptom 192 196 pain
+T6 ADR 226 240 adverse reactions

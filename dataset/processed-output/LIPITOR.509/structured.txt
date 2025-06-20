@@ -1,0 +1,3 @@
+T1 Symptom 0 14 muscle spasms
+T2 Symptom 16 25 body aches
+T3 Symptom 27 33 itching

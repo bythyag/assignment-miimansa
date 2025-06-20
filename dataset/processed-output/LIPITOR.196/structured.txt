@@ -1,0 +1,15 @@
+T1 Drug 23 30 lipitor
+T2 ADR 70 77 dizziness  
+T3 ADR 79 83 lack  
+T4 Symptom 84 89 energy  
+T5 ADR 109 118 unexplained sweating  
+T6 ADR 157 169 side effects  
+T7 ADR 192 199 dizziness  
+T8 Drug 252 259 lipitor  
+T9 ADR 274 278 sever  
+T10 ADR 280 294 leg muscle pain  
+T11 ADR 296 303 swelling  
+T12 ADR 326 333 pronounced sweating  
+T13 Symptom 346 358 cholestorol  
+T14 Drug 387 394 lipitor  
+T15 Drug 493 500 lipitor

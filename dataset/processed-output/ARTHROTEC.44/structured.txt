@@ -1,0 +1,6 @@
+T1 Disease 39 47 heel spurs
+T2 ADR 70 75 side effects
+T3 ADR 90 93 gas
+T4 ADR 104 111 SEVERE diarrhea
+T5 Symptom 118 125 stomach cramps
+T6 ADR 130 135 nausea

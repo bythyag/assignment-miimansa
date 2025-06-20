@@ -1,0 +1,3 @@
+T1 Drug 37 44 lipitor
+T2 Symptom 135 146 tiredeness
+T3 Symptom 155 160 tired

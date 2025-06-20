@@ -1,0 +1,21 @@
+BIO Sequence:
+Jaw B-Symptom | , O | neck B-Symptom | , O | low B-Symptom | back B-Symptom | and O | hip B-Symptom | pains I-Symptom | . O | Numbness B-Symptom | / O | tingling I-Symptom | in O | legs B-Symptom | and O | arms B-Symptom | . O | Dr O | changed O | first O | to O | Vytorin B-Drug | then O | Pravachol B-Drug | . O | Took O | about O | a O | month O | for O | the O | same O | symptoms O | to O | begin O | with O | Vytorin B-Drug | . O | The O | pravachol B-Drug | started O | the O | pains I-Symptom | again O | in O | about O | 3 O | months O | . O | I O | stopped O | taking O | all O | statin B-Drug | drungs I-Drug | . O | Still O | hurting O | after O | 2 O | months O | of O | stopping O | . O | Be O | careful O | taking O | this O | drug B-Drug | . O
+
+Structured Output:
+T1 Symptom 0 3 Jaw
+T2 Symptom 5 9 neck
+T3 Symptom 11 14 low
+T4 Symptom 15 19 back
+T5 Symptom 24 27 hip
+T6 Symptom 28 33 pains
+T7 Symptom 37 45 Numbness
+T8 Symptom 48 55 tingling
+T9 Symptom 58 62 legs
+T10 Symptom 67 71 arms
+T11 Drug 41 48 Vytorin
+T12 Drug 54 62 Pravachol
+T13 Drug 113 119 Vytorin
+T14 Drug 126 134 pravachol
+T15 Drug 152 159 statin
+T16 Drug 161 166 drungs
+T17 Drug 197 201 drug

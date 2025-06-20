@@ -1,0 +1,26 @@
+T1 Symptom 0 13 muscle
+T2 Symptom 15 28 joint pain
+T3 Symptom 30 36 fatigue
+T4 Symptom 38 53 muscle stiffness
+T5 Symptom 55 61 tingling
+T6 Symptom 63 67 feet
+T7 Symptom 69 74 hands
+T8 Symptom 76 80 legs
+T9 Symptom 82 86 arms
+T10 Symptom 93 107 inability to walk any distance
+T11 Symptom 145 149 contact pain
+T12 Symptom 163 168 feet
+T13 Symptom 177 182 legs
+T14 Symptom 185 193 joint pains
+T15 ADR 174 178 pain
+T16 ADR 222 226 pain
+T17 Symptom 259 263 arms
+T18 Symptom 277 281 neck
+T19 Symptom 283 288 muscle pain
+T20 ADR 298 302 pain
+T21 Symptom 314 320 tendon
+T22 Symptom 348 358 Achilles tendon
+T23 Drug 195 201 Lipitor
+T24 Drug 284 290 Lipitor
+T25 Drug 291 297 Lipitor
+T26 Drug 393 404 coenzymeQ10

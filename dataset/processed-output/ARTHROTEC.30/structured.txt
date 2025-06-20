@@ -1,0 +1,13 @@
+T1 Drug 23 31 Arthrotec
+T2 Symptom 104 113 back pain
+T3 Symptom 172 178 vaginal bleeding
+T4 ADR 204 212 clotting
+T5 ADR 217 225 horrible periods
+T6 Disease 238 243 obgyn
+T7 Drug 265 278 birth control
+T8 Disease 290 307 endometrial biopsy
+T9 Drug 335 343 Arthrotec
+T10 ADR 490 508 heavy/extra vaginal bleeding
+T11 ADR 630 636 bleeding
+T12 Symptom 685 690 extra pains
+T13 Drug 711 719 medicine

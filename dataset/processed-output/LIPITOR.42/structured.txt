@@ -1,0 +1,4 @@
+T1 Symptom 18 21 leg
+T2 Symptom 28 32 chest pain
+T3 Symptom 37 41 left side
+T4 ADR 61 68 side effects

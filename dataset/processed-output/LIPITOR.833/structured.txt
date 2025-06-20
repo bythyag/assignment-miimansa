@@ -1,0 +1,11 @@
+T1 Drug 156 160 40mg
+T2 Drug 221 225 20mg
+T3 Symptom 65 71 hurts
+T4 Symptom 147 152 aches
+T5 Symptom 154 159 pains
+T6 Disease 185 193 arthritis
+T7 Drug 264 271 Lipitor
+T8 Symptom 193 203 generalized aches
+T9 Symptom 204 209 pains
+T10 Drug 276 281 drugs
+T11 Drug 344 351 statins

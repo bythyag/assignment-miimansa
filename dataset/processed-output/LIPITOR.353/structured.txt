@@ -1,0 +1,7 @@
+T1 Drug 22 28 Lipitor
+T2 Disease 66 69 LDL
+T3 Symptom 119 128 abdominal pain
+T4 Symptom 130 144 shortness of breath
+T5 Symptom 147 162 muscle pains
+T6 ADR 171 183 side effects
+T7 Drug 229 235 lipitor

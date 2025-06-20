@@ -1,0 +1,6 @@
+BIO Sequence:
+Dizzy B-Symptom | . O | Lowered O | the O | cholesterol B-Disease | . O
+
+Structured Output:
+T1 Symptom 0 5 Dizzy
+T2 Disease 22 32 cholesterol

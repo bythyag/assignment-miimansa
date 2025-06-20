@@ -1,0 +1,17 @@
+BIO Sequence:
+Slight O | stomach B-Symptom | upset I-Symptom | became O | worse O | and O | resulted O | in O | a O | perforated B-Disease | ulcer I-Disease | which O | nearly O | killed O | me O | ! O | I O | will O | never O | be O | perfectly O | well O | again O | ! O | My O | gastrc B-Disease | surgeon I-Disease | put O | the O | blame O | firmly O | on O | this O | drug B-Drug | . O | I O | was O | fit O | , O | 48 O | and O | ate O | an O | excellent O | diet O | . O | It O | did O | help O | my O | arthritis B-Disease | , O | but O | in O | my O | opinion O | the O | possibility O | of O | side B-ADR | effects I-ADR | was O | not O | taken O | very O | seriously O | . O | It O | can O | kill O | you O | : O | post O | operatively O | I O | suffered O | bleeding B-ADR | , O | peritonitis B-ADR | , O | septicaemia B-ADR | , O | renal B-ADR | and O | respiratory B-ADR | failure I-ADR | . O | I O | was O | sent O | home O | wearing O | 2 O | stoma B-Disease | bags I-Disease | and O | 3 O | wound B-Disease | dressings I-Disease | , O | weighing O | four O | stone O | ( O | 56 O | lbs O | ) O | . O 
+
+Structured Output:
+T1 Symptom 8 13 stomach upset
+T2 Disease 36 51 perforated ulcer
+T3 Disease 52 58 gastrc
+T4 Drug 75 79 drug
+T5 Disease 81 90 arthritis
+T6 ADR 105 117 side effects
+T7 ADR 138 146 bleeding
+T8 ADR 148 160 peritonitis
+T9 ADR 162 174 septicaemia
+T10 ADR 176 181 renal
+T11 ADR 183 193 respiratory failure
+T12 Disease 204 211 stoma
+T13 Disease 218 230 wound dressings

@@ -1,0 +1,14 @@
+T1 Drug 92 99 Lipitor
+T2 ADR 125 138 side effects
+T3 ADR 142 155 side effects
+T4 Symptom 179 183 sore
+T5 Symptom 189 194 stiff
+T6 Symptom 196 200 hips
+T7 Symptom 202 207 knees
+T8 Symptom 209 215 ankles
+T9 Symptom 220 225 feet
+T10 Disease 236 238 48
+T11 Disease 240 244 years
+T12 Disease 247 250 old
+T13 Disease 271 275 legs
+T14 Drug 293 299 Lipitor

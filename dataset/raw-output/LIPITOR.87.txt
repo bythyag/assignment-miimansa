@@ -1,0 +1,6 @@
+BIO Sequence:
+Ruined O | my O | physical O | ability O | to O | do O | anything O | . O | Muscles O | no O | more O | . O | Weak O | all O | the O | time O | . O | I O | will O | never O | take O | another O | one O | these O | pills B-Drug | . O | Doctors O | are O | pill O | pushers O | getting O | paid O | by O | the O | drug B-Drug | makers O | . O | Wake O | up O | America O | !! O
+
+Structured Output:
+T1 Drug 23 28 pills
+T2 Drug 81 85 drug

@@ -1,0 +1,15 @@
+BIO Sequence:
+Indigestion B-Symptom | - O | never O | had O | it O | before O | and O | stopped O | when O | I O | stopped O | taking O | the O | statin B-Drug | . O | Chest B-Symptom | pains I-Symptom | waking O | me O | up O | at O | night O | - O | never O | had O | it O | before O | and O | stopped O | when O | I O | stopped O | taking O | the O | statin B-Drug | . O | Neuropothy B-Symptom | in O | right O | hand O | & O | arm O | - O | never O | had O | it O | before O | and O | stopped O | when O | I O | stopped O | taking O | the O | statin B-Drug | . O | I O | believe O | it O | is O | totally O | unnecessary O | for O | healthy O | people O | . O | We O | NEED O | cholesterol O | . O | In O | trying O | to O | reduce O | it O | , O | statins B-Drug | stop O | a O | whole O | cascade O | of O | addditional O | enzymes O | and O | proteins O | that O | are O | absolutely O | necessary O | for O | healthy O | bodies O | . O | It O | took O | three O | years O | of O | statins B-Drug | ( O | 2 O | on O | Zocor B-Drug | then O | 1 O | one O | on O | Lipitor B-Drug | ) O | at O | 40mg O | per O | day O | to O | finally O | cause O | the O | above O | reactions O | to O | the O | destruction O | the O | stains O | were O | doing O | to O | my O | body O | . O
+
+Structured Output:
+T1 Symptom 1 10 Indigestion
+T2 Symptom 77 86 Chest pains
+T3 Symptom 116 125 Neuropothy
+T4 Drug 50 56 statin
+T5 Drug 164 170 statin
+T6 Drug 204 210 statin
+T7 Drug 244 250 statin
+T8 Drug 261 266 Zocor
+T9 Drug 282 289 Lipitor
+T10 Drug 260 266 statins
+T11 Drug 243 249 statins

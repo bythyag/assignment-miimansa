@@ -1,0 +1,8 @@
+BIO Sequence:
+Depressions B-Disease | , O | lack B-Symptom | of O | energy B-Symptom | . O | Side O | effects B-ADR | seemed O | to O | sneak O | up O | on O | me O | , O | it O | wasn O | ' O | t O | until O | I O | ran O | out O | and O | stopped O | taking O | it O | that O | I O | discovered O | how O | much O | better O | I O | felt O | . O | I O | know O | several O | others O | that O | take O | Lipitor B-Drug | without O | these O | effects O | . O
+
+Structured Output:
+T1 Disease 0 10 Depressions
+T2 Symptom 11 25 lack of energy
+T3 ADR 27 40 Side effects
+T4 Drug 90 97 Lipitor

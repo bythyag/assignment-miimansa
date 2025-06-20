@@ -1,0 +1,17 @@
+BIO Sequence:
+I O | only O | took O | Lipitor B-Drug | a O | short O | time O | then O | was O | switched O | to O | Zocor B-Drug | . O | Leg B-Symptom | cramps I-Symptom | , O | fatique B-Symptom | , O | overall O | weak B-Symptom | feeling I-Symptom | . O | I O | quit O | taking O | the O | Statin B-Drug | drug O | 2 O | years O | ago O | . O | I O | went O | to O | American O | Heart B-Disease | lung I-Disease | ass. I-Disease | website O | and O | put O | in O | my O | 10 O | year O | risk O | factor O | . O | By O | dropping O | my O | total O | cholesterol B-Disease | from O | 259 O | down O | to O | 200 O | only O | reduced O | my O | risk O | factor O | by O | 1 O | % O | . O | I O | showed O | this O | and O | other O | info O | to O | my O | Doctor B-Drug | and O | she O | understood O | and O | said O | it O | was O | my O | choice O | . O | I O | feel O | normal O | today O | and O | will O | never O | take O | these O | drugs O | again O | . O | Here O | is O | site O | to O | check O | your O | risk O | factor O | . O | http://www.fda.gov/opacom/backgrounders/problem.html O | Also O | I O | found O | out O | you O | should O | report O | side B-ADR | effects I-ADR | to O | FDA B-Drug | at O | . O | http://www.fda.gov/opacom/backgrounders/problem.html O | They O | estimate O | only O | 20 O | % O | to O | 30 O | % O | of O | drug O | side B-ADR | effects I-ADR | get O | reported O | . O | I O | encourage O | everyone O | to O | report O | their O | experiences O | with O | these O | drugs O | . O | ( O | We O | have O | to O | the O | Doctors O | don't O | ) O | . O | These O | Statins B-Drug | are O | dangerous O | over O | perscribed O | drugs O | . O 
+
+Structured Output:
+T1 Drug 15 22 Lipitor
+T2 Drug 50 56 Zocor
+T3 Symptom 68 74 Leg cramps
+T4 Symptom 76 83 fatique
+T5 Symptom 88 92 weak feeling
+T6 Drug 114 120 Statin
+T7 Disease 136 142 American Heart lung ass.
+T8 Disease 156 167 cholesterol
+T9 Drug 186 190 Doctor
+T10 Drug 241 244 FDA
+T11 ADR 266 276 side effects
+T12 ADR 307 317 side effects
+T13 Drug 377 384 Statins

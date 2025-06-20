@@ -1,0 +1,9 @@
+T1 Symptom 8 13 muscle pain
+T2 Symptom 24 31 tendons
+T3 Disease 48 56 arthritis
+T4 Symptom 65 69 pain
+T5 Drug 76 82 Lipitor
+T6 ADR 90 108 excrutiation pain
+T7 Drug 120 126 Lipitor
+T8 Symptom 156 160 pain
+T9 Symptom 193 198 painful

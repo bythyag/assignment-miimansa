@@ -1,0 +1,15 @@
+BIO Sequence:
+Pain B-Symptom | under O | ribs O | , O | restless B-Symptom | legs I-Symptom | . O | muscle B-Symptom | pain I-Symptom | everywhere O | . O | lethargy B-Symptom | depression I-Symptom | . O | insomnia B-Symptom | . O | brain B-Symptom | fog I-Symptom | mood B-Symptom | swings I-Symptom | . O | lack B-Symptom | of O | strength I-Symptom | . O | blurred B-Symptom | vision I-Symptom | . O | forgetfulness B-Symptom | . O 
+
+Structured Output:
+T1 Symptom 0 4 Pain
+T2 Symptom 11 26 restless legs
+T3 Symptom 29 44 muscle pain
+T4 Symptom 46 53 lethargy
+T5 Symptom 55 64 depression
+T6 Symptom 66 73 insomnia
+T7 Symptom 75 83 brain fog
+T8 Symptom 84 94 mood swings
+T9 Symptom 96 110 lack of strength
+T10 Symptom 113 125 blurred vision
+T11 Symptom 127 139 forgetfulness

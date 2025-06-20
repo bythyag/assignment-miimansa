@@ -1,0 +1,20 @@
+T1 Symptom 20 24 pains
+T2 Symptom 29 33 hands
+T3 Symptom 35 39 arms
+T4 Symptom 42 50 shoulders
+T5 Drug 63 70 lipitor
+T6 Drug 72 76 10mg
+T7 Drug 105 110 20mg
+T8 Symptom 128 132 pains
+T9 Symptom 137 141 hands
+T10 Symptom 143 147 arms
+T11 Symptom 152 160 shoulders
+T12 Symptom 165 171 freezing
+T13 Symptom 174 178 cold
+T14 Symptom 183 189 burning
+T15 Symptom 191 200 sensations
+T16 Drug 215 222 statins
+T17 ADR 227 240 side effects
+T18 Drug 243 249 statins
+T19 Symptom 285 289 pain
+T20 Symptom 319 323 pain

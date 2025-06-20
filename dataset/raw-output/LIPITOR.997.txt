@@ -1,0 +1,30 @@
+BIO Sequence:
+Pain B-Symptom | in O | joints B-Symptom | and O | muscles B-Symptom | , O | including O | knees B-Symptom | , O | ankles B-Symptom | feet B-Symptom | wrist B-Symptom | shoulders B-Symptom | and O | elbows B-Symptom | . O | Unable O | to O | even O | climb O | 1 O | flight O | of O | stairs B-Symptom | . O | Weight B-Symptom | gain B-Symptom | ( O | due O | to O | no O | activity O | from O | pain B-Symptom | ? O | ) O | Headaches B-Symptom | , O | fatigue B-Symptom | , O | confusion B-Symptom | and O | memory B-Symptom | loss I-Symptom | . O | Uncontrollable O | gas B-Symptom | and O | diarrhea B-Symptom | as O | well O | as O | a O | burning B-Symptom | in O | my O | stomach B-Symptom | . O | Dr O | never O | mentioned O | stopping O | medication B-Drug | . O | Just O | physical O | therapy B-Drug | and O | pain B-Drug | medication I-Drug | . O 
+
+Structured Output:
+T1 Symptom 0 4 Pain
+T2 Symptom 8 13 joints
+T3 Symptom 18 25 muscles
+T4 Symptom 45 50 knees
+T5 Symptom 52 58 ankles
+T6 Symptom 59 64 feet
+T7 Symptom 66 71 wrist
+T8 Symptom 73 82 shoulders
+T9 Symptom 87 92 elbows
+T10 Symptom 115 120 stairs
+T11 Symptom 124 128 Weight
+T12 Symptom 129 133 gain
+T13 Symptom 154 158 pain
+T14 Symptom 160 168 Headaches
+T15 Symptom 170 176 fatigue
+T16 Symptom 178 187 confusion
+T17 Symptom 192 198 memory
+T18 Symptom 200 204 loss
+T19 Symptom 206 212 gas
+T20 Symptom 215 222 diarrhea
+T21 Symptom 227 234 burning
+T22 Symptom 236 243 stomach
+T23 Drug 285 295 medication
+T24 Drug 311 323 therapy
+T25 Drug 329 333 pain
+T26 Drug 335 343 medication

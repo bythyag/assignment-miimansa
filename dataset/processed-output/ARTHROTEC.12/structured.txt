@@ -1,0 +1,6 @@
+T1 Symptom 5 22 stomach sensitivity
+T2 ADR 55 70 side effects
+T3 Drug 81 85 drug
+T4 Drug 106 110 drug
+T5 Disease 138 145 surgery
+T6 Drug 157 164 epidural steroid injection

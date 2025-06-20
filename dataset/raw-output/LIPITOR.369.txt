@@ -1,0 +1,13 @@
+BIO Sequence:
+My O | left O | arm B-Symptom | and O | neck B-Symptom | that O | hurt O | from O | chronic B-Disease | pain I-Disease | are O | now O | exploding O | . O | I O | hope O | from O | just O | taking O | a O | short O | time O | no O | perm O | damage O | is O | done O | . O | The O | pain B-Symptom | is O | unbearable O | . O | I O | was O | down O | to O | a O | level O | 4 O | and O | now O | hitting O | 10 O | for O | parts O | of O | each O | day O | . O | I O | told O | the O | dr O | . O | I O | felt O | socked B-ADR | in O | the O | arm I-ADR | , O | he O | thinks O | my O | chronic O | problem O | is O | just O | getting O | worse O | . O | I O | hope O | he O | is O | wrong O | because O | I O | cannot O | take O | this O | much O | longer O | . O 
+
+Structured Output:
+T1 Symptom 11 15 arm
+T2 Symptom 20 24 neck
+T3 Disease 38 44 chronic pain
+T4 Symptom 80 84 pain
+T5 ADR 131 137 socked
+T6 ADR 142 145 arm
+T7 Symptom 148 155 unbearable
+T8 Symptom 63 65 4
+T9 Symptom 70 72 10

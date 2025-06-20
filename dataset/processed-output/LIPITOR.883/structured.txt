@@ -1,0 +1,5 @@
+T1 Symptom 30 44 heart attack symptoms
+T2 Drug 66 68 ER
+T3 Drug 122 126 pill
+T4 Disease 201 207 serious health risks
+T5 Drug 230 234 second pill

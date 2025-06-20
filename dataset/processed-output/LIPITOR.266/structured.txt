@@ -1,0 +1,12 @@
+T1 Symptom 0 7 fatigue
+T2 Symptom 9 17 neuropathy
+T3 Symptom 19 35 taste perversion
+T4 Symptom 37 45 back pain
+T5 Symptom 47 66 suicidal depression
+T6 Symptom 68 78 weight loss
+T7 Symptom 80 87 paranoia
+T8 Symptom 89 115 general change in personality
+T9 Symptom 126 139 feeling
+T10 Symptom 141 156 impending doom
+T11 Drug 178 182 drug
+T12 ADR 146 157 side effect

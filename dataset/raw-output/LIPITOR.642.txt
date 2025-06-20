@@ -1,0 +1,17 @@
+BIO Sequence:
+Aches B-Symptom | in O | calf B-Symptom | muscles I-Symptom | and O | hip B-Symptom | joint I-Symptom | . O | Wife O | says O | I'm O | crabby B-ADR | when O | on O | it O | . O | Had O | similar O | problems O | with O | Zocor B-Drug | . O | Taking O | fish B-Drug | oil I-Drug | ( O | salmon I-Drug | ) O | and O | glucosamine B-Drug | sulfate I-Drug | has O | offset O | the O | achiness B-Symptom | and O | moodiness B-ADR | . O | Cholosterol B-Disease | levels O | did O | go O | down O | . O | Dosages O | Lipitor-10mg B-Drug | Zocor- 20mg I-Drug | . O 
+
+Structured Output:
+T1 Symptom 0 5 Aches
+T2 Symptom 7 16 calf muscles
+T3 Symptom 20 28 hip joint
+T4 ADR 47 53 crabby
+T5 Drug 76 81 Zocor
+T6 Drug 103 111 fish oil
+T7 Drug 113 119 salmon
+T8 Drug 122 138 glucosamine sulfate
+T9 Symptom 147 155 achiness
+T10 ADR 160 168 moodiness
+T11 Disease 180 189 Cholosterol
+T12 Drug 192 208 Lipitor-10mg
+T13 Drug 210 220 Zocor- 20mg

@@ -1,0 +1,8 @@
+BIO Sequence:
+Extreme O | burning B-Symptom | feeling O | and O | numbing B-Symptom | of O | my O | feet B-Symptom | that O | progressively O | got O | worse O | . O | had O | to O | stop O | after O | a O | month O | and O | a O | half O | . O | Burning B-Symptom | went O | away O | with O | 3 O | days O | . O
+
+Structured Output:
+T1 Symptom 8 15 burning
+T2 Symptom 24 30 numbing
+T3 Symptom 33 37 feet
+T4 Symptom 43 50 Burning

@@ -1,0 +1,13 @@
+BIO Sequence:
+Does O | not O | appear O | to O | be O | giving O | me O | negative O | side O | effects O | . O | My O | ordeal O | began O | with O | leg B-Symptom | problems I-Symptom | long O | before O | my O | bypass O | and O | any O | drugs O | were O | taken O | . O | After O | surgery O | I O | was O | given O | list O | of O | drugs O | of O | which O | Lipitor B-Drug | was O | one O | . O | I O | take O | 80mg./day O | at O | night O | along O | with O | asprin B-Drug | , O | 100mg O | of O | Atenolol B-Drug | and O | a O | host O | of O | others O | . O | Sorry O | to O | say O | my O | leg B-Symptom | pains I-Symptom | have O | not O | went O | away O | , O | and O | by O | reading O | many O | of O | these O | postings O | it O | appears O | to O | exaggerate O | this O | condition O | . O | Doctors O | looking O | elsewhere O | but O | have O | found O | nothing O | . O | I O | found O | information O | about O | leg B-Symptom | pains I-Symptom | being O | caused O | by O | restless B-Disease | leg I-Disease | syndrome I-Disease | . O | I O | sure O | hope O | I O | don O | ' O | t O | have O | that O | ! O | Started O | at O | 262 O | , O | after O | 8 O | months O | down O | to O | 108 O | . O | Lipitor B-Drug | diet O | and O | excercise O | have O | lowered O | my O | cholestrol O | . O 
+
+Structured Output:
+T1 Symptom 42 45 leg
+T2 Symptom 46 53 problems
+T3 Drug 99 105 Lipitor
+T4 Drug 118 125 asprin
+T5 Drug 133 141 Atenolol
+T6 Symptom 161 164 leg
+T7 Symptom 165 170 pains
+T8 Disease 187 211 restless leg syndrome
+T9 Drug 252 258 Lipitor

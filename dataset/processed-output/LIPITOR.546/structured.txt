@@ -1,0 +1,46 @@
+T1 Drug 23 30 Lipitor
+T2 Symptom 51 56 muscle pain
+T3 Symptom 58 62 leg cramps
+T4 Drug 76 83 Pravachol
+T5 Drug 24 29 Statin
+T6 Drug 33 36 Q10
+T7 Drug 23 30 Lipitor
+T8 ADR 215 227 side effects
+T9 Drug 29 32 Statin
+T10 Drug 45 51 alcohol
+T11 ADR 258 266 side-effects
+T12 ADR 272 282 Insomina
+T13 ADR 284 298 abnoraml dreams
+T14 ADR 300 310 depression
+T15 ADR 312 324 memory loss
+T16 ADR 326 344 photosensitivity
+T17 ADR 346 355 muscle pain
+T18 ADR 357 368 leg cramps
+T19 ADR 370 377 rhinitis
+T20 ADR 379 388 bronchitis
+T21 Disease 390 396 asthma
+T22 ADR 398 407 dry skin
+T23 ADR 409 414 tinnitus
+T24 ADR 419 430 taste loss
+T25 ADR 432 440 dry eyes
+T26 ADR 442 453 weight gain
+T27 Disease 455 465 hypertension
+T28 ADR 506 512 tinnitus
+T29 ADR 721 738 depression
+T30 Drug 740 747 Zoloft
+T31 Drug 757 766 Rhinocort
+T32 Drug 780 792 Tylenol
+T33 Drug 799 805 Lindora
+T34 Drug 823 829 Lipitor
+T35 Drug 823 829 Lipitor
+T36 Disease 886 895 bronhitis
+T37 Disease 898 904 asthma
+T38 Disease 989 997 pneumonia
+T39 Disease 999 1014 sinus infection
+T40 Disease 1025 1037 high blood pressure
+T41 Drug 116 122 Norvasc
+T42 Drug 128 135 Lipitor
+T43 ADR 145 157 side-effects
+T44 ADR 126 139 syptoms
+T45 Drug 148 154 Lipitor
+T46 ADR 124 132 side effects

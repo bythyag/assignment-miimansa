@@ -1,0 +1,8 @@
+BIO Sequence:
+I O | have O | had O | muscle/joint B-Symptom | pain I-Symptom | , O | mainly O | in O | my O | arms B-Symptom | which O | is O | very O | painful O | when O | I O | position O | them O | in O | certain O | ways O | ; O | otherwise O | I O | am O | just O | . O | This O | works O | for O | lowering O | Cholesterol B-Disease | , O | but O | not O | so O | sure O | about O | the O | big O | picture O | . O | I O | hesitated O | going O | on O | it O | and O | now O | believe O | my O | original O | impression O | was O | probably O | correct O | . O | I O | am O | going O | to O | try O | something O | natural O | instead O | . O | The O | pain B-Symptom | is O | n’t O | worth O | it O | . O 
+
+Structured Output:
+T1 Symptom 19 34 muscle/joint pain
+T2 Symptom 60 64 arms
+T3 Disease 75 85 Cholesterol
+T4 Symptom 107 111 pain

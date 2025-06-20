@@ -1,0 +1,10 @@
+T1 Drug 8 14 Lipitor
+T2 Symptom 95 102 muscles
+T3 Symptom 109 115 nerves
+T4 Disease 137 148 fatty liver
+T5 Disease 150 163 leaky heart valves
+T6 Disease 165 171 goiter
+T7 Disease 174 183 neuropathy
+T8 Symptom 246 251 pulse
+T9 Symptom 261 272 chest pains
+T10 Symptom 293 302 weakness

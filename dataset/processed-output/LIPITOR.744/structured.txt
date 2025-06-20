@@ -1,0 +1,2 @@
+T1 Symptom 0 9 headaches
+T2 Symptom 12 23 sex drive

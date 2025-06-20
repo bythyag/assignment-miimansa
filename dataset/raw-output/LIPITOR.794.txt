@@ -1,0 +1,13 @@
+BIO Sequence:
+Aching B-Symptom | weakness I-Symptom | in O | legs B-Symptom | back I-Symptom | and O | shoulders I-Symptom | . O | Side O | effects B-ADR | subsided O | after O | lipitor B-Drug | stopped O | . O | The O | drug O | is O | toxic B-ADR | and O | will O | probably O | kill O | you O | before O | the O | high O | cholesterol B-Disease | will O | . O
+
+Structured Output:
+T1 Symptom 0 6 Aching
+T2 Symptom 7 14 weakness
+T3 Symptom 17 21 legs
+T4 Symptom 22 26 back
+T5 Symptom 27 36 shoulders
+T6 ADR 43 50 effects
+T7 Drug 54 61 lipitor
+T8 ADR 65 70 toxic
+T9 Disease 75 86 cholesterol

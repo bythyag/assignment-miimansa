@@ -1,0 +1,27 @@
+T1 Drug 22 29 lipitor
+T2 Symptom 56 63 soreness
+T3 Symptom 65 72 muscles
+T4 Symptom 89 96 excruciating
+T5 Symptom 101 105 pain
+T6 Symptom 107 112 muscle
+T7 Symptom 114 119 cramps
+T8 Disease 123 127 lower back
+T9 Symptom 132 139 buttock
+T10 Symptom 141 146 thigh
+T11 Symptom 148 152 calf
+T12 Symptom 158 163 ankle
+T13 Symptom 172 179 numbness
+T14 Symptom 184 192 tingling
+T15 Symptom 199 203 lower leg
+T16 Symptom 221 228 fatiqued
+T17 Symptom 233 239 buzzing
+T18 ADR 241 247 nausia
+T19 Symptom 250 263 sleeplessness
+T20 ADR 265 268 gas
+T21 Symptom 273 278 dark urine
+T22 ADR 283 297 side effect
+T23 Disease 298 306 Arthritis
+T24 Disease 308 319 Tendonitis
+T25 Disease 321 328 Sciatica
+T26 Drug 353 360 Lipitor
+T27 Drug 366 372 Tricor

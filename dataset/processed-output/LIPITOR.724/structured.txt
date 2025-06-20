@@ -1,0 +1,15 @@
+T1 Drug 7 12 Liptor
+T2 Symptom 38 42 severe
+T3 Symptom 43 48 thigh muscle pain
+T4 ADR 86 94 symtoms
+T5 Drug 115 120 Liptor
+T6 ADR 137 144 symtoms
+T7 Drug 160 164 drug
+T8 Symptom 169 175 muscle
+T9 Symptom 178 184 problem
+T10 Symptom 223 229 thigh muscle
+T11 Symptom 237 241 warm
+T12 Symptom 246 250 numb
+T13 Symptom 261 265 cool
+T14 Drug 276 281 drug
+T15 Symptom 305 311 damage

@@ -1,0 +1,6 @@
+T1 Symptom 8 23 muscle weakness
+T2 Symptom 32 49 thinking problems
+T3 Drug 90 96 Lipitor
+T4 Disease 108 118 cholesterol
+T5 Disease 133 142 physician
+T6 Drug 157 162 drugs

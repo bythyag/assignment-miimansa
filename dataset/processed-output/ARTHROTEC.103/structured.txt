@@ -1,0 +1,7 @@
+T1 ADR 31 38 bleeding forever  
+T2 Drug 95 102 Arthotec  
+T3 Symptom 130 134 pain  
+T4 Symptom 140 148 stiffness  
+T5 Symptom 163 167 pain  
+T6 Symptom 217 222 weak  
+T7 Symptom 228 234 fainted

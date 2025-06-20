@@ -1,0 +1,9 @@
+T1 Symptom 27 32 muscle pain
+T2 Symptom 38 45 weakness
+T3 Symptom 51 55 ache
+T4 Symptom 63 73 continous
+T5 Drug 100 102 MD
+T6 Drug 116 123 lipitor
+T7 Disease 148 153 liver
+T8 Disease 156 162 muscles
+T9 Disease 167 172 heart

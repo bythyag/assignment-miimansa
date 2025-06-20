@@ -1,0 +1,7 @@
+BIO Sequence:
+Acute B-Symptom | muscle I-Symptom | pain I-Symptom
+
+Structured Output:
+T1 Symptom 0 5 Acute
+T2 Symptom 6 12 muscle
+T3 Symptom 13 17 pain

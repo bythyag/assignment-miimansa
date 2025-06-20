@@ -1,0 +1,28 @@
+T1 Symptom 0 7 headache
+T2 Symptom 9 18 chestpain
+T3 Symptom 20 29 arrythmia
+T4 Symptom 31 39 diarrhea
+T5 Symptom 41 49 malaisse
+T6 Symptom 51 64 forgetfulness
+T7 Symptom 66 75 confusion
+T8 Symptom 77 85 back pain
+T9 Disease 94 104 phlebitis
+T10 Symptom 107 113 severe leg cramps
+T11 Symptom 115 123 numbness
+T12 Symptom 126 132 ankles
+T13 Symptom 135 139 toes
+T14 Drug 168 174 statin
+T15 Drug 176 184 medication
+T16 Drug 191 198 norvasc
+T17 Drug 207 213 lipitor
+T18 Drug 239 245 vioxx
+T19 Disease 250 260 cholesterol
+T20 Drug 262 268 statin
+T21 Symptom 273 281 treadmill
+T22 Disease 283 292 phlebitis
+T23 Drug 303 309 statin
+T24 Drug 315 321 zetia
+T25 Drug 329 335 lipitor
+T26 Drug 337 343 zetia
+T27 Symptom 345 362 chest tightness
+T28 Symptom 363 370 headache

@@ -1,0 +1,18 @@
+T1 Symptom 81 88 abdominal pain
+T2 Symptom 94 108 lower back pain
+T3 Symptom 127 132 labor pain
+T4 Drug 196 204 Arthrotec
+T5 Drug 212 224 Paracetamol
+T6 Drug 254 257 1200
+T7 Drug 259 267 Ibuprofen
+T8 Drug 297 306 Arthrotec
+T9 Drug 314 324 Paracetamol
+T10 Symptom 367 375 headache
+T11 Drug 395 403 Ibuprofen
+T12 Drug 427 435 Arthrotec
+T13 Symptom 481 486 heavy vaginal bleeding
+T14 Drug 550 553 Paracetamol
+T15 Drug 613 621 Diclofenac
+T16 Drug 629 634 MG
+T17 Drug 636 648 Misoprostol
+T18 Drug 641 644 200

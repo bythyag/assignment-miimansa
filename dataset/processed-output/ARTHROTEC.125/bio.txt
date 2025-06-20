@@ -1,0 +1,1 @@
+stomack O | pains B-Symptom | , O | vomited B-ADR | all O | night O | about O | 6 O | times O | , O | abdominal B-Symptom | pain I-Symptom | , O | then O | i O | got O | severe B-ADR | vaginal B-ADR | bleeding I-ADR | , O | horrible O | . O | do O | not O | take O | it O | . O

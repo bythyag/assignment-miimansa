@@ -1,0 +1,7 @@
+T1 Symptom 38 44 lipids
+T2 Disease 61 65 H1C
+T3 Disease 68 76 adiabetic
+T4 Disease 84 90 stroke
+T5 Disease 96 101 heart attack
+T6 Drug 113 120 Lipitor
+T7 ADR 126 138 side effects

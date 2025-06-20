@@ -1,0 +1,9 @@
+BIO Sequence:
+Very O | little O | side B-ADR | effects I-ADR | , O | some O | gas B-ADR | . O | Gave O | me O | my O | life O | back O | . O | Now O | I O | can O | sleep O | at O | night O | and O | do O | most O | activities O | . O | Mobility O | without O | pain B-Symptom | ! O | Worry O | about O | the O | long O | term O | side B-ADR | effects I-ADR | of O | an O | NSAID B-Drug | drug I-Drug | . O
+
+Structured Output:
+T1 ADR 20 30 side effects
+T2 ADR 36 39 gas
+T3 Symptom 83 87 pain
+T4 ADR 90 101 side effects
+T5 Drug 105 111 NSAID

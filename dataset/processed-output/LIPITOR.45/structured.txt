@@ -1,0 +1,6 @@
+T1 Symptom 75 79 pain
+T2 Symptom 87 93 thighs
+T3 Disease 51 60 cholesterol
+T4 Symptom 104 110 leg pain
+T5 Symptom 117 122 pains
+T6 Symptom 136 143 fatigued

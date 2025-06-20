@@ -1,0 +1,11 @@
+T1 Symptom 0 6 Severe
+T2 Symptom 7 12 elbow
+T3 Symptom 14 17 arm
+T4 Symptom 21 28 shoulder
+T5 Symptom 29 33 pain
+T6 Symptom 105 110 arms
+T7 Symptom 112 118 shoulder
+T8 Symptom 145 148 arm
+T9 Symptom 150 155 elbow
+T10 Symptom 156 160 pain
+T11 Drug 93 100 lipitor

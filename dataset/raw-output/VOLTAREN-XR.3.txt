@@ -1,0 +1,15 @@
+BIO Sequence:
+Had O | a O | scary O | experience O | that O | I O | am O | associating O | with O | Voltaren B-Drug | . O | Not O | completely O | convinced O | it O | was O | the O | RX O | but O | I O | have O | no O | other O | reason O | for O | the O | reaction O | . O | First O | dosage O | I O | was O | hit O | with O | extreme O | abdominal B-Symptom | issues O | including O | diarrhea B-ADR | . O | Figured O | it O | was O | a O | lack O | of O | adequate O | food O | on O | board O | when O | I O | took O | the O | 1st O | dose O | so O | increased O | my O | meal O | before O | I O | took O | the O | 2nd O | dose O | . O | Problem O | solved O | ! O | Was O | on O | the O | meds O | for O | 7 O | days O | when O | I O | experienced O | chest B-Symptom | discomfort I-Symptom | and O | upper O | abdominal B-Symptom | pressure I-Symptom | . O | With O | a O | medical O | background O | , O | I O | know O | that O | cardiac B-Disease | symptoms I-Disease | are O | mistaken O | for O | gastric B-Disease | reasons I-Disease | so O | I O | went O | to O | the O | ER O | . O | Long O | story O | short O | , O | I O | was O | diagnosed O | with O | severe O | gastric B-Disease | distress I-Disease | ( O | GERD B-Disease | ) O | and O | with O | a O | " O | gastric O | cocktail O | " O | and O | a O | high O | octane O | prilosec B-Drug | , O | I O | had O | some O | serious O | relief O | and O | sent O | home O | . O | Not O | convinced O | it O | was O | the O | issue O | , O | I O | went O | a O | day O | without O | the O | RX O | and O | then O | started O | again O | . O | I O | wasn't O | entirely O | 100 % O | after O | taking O | the O | dose O | and O | now O | , O | I O | am O | fairly O | certain O | it O | was O | the O | Voltaren B-Drug | . O | I O | must O | say O | that O | my O | symptoms B-Symptom | did O | improve O | within O | 3 O | days O | but O | the O | ER O | visit O | was O | . O 
+
+Structured Output:
+T1 Drug 39 46 Voltaren
+T2 ADR 116 124 diarrhea
+T3 Symptom 157 162 chest discomfort
+T4 Symptom 167 190 upper abdominal pressure
+T5 Disease 206 213 cardiac symptoms
+T6 Disease 228 234 gastric reasons
+T7 Disease 247 265 gastric distress
+T8 Disease 267 272 GERD
+T9 Drug 275 283 prilosec
+T10 Drug 368 375 Voltaren
+T11 Symptom 398 406 symptoms

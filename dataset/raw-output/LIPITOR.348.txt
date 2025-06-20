@@ -1,0 +1,14 @@
+BIO Sequence:
+Definitely O | short B-Symptom | term I-Symptom | memory I-Symptom | issues O | , O | but O | I O | 'm O | 44 O | and O | I O | suppose O | it O | could O | be O | part O | of O | menopause B-Disease | on O | its O | way O | . O | lowered O | overall O | cholesterol B-Symptom | and O | my O | hdl B-Drug | went O | up O | to O | 59 O | from O | 35 O | , O | and O | triglycerides B-Symptom | went O | down O | but O | not O | enough O | . O | LDL B-Symptom | down O | too O | but O | not O | enough O | so O | taking O | higher O | dose O | now O | . O | Worked O | like O | a O | champ O | at O | 10 B-Drug | mg I-Drug | for O | first O | two O | years O | . O | Now O | switched O | from O | GP B-Drug | to O | cardiologist B-Drug | and O | he's O | upped O | it O | to O | 40 B-Drug | mg I-Drug | so O | will O | see O | . O | have O | only O | taken O | 3 O | tablets B-Drug | since O | new O | dosage O | . O 
+
+Structured Output:
+T1 Symptom 10 28 short term memory
+T2 Disease 64 72 menopause
+T3 Symptom 86 95 cholesterol
+T4 Symptom 108 121 triglycerides
+T5 Symptom 123 126 LDL
+T6 Drug 148 155 10 mg
+T7 Drug 167 174 GP
+T8 Drug 182 194 cardiologist
+T9 Drug 205 212 40 mg
+T10 Drug 220 230 tablets

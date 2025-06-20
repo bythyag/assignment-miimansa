@@ -1,0 +1,5 @@
+T1 Symptom 3 12 stomach pains
+T2 Symptom 29 48 excessive drowsiness
+T3 Drug 61 68 medicine
+T4 Symptom 100 104 foot
+T5 Symptom 123 127 pain

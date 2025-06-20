@@ -1,0 +1,17 @@
+BIO Sequence:
+I O | have O | been O | on O | Lipitor B-Drug | for O | approximately O | two O | and O | a O | half O | years O | . O | Recently O | I O | experienced O | losing O | muscular B-Symptom | , O | headache B-Symptom | , O | neck B-Symptom | pain I-Symptom | and O | stiffness B-Symptom | , O | fatigue B-Symptom | , O | memory B-Symptom | loss I-Symptom | , O | muscles B-Symptom | pain I-Symptom | on O | the O | left O | side O | of O | my O | chest O | , O | depression B-Symptom | , O | sleepless B-Symptom | nites I-Symptom | and O | balance B-Symptom | loss I-Symptom | . O | It O | work O | great O | on O | reducing O | cholesteral B-Disease | level O | , O | but O | its O | side B-ADR | effects I-ADR | became O | another O | problem O | for O | me O | . O | I O | will O | discuss O | it O | with O | my O | doctor O | in O | my O | next O | visit O | . O
+
+Structured Output:
+T1 Drug 20 26 Lipitor
+T2 Symptom 74 82 muscular
+T3 Symptom 84 92 headache
+T4 Symptom 94 103 neck pain
+T5 Symptom 105 113 stiffness
+T6 Symptom 115 121 fatigue
+T7 Symptom 123 135 memory loss
+T8 Symptom 137 145 muscles pain
+T9 Symptom 148 155 depression
+T10 Symptom 157 165 sleepless nites
+T11 Symptom 167 178 balance loss
+T12 Disease 201 211 cholesteral
+T13 ADR 255 269 side effects

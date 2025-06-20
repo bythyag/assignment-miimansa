@@ -1,0 +1,8 @@
+T1 Symptom 29 35 muscle weakness
+T2 Symptom 41 48 fatigue
+T3 Symptom 75 80 pulled muscle
+T4 Symptom 95 102 greatest weakness
+T5 Drug 112 119 Lipitor
+T6 ADR 136 149 side effects
+T7 Symptom 161 166 Pulled muscle
+T8 Symptom 165 173 weak muscles

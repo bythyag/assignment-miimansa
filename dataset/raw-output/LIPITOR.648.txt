@@ -1,0 +1,17 @@
+BIO Sequence:
+Extreme O | Right B-Symptom | Shoulder I-Symptom | Pain I-Symptom | , O | more O | pronounced O | at O | night O | to O | the O | point O | I O | wake O | up O | frequently O | because O | the O | pain B-Symptom | wakes O | me O | up O | . O | Also O | experiencing O | short O | term O | memory B-Symptom | loss I-Symptom | , O | irratibility B-Symptom | and O | fatigue B-Symptom | . O | On O | advice O | from O | Dr O | went O | off O | it O | for O | a O | week O | but O | did O | not O | experience O | any O | relief O | . O | It O | did O | significantly O | lower O | LDL B-Drug | and O | HDL B-Drug | levels O | but O | tired O | of O | pain B-Symptom | . O | MD O | will O | probably O | send O | me O | to O | Orthopedic B-Disease | Specialist I-Disease | upon O | next O | visit O | . O | Additionaly O | taking O | 6mg B-Drug | folic B-Drug | acid I-Drug | and O | B6 B-Drug | to O | combat O | high O | homosysteine B-Disease | levels O | . O |
+
+Structured Output:
+T1 Symptom 0 6 Right Shoulder Pain
+T2 Symptom 40 44 pain
+T3 Symptom 65 83 short term memory loss
+T4 Symptom 85 97 irratibility
+T5 Symptom 100 107 fatigue
+T6 Drug 169 172 LDL
+T7 Drug 177 180 HDL
+T8 Symptom 205 209 pain
+T9 Disease 233 247 Orthopedic Specialist
+T10 Drug 250 255 6mg
+T11 Drug 256 265 folic acid
+T12 Drug 270 273 B6
+T13 Disease 290 303 homosysteine levels

@@ -1,0 +1,11 @@
+T1 Disease 0 15 rhabdomyolosis
+T2 Drug 60 66 statin
+T3 Drug 112 118 statin
+T4 Symptom 138 147 w/myalgia
+T5 Symptom 150 164 periphael neuropathy
+T6 Symptom 166 175 tinninitus
+T7 Disease 177 196 rheumatoid arthritis
+T8 Symptom 205 210 aches
+T9 Symptom 215 220 pains
+T10 Drug 227 233 statin
+T11 Drug 234 239 drugs

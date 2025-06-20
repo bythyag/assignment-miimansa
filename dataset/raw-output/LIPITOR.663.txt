@@ -1,0 +1,19 @@
+BIO Sequence:
+after O | visiting O | this O | site O | it O | is O | like O | looking O | into O | a O | mirrow O | . O | i O | have O | had O | most O | of O | the O | problems O | many O | are O | having O | , O | infact O | it O | is O | 4 O | am O | can O | not O | sleep O | for O | just O | turning O | in O | bed O | is O | painful B-Symptom | . O | decided O | to O | do O | a O | little O | research O | on O | LIPITOR B-Drug | it O | has O | dropped O | cholosterol B-Disease | from O | 395 O | to O | 187 O | and O | tri B-Disease | from O | 1100 O | to O | 300 O | but O | i O | wounder O | if O | it O | worth O | the O | side-effects B-ADR | . O | before O | medication O | had O | mild B-Disease | heart I-Disease | attack I-Disease | was O | put O | on O | lipitor B-Drug | , O | at O | first O | i O | felt O | good O | but O | now O | back B-ADR | pain I-ADR | and O | tiredness B-ADR | is O | at O | a O | high O | level O | , O | my O | wife O | complains O | that O | i O | need O | exercise O | but O | she O | does O | not O | understand O | i O | hurt O | just O | as O | much O | now O | as O | i O | did O | with O | the O | heart I-Disease | attack I-Disease | , O | i O | guess O | it O | all O | boils O | down O | to O | if O | i O | could O | get O | some O | rest O | , O | but O | seems O | impossible O | for O | just O | moving O | in O | bed O | is O | painful B-Symptom | . O
+
+Structured Output:
+T1 Symptom 62 69 painful  
+T2 Drug 67 74 LIPITOR  
+T3 Disease 83 92 cholosterol  
+T4 Disease 98 101 tri  
+T5 ADR 132 148 side-effects  
+T6 Disease 160 165 mild  
+T7 Disease 166 171 heart  
+T8 Disease 172 178 attack  
+T9 Drug 197 203 lipitor  
+T10 ADR 231 235 back  
+T11 ADR 237 245 pain  
+T12 ADR 248 257 tiredness  
+T13 Disease 267 273 heart  
+T14 Disease 274 280 attack  
+T15 Symptom 301 308 painful  

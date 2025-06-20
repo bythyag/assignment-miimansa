@@ -1,0 +1,11 @@
+BIO Sequence:
+Sleeplessness B-Symptom | , O | tingling B-Symptom | in O | fingers O | . O | General O | foggy-headedness B-Symptom | . O | Took O | the O | drug O | for O | several O | years O | before O | realizing O | that O | lipitor B-Drug | might O | be O | the O | cause O | of O | these O | symptoms B-Symptom | . O | Stopped O | and O | started O | several O | times O | with O | recurring O | side-effects B-ADR | . O | Discontinued O | . O
+
+Structured Output:
+T1 Symptom 0 13 Sleeplessness
+T2 Symptom 15 22 tingling
+T3 Symptom 26 39 fingers
+T4 Symptom 42 58 foggy-headedness
+T5 Drug 71 77 lipitor
+T6 Symptom 89 97 symptoms
+T7 ADR 102 116 side-effects

@@ -1,0 +1,14 @@
+BIO Sequence:
+Other O | than O | mild O | flatulance B-ADR | and O | things O | of O | this O | nature O | , O | I O | did O | not O | connect O | Lipitor B-Drug | to O | the O | terrible O | low O | back B-Symptom | pain I-Symptom | I O | have O | had O | for O | about O | 5 O | months O | . O | but O | after O | reading O | comments O | on O | this O | website O | , O | I O | am O | wondering O | about O | this O | back B-Symptom | and O | neck B-Symptom | pain I-Symptom | that O | worsens O | . O | It O | is O | a O | miracle O | drug O | along O | with O | Vitamin B-Drug | E I-Drug | and O | additional O | Premarin B-Drug | . O | My O | cholesterol O | was O | over O | 600 O | a O | number O | of O | years O | back O | . O | I've O | tried O | at O | least O | 5 O | other O | meds B-Drug | for O | this O | condition O | but O | this O | one O | is O | most O | effective O | . O | The O | lowest O | the O | other O | ones O | took O | it O | was O | to O | 300 O | . O | My O | endocrinologist O | thought O | this O | was O | going O | to O | be O | the O | best O | it O | could O | be O | controlled O | . O | So O | , O | I O | really O | believe O | in O | this O | drug O | , O | but O | must O | consider O | what O | it O | may O | be O | doing O | to O | my O | body O | and O | my O | degree O | of O | pain B-Symptom | . O | I O | have O | taken O | Lipitor B-Drug | since O | it O | was O | approved O | 4 O | or O | so O | years O | ago O | . O | If O | anyone O | has O | any O | experience O | like O | mine O | , O | please O | email O | me O | . O | For O | the O | past O | year O | my O | reading O | is O | around O | 170 O | . O 
+
+Structured Output:
+T1 ADR 23 34 flatulance
+T2 Drug 51 58 Lipitor
+T3 Symptom 78 90 low back pain
+T4 Symptom 100 113 back
+T5 Symptom 117 127 neck pain
+T6 Drug 139 150 Vitamin E
+T7 Drug 154 162 Premarin
+T8 Drug 228 231 meds
+T9 Drug 300 305 Lipitor
+T10 Symptom 389 393 pain

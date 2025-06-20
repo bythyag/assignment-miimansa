@@ -1,0 +1,15 @@
+BIO Sequence:
+Aches B-Symptom | and O | pain B-Symptom | from O | head B-Symptom | to O | toe B-Symptom | , O | very O | grouchy O | . O | I O | have O | been O | competitive O | in O | road B-Disease | racing I-Disease | for O | almost O | 20 O | years O | , O | but O | after O | starting O | this O | drug B-Drug | I O | began O | to O | notice O | my O | performance O | falling O | off O | . O | Later O | I O | got O | pains B-Symptom | so O | bad O | that O | I O | could O | not O | run O | . O | I O | stopped O | taking O | this O | drug B-Drug | and O | after O | about O | 3 O | months O | am O | almost O | back O | where O | I O | was O | with O | my O | running O | . O | I O | detest O | lawyers O | , O | but O | statin B-Drug | class O | drugs I-Drug | are O | crying O | out O | for O | a O | class O | action O | lawsuit O | to O | stop O | their O | use O | . O 
+
+Structured Output:
+T1 Symptom 0 5 Aches
+T2 Symptom 10 14 pain
+T3 Symptom 21 25 head
+T4 Symptom 29 32 toe
+T5 Symptom 40 46 grouchy
+T6 Disease 49 59 road racing
+T7 Symptom 70 75 pains
+T8 Drug 83 87 drug
+T9 Drug 113 117 drug
+T10 Drug 136 142 statin
+T11 Drug 148 153 drugs

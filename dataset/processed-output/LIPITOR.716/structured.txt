@@ -1,0 +1,4 @@
+T1 ADR 49 58 side affect  
+T2 Disease 61 67 stroke  
+T3 ADR 76 83 reaction  
+T4 Drug 88 95 Lipitor

@@ -1,0 +1,14 @@
+T1 Symptom 27 35 twitching
+T2 Symptom 59 63 pain
+T3 Symptom 68 73 ankle
+T4 Disease 100 115 plantar fascitits
+T5 Disease 121 126 bones
+T6 Disease 129 133 foot
+T7 Disease 136 144 collapsing
+T8 Disease 146 155 mechanical problem
+T9 Drug 165 171 lipitor
+T10 Drug 181 186 nsaid
+T11 Drug 194 200 medrol
+T12 Procedure 206 209 mri
+T13 Drug 219 225 lipitor
+T14 Disease 246 255 alzheimers

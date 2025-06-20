@@ -1,0 +1,17 @@
+BIO Sequence:
+Before O | I O | was O | put O | on O | Lipitor B-Drug | for O | high B-Disease | cholesterol I-Disease | , O | I O | had O | an O | echo O | done O | , O | normal O | results O | . O | 1 O | year O | after O | I O | have O | been O | taking O | it O | , O | and O | losing O | 20 O | pounds O | , O | took O | another O | echo O | and O | showed O | that O | I O | was O | in O | stage B-Disease | 1 I-Disease | diastolic I-Disease | dysfunction I-Disease | in O | left B-Disease | ventricular I-Disease | . O | Plus O | my O | right B-Disease | ventricular I-Disease | was O | mildly O | dilated O | . O | Also O | I O | had O | elevated O | calcium B-Symptom | in O | my O | blood O | test O | . O | never O | did O | I O | have O | that O | prior O | to O | taking O | Lipitor B-Drug | . O | My O | dr. O | said O | diastolic B-Disease | dysfunction I-Disease | can O | come O | from O | age O | . O | I O | am O | only O | 53 O | yrs O | old O | ! O | I O | have O | low B-Symptom | blood I-Symptom | pressure I-Symptom | , O | I O | do O | not O | have O | coronary B-Disease | artery I-Disease | disease I-Disease | , O | I O | am O | not O | a O | diabetic O | . O | This O | past O | year O | I O | lost O | 20 O | pounds O | which O | should O | put O | my O | heart O | in O | the O | healthy O | stage O | . O | looked O | up O | Lipitor B-Drug | and O | DD B-Disease | and O | showed O | a O | connection O | that O | the O | Lipitor B-Drug | altered O | my O | heart O | function O | ! O
+
+Structured Output:
+T1 Drug 41 48 Lipitor
+T2 Disease 60 66 high cholesterol
+T3 Disease 121 143 stage 1 diastolic dysfunction
+T4 Disease 149 170 left ventricular
+T5 Disease 179 197 right ventricular
+T6 Symptom 226 233 elevated calcium
+T7 Disease 248 271 diastolic dysfunction
+T8 Symptom 278 293 low blood pressure
+T9 Disease 315 338 coronary artery disease
+T10 Disease 344 351 diabetic
+T11 Drug 377 384 Lipitor
+T12 Disease 387 389 DD
+T13 Drug 395 402 Lipitor

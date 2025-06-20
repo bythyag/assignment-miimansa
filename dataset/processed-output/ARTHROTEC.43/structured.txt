@@ -1,0 +1,10 @@
+T1 Symptom 8 14 severe
+T2 Symptom 15 22 cramping
+T3 Symptom 24 32 diarrhea
+T4 Symptom 34 41 increased
+T5 Symptom 42 57 menstrual blood flow
+T6 Drug 64 72 Arthrotec
+T7 Symptom 85 105 urinary incontinence
+T8 Symptom 141 147 severe
+T9 Symptom 176 184 disruptive
+T10 Symptom 195 198 pad

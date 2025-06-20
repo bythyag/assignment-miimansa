@@ -1,0 +1,15 @@
+BIO Sequence:
+rhabdomyolosis B-Disease | w/cpk O | of O | 14,600 O | in O | aug./2006 O | . O | 2 O | biopsies O | confirmed O | statin B-Drug | damage O | at O | mayo/rochester,mn O | . O | even O | then O | only O | 3 O | of O | 5 O | drs. O | would O | admit O | statin B-Drug | damage O | . O | now O | live O | w/myalgia B-Symptom | , O | periphael B-Symptom | neuropathy I-Symptom | , O | tinninitus B-Symptom | and O | rheumatoid B-Disease | arthritis I-Disease | . O | unbelievable O | amount O | of O | people O | come O | to O | talk O | about O | their O | aches B-Symptom | and O | pains I-Symptom | since O | going O | on O | statin B-Drug | drugs I-Drug | , O | how O | can O | the O | medical O | community O | continue O | to O | deceive O | at O | such O | a O | level O | -{ O | truly O | shameful O | } O | . O 
+
+Structured Output:
+T1 Disease 0 15 rhabdomyolosis
+T2 Drug 60 66 statin
+T3 Drug 112 118 statin
+T4 Symptom 138 147 w/myalgia
+T5 Symptom 150 164 periphael neuropathy
+T6 Symptom 166 175 tinninitus
+T7 Disease 177 196 rheumatoid arthritis
+T8 Symptom 205 210 aches
+T9 Symptom 215 220 pains
+T10 Drug 227 233 statin
+T11 Drug 234 239 drugs

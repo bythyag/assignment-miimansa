@@ -1,0 +1,3 @@
+T1 ADR 3 14 side affects
+T2 Disease 50 58 arthritic
+T3 Disease 59 63 pain

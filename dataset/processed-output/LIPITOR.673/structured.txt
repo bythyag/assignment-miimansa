@@ -1,0 +1,12 @@
+T1 ADR 46 54 muscle pain
+T2 Symptom 76 87 Cholesterol
+T3 Disease 100 126 Coronary Artery Disease
+T4 Drug 129 133 10mg
+T5 Drug 151 155 20mg
+T6 Drug 159 163 30mg
+T7 Symptom 171 184 triglycerides
+T8 Drug 192 196 40mg
+T9 Symptom 205 213 cholesterol
+T10 Disease 221 224 CHD
+T11 Drug 235 241 niacin
+T12 Symptom 272 277 heart attack symptoms

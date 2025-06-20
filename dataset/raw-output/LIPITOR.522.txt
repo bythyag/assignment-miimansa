@@ -1,0 +1,6 @@
+BIO Sequence:
+Muscle B-Symptom | pain I-Symptom | which O | I O | thought O | was O | Arthritis B-Disease | . O
+
+Structured Output:
+T1 Symptom 0 6 Muscle pain
+T2 Disease 18 26 Arthritis

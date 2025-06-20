@@ -1,0 +1,4 @@
+T1 Symptom 0 6 cramps
+T2 Disease 10 14 left leg
+T3 Symptom 17 23 feeling
+T4 Disease 27 31 right leg

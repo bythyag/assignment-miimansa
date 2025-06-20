@@ -1,0 +1,8 @@
+T1 Symptom 0 8 Heartburn  
+T2 Symptom 13 29 stomach upset  
+T3 Symptom 63 67 pain  
+T4 Symptom 73 79 severe  
+T5 Drug 117 121 drug  
+T6 ADR 142 155 side effects  
+T7 ADR 183 188 blood work  
+T8 ADR 198 209 habit forming drugs

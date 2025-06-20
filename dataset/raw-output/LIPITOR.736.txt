@@ -1,0 +1,11 @@
+BIO Sequence:
+After O | a O | few O | months O | of O | Lipitor B-Drug | and O | Tricor B-Drug | started O | having O | abdominal B-Symptom | pain I-Symptom | , O | some O | sort O | of O | G.I. B-Disease | problems I-Disease | , O | recently O | went O | to O | the O | E.R. O | with O | severe B-Symptom | chest I-Symptom | pain I-Symptom | and O | now O | am O | waiting O | for O | Cardio B-Disease | related O | tests O | . O | I O | think O | these O | drugs O | really O | screwed O | me O | up O | . O | Don't O | use O | statin B-Drug | drugs I-Drug | . O | they O | are O | very O | dangerous O | !! O
+
+Structured Output:
+T1 Drug 20 27 Lipitor
+T2 Drug 32 38 Tricor
+T3 Symptom 51 65 abdominal pain
+T4 Disease 72 74 G.I.
+T5 Symptom 99 110 severe chest pain
+T6 Disease 115 121 Cardio
+T7 Drug 139 145 statin drugs

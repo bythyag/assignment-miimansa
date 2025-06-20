@@ -1,0 +1,12 @@
+BIO Sequence:
+I O | have O | been O | on O | lipitor B-Drug | for O | 10 O | years O | for O | heart B-Disease | maintenance I-Disease | 20Mg O | . O | Iwas O | changed O | to O | 10Mg O | and O | added O | tricor B-Drug | 145 O | Mg O | because O | of O | high B-Disease | ldl I-Disease | . O | I O | do O | experience O | leg B-Symptom | weakness I-Symptom | and O | cramping B-Symptom | . O | cramping I-Symptom | relieved O | with O | Potassium B-Drug | . O 
+
+Structured Output:
+T1 Drug 21 27 lipitor
+T2 Disease 55 60 heart maintenance
+T3 Drug 82 88 tricor
+T4 Disease 98 101 high ldl
+T5 Symptom 122 125 leg weakness
+T6 Symptom 130 137 cramping
+T7 Symptom 139 146 cramping
+T8 Drug 153 162 Potassium

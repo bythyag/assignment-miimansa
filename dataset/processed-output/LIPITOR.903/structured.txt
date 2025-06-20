@@ -1,0 +1,20 @@
+T1 Symptom 0 6 weakness
+T2 Disease 8 13 tendon
+T3 Disease 15 22 weakness
+T4 Disease 24 32 ruptures
+T5 Symptom 34 44 memory loss
+T6 Drug 77 83 Lipitor
+T7 Disease 110 120 cholesterol
+T8 Disease 126 138 triglycerides
+T9 Drug 147 149 10
+T10 Drug 160 165 omega 3
+T11 Drug 168 175 fish oil
+T12 Disease 207 211 LDL
+T13 Disease 216 221 Tri's
+T14 Disease 276 283 Achilles tendon
+T15 Disease 315 321 Achilles tendon
+T16 Drug 460 465 statin
+T17 Disease 470 476 tendon
+T18 Disease 487 495 ruptures
+T19 Drug 528 534 Lipitor
+T20 Disease 591 603 High School

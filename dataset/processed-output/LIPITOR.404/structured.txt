@@ -1,0 +1,5 @@
+T1 ADR 20 30 side effects
+T2 Symptom 36 46 cholesterol
+T3 Symptom 66 75 Cholesterol
+T4 Drug 90 96 Lipitor
+T5 Diet 103 107 Zone Diet

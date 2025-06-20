@@ -1,0 +1,10 @@
+T1 Symptom 10 17 muscels
+T2 Symptom 19 22 leg
+T3 Symptom 23 27 arms
+T4 Symptom 29 34 neck
+T5 Symptom 35 41 vertgo
+T6 Symptom 50 56 muscels
+T7 Symptom 62 66 loss
+T8 Symptom 70 78 strength
+T9 Symptom 80 86 memory
+T10 Symptom 88 99 halucinations

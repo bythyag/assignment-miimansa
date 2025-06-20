@@ -1,0 +1,13 @@
+T1 Disease 0 20 Achilles peritendonitis
+T2 Symptom 24 28 sore
+T3 Symptom 29 35 ankles
+T4 Symptom 37 42 knees
+T5 Symptom 44 50 fingers
+T6 Symptom 52 61 Stiffness
+T7 Symptom 64 75 aggravated
+T8 Symptom 88 93 better
+T9 Symptom 107 111 activity
+T10 Symptom 137 142 gait
+T11 Drug 151 157 Lipitor
+T12 Drug 164 170 Lipitor
+T13 ADR 182 195 side effects

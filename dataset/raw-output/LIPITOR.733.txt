@@ -1,0 +1,10 @@
+BIO Sequence:
+muscle B-Symptom | pain I-Symptom | , O | headache B-Symptom | , O | tingling B-Symptom | and O | sunny B-Symptom | sensation I-Symptom | on O | my O | face B-Symptom | , O | gas B-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 6 muscle pain
+T2 Symptom 8 15 headache
+T3 Symptom 17 24 tingling
+T4 Symptom 26 30 sunny sensation
+T5 Symptom 34 38 face
+T6 Symptom 40 43 gas

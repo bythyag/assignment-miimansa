@@ -1,0 +1,8 @@
+T1 Symptom 4 18 stomach irritation
+T2 Symptom 47 54 pressure
+T3 Symptom 67 71 head
+T4 Disease 91 95 lower back
+T5 Disease 139 144 spine
+T6 Drug 68 77 Arthrotec
+T7 Drug 78 80 75
+T8 ADR 233 237 pain

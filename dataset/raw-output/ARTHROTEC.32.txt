@@ -1,0 +1,8 @@
+BIO Sequence:
+the O | first O | pill O | i O | took O | it O | caused O | severe B-ADR | abdominal I-ADR | pain I-ADR | but O | after O | taking O | the O | first O | one O | it O | never O | did O | that O | again O | , O | but O | recently O | i've O | been O | feeling O | like O | my O | stomach B-Symptom | is O | full O | and O | empty O | at O | the O | same O | time O | hard O | to O | explain O | but O | thats O | what O | it O | felt O | like O | , O | and O | also O | have O | been O | getting O | bruises B-ADR | allover O | my O | body O | due O | to O | this O | drug B-Drug | , O | other O | than O | that O | my O | back O | is O | back O | to O | normal O | now O | and O | i O | am O | back O | at O | work O | . O 
+
+Structured Output:
+T1 ADR 37 58 severe abdominal pain
+T2 Symptom 81 87 stomach
+T3 ADR 105 112 bruises
+T4 Drug 126 130 drug

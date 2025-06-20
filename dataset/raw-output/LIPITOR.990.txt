@@ -1,0 +1,19 @@
+BIO Sequence:
+Short O | term O | memory B-Symptom | affected O | , O | loss B-Symptom | of O | concentration B-Symptom | levels O | , O | Dizzy B-ADR | , O | hightened B-Symptom | Anxiety B-Symptom | Levels I-Symptom | , O | generaly O | feeling O | unwell B-Symptom | like O | walking O | in O | a O | daze O | ( O | Zombie B-Symptom | like O | ) O | Weakness B-Symptom | in O | Leg I-Symptom | Muscles I-Symptom | . O | All O | of O | these O | where O | a O | gradual O | onset O | over O | time O | making O | it O | harder O | to O | identify O | the O | course O | . O | Terrible O | Medication B-Drug | ! O | Ruined O | me O | every O | day O | quality O | of O | life O | ! O | I O | was O | not O | surprised O | that O | many O | People O | reported O | similar O | and O | worst O | effects O | . O | Stay O | off O | it O | and O | find O | some O | other O | means O | to O | controll O | your O | cholesterol B-Disease | if O | you O | can O | . O | Big O | Money O | spinner O | for O | Lipitor B-Drug | who O | m ake O | Billions O | from O | it O | each O | year O | and O | it O | is O | making O | People O | quite O | sick B-ADR | . O | Naturepath B-Drug | for O | my O | options O | . O |
+
+Structured Output:
+T1 Symptom 22 28 memory
+T2 Symptom 39 43 loss
+T3 Symptom 55 66 concentration
+T4 ADR 73 78 Dizzy
+T5 Symptom 84 91 hightened
+T6 Symptom 93 99 Anxiety
+T7 Symptom 113 119 unwell
+T8 Symptom 132 137 Zombie
+T9 Symptom 144 153 Weakness
+T10 Symptom 156 169 Leg Muscles
+T11 Drug 79 87 Medication
+T12 Disease 161 171 cholesterol
+T13 Drug 175 181 Lipitor
+T14 ADR 205 209 sick
+T15 Drug 212 220 Naturepath

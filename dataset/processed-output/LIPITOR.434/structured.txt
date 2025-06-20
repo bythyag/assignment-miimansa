@@ -1,0 +1,6 @@
+T1 Symptom 0 7 Burning
+T2 Symptom 8 13 tongue
+T3 Symptom 15 20 dry
+T4 Symptom 21 27 throat
+T5 Symptom 29 33 mouth
+T6 Drug 43 50 Lipitor

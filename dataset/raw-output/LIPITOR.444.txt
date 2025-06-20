@@ -1,0 +1,5 @@
+BIO Sequence:
+have O | your O | liver B-Disease | checked O | regularly O 
+
+Structured Output:
+T1 Disease 13 18 liver

@@ -1,0 +1,6 @@
+BIO Sequence:
+corrections O | - O | it O | was O | advicor B-Drug | not O | navicor B-Drug | . O
+
+Structured Output:
+T1 Drug 20 27 advicor
+T2 Drug 32 39 navicor

@@ -1,0 +1,6 @@
+BIO Sequence:
+extreme B-Symptom | muscle I-Symptom | pain I-Symptom | . O | avoid O | this O | drug B-Drug | . O | do O | your O | research O | . O
+
+Structured Output:
+T1 Symptom 0 15 extreme muscle pain
+T2 Drug 21 25 drug

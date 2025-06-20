@@ -1,0 +1,16 @@
+T1 Drug 18 25 Lipitor
+T2 Symptom 66 71 hurting
+T3 Symptom 95 102 confused
+T4 Symptom 110 119 exhausted
+T5 Symptom 154 158 lead
+T6 Disease 190 198 wheelchair
+T7 Symptom 204 208 pain
+T8 Symptom 235 242 hurts
+T9 Disease 258 267 Parkinsons
+T10 Drug 300 306 Pfizer
+T11 Drug 311 318 Lipitor
+T12 Drug 348 353 Lipitor
+T13 Symptom 433 437 pain
+T14 Symptom 440 647 fatigue
+T15 Drug 665 669 drug
+T16 Disease 707 715 wheelchair

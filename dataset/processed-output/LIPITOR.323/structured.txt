@@ -1,0 +1,28 @@
+T1 Disease 0 9 Depression
+T2 Symptom 11 17 anxiety
+T3 Symptom 19 38 spaced-out feeling
+T4 Symptom 40 58 lack of concentration
+T5 Symptom 60 67 insomnia
+T6 Drug 9 15 zoloft
+T7 Disease 18 32 major depression
+T8 Drug 41 47 lipitor
+T9 ADR 62 75 adverse side effects
+T10 Disease 77 86 Depression
+T11 Symptom 88 94 anxiety
+T12 Symptom 96 113 spaced-out feeling
+T13 Symptom 115 132 lack of concentration
+T14 Symptom 134 141 insomnia
+T15 Disease 158 172 major depression
+T16 Drug 173 179 zoloft
+T17 Disease 191 200 depression
+T18 Drug 203 209 zoloft
+T19 Drug 220 226 Lipitor
+T20 Drug 248 254 lipitor
+T21 Disease 272 281 depression
+T22 Drug 283 289 lipitor
+T23 Drug 317 323 lipitor
+T24 Disease 386 395 depression
+T25 Symptom 423 428 muscle
+T26 Symptom 432 437 joint
+T27 Symptom 439 443 pain
+T28 Drug 454 461 statins

@@ -1,0 +1,1 @@
+MOVE O | SLOW O | EYE B-Symptom | HEAVY O | . O | NO O | SLEEP B-Symptom | AT O | NIGHT O | AND O | DAY O | TIME O | NO O | SLEEP B-Symptom | IN O | FOUR O | WEEK O | ! O

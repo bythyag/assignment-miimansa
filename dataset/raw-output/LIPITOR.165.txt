@@ -1,0 +1,18 @@
+BIO Sequence:
+Pectoral B-Symptom | chest O | pain O | - O | stabbing B-Symptom | sharp I-Symptom | pains I-Symptom | , O | increasing O | in O | frequency O | as O | time O | passed O | . O | My O | cholesterol O | was O | already O | great O | at O | 140 B-Drug | with O | triglicerides O | good O | too O | . O | Doctor O | wanted O | me O | to O | start O | this O | medication O | , O | 5mg/day B-Drug | , O | along O | with O | Mavik B-Drug | 1mg I-Drug | for O | blood O | pressure O | ( O | mine O | was O | already O | averaging O | 106/70 B-Disease | ) O | to O | prevent O | arterial O | damage O | due O | to O | my O | type B-Disease | 2 I-Disease | diabetes I-Disease | . O | My O | total O | cholesterol O | was O | lowered O | to O | 128 O | and O | triglicerides O | to O | 56 O | after O | a O | year O | with O | a O | 2.something O | ratio O | . O | Heart B-Disease | disease I-Disease | runs O | in O | my O | mother's O | side O | of O | the O | family O | and O | bp O | problems O | and O | the O | diabetes O | in O | my O | dad's O | side O | . O | I O | have O | been O | on O | this O | dose O | for O | 1 O | year O | and O | noticed O | pains B-Symptom | beginning O | after O | several O | months O | and O | the O | pains O | are O | getting O | more O | frequent O | and O | noticible O | . O | I O | am O | off O | the O | drug O | for O | a O | self O | trial O | period O | to O | see O | if O | the O | pains O | diminish O | . O | I O | am O | going O | to O | see O | the O | physician O | in O | a O | week O | and O | am O | going O | to O | mention O | the O | pains O | so O | I O | am O | curious O | as O | to O | her O | opinion O | . O | Also O | a O | note O | , O | I O | am O | still O | fertile O | and O | should O | not O | be O | prescribed O | this O | drug O | due O | to O | unkown O | pregnancy O | side O | effects O | - O | interesting O | that O | it O | was O | prescribed O | to O | me O | anyway O | . O | Doctor O | told O | me O | to O | go O | off O | of O | it O | if O | I O | wanted O | to O | get O | pregnant O | b O | .
+
+Structured Output:
+T1 Symptom 0 8 Pectoral
+T2 Symptom 10 36 stabbing sharp pains
+T3 Drug 98 102 5mg/day
+T4 Drug 105 110 Mavik
+T5 Disease 139 157 blood pressure
+T6 Disease 185 188 106/70
+T7 Disease 207 208 type 2
+T8 Disease 210 218 diabetes
+T9 Disease 224 236 Heart disease
+T10 Symptom 332 337 pains
+T11 Symptom 365 371 pains
+T12 Drug 234 238 drug
+T13 Drug 319 324 drug
+T14 Disease 335 343 pregnancy

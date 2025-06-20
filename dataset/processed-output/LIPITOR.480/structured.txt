@@ -1,0 +1,7 @@
+T1 Disease 0 16 Periphiral neuropathy
+T2 Symptom 18 25 Tingling
+T3 Symptom 28 33 hands
+T4 Symptom 36 41 face
+T5 Symptom 44 48 back
+T6 Symptom 53 59 Ulnar nerve sensitivity
+T7 Drug 83 91 10mg/day

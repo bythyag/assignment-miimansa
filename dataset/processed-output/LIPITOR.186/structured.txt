@@ -1,0 +1,29 @@
+T1 Symptom 62 70 fatigued
+T2 Symptom 91 101 unexplained pain
+T3 Symptom 104 107 foot
+T4 Symptom 124 132 lethargic
+T5 Symptom 137 144 day
+T6 Symptom 156 168 Blurred vision
+T7 Disease 196 203 doc
+T8 Symptom 210 220 joint pain
+T9 Disease 231 237 Bypass
+T10 Disease 241 249 diabetic
+T11 Drug 273 280 lipitor
+T12 Symptom 309 323 funny feeling
+T13 Symptom 361 365 head
+T14 Disease 391 399 diabetes
+T15 ADR 454 467 muscle pain
+T16 ADR 475 484 bone/joint pain
+T17 Disease 516 523 Liver Enzymes
+T18 Disease 529 537 Metabolic syndrome
+T19 Disease 573 576 High LDL
+T20 Disease 580 583 LDL
+T21 Drug 596 603 Lipitor
+T22 Disease 605 612 High LDL
+T23 Disease 617 620 LDL
+T24 Diet 624 630 Vegetarian diet
+T25 Diet 642 650 saturated fat
+T26 Diet 653 660 Exercise
+T27 Disease 688 692 elevated LDL
+T28 Disease 694 698 HDL
+T29 Drug 720 727 Lipitor

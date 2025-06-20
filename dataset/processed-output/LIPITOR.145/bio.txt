@@ -1,0 +1,4 @@
+Suffered O | from O | depression B-Disease | after O | taking O | lipitor B-Drug | but O | did O | not O | realize O | connection O | . O 
+Stopped O | taking O | lipitor B-Drug | and O | depression B-Disease | left O | within O | days O | . O 
+I O | wouldn't O | take O | lipitor B-Drug | in O | any O | dose O | at O | any O | time O | . O 
+It O | made O | me O | realize O | the O | dangers O | of O | drugs O | . O

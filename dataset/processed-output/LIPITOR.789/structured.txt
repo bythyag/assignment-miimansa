@@ -1,0 +1,9 @@
+T1 Symptom 0 6 Memory lapses
+T2 Symptom 8 15 hip pains
+T3 Symptom 17 34 skin itching sensations
+T4 Symptom 36 44 body
+T5 Symptom 46 54 hair loss
+T6 Symptom 56 65 depression
+T7 Symptom 67 73 anxiety
+T8 Drug 99 105 Lipitor
+T9 ADR 47 61 side effects

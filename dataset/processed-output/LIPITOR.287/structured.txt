@@ -1,0 +1,9 @@
+T1 Symptom 21 26 muscle
+T2 Symptom 27 32 aches
+T3 Symptom 34 39 pains
+T4 Symptom 41 48 weakness
+T5 Symptom 50 66 exercise intolerance
+T6 Symptom 68 77 neuropathy
+T7 Drug 95 99 drug
+T8 Disease 120 123 Oct
+T9 Disease 124 126 05

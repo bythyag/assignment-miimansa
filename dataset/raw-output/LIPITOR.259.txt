@@ -1,0 +1,15 @@
+BIO Sequence:
+My O | chloresterol B-Symptom | was O | 220 O | and O | my O | physician O | prescribed O | Lipitor B-Drug | . O | I O | took O | the O | medication O | for O | 3 O | weeks O | before O | I O | stopped O | . O | My O | left O | side O | , O | especially O | my O | shoulder B-Symptom | and O | arm B-Symptom | , O | are O | so O | sore B-ADR | and O | it O | 's O | been O | a O | year O | since O | I O | stopped O | taking O | it O | . O | I O | 'm O | concerned O | I O | have O | some O | kind O | of O | permanent O | damage O | to O | my O | muscles B-Disease | . O | I O | have O | no O | strength O | in O | my O | left O | arm O | and O | have O | a O | painful B-Symptom | time O | lifting O | my O | own O | arm O | above O | my O | head O | and O | holding O | a O | hair O | dryer O | is O | a O | major O | task O | . O | My O | left O | hip B-Symptom | hurts O | and O | I O | can O | no O | longer O | sit O | crosslegged O | on O | the O | floor O | . O | I O | am O | very O | limber O | but O | I O | cannot O | sit O | that O | way O | anymore O | and O | cannot O | get O | up O | from O | sitting O | on O | floor O | without O | a O | struggle O | . O | I O | wondered O | , O | at O | first O | , O | if O | I O | had O | some O | kind O | of O | mild O | stroke B-Disease | but O | found O | this O | website O | and O | realized O | I O | was O | right O | , O | it O | was O | the O | Lipitor B-Drug | . O | I O | lowered O | my O | chloresterol B-Symptom | by O | eating O | a O | bowl O | of O | oatmeal O | at O | night O | , O | for O | me O | , O | just O | changing O | my O | diet O | was O | the O | trick O | . O 
+
+Structured Output:
+T1 Symptom 14 25 chloresterol
+T2 Drug 82 88 Lipitor
+T3 Symptom 156 164 shoulder
+T4 Symptom 169 172 arm
+T5 ADR 177 181 sore
+T6 Disease 188 195 muscles
+T7 Symptom 302 308 painful
+T8 Symptom 365 368 hip
+T9 Disease 408 413 stroke
+T10 Drug 1285 1291 Lipitor
+T11 Symptom 14 25 chloresterol

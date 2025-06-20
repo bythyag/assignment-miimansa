@@ -1,0 +1,7 @@
+T1 Drug 18 24 Lipitor
+T2 Symptom 62 77 irregullar heartbeat
+T3 ADR 83 89 sever fatigue
+T4 Disease 95 106 fatty liver
+T5 Drug 129 134 40mg
+T6 Disease 145 150 type 1 Diabetes
+T7 Drug 170 176 Lipitor

@@ -1,0 +1,7 @@
+BIO Sequence:
+No O | side B-ADR | effect I-ADR | noticed O | . O | Lipitor B-Drug | lowered O | my O | cholesterol B-Disease | . O
+
+Structured Output:
+T1 ADR 3 14 side effect  
+T2 Drug 16 22 Lipitor  
+T3 Disease 32 41 cholesterol

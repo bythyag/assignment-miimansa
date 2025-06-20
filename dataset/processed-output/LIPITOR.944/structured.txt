@@ -1,0 +1,11 @@
+T1 Drug 8 14 Lipitor
+T2 ADR 54 65 dehydration
+T3 Symptom 71 82 dry eyes
+T4 ADR 126 144 microabrasions
+T5 Symptom 147 154 painful
+T6 ADR 193 207 constipated
+T7 Symptom 218 230 constipation
+T8 Symptom 249 257 dry eyes
+T9 Symptom 263 270 painful
+T10 Disease 293 294 A
+T11 Drug 379 385 Lipitor

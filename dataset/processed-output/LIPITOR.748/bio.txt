@@ -1,0 +1,1 @@
+aching O | joints B-Symptom | : O | wrists B-Symptom | , O | elbows B-Symptom | , O | shoulders B-Symptom | , O | knees B-Symptom | , O | and O | gas B-Symptom | . O | lowered O | my O | cholesterol B-Symptom | , O | but O | i O | cannot O | sleep B-Symptom | through O | the O | night B-Symptom | . O

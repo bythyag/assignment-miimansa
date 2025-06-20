@@ -1,0 +1,22 @@
+BIO Sequence:
+Numbness B-Symptom | in O | feet B-Symptom | , O | leg B-Symptom | , O | hip B-Symptom | , O | neck B-Symptom | cramps B-Symptom | , O | eyes B-Symptom | running I-Symptom | , O | itchy B-Symptom | and O | watery B-Symptom | all O | the O | time O | like O | I O | was O | crying O | . O | Depression B-Disease | , O | itching B-Symptom | all O | the O | time O | . O | Makes O | you O | feel O | 25 O | years O | older O | . O | I O | quit O | taking O | it O | most O | problems O | gone O | in O | 3 O | weeks O | . O | I O | will O | try O | to O | control O | with O | diet B-Symptom | and O | exercise B-Symptom | , O | and O | omega B-Drug | 3 I-Drug | fish I-Drug | oil I-Drug | , O | will O | never O | take O | a O | large O | dose O | again O | would O | rather O | eat O | nothing O | than O | take O | that O | poison O | . O
+
+Structured Output:
+T1 Symptom 0 8 Numbness
+T2 Symptom 11 15 feet
+T3 Symptom 18 21 leg
+T4 Symptom 24 27 hip
+T5 Symptom 30 34 neck
+T6 Symptom 35 40 cramps
+T7 Symptom 43 47 eyes
+T8 Symptom 48 54 running
+T9 Symptom 56 61 itchy
+T10 Symptom 66 71 watery
+T11 Disease 73 83 Depression
+T12 Symptom 86 91 itching
+T13 Symptom 113 117 diet
+T14 Symptom 123 130 exercise
+T15 Drug 133 137 omega
+T16 Drug 139 140 3
+T17 Drug 142 150 fish
+T18 Drug 151 154 oil

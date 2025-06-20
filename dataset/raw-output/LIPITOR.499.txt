@@ -1,0 +1,9 @@
+BIO Sequence:
+Muscle B-Symptom | pain I-Symptom | , O | muscle B-Symptom | twitching I-Symptom | , O | fatigue B-Symptom | , O | I O | have O | been O | off O | of O | this O | med O | for O | almost O | 3 O | years O | and O | still O | have O | some O | of O | the O | side B-ADR | effects I-ADR | . O | this O | is O | a O | very O | bad O | drug B-Drug | for O | some O | people O | . O
+
+Structured Output:
+T1 Symptom 0 12 Muscle pain
+T2 Symptom 14 30 muscle twitching
+T3 Symptom 32 39 fatigue
+T4 ADR 75 87 side effects
+T5 Drug 97 101 drug

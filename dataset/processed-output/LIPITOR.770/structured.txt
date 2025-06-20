@@ -1,0 +1,6 @@
+T1 Symptom 0 6 Muscle twitches
+T2 Symptom 17 31 calf/toe cramps
+T3 Drug 42 46 drug
+T4 Disease 57 67 cholesterol
+T5 Drug 102 106 drug
+T6 Drug 114 116 MD

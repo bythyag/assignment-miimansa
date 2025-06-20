@@ -1,0 +1,22 @@
+BIO Sequence:
+Most O | of O | the O | side B-ADR | effects I-ADR | everyone O | else O | has O | : O | weak B-Symptom | legs I-Symptom | , O | muscle B-Symptom | and O | back B-Symptom | soreness I-Symptom | , O | ears B-Symptom | ringing I-Symptom | , O | feel B-Symptom | bad I-Symptom | , O | all O | usually O | in O | the O | mornings O | . O | However O | , O | it O | lowered O | my O | cholesterol B-ADR | , O | tryglycerides I-ADR | , O | and O | blood B-ADR | pressure I-ADR | , O | along O | with O | a O | lot O | of O | exercising O | . O | I O | had O | by-pass B-Disease | surgery I-Disease | in O | 1986 O | , O | angioplasty B-Disease | in O | the O | mid O | 90's O | , O | started O | on O | Zocor B-Drug | , O | then O | my O | doctor O | switched O | me O | to O | Lipitor B-Drug | and O | have O | not O | had O | to O | have O | either O | since O | I O | started O | on O | the O | statins B-Drug | . O | ( O | started O | with O | 20mg O-Drug | . O | then O | 40mg O-Drug | , O | and O | now O | 80mg O-Drug | . O | ) O | Its O | not O | perfect O | , O | but O | it O | keeps O | me O | alive O | . O | I O | am O | now O | 65 O | and O | I O | thank O | God O | every O | single O | day O | for O | my O | doctor O | and O | my O | medicine O | . O | I O | just O | gut O | it O | up O | and O | make O | my O | self O | jog O | a O | mile O | and O | walk O | a O | mile O | 4-5 O | times O | a O | week O | , O | pain O | or O | no O | pain O | . O | I O | have O | lived O | to O | see O | my O | grandchildren O | and O | two O | great O | grandchildren O | . O | Life O | is O | good O | . O | Think O | positive O | ! O 
+
+Structured Output:
+T1 ADR 25 34 side effects  
+T2 Symptom 37 41 weak legs  
+T3 Symptom 43 48 muscle  
+T4 Symptom 55 61 back soreness  
+T5 Symptom 64 68 ears ringing  
+T6 Symptom 70 74 feel bad  
+T7 ADR 91 101 cholesterol  
+T8 ADR 104 118 tryglycerides  
+T9 ADR 121 134 blood pressure  
+T10 Disease 145 158 by-pass surgery  
+T11 Disease 161 174 angioplasty  
+T12 Drug 175 180 Zocor  
+T13 Drug 185 192 Lipitor  
+T14 Drug 206 213 statins  
+T15 Drug 216 221 20mg  
+T16 Drug 227 232 40mg  
+T17 Drug 238 243 80mg  
+T18 Drug 267 274 medicine  

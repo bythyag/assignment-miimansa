@@ -1,0 +1,23 @@
+BIO Sequence:
+Muscle B-Symptom | pain I-Symptom | , O | mostly O | in O | my O | legs B-Symptom | but O | to O | a O | lesser O | degree O | in O | my O | arms I-Symptom | also O | . O | Hip B-Symptom | pain I-Symptom | in O | my O | left B-Symptom | hip I-Symptom | , O | sometimes O | severe B-Symptom | enough O | to O | cause O | me O | to O | limp I-Symptom | . O | A O | buzzing B-Symptom | sensation I-Symptom | in O | my O | lower B-Symptom | right I-Symptom | leg I-Symptom | . O | This O | is O | a O | fairly O | recent O | occurance O | . O | Severe B-Symptom | and O | frequent O | muscle B-Symptom | cramps I-Symptom | , O | mostly O | in O | my O | lower B-Symptom | legs I-Symptom | and O | feet I-Symptom | . O | Knee B-Symptom | pain I-Symptom | . O | Generally O | , O | I O | feel O | terrible B-Symptom | . O | I O | have O | no O | energy B-Symptom | . O | I O | have O | constant B-Symptom | pain I-Symptom | , O | sometimes O | severe B-Symptom | . O | Two O | days O | ago O | I O | stopped O | taking O | Lipitor B-Drug | . O
+
+Structured Output:
+T1 Symptom 0 6 Muscle pain
+T2 Symptom 28 32 legs
+T3 Symptom 47 50 arms
+T4 Symptom 54 61 Hip pain
+T5 Symptom 77 81 left hip
+T6 Symptom 85 91 severe
+T7 Symptom 96 100 limp
+T8 Symptom 112 118 buzzing sensation
+T9 Symptom 123 138 lower right leg
+T10 Symptom 145 151 Severe
+T11 Symptom 158 165 muscle cramps
+T12 Symptom 167 170 lower legs
+T13 Symptom 179 183 feet
+T14 Symptom 185 190 Knee pain
+T15 Symptom 202 208 terrible
+T16 Symptom 221 226 energy
+T17 Symptom 232 239 constant pain
+T18 Symptom 245 251 severe
+T19 Drug 268 275 Lipitor

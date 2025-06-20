@@ -1,0 +1,10 @@
+T1 Symptom 0 6 Cramps
+T2 Symptom 15 19 feet
+T3 Symptom 24 28 pain
+T4 Symptom 31 35 knees
+T5 Symptom 39 46 fatigue
+T6 Symptom 48 58 mental fog
+T7 Drug 135 142 Lipitor
+T8 Drug 232 239 Lipitor
+T9 Drug 252 263 Simvistatin
+T10 Drug 275 288 Simvistatin

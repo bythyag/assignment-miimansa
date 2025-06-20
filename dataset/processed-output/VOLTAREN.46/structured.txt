@@ -1,0 +1,14 @@
+T1 ADR 41 46 edema 
+T2 ADR 53 60 fingers 
+T3 ADR 65 70 face 
+T4 Symptom 90 105 shortness of breath 
+T5 ADR 112 121 crabbiness 
+T6 Symptom 132 140 cramping 
+T7 Symptom 144 152 spotting 
+T8 Drug 197 205 Voltaren 
+T9 Drug 212 215 50 mg 
+T10 Symptom 294 307 muscle spasm 
+T11 ADR 330 337 swollen 
+T12 Symptom 361 373 shortness of breath 
+T13 Symptom 375 384 cramping 
+T14 Symptom 389 396 bloated

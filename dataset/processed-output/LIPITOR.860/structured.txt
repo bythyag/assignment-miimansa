@@ -1,0 +1,18 @@
+T1 Symptom 38 46 staticy feeling
+T2 Symptom 60 67 abdomin
+T3 Symptom 69 73 hot
+T4 Symptom 79 86 feelings
+T5 Disease 111 120 cholesterol
+T6 ADR 184 189 cramps
+T7 ADR 195 206 chest pains
+T8 Drug 209 218 medication
+T9 Drug 261 268 medication
+T10 Disease 290 301 triglycerides
+T11 Drug 307 313 lipitor
+T12 Symptom 339 346 abdominal irritation
+T13 Symptom 354 370 electricity zapping
+T14 Symptom 397 401 hot
+T15 Symptom 407 416 irritable
+T16 Drug 420 426 lipitor
+T17 Symptom 475 481 strange
+T18 Symptom 520 523 gut

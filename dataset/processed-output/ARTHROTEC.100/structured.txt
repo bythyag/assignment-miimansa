@@ -1,0 +1,9 @@
+T1 ADR 10 21 side effects
+T2 Symptom 31 50 vaginal bleeding
+T3 Symptom 57 69 menstral cycle
+T4 Symptom 71 83 stomach pain
+T5 Symptom 85 97 canker sores
+T6 Symptom 102 110 headache
+T7 Symptom 122 130 bleeding
+T8 Symptom 135 139 pain
+T9 Drug 150 154 drug

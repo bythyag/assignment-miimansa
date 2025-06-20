@@ -1,0 +1,6 @@
+T1 Symptom 0 8 Cramping
+T2 Symptom 10 18 weariness
+T3 Disease 26 29 leg
+T4 Symptom 41 46 tired
+T5 Disease 60 65 lower
+T6 Disease 67 77 chlorestoral

@@ -1,0 +1,1 @@
+Stomach B-Symptom | cramps I-Symptom | . O | When O | taken O | infrequently O | worked O | fine O | . O | No O | side B-ADR | effects I-ADR | When O | taking O | it O | twice O | daily O | side B-ADR | effects I-ADR | kicked O | in O | after O | one O | week O | . O

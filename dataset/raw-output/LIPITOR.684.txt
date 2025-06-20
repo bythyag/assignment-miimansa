@@ -1,0 +1,14 @@
+BIO Sequence:
+Muscle B-Symptom | spasms I-Symptom | , O | joint B-Symptom | ache I-Symptom | , O | loss B-Symptom | of O | muscle B-Symptom | structure I-Symptom | especially O | in O | the O | calf B-Symptom | muscles I-Symptom | , O | feel O | tired B-Symptom | and O | ache B-Symptom | . O | It O | lowered O | cholesterol B-Drug | and O | triglycerides B-Drug | . O | Had O | to O | take O | a O | second O | medication B-Drug | to O | lower O | triglycerides I-Drug | more O | . O
+
+Structured Output:
+T1 Symptom 0 15 Muscle spasms
+T2 Symptom 17 27 joint ache
+T3 Symptom 30 48 loss of muscle structure
+T4 Symptom 72 83 calf muscles
+T5 Symptom 93 98 tired
+T6 Symptom 103 107 ache
+T7 Drug 119 128 cholesterol
+T8 Drug 133 145 triglycerides
+T9 Drug 166 176 medication
+T10 Drug 180 192 triglycerides

@@ -1,0 +1,9 @@
+BIO Sequence:
+From O | day O | one O | of O | taking O | this O | pill O | I O | have O | experienced O | a O | significant O | reduction O | of O | pain B-Symptom | in O | both O | areas O | and O | no O | stiffness B-Symptom | in O | my O | hands O | , O | where O | before O | had O | very O | little O | mobility O | in O | my O | right O | hand O | , O | I O | have O | however O | experienced O | extreme O | pain B-Symptom | / O | heavy O | bleeding B-ADR | and O | dizziness B-Symptom | during O | my O | period O | which O | is O | not O | normal O | for O | me O | . O 
+
+Structured Output:
+T1 Symptom 59 63 pain
+T2 Symptom 83 92 stiffness
+T3 Symptom 137 141 extreme pain
+T4 ADR 145 160 heavy bleeding
+T5 Symptom 165 172 dizziness

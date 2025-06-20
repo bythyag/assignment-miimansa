@@ -1,0 +1,12 @@
+T1 Drug 13 17 drug
+T2 Disease 68 73 brain cancer
+T3 Disease 110 115 brain cancer
+T4 Drug 136 143 Lipitor
+T5 Disease 167 174 cancer
+T6 Disease 185 191 cardiac
+T7 Drug 224 231 Lipitor
+T8 Disease 276 281 brain cancer
+T9 Disease 337 342 brain cancer
+T10 ADR 352 358 bedridden
+T11 ADR 415 420 cautious
+T12 ADR 469 473 Rxs

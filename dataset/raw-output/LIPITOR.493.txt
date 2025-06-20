@@ -1,0 +1,13 @@
+BIO Sequence:
+recently O | wrote O | about O | my O | husband O | who O | was O | diagnosed B-Disease | with O | parkinson's I-Disease | -- O | he O | stopped O | Lipitor B-Drug | 4 O | months O | ago O | , O | and O | began O | mega O | doses O | of O | coq10 B-Drug | -and O | other O | antioxidants O | and O | magnesium B-Drug | orotate I-Drug | - 4 O | weeks O | ago O | -- O | memory O | problem O | has O | disappeared O | , O | tremor O | decreased O | to O | a O | minor O | . O | we O | think O | my O | husband's O | symptoms O | of O | parkinson's I-Disease | was O | caused O | by O | / O | brought O | on O | by O | Lipitor's B-Drug | lowering O | of O | coq10 B-Drug | and O | interrupting O | many O | other O | metabolic O | pathways O | within O | the O | body O | including O | selenium B-Disease | production O | . O | time O | is O | required O | to O | determine O | if O | reversal O | of O | symptoms O | permanent O | . O | Have O | received O | letter O | about O | a O | case O | of O | Amyotrophic B-Disease | lateral I-Disease | sclerosis I-Disease | diagnosis O | changed O | to O | . O
+
+Structured Output:
+T1 Disease 40 48 parkinson's
+T2 Drug 70 76 Lipitor
+T3 Drug 92 98 coq10
+T4 Drug 104 119 magnesium orotate
+T5 Disease 124 133 parkinson's
+T6 Drug 142 149 Lipitor's
+T7 Drug 153 159 coq10
+T8 Disease 168 176 selenium
+T9 Disease 182 204 Amyotrophic lateral sclerosis

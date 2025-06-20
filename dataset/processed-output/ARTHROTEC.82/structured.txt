@@ -1,0 +1,15 @@
+T1 Symptom 12 20 diarrhea
+T2 Symptom 22 40 severe abdominal pain
+T3 ADR 56 63 vomiting
+T4 ADR 65 73 trembling
+T5 ADR 75 82 dizziness
+T6 ADR 84 90 nausea
+T7 Drug 99 106 Arthrotec
+T8 Symptom 122 139 menstrual cramps
+T9 Drug 154 158 drug
+T10 ADR 192 198 adverse reaction
+T11 Drug 215 224 medication
+T12 Drug 238 247 medication
+T13 ADR 257 262 side effect
+T14 ADR 278 284 severe
+T15 Symptom 285 293 menstual pain

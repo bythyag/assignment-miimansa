@@ -1,0 +1,10 @@
+BIO Sequence:
+Excruciating B-Symptom | pain I-Symptom | in O | right O | buttock I-Symptom | . O | Unable O | to O | get O | out O | of O | bed O | , O | to O | walk O | , O | or O | to O | sit O | without O | extreme O | discomfort B-Symptom | . O | Pain B-Symptom | and O | stiffness B-Symptom | spread O | to O | other O | side O | . O | On O | painkillers B-Drug | around O | the O | clock O | . O | After O | fifth O | week O | of O | misery O | , O | found O | this O | site O | and O | immediately O | stopped O | taking O | Lipitor B-Drug | . O | Waiting O | for O | improvement O | . O
+
+Structured Output:
+T1 Symptom 0 12 Excruciating pain  
+T2 Symptom 32 54 extreme discomfort  
+T3 Symptom 56 60 Pain  
+T4 Symptom 62 70 stiffness  
+T5 Drug 79 89 painkillers  
+T6 Drug 105 112 Lipitor  

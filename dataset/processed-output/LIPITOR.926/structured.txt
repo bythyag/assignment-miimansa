@@ -1,0 +1,23 @@
+T1 Symptom 0 5 muscle pain
+T2 Symptom 13 20 weakness
+T3 Symptom 22 31 headaches
+T4 Symptom 33 54 sleep disturbances
+T5 Drug 59 63 this drug
+T6 Disease 72 80 SI joints
+T7 Symptom 87 91 pain
+T8 Symptom 109 113 tight
+T9 Symptom 157 161 stiff
+T10 Symptom 226 230 tight
+T11 Symptom 241 245 pain
+T12 Symptom 260 265 shoulder
+T13 Symptom 274 280 tight
+T14 Symptom 305 312 shoulder
+T15 Symptom 349 353 tight
+T16 Symptom 363 370 headaches
+T17 Symptom 397 401 muscle pain
+T18 Drug 408 414 Lipitor
+T19 Drug 493 499 Lipitor
+T20 Drug 628 633 Lipitor
+T21 Drug 686 692 vitamin C
+T22 Disease 780 785 heart attack
+T23 Drug 699 705 Lipitor

@@ -1,0 +1,14 @@
+BIO Sequence:
+SUDDENLY O | one O | morning O | as O | I O | arose O | from O | a O | chair O | I O | received O | a O | sudden O | severe O | pain B-Symptom | close O | to O | my O | the O | crotch B-Symptom | area I-Symptom | . O | Could O | barely O | move O | . O | Then O | the O | other O | side O | became O | painful B-Symptom | . O | I O | crawled O | up O | and O | down O | stairs O | and O | could O | barely O | walk O | ; O | had O | to O | use O | a O | cane O | . O | AND O | I O | had O | been O | healthy O | and O | active O | prior O | to O | Lipitor B-Drug | . O | Enlarged B-Disease | liver I-Disease | was O | the O | result O | of O | a O | blood O | test O | . O | Was O | taken O | off O | Lipitor B-Drug | , O | immediately O | , O | pain B-Symptom | lessened I-Symptom | , O | but O | muscles B-Symptom | had O | become O | weak O | and O | stressed O | . O | Given O | 18 O | sessions O | of O | physical O | therapy O | , O | before O | body O | returned O | to O | comfortable O | gait O | . O | Pain B-Symptom | free O | ever O | since O | . O | Cannot O | take O | any O | statins B-Drug | ever O | again O | . O | Was O | put O | on O | Zetia B-Drug | , O | taken O | off O | recently O | , O | 1 O | 1/2 O | year O | later O | . O |
+
+Structured Output:
+T1 Symptom 61 65 pain
+T2 Symptom 85 90 crotch
+T3 Symptom 109 116 painful
+T4 Symptom 237 242 pain
+T5 Symptom 259 265 muscles
+T6 Disease 89 94 Enlarged liver
+T7 Drug 48 55 Lipitor
+T8 Drug 215 222 Lipitor
+T9 Drug 269 275 statins
+T10 Drug 291 297 Zetia

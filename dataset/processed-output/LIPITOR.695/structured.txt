@@ -1,0 +1,12 @@
+T1 Symptom 0 6 Muscle aches
+T2 Symptom 13 19 bumps
+T3 Symptom 24 31 stomach
+T4 Symptom 35 44 depression
+T5 Symptom 46 59 forgetfullness
+T6 Symptom 64 78 mood swings
+T7 Symptom 80 91 Constipation
+T8 Symptom 96 107 stomach aches
+T9 Disease 112 126 Type II Diabetes
+T10 Drug 143 150 Lipitor
+T11 Disease 164 170 kidneys
+T12 Symptom 176 186 Cholesterol

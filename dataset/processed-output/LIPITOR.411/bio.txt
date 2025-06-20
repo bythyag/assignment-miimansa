@@ -1,0 +1,1 @@
+My O | body O | aches B-Symptom | everywhere O | . O | gas B-Symptom | , O | depressed B-Symptom | and O | just O | lack B-Symptom | of O | motivation B-Symptom | for O | just O | about O | everything O | . O | I O | have O | to O | come O | off O | this O | drug B-Drug | . O | it O | is O | awful O | . O

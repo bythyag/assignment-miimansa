@@ -1,0 +1,14 @@
+T1 Symptom 58 67 cholesterol
+T2 Symptom 84 90 unusual
+T3 Symptom 91 95 pain
+T4 Symptom 97 104 weakness
+T5 Symptom 113 117 legs
+T6 Symptom 133 139 Legs
+T7 Symptom 146 152 cramped
+T8 Symptom 157 162 sore
+T9 Symptom 167 171 weak
+T10 Symptom 180 186 calves
+T11 Drug 226 230 drug
+T12 Symptom 257 260 leg
+T13 Symptom 261 265 pain
+T14 Drug 295 299 drug

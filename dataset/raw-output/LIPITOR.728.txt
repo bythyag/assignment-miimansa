@@ -1,0 +1,12 @@
+BIO Sequence:
+This O | is O | the O | result O | of O | taking O | 1 O | pill O | a O | day O | for O | 12 O | days O | : O | On O | day O | 3 O | , O | I O | felt O | stabbing B-Symptom | pain B-Symptom | above O | a O | knee O | . O | Thought O | I O | had O | somehow O | injured O | it O | - O | but O | the O | pain O | vanished O | in O | a O | day O | . O | The O | next O | day O | , O | I O | felt O | stabbing B-Symptom | pain B-Symptom | in O | my O | spine O | and O | I O | thought O | I O | had O | thrown O | my O | back O | out O | . O | I O | was O | hunched O | over O | to O | the O | left O | and O | figured O | it O | would O | take O | a O | week O | to O | get O | better O | , O | but O | the O | pain O | vanished O | after O | a O | little O | more O | than O | a O | day O | . O | I O | started O | feeling O | an O | odd O | sensation B-Symptom | in O | the O | center O | back O | of O | my O | calves O | . O | I O | put O | weight O | on O | suddenly O | for O | no O | reason O | and O | ringing B-Symptom | in O | my O | left O | ear O | increased O | . O | Next O | the O | calf O | sensation O | turned O | painful B-Symptom | at O | night O | and O | started O | increasing O | . O | I O | figured O | out O | these O | issues O | all O | might O | be O | caused O | by O | Lipitor B-Drug | and O | stopped O | taking O | it O | immediately O | . O | But O | the O | pain O | in O | my O | calves O | continued O | to O | get O | worse O | for O | several O | days O | ! O | My O | legs O | were O | waking O | me O | up O | at O | night O | and O | were O | all O | contorted O | . O | I O | 've O | never O | experienced O | anything O | like O | it O | but O | the O | nurse O | said O | , O | .
+
+Structured Output:
+T1 Symptom 50 55 stabbing pain
+T2 Symptom 100 105 stabbing pain
+T3 Symptom 161 165 odd sensation
+T4 Symptom 227 233 ringing
+T5 Symptom 244 250 painful
+T6 Drug 318 325 Lipitor
+T7 Symptom 370 375 pain
+T8 Symptom 387 392 contorted

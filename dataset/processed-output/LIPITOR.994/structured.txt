@@ -1,0 +1,15 @@
+T1 Symptom 46 56 tingling
+T2 Symptom 62 69 numbness
+T3 Symptom 73 78 feet
+T4 Symptom 83 88 shins
+T5 Symptom 115 119 toes
+T6 Symptom 134 138 feet
+T7 ADR 92 103 side effects
+T8 Symptom 151 160 sensations
+T9 Symptom 165 172 tingling
+T10 Symptom 177 181 legs
+T11 Symptom 186 191 feet
+T12 Drug 40 50 simvastatin
+T13 Drug 52 63 provastatin
+T14 Drug 65 75 lovastatin
+T15 Drug 133 140 statins

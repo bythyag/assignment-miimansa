@@ -1,0 +1,9 @@
+BIO Sequence:
+dificulty B-Symptom | in O | concentrating I-Symptom | , O | short B-Symptom | term I-Symptom | memory I-Symptom | problems I-Symptom | , O | occasional B-Symptom | dizziness I-Symptom | also O | leg B-Symptom | muscle I-Symptom | soreness I-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 8 dificulty
+T2 Symptom 9 20 concentrating
+T3 Symptom 22 36 short term memory problems
+T4 Symptom 38 46 occasional dizziness
+T5 Symptom 53 66 leg muscle soreness

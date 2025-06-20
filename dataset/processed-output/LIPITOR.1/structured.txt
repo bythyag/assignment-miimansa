@@ -1,0 +1,8 @@
+T1 Symptom 0 12 Muscle pain
+T2 Symptom 14 24 leg cramps
+T3 Symptom 26 32 fatigue
+T4 Symptom 34 42 irritable
+T5 Symptom 44 58 pain in feet
+T6 Symptom 60 68 neuropathy
+T7 Drug 90 108 alternative medications
+T8 ADR 116 129 similiar side-effects

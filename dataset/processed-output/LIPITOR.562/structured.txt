@@ -1,0 +1,8 @@
+T1 Symptom 60 64 muscle pain
+T2 Symptom 70 76 burning
+T3 Symptom 116 120 muscle pain
+T4 Symptom 138 144 burning
+T5 Symptom 237 242 muscle pains
+T6 Symptom 250 256 muscle pains
+T7 Drug 378 390 Cholesterol drugs
+T8 ADR 455 469 side effects

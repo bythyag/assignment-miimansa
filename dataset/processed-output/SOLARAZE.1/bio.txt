@@ -1,0 +1,3 @@
+It appears that your message does not contain any medical entities, symptoms, drugs, or diseases related to the specified categories. Therefore, there are no entities to annotate or structure.
+
+If you have a more detailed text or specific content that includes medical information, please provide it and I can assist with the extraction and annotation.

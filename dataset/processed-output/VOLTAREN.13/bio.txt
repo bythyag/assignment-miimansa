@@ -1,0 +1,1 @@
+I O | had O | an O | allergic B-ADR | reaction I-ADR | to O | this O | medication O | . O | My O | skin O | has O | be O | itchy B-ADR | , O | sore B-Symptom | throat I-Symptom | / O | burning B-Symptom | / O | itchy I-Symptom | , O | and O | numbness B-Symptom | in O | tongue O | and O | gums O | . O | Stop O | med O | and O | been O | taking O | Benadryl B-Drug | . O

@@ -1,0 +1,5 @@
+T1 ADR 34 40 nausea  
+T2 ADR 65 73 bleeding  
+T3 Symptom 112 119 migraine  
+T4 Drug 151 171 anti-inflammatory  
+T5 Drug 195 203 hypnotic

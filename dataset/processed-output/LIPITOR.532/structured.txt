@@ -1,0 +1,7 @@
+T1 Symptom 0 13 Stomach pain
+T2 Symptom 15 18 Gas
+T3 Symptom 20 27 Burping
+T4 Symptom 29 36 Diarhea
+T5 Drug 73 80 Lipitor
+T6 Symptom 98 105 stomach pain
+T7 Symptom 116 128 uncomfortable

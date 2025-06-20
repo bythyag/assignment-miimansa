@@ -1,0 +1,14 @@
+BIO Sequence:
+Made O | a O | BIG O | improvement O | in O | cholesterol B-Disease | and O | triglycerides B-Disease | , O | but O | in O | the O | three O | years O | I O | 've O | been O | on O | it O | have O | had O | extreme B-ADR | fatigue I-ADR | , O | muscle B-ADR | weakness I-ADR | , O | depression B-ADR | . O | In O | recent O | months O | I O | 've O | had O | chronic B-Symptom | elbow B-Symptom | pain I-Symptom | in O | both O | arms O | . O | It O | just O | occurred O | to O | me O | that O | it O | might O | be O | the O | Lipitor B-Drug | and O | this O | site O | has O | convinced O | me O | . O | I O | just O | threw O | away O | a O | bottle O | with O | 10 O | pills O | remaining O | and O | am O | going O | to O | continue O | with O | my O | diet O | and O | exercise O | . O | Hope O | my O | energy B-Symptom | level O | returns O | . O
+
+Structured Output:
+T1 Disease 28 38 cholesterol
+T2 Disease 43 55 triglycerides
+T3 ADR 76 82 extreme fatigue
+T4 ADR 84 101 muscle weakness
+T5 ADR 103 112 depression
+T6 Symptom 126 132 chronic
+T7 Symptom 133 138 elbow
+T8 Symptom 139 143 pain
+T9 Drug 178 185 Lipitor
+T10 Symptom 233 239 energy

@@ -1,0 +1,7 @@
+T1 Symptom 0 11 fuzzy vision
+T2 Symptom 17 26 vision
+T3 Symptom 82 89 migraine
+T4 Symptom 98 107 tintinitus
+T5 Symptom 114 125 vision problems
+T6 Symptom 151 158 vision problems
+T7 Drug 206 210 this drug

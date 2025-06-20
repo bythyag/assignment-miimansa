@@ -1,0 +1,1 @@
+depression B-Disease | , O | exercise B-Symptom | intolerance I-Symptom | , O | muscle B-Symptom | weakness I-Symptom | , O | memory B-Symptom | problems I-Symptom | , O | including O | 2 O | periods O | of O | amnesia B-Symptom | , O | each O | lasting O | several O | hours O | , O | nausea B-ADR | and O | vomiting B-ADR | . O | lowered O | . O

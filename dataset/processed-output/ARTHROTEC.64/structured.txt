@@ -1,0 +1,9 @@
+T1 Symptom 27 42 extreme stomach pain
+T2 Symptom 79 94 moderate stomach pain
+T3 ADR 122 132 drowsiness
+T4 Drug 144 153 arthrotec
+T5 Drug 155 163 arthrotec
+T6 Symptom 181 189 knee pain
+T7 Drug 202 207 mobic
+T8 Drug 212 219 celebrex
+T9 Symptom 232 247 stomach pain

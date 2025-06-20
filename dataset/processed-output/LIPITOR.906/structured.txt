@@ -1,0 +1,7 @@
+T1 ADR 46 56 memory loss
+T2 Symptom 58 63 ache
+T3 Symptom 68 73 arm
+T4 Symptom 85 90 leg
+T5 Drug 124 130 lipitor
+T6 Symptom 137 141 ache
+T7 ADR 146 160 side effects

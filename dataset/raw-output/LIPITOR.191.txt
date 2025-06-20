@@ -1,0 +1,18 @@
+BIO Sequence:
+Severe B-Symptom | Hip I-Symptom | pain I-Symptom | in O | both O | hips I-Symptom | , O | calves B-Symptom | are O | sore B-ADR | and O | tender I-ADR | to O | the O | touch O | , O | dramatically O | decreased B-Symptom | libdo I-Symptom | , O | eye B-Symptom | sight I-Symptom | changes I-Symptom | . O | It O | did O | lower O | my O | CL O | . O
+
+Structured Output:
+T1 Symptom 1 6 Severe
+T2 Symptom 8 11 Hip
+T3 Symptom 12 16 pain
+T4 Symptom 20 24 both
+T5 Symptom 25 29 hips
+T6 Symptom 32 37 calves
+T7 ADR 40 44 sore
+T8 ADR 46 52 tender
+T9 Symptom 67 74 dramatically
+T10 Symptom 75 81 decreased
+T11 Symptom 83 88 libdo
+T12 Symptom 90 94 eye
+T13 Symptom 95 101 sight
+T14 Symptom 102 109 changes

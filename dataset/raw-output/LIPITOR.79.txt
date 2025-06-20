@@ -1,0 +1,23 @@
+BIO Sequence:
+Severe B-L O | shoulder B-Symptom | pain I-Symptom | , O | general B-Symptom | weakness I-Symptom | , O | malaise B-Symptom | , O | and O | slight B-Symptom | memory I-Symptom | loss I-Symptom | . O | I O | started O | out O | at O | 10 B-Drug | mg I-Drug | every O | day O | for O | 7 O | years O | , O | 20 B-Drug | mg I-Drug | for O | 1 O | year O | , O | 40 B-Drug | then O | 80 B-Drug | for O | over O | 1 O | 1/2 O | years O | . O | Over O | the O | past O | year O | , O | B-L B-Symptom | shoulder I-Symptom | pain I-Symptom | to O | the O | point O | of O | wearing O | a O | sling O | because O | it O | hurt O | badly O | when O | I O | walked O | . O | I O | read O | about O | the O | shoulder B-Symptom | pain I-Symptom | in O | assorted O | sites O | on O | the O | web O | . O | Discussed O | it O | with O | my O | PA B-Drug | and O | cardiologist B-Drug | . O | My O | PA B-Drug | stopped O | the O | Lipitor B-Drug | . O | The O | pain O | lessened O | but O | did O | not O | stop O | . O | Went O | to O | a O | Ortho B-Drug | MD O | who O | gave O | me O | 3 O | Steroid B-Drug | shots O | and O | PT O | . O | It O | seemed O | to O | help O | but O | pain O | would O | not O | stop O | . O | Narcs B-Drug | were O | ordered O | which O | helped O | somewhat O | but O | wasn't O | the O | answer O | . O | MRI O | showed O | a O | slight B-Disease | linear I-Disease | tear I-Disease | in O | my O | Rotator B-Disease | Cuff I-Disease | which O | he O | wanted O | to O | do O | surgery O | . O | Decided O | against O | surgery O | . O | Both O | shoulders O | started O | to O | feel O | better O | but O | still O | couldn't O | sleep O | on O | my O | left O | side O | . O | My O | LDL's O | were O | through O | the O | roof O | . O | After O | almost O | 10 O | months O | off O | Lipitor B-Drug | , O | my O | general O | MD O | talked O | me O | into O | starting O | Sinivastatin B-Drug | 40 B-Drug | mg I-Drug | every O | day O | . O | Well O | , O | guess O | what O | happened O | . O | My O | shoulder B-Symptom | pain I-Symptom | suddenly O | worsen O | , O | especially O | left B-Symptom | side I-Symptom | . O | I O | am O | going O | to O | speak O | with O | my O | Cardiologist B-Drug | again O | and O | explore O | alternatives O | and O | will O | be O | stopping O | my O | Statin B-Drug | today O | ! O | Moral O | of O | the O | story O | . O | Stay O | clear O | of O | Statin B-Drug | medications O | . O
+
+Structured Output:
+T1 Symptom 12 29 shoulder pain
+T2 Symptom 38 54 general weakness
+T3 Symptom 56 62 malaise
+T4 Symptom 64 79 slight memory loss
+T5 Drug 85 88 10 mg
+T6 Drug 99 102 20 mg
+T7 Drug 107 110 40
+T8 Drug 115 118 80
+T9 Symptom 134 151 shoulder pain
+T10 Drug 166 169 Lipitor
+T11 Drug 189 194 Ortho
+T12 Drug 204 211 Steroid
+T13 Drug 276 281 Sinivastatin
+T14 Drug 287 290 40 mg
+T15 Symptom 429 447 shoulder pain
+T16 Symptom 454 469 left side
+T17 Drug 468 475 Cardiologist
+T18 Drug 482 488 Statin
+T19 Drug 499 504 Statin

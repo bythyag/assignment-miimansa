@@ -1,0 +1,7 @@
+T1 Symptom 0 6 nausea
+T2 Symptom 8 24 extreme hunger
+T3 Symptom 26 37 stomach pain
+T4 Symptom 39 55 abdominal pain
+T5 Symptom 57 72 vaginal bleeding
+T6 Symptom 74 80 cramps
+T7 Symptom 156 160 pain

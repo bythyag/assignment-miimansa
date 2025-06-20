@@ -1,0 +1,21 @@
+BIO Sequence:
+Joint B-Symptom | pain I-Symptom | , O | muscle B-Symptom | ache I-Symptom | , O | fatigue B-Symptom | . O | While O | doctors O | will O | test O | your O | liver B-Disease | function I-Disease | on O | this O | medication O | , O | and O | they O | may O | run O | a O | blood B-Disease | test I-Disease | to O | check O | for O | muscle B-Disease | wasting I-Disease | , O | many O | doctors O | deny O | that O | there O | is O | a O | connection O | between O | joint B-Symptom | pain I-Symptom | , O | muscle B-Symptom | aching I-Symptom | , O | fatigue B-Symptom | etc O | and O | Lipitor B-Drug | . O | I O | stopped O | taking O | the O | medication O | and O | the O | symptoms B-Symptom | gradually O | dissipated O | . O | About O | a O | year O | later O | , O | I O | was O | put O | on O | it O | again O | and O | once O | again O | the O | same O | symptoms B-Symptom | returned O | . O | I O | saw O | another O | doctor O | and O | this O | physician O | is O | the O | one O | that O | stated O | that O | Lipitor B-Drug | is O | more O | than O | likely O | the O | cause O | . O | Another O | family O | member O | was O | on O | Lipitor B-Drug | and O | experienced O | very O | similar O | symptoms B-Symptom | . O | She O | took O | herself O | off O | of O | the O | medication O | her O | symptoms B-Symptom | also O | began O | to O | fade O | . O | She O | demanded O | to O | be O | put O | on O | another O | medication O | and O | was O | . O | Not O | all O | people O | who O | take O | Lipitor B-Drug | will O | have O | adverse B-ADR | reactions I-ADR | , O | but O | if O | you O | do O | experience O | these O | symptoms B-Symptom | , O | don't O | just O | accept O | your O | doctor's O | denial O | of O | a O | connection O | between O | the O | two O | . O | You O | may O | want O | to O | get O | a O | second O | opinion O | . O
+
+Structured Output:
+T1 Symptom 0 10 Joint pain
+T2 Symptom 12 22 muscle ache
+T3 Symptom 24 31 fatigue
+T4 Disease 58 70 liver function
+T5 Disease 89 96 blood test
+T6 Disease 101 107 muscle wasting
+T7 Symptom 123 133 joint pain
+T8 Symptom 135 148 muscle aching
+T9 Symptom 150 156 fatigue
+T10 Drug 160 166 Lipitor
+T11 Symptom 215 223 symptoms
+T12 Symptom 274 284 symptoms
+T13 Drug 295 301 Lipitor
+T14 Symptom 308 318 symptoms
+T15 Symptom 337 345 symptoms
+T16 ADR 353 366 adverse reactions
+T17 Symptom 398 407 symptoms

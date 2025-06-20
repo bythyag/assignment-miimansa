@@ -1,0 +1,17 @@
+BIO Sequence:
+After O | taking O | the O | drug O | for O | 7 O | years O | , O | i've O | suddenly O | developped O | diarrhea B-ADR | , O | nausea B-ADR | , O | loss B-Symptom | of O | apetite B-Symptom | , O | stomach B-Symptom | cramps I-Symptom | . O | I've O | had O | these O | symptoms O | for O | 4 O | weeks O | and O | i've O | just O | realised O | it O | could O | be O | side B-ADR | effects I-ADR | from O | arthotec B-Drug | . O | The O | problem O | is O | if O | i O | stop O | arthrotec B-Drug | I O | become O | paralysed O | by O | back B-Symptom | pain I-Symptom | . O | Seeing O | the O | doctor O | next O | week O | . O | But O | not O | sure O | if O | my O | symptoms O | are O | due O | to O | the O | drug O | as O | i've O | been O | on O | it O | for O | so O | long O | with O | no O | side B-ADR | effects I-ADR | . O | After O | trying O | several O | NSAIDs B-Drug | with O | side B-ADR | effects I-ADR | , O | I O | finally O | discovered O | arthrotec B-Drug | which O | relieved O | the O | pain O | and O | no O | side B-ADR | effects I-ADR | . O | I O | usually O | take O | 1 O | or O | 2 O | a O | day O | and O | when O | the O | pain O | gets O | really O | bad O | increase O | it O | to O | 3 O | a O | day O | for O | one O | or O | two O | weeks O | . O
+
+Structured Output:
+T1 ADR 54 62 diarrhea
+T2 ADR 64 70 nausea
+T3 Symptom 72 86 loss of apetite
+T4 Symptom 88 103 stomach cramps
+T5 ADR 133 143 side effects
+T6 Drug 150 157 arthotec
+T7 Drug 166 174 arthrotec
+T8 Symptom 183 191 back pain
+T9 ADR 245 255 side effects
+T10 ADR 265 274 side effects
+T11 Drug 276 282 NSAIDs
+T12 ADR 284 294 side effects
+T13 ADR 322 332 side effects

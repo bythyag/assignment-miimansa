@@ -1,0 +1,10 @@
+T1 Symptom 1 7 Severe  
+T2 Symptom 9 18 abdominal cramping  
+T3 Symptom 20 27 sweating  
+T4 Symptom 29 40 period cramps  
+T5 Symptom 42 58 vaginal bleeding  
+T6 Symptom 60 67 diarrhea  
+T7 Symptom 69 80 acid reflux  
+T8 Symptom 82 90 dry mouth  
+T9 Symptom 95 102 migraine  
+T10 Symptom 104 108 pain

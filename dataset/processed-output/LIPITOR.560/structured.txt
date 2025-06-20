@@ -1,0 +1,8 @@
+T1 Drug 33 37 Drug
+T2 Disease 73 85 Cardiologist
+T3 ADR 61 66 Side effects
+T4 Disease 109 114 Lipid
+T5 Disease 119 127 Bad cholesterol
+T6 Disease 143 156 Total cholesterol
+T7 Disease 165 180 Bad portion
+T8 Disease 182 185 HDL

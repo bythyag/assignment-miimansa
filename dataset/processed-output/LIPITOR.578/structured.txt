@@ -1,0 +1,14 @@
+T1 Symptom 26 32 Extreme vertigo  
+T2 Symptom 34 49 short term memory loss  
+T3 Disease 51 61 tendonitis  
+T4 Symptom 66 75 calf leg cramps  
+T5 Symptom 77 88 muscle loss  
+T6 ADR 90 104 severe tinnitus  
+T7 Drug 110 116 Lipitor  
+T8 Drug 122 129 Vytorin  
+T9 Disease 140 149 Cholesterol  
+T10 Symptom 153 157 heel tendon bruising  
+T11 Symptom 165 175 muscle loss  
+T12 Drug 207 218 Red Yeast  
+T13 Drug 233 243 slo-naicin  
+T14 Drug 257 268 coenzyme Q10

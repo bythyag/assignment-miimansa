@@ -1,0 +1,17 @@
+T1 Drug 8 14 Lipitor
+T2 Symptom 50 54 pain
+T3 Symptom 59 63 knees
+T4 Symptom 68 72 feet
+T5 Symptom 77 81 neck
+T6 Symptom 86 94 shoulders
+T7 Symptom 97 103 abdominal
+T8 Symptom 104 108 pain
+T9 Symptom 113 118 elbow
+T10 Symptom 119 123 pain
+T11 ADR 57 62 severe
+T12 Disease 73 81 chronic
+T13 Disease 82 91 tendonitis
+T14 Drug 193 199 Lipitor
+T15 ADR 149 154 severe
+T16 ADR 155 159 pain
+T17 Disease 188 193 MRIs

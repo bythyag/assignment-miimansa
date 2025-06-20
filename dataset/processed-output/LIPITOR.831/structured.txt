@@ -1,0 +1,8 @@
+T1 Symptom 0 4 pain
+T2 Symptom 11 27 upper right arm
+T3 Drug 74 78 drug
+T4 Disease 88 98 cholesterol rating
+T5 Symptom 115 119 pain
+T6 Symptom 124 134 arm
+T7 Symptom 139 147 shoulder
+T8 Drug 160 164 drug

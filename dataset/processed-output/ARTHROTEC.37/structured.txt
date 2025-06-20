@@ -1,0 +1,5 @@
+T1 Drug 32 36 pill
+T2 Symptom 96 101 SEVERE
+T3 ADR 124 132 massive diarrhea
+T4 ADR 145 155 severe cramping
+T5 Symptom 180 194 debilitating chronic knee pain

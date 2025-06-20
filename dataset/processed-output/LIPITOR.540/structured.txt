@@ -1,0 +1,5 @@
+T1 Drug 28 34 Lipitor
+T2 Symptom 79 83 pain
+T3 Symptom 88 96 stiffness
+T4 Disease 132 141 cholesterol
+T5 ADR 148 159 side affect

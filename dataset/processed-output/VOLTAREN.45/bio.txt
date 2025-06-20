@@ -1,0 +1,1 @@
+Extreme O | diarrhea B-ADR | , O | vomiting B-ADR | , O | extreme O | sweating B-ADR | , O | dizzyness B-ADR | , O | very O | weak B-Symptom | , O | powerful O | chills B-ADR | but O | no O | fever B-Symptom | , O | bloody O | discharge B-Symptom | . O | Very O | bad O | reaction O | by O | my O | body O | . O

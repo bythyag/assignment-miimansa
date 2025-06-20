@@ -1,0 +1,12 @@
+BIO Sequence:
+Severe B-Symptom | muscle I-Symptom | pain I-Symptom | in O | calves O | , O | unable O | to O | run O | at O | all O | even O | though O | I've O | been O | running O | marathons O | all O | my O | life O | . O | Felt O | very O | unwell O | , O | as O | though O | I O | had O | a O | high B-Symptom | temperature I-Symptom | . O | My O | total O | cholesterol O | did O | drop O | from O | 6.5 O | mmol/l O | to O | 3.6 O | but O | my O | HDL O | also O | dropped O | to O | below O | 1 O | mmol/l O | actually O | making O | my O | good/bad O | cholesterol O | ratio O | worse O | . O | Because O | I O | felt O | so O | ill O | , O | I O | stopped O | taking O | it O | . O | Cholesterol O | went O | up O | almost O | immediately O | after O | stopping O | Lipitor B-Drug | and O | I O | felt O | great O | again O | and O | was O | able O | to O | run O | again O | . O | A O | year O | later O | I O | tried O | Lipitor B-Drug | again O | with O | the O | same O | side B-ADR | effects I-ADR | as O | before O | . O | I O | stopped O | taking O | it O | and O | decided O | to O | live O | with O | high B-Disease | cholesterol I-Disease | as O | taking O | this O | drug O | made O | my O | life O | not O | worth O | living O | . O
+
+Structured Output:
+T1 Symptom 0 6 Severe
+T2 Symptom 7 12 muscle
+T3 Symptom 13 17 pain
+T4 Symptom 40 58 high temperature
+T5 Drug 141 147 Lipitor
+T6 Drug 168 174 Lipitor
+T7 ADR 129 143 side effects
+T8 Disease 388 397 high cholesterol

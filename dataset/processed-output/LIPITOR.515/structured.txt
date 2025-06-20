@@ -1,0 +1,13 @@
+T1 Symptom 0 14 muscles
+T2 Symptom 31 46 leg/foot cramps
+T3 Symptom 51 58 fatigue
+T4 Drug 69 75 Lipitor
+T5 ADR 111 118 tiring
+T6 ADR 167 178 fatigue
+T7 Disease 195 203 diabetes
+T8 Drug 205 211 Lipitor
+T9 Disease 221 230 chloesterol
+T10 Drug 232 238 Lipitor
+T11 Symptom 278 285 muscle
+T12 Symptom 287 295 fatigue
+T13 Symptom 296 303 cramping

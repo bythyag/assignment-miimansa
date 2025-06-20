@@ -1,0 +1,7 @@
+T1 Drug 33 37 drug
+T2 Drug 62 64 Dr
+T3 Disease 47 50 HDL
+T4 Drug 135 139 drug
+T5 Drug 155 164 medications
+T6 Disease 180 183 HDL
+T7 ADR 206 212 side effects

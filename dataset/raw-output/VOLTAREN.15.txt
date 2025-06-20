@@ -1,0 +1,10 @@
+BIO Sequence:
+my O | feet B-Symptom | would O | turn O | red B-ADR | or O | purple B-ADR | , O | but O | otherwise O | no O | side O | effects O | . O | It O | didn’t O | seem O | to O | help O | my O | feet B-Symptom | at O | all O | . O | Didn’t O | even O | decrease O | the O | pain B-Symptom | a O | little O | bit O | and O | by O | the O | 8th O | it O | seemed O | to O | make O | it O | worse B-ADR | . O | I'm O | taking O | a O | break O | for O | a O | couple O | days O | and O | then O | might O | try O | it O | again O | . O
+
+Structured Output:
+T1 Symptom 10 15 feet
+T2 ADR 31 34 red
+T3 ADR 36 41 purple
+T4 Symptom 78 83 feet
+T5 Symptom 94 98 pain
+T6 ADR 136 141 worse

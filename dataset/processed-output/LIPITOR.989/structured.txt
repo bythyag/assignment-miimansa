@@ -1,0 +1,14 @@
+T1 Symptom 1 8 Severe leg pain  
+T2 Symptom 13 21 weakness  
+T3 Symptom 28 41 muscle cramps  
+T4 Symptom 45 49 legs  
+T5 Symptom 51 56 feet  
+T6 Symptom 58 63 arms  
+T7 Symptom 65 69 ribs  
+T8 Symptom 71 76 face  
+T9 Drug 121 127 Lipitor  
+T10 Drug 130 135 20mg  
+T11 Symptom 197 204 severe pain  
+T12 Symptom 209 216 weakness  
+T13 Symptom 247 251 legs  
+T14 Drug 282 288 statin

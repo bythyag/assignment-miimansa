@@ -1,0 +1,7 @@
+BIO Sequence:
+90 O | % O | effective O | - O | Hard O | on O | my O | stomach B-Symptom | even O | when O | I O | take O | it O | with O | food O | . O | It O | surpasses O | any O | other O | new O | drug B-Drug | on O | the O | market O | . O | I O | give O | excellent O | marks O | for O | the O | original O | VOLTAREN B-Drug | . O 
+
+Structured Output:
+T1 Symptom 26 32 stomach
+T2 Drug 86 91 drug
+T3 Drug 109 117 VOLTAREN

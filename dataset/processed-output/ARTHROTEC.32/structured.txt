@@ -1,0 +1,4 @@
+T1 ADR 37 58 severe abdominal pain
+T2 Symptom 81 87 stomach
+T3 ADR 105 112 bruises
+T4 Drug 126 130 drug

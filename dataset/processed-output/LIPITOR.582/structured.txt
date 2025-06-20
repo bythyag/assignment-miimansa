@@ -1,0 +1,14 @@
+T1 Symptom 1 8 Weakness
+T2 Symptom 18 22 legs
+T3 Symptom 24 31 hip pain
+T4 Symptom 34 42 knee pain
+T5 Symptom 45 53 feet and ankle pain
+T6 Symptom 55 68 Lower back pain
+T7 Symptom 70 77 Muscle weakness
+T8 Disease 78 83 pevis
+T9 Symptom 86 90 toes
+T10 Drug 119 128 chiropractor
+T11 Drug 130 136 Lipitor
+T12 ADR 151 163 side effects
+T13 Symptom 187 192 aches
+T14 Symptom 196 200 legs

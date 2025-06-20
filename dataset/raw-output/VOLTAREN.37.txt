@@ -1,0 +1,15 @@
+BIO Sequence:
+Lots O | stomach B-Symptom | gurgling I-Symptom | after O | eating O | , O | which O | has O | been O | consistent O | even O | after O | adjusting O | to O | the O | medication B-Drug | , O | and O | initial O | doses O | gave O | diarrhea B-ADR | for O | a O | few O | days O | . O | I O | have O | switched O | to O | taking O | it O | with O | a O | snack O | before O | bedtime O | with O | good O | results O | . O | For O | me O | , O | it O | has O | been O | very O | effective O | pain B-Symptom | relief I-Symptom | for O | my O | chronic B-Disease | bone/joint I-Disease | pain I-Disease | from O | a O | broken B-Disease | elbow I-Disease | . O | So O | effective O | that O | I O | was O | able O | to O | substantially O | reduce O | the O | amount O | of O | narcotic B-Drug | pain I-Drug | reliever I-Drug | I O | was O | using O | once O | the O | Voltaren B-Drug | kicked O | in O | after O | about O | 2 O | days O | . O
+
+Structured Output:
+T1 Symptom 5 12 stomach
+T2 Symptom 13 21 gurgling
+T3 ADR 78 86 diarrhea
+T4 Symptom 119 123 pain relief
+T5 Disease 134 140 chronic
+T6 Disease 141 152 bone/joint
+T7 Disease 156 162 broken
+T8 Drug 171 177 narcotic
+T9 Drug 181 185 pain
+T10 Drug 187 195 reliever
+T11 Drug 197 204 Voltaren

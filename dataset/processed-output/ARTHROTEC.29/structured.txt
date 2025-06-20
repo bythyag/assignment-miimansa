@@ -1,0 +1,15 @@
+T1 Symptom 0 15 vaginal bleeding
+T2 Symptom 17 25 cramping
+T3 Disease 43 52 menopause
+T4 Symptom 124 134 joint pain
+T5 Symptom 153 159 period
+T6 Disease 177 190 endometriosis
+T7 Disease 192 203 adenomyosis
+T8 Symptom 218 232 blood clotting
+T9 Disease 236 239 EDS
+T10 Drug 259 263 drug
+T11 Drug 271 278 tablets
+T12 Drug 280 287 Cymbalta
+T13 Drug 288 290 120
+T14 Drug 291 293 mg
+T15 Symptom 310 314 pain

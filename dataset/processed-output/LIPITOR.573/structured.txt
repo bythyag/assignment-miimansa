@@ -1,0 +1,10 @@
+T1 Symptom 0 19 Muscle and joint aches  
+T2 Symptom 24 28 arms  
+T3 Symptom 30 36 elbows  
+T4 Symptom 38 43 calves  
+T5 Symptom 60 63 gas  
+T6 Symptom 84 91 Symptoms  
+T7 Symptom 93 102 symptoms  
+T8 Drug 119 125 Dosage  
+T9 Drug 144 146 40  
+T10 Drug 151 153 mg

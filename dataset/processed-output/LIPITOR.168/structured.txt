@@ -1,0 +1,13 @@
+T1 Symptom 44 49 severe
+T2 Symptom 58 63 cramps
+T3 Symptom 112 116 numb
+T4 Symptom 128 133 weak
+T5 Symptom 137 141 pain
+T6 Symptom 154 158 hurt
+T7 Symptom 185 197 sex drive
+T8 Disease 500 502 MS
+T9 Drug 411 417 lipitor
+T10 ADR 463 472 uncommon reaction
+T11 Drug 411 417 lipitor
+T12 Drug 411 417 lipitor
+T13 Drug 411 417 lipitor

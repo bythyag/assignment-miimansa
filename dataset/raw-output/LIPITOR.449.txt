@@ -1,0 +1,10 @@
+BIO Sequence:
+Extreme O | tiredness B-Symptom | and O | flatulence B-Symptom | . O | Not O | sure O | whether O | it O | is O | the O | Lipitor B-Drug | but O | I O | am O | now O | tired B-Symptom | to O | the O | point O | of O | exhaustion B-Symptom | . O | Is O | it O | work O | , O | is O | it O | me O | getting O | older O | or O | is O | it O | the O | Lipitor B-Drug | ?? O | . O 
+
+Structured Output:
+T1 Symptom 15 25 tiredness
+T2 Symptom 28 37 flatulence
+T3 Drug 66 73 Lipitor
+T4 Symptom 87 92 tired
+T5 Symptom 98 107 exhaustion
+T6 Drug 127 134 Lipitor

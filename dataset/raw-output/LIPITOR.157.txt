@@ -1,0 +1,8 @@
+BIO Sequence:
+Constant B-Symptom | gas I-Symptom | and O | constipation B-Symptom | . O | It O | has O | reduced O | my O | cholesterol B-Disease | level I-Disease | . O 
+
+Structured Output:
+T1 Symptom 0 7 Constant
+T2 Symptom 8 11 gas
+T3 Symptom 16 26 constipation
+T4 Disease 37 46 cholesterol level

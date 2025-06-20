@@ -1,0 +1,13 @@
+BIO Sequence:
+Very O | slowly O | , O | over O | many O | years O | , O | I've O | developed O | debilitating B-Symptom | muscle I-Symptom | pains I-Symptom | , O | horrible B-Symptom | fatigue I-Symptom | , O | tingling B-Symptom | in O | my O | arms I-Symptom | , O | legs I-Symptom | and O | fingers I-Symptom | ; O | I've O | gone O | to O | the O | doctor O | for O | 5 O | years O | , O | at O | least O | , O | trying O | to O | find O | out O | what O | is O | wrong O | with O | me O | . O | I O | JUST O | turned O | 40 O | years O | old O | and O | should O | not O | feel O | like O | this O | . O | Out O | of O | nowhere O | , O | I O | heard O | about O | CoQ10 B-Drug | depletion I-Drug | and O | just O | started O | the O | supplement B-Drug | today O | . O | I O | was O | never O | told O | ANY O | of O | these O | symptoms O | could O | relate O | to O | the O | Lipitor B-Drug | - O | in O | fact O | , O | I O | specifically O | asked O | if O | any O | of O | my O | medications O | could O | be O | causing O | these O | problems O | . O
+
+Structured Output:
+T1 Symptom 57 76 debilitating muscle pains
+T2 Symptom 78 85 horrible fatigue
+T3 Symptom 87 95 tingling
+T4 Symptom 100 109 arms
+T5 Symptom 111 115 legs
+T6 Symptom 119 126 fingers
+T7 Drug 175 180 CoQ10
+T8 Drug 197 207 supplement
+T9 Drug 224 231 Lipitor

@@ -1,0 +1,10 @@
+T1 Symptom 8 15 numbness
+T2 Symptom 22 29 Tingling
+T3 Symptom 54 61 soreness
+T4 Disease 66 71 calf
+T5 Symptom 78 104 shock like pain
+T6 Disease 112 122 cholesterol
+T7 Drug 126 132 lipitor
+T8 Disease 142 149 coronary disease
+T9 ADR 64 76 side-effects
+T10 Drug 168 172 drug

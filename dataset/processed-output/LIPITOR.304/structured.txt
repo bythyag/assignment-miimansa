@@ -1,0 +1,20 @@
+T1 Symptom 24 40 lightheadedness
+T2 Symptom 42 52 depression
+T3 Symptom 54 78 short term memory problems
+T4 ADR 92 98 severe
+T5 ADR 100 109 muscle
+T6 ADR 111 116 pains
+T7 ADR 118 124 cramps
+T8 Disease 133 138 shins
+T9 Disease 146 156 thighs
+T10 Disease 158 162 feet
+T11 Disease 167 172 hands
+T12 Drug 79 85 Lipitor
+T13 Drug 193 199 Lipitor
+T14 ADR 240 245 severe
+T15 ADR 247 252 pains
+T16 ADR 263 269 severe
+T17 ADR 280 291 cramps/pains
+T18 Drug 372 378 Lipitor
+T19 Drug 392 398 Lipitor
+T20 Drug 414 426 Red Yeast Rice

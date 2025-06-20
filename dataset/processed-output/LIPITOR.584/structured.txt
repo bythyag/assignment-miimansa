@@ -1,0 +1,10 @@
+T1 Disease 29 38 cholesterol
+T2 Symptom 54 58 mind
+T3 Symptom 76 84 sensation
+T4 Disease 140 149 cholesterol
+T5 Drug 168 172 10mg
+T6 Drug 186 197 Lisinopril
+T7 Drug 205 221 10mg
+T8 Drug 224 248 Hydrochlorothiazide
+T9 Drug 259 265 12.5mg
+T10 Drug 277 284 Lipitor

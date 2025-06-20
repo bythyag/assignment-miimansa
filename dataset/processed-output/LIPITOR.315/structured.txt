@@ -1,0 +1,18 @@
+T1 Symptom 0 4 pain  
+T2 Symptom 10 14 back  
+T3 Symptom 19 26 shoulder pain  
+T4 Symptom 28 31 arm  
+T5 Symptom 36 43 pain  
+T6 Symptom 45 52 numbness  
+T7 Symptom 57 64 tingling  
+T8 Symptom 66 70 hands  
+T9 Symptom 72 77 Edema  
+T10 Symptom 80 84 hands  
+T11 Symptom 89 95 ankles  
+T12 Symptom 97 110 Blurred vision  
+T13 Symptom 115 126 memory loss  
+T14 Symptom 128 144 Arthritic type pain  
+T15 Symptom 146 151 joints  
+T16 Symptom 153 157 depressed  
+T17 Drug 65 71 Lipitor  
+T18 Drug 169 173 drug

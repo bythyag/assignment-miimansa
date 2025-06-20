@@ -1,0 +1,7 @@
+T1 Symptom 0 13 Sleeplessness
+T2 Symptom 15 22 tingling
+T3 Symptom 26 39 fingers
+T4 Symptom 42 58 foggy-headedness
+T5 Drug 71 77 lipitor
+T6 Symptom 89 97 symptoms
+T7 ADR 102 116 side-effects

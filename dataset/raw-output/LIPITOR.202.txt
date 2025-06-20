@@ -1,0 +1,9 @@
+BIO Sequence:  
+periodic O | achy B-Symptom | muscles I-Symptom | . O  
+20 B-Drug | mg I-Drug | . O  
+brought O | my O | counts O | way O | down O | . O  
+
+Structured Output:  
+T1 Symptom 9 14 achy  
+T2 Drug 1 4 20  
+T3 Drug 6 8 mg  

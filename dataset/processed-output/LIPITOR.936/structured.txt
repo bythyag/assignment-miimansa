@@ -1,0 +1,16 @@
+T1 Symptom 9 13 feet
+T2 Symptom 18 24 ankles
+T3 Symptom 70 78 inflamed
+T4 Symptom 86 102 pins
+T5 Symptom 107 114 needles
+T6 Symptom 121 125 toes
+T7 Symptom 145 151 painful
+T8 Symptom 156 162 pins
+T9 Symptom 166 172 needles
+T10 Symptom 174 182 swelling
+T11 Drug 46 52 Lipitor
+T12 Symptom 57 64 swelling
+T13 ADR 83 92 dermatitis
+T14 Symptom 94 103 symptoms
+T15 Symptom 112 120 flareup
+T16 Symptom 140 145 problems

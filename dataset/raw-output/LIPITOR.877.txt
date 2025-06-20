@@ -1,0 +1,9 @@
+BIO Sequence:
+MY O | MUSCLES B-Symptom | ACHED I-Symptom | AND O | I O | DEVELOPED O | DIFFICULTY B-Symptom | IN O | WALKING I-Symptom | . O | IT O | HAS O | ALSO O | AFFECTED O | MY O | BALANCE B-Symptom | . O
+
+Structured Output:
+T1 Symptom 3 10 MUSCLES
+T2 Symptom 11 16 ACHED
+T3 Symptom 30 39 DIFFICULTY
+T4 Symptom 43 50 WALKING
+T5 Symptom 64 70 BALANCE

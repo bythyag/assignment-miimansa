@@ -1,0 +1,6 @@
+BIO Sequence:
+After O | 4+ O | years O | I've O | now O | begun O | to O | experience O | joint B-Symptom | pain I-Symptom | and O | muscle B-Symptom | weakness I-Symptom | . O 
+
+Structured Output:
+T1 Symptom 46 51 joint pain  
+T2 Symptom 56 62 muscle weakness

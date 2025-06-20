@@ -1,0 +1,2 @@
+T1 Symptom 5 14 productive cough
+T2 Symptom 101 106 cough

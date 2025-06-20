@@ -1,0 +1,14 @@
+T1 Symptom 7 13 queasy  
+T2 Drug 76 83 Celebrex  
+T3 Drug 95 104 Meloxicam  
+T4 Drug 112 119 NSAIDs  
+T5 Disease 120 125 OA  
+T6 Symptom 49 53 pain  
+T7 Symptom 57 63 limp  
+T8 Symptom 70 75 Spine  
+T9 Symptom 77 81 pain  
+T10 Symptom 101 108 bleeding  
+T11 Drug 110 117 Celebrex  
+T12 Disease 2 4 RA  
+T13 Drug 160 164 drug  
+T14 Drug 174 179 Tums

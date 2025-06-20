@@ -1,0 +1,1 @@
+Stomach B-Symptom | pains I-Symptom | , O | gass B-Symptom | , O | dry B-ADR | mouth I-ADR | and O | drowsiness B-ADR | . O | Wonder O | if O | arm O | rest O | wouldn't O | have O | delivered O | same O | result O | without O | the O | need O | to O | take O | drug B-Drug | . O

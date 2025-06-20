@@ -1,0 +1,12 @@
+BIO Sequence:
+my O | partner O | is O | currently O | taking O | this O | medication O | liptor B-Drug | , O | he O | also O | takes O | high B-Disease | blood I-Disease | pressure I-Disease | medication O | , O | my O | reason O | for O | initally O | looking O | for O | side O | effects O | of O | liptor B-Drug | was O | because O | of O | my O | partners O | decreased B-ADR | libido I-ADR | and O | to O | see O | if O | there O | is O | a O | connection O | between O | this O | and O | the O | medication O | , O | however O | i O | noticed O | a O | small O | number O | of O | people O | are O | suffering O | in O | this O | way O | , O | i O | cannot O | believe O | the O | amount O | of O | things O | that O | are O | causing O | such O | a O | big O | problem O | for O | so O | many O | people O | taking O | this O | drug O | , O | my O | partner O | is O | normally O | very O | muscular O | as O | works O | out O | twice O | a O | week O | and O | has O | done O | for O | years O | , O | but O | over O | the O | last O | 6mths O | or O | so O | seems O | to O | have O | lost O | a O | lot O | of O | muscle O | and O | replacedit O | with O | fat O | , O | especially O | around O | the O | midrif O | , O | he O | also O | suffers O | from O | regular B-ADR | dioreaha I-ADR | and O | muscle B-ADR | pain I-ADR | in O | back O | and O | just O | below O | shoulder B-ADR | blades I-ADR | , O | very O | often O | also O | suffers O | from O | headaches B-ADR | , O | doesnt O | sleep O | very O | well O | at O | night O | at O | all O | , O | also O | gets O | tired B-ADR | a O | lot O | , O | my O | partner O | isnt O | aware O | of O | this O | website O | but O | i O | will O | be O | definetly O | showing O | this O | to O | him O | and O | advising O | him O | to O | perhaps O | stop O | taking O | this O | medication O | for O | a O | few O | weeks O | to O | see O | what O | the O | difference O | is O | , O | so O | glad O | to O | have O | found O | this O | site O | . O | my O | partner O | is O | 40 O | . O
+
+Structured Output:
+T1 Drug 62 67 liptor
+T2 Disease 73 91 high blood pressure
+T3 ADR 126 135 decreased libido
+T4 ADR 194 198 regular dioreaha
+T5 ADR 205 210 muscle pain
+T6 ADR 221 235 shoulder blades
+T7 ADR 247 255 headaches
+T8 ADR 274 279 tired

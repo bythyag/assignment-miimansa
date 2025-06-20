@@ -1,0 +1,5 @@
+T1 Symptom 0 6 Severe
+T2 Symptom 7 13 stomach
+T3 Symptom 14 20 cramps
+T4 ADR 22 30 diarrhea
+T5 Drug 42 46 drug

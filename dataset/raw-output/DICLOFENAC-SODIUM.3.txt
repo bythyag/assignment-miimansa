@@ -1,0 +1,23 @@
+BIO Sequence:
+I O | have O | vaginal B-Symptom | bleeding I-Symptom | and O | my O | vaginal B-Symptom | skin I-Symptom | burns O | a O | lot O | , O | my O | cycle O | was O | back O | ( O | I O | ' O | m O | menopausal B-Disease | ) O | , O | breast B-Symptom | pain I-Symptom | Other O | symptoms O | I O | have O | : O | erithema B-Symptom | , O | my O | skin O | is O | so O | dry O | I O | have O | little O | cuts O | on O | my O | hands O | , O | I O | ' O | m O | sweating O | a O | lot O | ( O | usually O | I O | don O | ' O | t O | ) O | , O | pruritus B-Symptom | ani I-Symptom | etc O | I O | took O | it O | 3 O | times O | : O | the O | first O | for O | 3 O | days O | , O | then O | I O | stopped O | because O | it O | didn O | ' O | t O | make O | great O | improvements O | and O | I O | had O | diarrhea B-ADR | . O | My O | doctor O | told O | me O | the O | symptoms O | had O | to O | go O | away O | after O | taking O | few O | more O | Second O | time O | : O | I O | took O | other O | 3 O | pills O | in O | 3 O | days O | . O | little O | improvement O | with O | the O | pain O | . O | I O | had O | the O | first O | vaginal B-Symptom | bleeding I-Symptom | , O | a O | lot O | of O | pruritus B-Symptom | and O | my O | skin O | was O | all O | red O | but O | I O | didn O | ' O | t O | know O | it O | was O | arthrotec B-Drug | . O | My O | doctor O | prescribed O | me O | a O | topical B-Drug | cream I-Drug | , O | did O | some O | vaginal B-Symptom | test I-Symptom | to O | exclude O | infections O | . O | I O | had O | my O | cycle O | The O | last O | one O | for O | 4 O | days O | . O | More O | problems O | and O | this O | time O | I O | had O | the O | idea O | to O | go O | on O | Internet O | and O | I O | discovered O | I O | had O | a O | lot O | of O | the O | side B-ADR | effects I-ADR | by O | taking O | Arthrotec B-Drug | . O 
+
+Structured Output:
+T1 Symptom 10 17 vaginal bleeding
+T2 Symptom 42 51 vaginal skin
+T3 Symptom 60 65 burns
+T4 Disease 92 102 menopausal
+T5 Symptom 106 115 breast pain
+T6 Symptom 130 138 erithema
+T7 Symptom 161 164 dry
+T8 Symptom 169 180 little cuts
+T9 Symptom 189 193 hands
+T10 Symptom 197 203 sweating
+T11 Symptom 213 221 pruritus ani
+T12 ADR 237 245 diarrhea
+T13 Symptom 286 294 vaginal bleeding
+T14 Symptom 314 320 pruritus
+T15 Drug 370 378 arthrotec
+T16 Drug 398 403 topical cream
+T17 Symptom 410 417 vaginal test
+T18 ADR 425 434 side effects
+T19 Drug 446 454 Arthrotec

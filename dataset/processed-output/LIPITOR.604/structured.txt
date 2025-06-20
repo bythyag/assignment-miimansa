@@ -1,0 +1,5 @@
+T1 Disease 0 8 depression
+T2 Disease 66 74 Depression
+T3 Disease 93 99 severe depression
+T4 Disease 127 132 heart attack
+T5 Disease 138 145 suicide

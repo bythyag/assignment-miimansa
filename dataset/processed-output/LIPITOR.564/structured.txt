@@ -1,0 +1,32 @@
+T1 Symptom 12 16 pain
+T2 Symptom 20 24 legs
+T3 Symptom 26 30 calf
+T4 Symptom 33 37 feet
+T5 Symptom 40 47 cramping
+T6 Symptom 51 55 legs
+T7 Symptom 60 64 feet
+T8 Symptom 69 73 toes
+T9 Symptom 75 82 armpain
+T10 Symptom 84 90 swelling
+T11 Symptom 93 101 extreme heaviness
+T12 Symptom 105 110 limbs
+T13 Symptom 112 120 backache
+T14 Symptom 122 128 bloody noes
+T15 Symptom 130 133 high
+T16 Symptom 134 138 cpk
+T17 Symptom 143 153 short term memory
+T18 Symptom 157 164 terrible
+T19 Symptom 166 168 confusion
+T20 Symptom 171 178 tingling
+T21 Symptom 180 186 buzzing
+T22 Symptom 191 196 limbs
+T23 Symptom 209 216 depression
+T24 ADR 260 266 relief
+T25 ADR 269 276 side effects
+T26 Drug 330 336 Lipitor
+T27 Disease 45 49 neurologists
+T28 Disease 54 58 emg
+T29 Disease 103 109 emg
+T30 Disease 118 123 biopsies
+T31 Disease 135 140 limbs
+T32 Disease 145 150 thigh

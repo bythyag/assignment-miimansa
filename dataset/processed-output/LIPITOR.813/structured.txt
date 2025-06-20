@@ -1,0 +1,3 @@
+T1 Symptom 0 10 Cholesterol  
+T2 Symptom 11 19 problems  
+T3 Drug 45 49 drug

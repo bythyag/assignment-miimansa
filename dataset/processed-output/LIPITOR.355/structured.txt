@@ -1,0 +1,11 @@
+T1 Symptom 8 12 pain
+T2 Disease 18 22 heel
+T3 Symptom 47 54 cramping
+T4 Disease 58 70 leg
+T5 Symptom 91 101 inablity
+T6 Symptom 110 114 pain
+T7 Disease 129 135 doctor
+T8 Disease 143 149 muscle
+T9 Symptom 160 165 pain
+T10 Drug 181 187 Lipitor
+T11 Symptom 203 213 cholesteral

@@ -1,0 +1,7 @@
+BIO Sequence:
+Stomach B-Symptom | cramps I-Symptom | , O | diarrhea B-Symptom | , O | fatigue B-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 15 Stomach cramps
+T2 Symptom 17 25 diarrhea
+T3 Symptom 27 34 fatigue

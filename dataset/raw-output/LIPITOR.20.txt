@@ -1,0 +1,21 @@
+BIO Sequence:
+First O | the O | doc O | thought O | I O | had O | gastritis B-Disease | from O | pain B-Symptom | in O | my O | abdomen B-Symptom | , O | headaches B-Symptom | , O | flushing B-Symptom | - O | I O | had O | an O | abdominal O | ultrasound B-Test | , O | endoscopy B-Test | , O | then O | CT B-Test | scans I-Test | ( O | 2 O | ) O | and O | then O | yesterday O | an O | MRI B-Test | - O | all O | were O | normal O | . O | The O | fatigue B-Symptom | , O | muscle B-Symptom | pain I-Symptom | , O | headaches B-Symptom | , O | and O | general B-Symptom | malaise I-Symptom | continue O | . O | I O | am O | taking O | myself O | off O | this O | drug B-Drug | and O | hope O | that O | my O | apparently O | healthy O | body O | recovers O | . O | Why O | is O | my O | doctor O | unaware O | of O | the O | Lipitor B-Drug | side O | effects O | ? O | Why O | did O | I O | spend O | almost O | $ O | 1,000 O | of O | my O | own O | money O | AFTER O | insurance O | on O | all O | these O | tests O | without O | considering O | that O | my O | symptoms O | match O | those O | for O | Lipitor B-Drug | ? O | So O | frustrating O | ! O | I O | will O | check O | back O | in O | and O | document O | how O | I O | feel O | in O | a O | month O | . O 
+
+Structured Output:
+T1 Disease 42 51 gastritis
+T2 Symptom 56 60 pain
+T3 Symptom 64 70 abdomen
+T4 Symptom 72 80 headaches
+T5 Symptom 82 89 flushing
+T6 Test 94 113 abdominal ultrasound
+T7 Test 115 124 endoscopy
+T8 Test 132 135 CT
+T9 Test 136 141 scans
+T10 Test 143 146 MRI
+T11 Symptom 156 163 fatigue
+T12 Symptom 167 172 muscle pain
+T13 Symptom 174 182 headaches
+T14 Symptom 184 201 general malaise
+T15 Drug 218 222 drug
+T16 Drug 226 232 Lipitor
+T17 Drug 260 266 Lipitor

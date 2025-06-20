@@ -1,0 +1,13 @@
+BIO Sequence:
+Hair B-Symptom | thinning I-Symptom | , O | muscle B-Symptom | aches I-Symptom | , O | memory B-Symptom | loss I-Symptom | , O | tiredness B-Symptom | , O | moody B-Symptom | . O | So O | glad O | I O | found O | this O | website O | , O | I O | was O | worried O | it O | was O | just O | me O | which O | is O | what O | my O | GP B-Drug | made O | me O | feel O | . O | Though O | my O | cholesterol B-Disease | is O | good O | the O | side B-ADR | effects I-ADR | are O | not O | worth O | it O | !! O | Time O | to O | try O | new O | meds B-Drug | ! O
+
+Structured Output:
+T1 Symptom 0 14 Hair thinning
+T2 Symptom 16 29 muscle aches
+T3 Symptom 31 42 memory loss
+T4 Symptom 44 53 tiredness
+T5 Symptom 55 60 moody
+T6 Drug 83 85 GP
+T7 Disease 92 103 cholesterol
+T8 ADR 107 119 side effects
+T9 Drug 122 126 meds

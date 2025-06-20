@@ -1,0 +1,11 @@
+T1 Disease 3 24 liver enzymes
+T2 Symptom 38 50 muscle pain 
+T3 Symptom 53 62 shoulder 
+T4 Symptom 67 72 arms
+T5 Symptom 75 80 legs
+T6 ADR 84 88 rash
+T7 Symptom 92 108 eye hemorrhages
+T8 Drug 126 132 Lipitor
+T9 Drug 151 154 HRT
+T10 Disease 176 182 heart attacks
+T11 Drug 204 213 STATIN DRUGS

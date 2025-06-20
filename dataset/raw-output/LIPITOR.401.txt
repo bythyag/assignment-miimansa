@@ -1,0 +1,16 @@
+BIO Sequence:
+Weak O | legs B-Symptom | , O | lack O | of O | concentration B-Symptom | , O | slurred B-Symptom | speach I-Symptom | , O | loss B-Symptom | of O | balance B-Symptom | and O | loss O | of O | short B-Disease | term I-Disease | memory I-Disease | . O | I O | spent O | 2 O | days O | in O | the O | hospital O | because O | I O | could'nt O | talk O | without O | slurring O | my O | words O | , O | I O | could'nt O | concentrate O | and O | could'nt O | walk O | more O | than O | a O | few O | minutes O | without O | feeling O | weak B-Symptom | . O | I O | have O | been O | off O | Lipitor B-Drug | for O | 2 O | months O | now O | and O | still O | get O | sore B-Symptom | and O | weak I-Symptom | legs I-Symptom | and O | can O | barely O | remember O | anything O | that O | has O | happened O | recently O | :( O | . O | If O | you O | are O | over O | 50 O | it O | is O | better O | to O | have O | high O | cholesterol B-Disease | than O | too O | low O | !! O | Check O | this O | site O | for O | more O | Lipitor B-Drug | horror O | stories O | . O | http://www.newmediaexplorer.org/sepp/2004/01/31/lipitor_the_human_cost.htm O | . O 
+
+Structured Output:
+T1 Symptom 6 10 legs
+T2 Symptom 36 51 lack of concentration
+T3 Symptom 53 60 slurred speach
+T4 Symptom 64 68 loss
+T5 Symptom 71 77 balance
+T6 Disease 83 97 short term memory
+T7 Symptom 113 117 weak
+T8 Drug 127 134 Lipitor
+T9 Symptom 142 146 sore
+T10 Symptom 150 154 weak
+T11 Disease 165 177 high cholesterol
+T12 Drug 185 192 Lipitor

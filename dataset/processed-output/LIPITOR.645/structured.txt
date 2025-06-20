@@ -1,0 +1,8 @@
+T1 Symptom 0 9 Body aches
+T2 Drug 27 32 20mg
+T3 Drug 36 41 10mg
+T4 Drug 70 75 CO-Q10
+T5 Drug 82 88 statin
+T6 Drug 90 97 statins
+T7 Drug 99 105 CO-Q10
+T8 Disease 107 112 heart

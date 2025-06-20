@@ -1,0 +1,11 @@
+T1 Drug 21 27 300
+T2 Drug 32 37 coQ10
+T3 ADR 56 66 side effect
+T4 Symptom 69 74 muscle
+T5 Symptom 75 80 pain
+T6 Disease 88 94 Canada
+T7 Disease 103 109 Canada
+T8 Drug 120 126 coQ10
+T9 Drug 130 137 statins
+T10 Disease 148 158 cholesterol
+T11 Disease 170 183 inflammation

@@ -1,0 +1,7 @@
+T1 Symptom 0 21 severe muscle pain 
+T2 Symptom 23 27 hips 
+T3 Symptom 29 33 legs 
+T4 Symptom 38 44 ankles 
+T5 Drug 70 79 cholesterol 
+T6 ADR 85 91 muscles 
+T7 Drug 98 105 lipitor

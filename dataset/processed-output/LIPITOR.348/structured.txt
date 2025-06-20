@@ -1,0 +1,10 @@
+T1 Symptom 10 28 short term memory
+T2 Disease 64 72 menopause
+T3 Symptom 86 95 cholesterol
+T4 Symptom 108 121 triglycerides
+T5 Symptom 123 126 LDL
+T6 Drug 148 155 10 mg
+T7 Drug 167 174 GP
+T8 Drug 182 194 cardiologist
+T9 Drug 205 212 40 mg
+T10 Drug 220 230 tablets

@@ -1,0 +1,11 @@
+BIO Sequence:
+1st O | pill O | taken O | with O | food O | , O | a O | few O | hours O | after O | i O | experienced O | shortness B-Symptom | of O | breath I-Symptom | , O | a O | sense B-Symptom | of O | depression I-Symptom | , O | cramping B-ADR | , O | upset B-ADR | stomache I-ADR | will O | stop O | taking O | immediately O | . O | Honestly O | can O | not O | recommend O | this O | drug B-Drug | , O | I O | am O | still O | experiencing O | side B-ADR | effects I-ADR | just O | after O | 1 O | pill O | and O | im O | supposed O | to O | take O | twice/day O | 75mg B-Drug | . O | I O | just O | cant O | keep O | going O | have O | to O | try O | something O | else O | . O 
+
+Structured Output:
+T1 Symptom 76 91 shortness of breath
+T2 Symptom 96 104 sense of depression
+T3 ADR 113 121 cramping
+T4 ADR 123 136 upset stomache
+T5 Drug 144 148 drug
+T6 ADR 153 165 side effects
+T7 Drug 167 172 75mg

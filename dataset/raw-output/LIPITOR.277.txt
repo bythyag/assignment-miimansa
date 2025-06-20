@@ -1,0 +1,5 @@
+BIO Sequence:
+Makes O | me O | very O | tired B-Symptom
+
+Structured Output:
+T1 Symptom 18 23 tired

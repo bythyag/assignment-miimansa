@@ -1,0 +1,6 @@
+T1 Disease 0 12 Spleen Cancer
+T2 Disease 17 20 ALS
+T3 Symptom 72 77 hands
+T4 Symptom 82 89 muscle weakness
+T5 Disease 113 116 ALS
+T6 Disease 127 144 Duke Medical Center

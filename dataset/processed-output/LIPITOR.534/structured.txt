@@ -1,0 +1,4 @@
+T1 Drug 30 36 Lipitor
+T2 Symptom 120 124 numb
+T3 Symptom 130 136 hurting
+T4 Drug 200 206 lipitor

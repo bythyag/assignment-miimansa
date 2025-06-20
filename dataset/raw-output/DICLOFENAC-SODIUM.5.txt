@@ -1,0 +1,9 @@
+BIO Sequence:
+no O | stomach B-Symptom | pains I-Symptom | - O | no O | excessive B-Symptom | drowsiness I-Symptom | but O | slept O | well O | - O | I O | took O | medicine B-Drug | during O | dinner O | on O | a O | full O | stomach O | . O | My O | left O | foot B-Symptom | was O | hurting O | badly O | enough O | that O | I O | couldn't O | walk O | without O | hobbling O | . O | Several O | hours O | after O | taking O | medicine B-Drug | most O | of O | the O | pain B-Symptom | disappeared O | , O | and O | I O | am O | back O | to O | normal O | . O | Great O | success O | , O | I O | 'd O | say O | ! O
+
+Structured Output:
+T1 Symptom 3 12 stomach pains
+T2 Symptom 29 48 excessive drowsiness
+T3 Drug 61 68 medicine
+T4 Symptom 100 104 foot
+T5 Symptom 123 127 pain

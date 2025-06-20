@@ -1,0 +1,10 @@
+BIO Sequence:
+My O | body O | aches B-Symptom | everywhere O | . O | gas B-Symptom | , O | depressed B-Symptom | and O | just O | lack B-Symptom | of O | motivation B-Symptom | for O | just O | about O | everything O | . O | I O | have O | to O | come O | off O | this O | drug B-Drug | . O | it O | is O | awful O | . O
+
+Structured Output:
+T1 Symptom 10 15 aches
+T2 Symptom 18 21 gas
+T3 Symptom 23 31 depressed
+T4 Symptom 37 41 lack
+T5 Symptom 44 53 motivation
+T6 Drug 81 85 drug

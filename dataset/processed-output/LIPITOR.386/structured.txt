@@ -1,0 +1,11 @@
+T1 Drug 8 12 10
+T2 ADR 66 70 muscle aches
+T3 ADR 72 80 weakness
+T4 ADR 82 90 stiffness
+T5 ADR 93 99 cramps
+T6 ADR 106 110 pain
+T7 Symptom 113 117 arms
+T8 Symptom 121 126 chest
+T9 Symptom 128 134 memory problems
+T10 Symptom 138 143 vision problems
+T11 Drug 198 202 drug

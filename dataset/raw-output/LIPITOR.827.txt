@@ -1,0 +1,17 @@
+BIO Sequence:
+right O | hand O | tremor B-Symptom | , O | affected O | gait B-Symptom | -- O | small O | steps O | , O | hunched O | over O | position O | , O | slowness B-Symptom | in O | movement B-Symptom | , O | . O | I O | think O | lipitor B-Drug | therapy O | of O | 4+ O | yrs O | cauased O | parkinson's B-Disease | diagnosis O | . O | i O | wonder O | if O | there O | is O | a O | genetic O | component O | related O | to O | this O | -- O | if O | some O | people O | with O | genetic O | variability O | suffered O | an O | interaction O | with O | statin B-Drug | ( O | as O | the O | environmental O | agent O | ) O | to O | produce O | this O | neurodegenerative B-Disease | disease O | . O | however O | rarely O | this O | occurs O | , O | given O | taht O | there O | are O | millions O | of O | people O | taking O | this O | class O | of O | drugs O | , O | if O | it O | is O | due O | to O | genetic O | variability O | , O | there O | could O | be O | enormous O | numbers O | of O | people O | suffering O | from O | neuro B-Symptom | symptoms O | . O | i O | have O | heard O | from O | people O | who O | think O | their O | amyotrophic B-Disease | lateral I-Disease | sclerosis I-Disease | is O | due O | to O | statins B-Drug | , O | and O | from O | people O | who O | think O | their O | parkinson/s B-Disease | is O | due O | to O | statins B-Drug | . O | others O | have O | questioned O | the O | diagnosis O | of O | alzheimer's B-Disease | and O | the O | use O | of O | aa O | statin B-Drug | . O | given O | taht O | these O | 3 O | neurodegenerative B-Disease | diseases O | are O | thought O | to O | be O | due O | to O | the O | same O | underlying O | molecular O | pathology O | , O | it O | is O | not O | a O | far O | fetched O | question O | -- O | do O | statins B-Drug | indue O | neurodegenerative B-Disease | diseases O | in O | susceptible O | individuals O | ? O | ? O | . O 
+
+Structured Output:
+T1 Symptom 21 27 tremor
+T2 Symptom 43 47 gait
+T3 Symptom 103 111 slowness
+T4 Symptom 115 122 movement
+T5 Drug 104 110 lipitor
+T6 Disease 133 142 parkinson's
+T7 Drug 164 170 statin
+T8 Disease 179 200 neurodegenerative
+T9 Disease 278 300 amyotrophic lateral sclerosis
+T10 Disease 310 321 parkinson/s
+T11 Disease 328 337 alzheimer's
+T12 Drug 346 353 statin
+T13 Disease 359 377 neurodegenerative

@@ -1,0 +1,8 @@
+T1 Symptom 29 46 menstral cycles
+T2 Symptom 48 55 fatigue
+T3 Symptom 57 64 slow healing
+T4 Symptom 66 73 clotting
+T5 Symptom 88 96 headaches
+T6 Symptom 113 117 pain
+T7 Symptom 123 130 stomach
+T8 Drug 150 156 NSAIDs

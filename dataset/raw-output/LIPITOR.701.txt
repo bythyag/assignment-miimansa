@@ -1,0 +1,19 @@
+BIO Sequence:
+severe B-Symptom | muscle I-Symptom | pain I-Symptom | in O | left B-Symptom | arm I-Symptom | and O | neck I-Symptom | and O | elbow I-Symptom | , O | and O | prickling B-ADR | , O | numbness I-ADR | in O | hand I-Symptom | . O | strange O | poisen-ivy-like B-ADR | rash I-ADR | on O | chest B-Symptom | and O | breast I-Symptom | that O | would O | not O | go O | away O | UNTIL O | I O | stopped O | taking O | lipitor B-Drug | . O | I O | put O | up O | with O | this O | for O | 2 O | years O | until O | I O | realized O | the O | medication O | could O | have O | caused O | it O | and O | stopped O | - O | things O | cleared O | up O | IMMEDIATELY O | . O | would O | prefer O | to O | try O | Niacin B-Drug | - O | will O | NEVER O | take O | Lipitor B-Drug | again O | . O 
+
+Structured Output:
+T1 Symptom 0 6 severe
+T2 Symptom 7 13 muscle pain
+T3 Symptom 15 17 left
+T4 Symptom 18 21 arm
+T5 Symptom 23 27 neck
+T6 Symptom 29 33 elbow
+T7 ADR 37 46 prickling
+T8 ADR 48 56 numbness
+T9 Symptom 58 62 hand
+T10 ADR 64 80 poisen-ivy-like rash
+T11 Symptom 82 87 chest
+T12 Symptom 92 98 breast
+T13 Drug 113 119 lipitor
+T14 Drug 132 138 Niacin
+T15 Drug 142 148 Lipitor

@@ -1,0 +1,12 @@
+BIO Sequence:
+Had O | no O | side O | effects O | , O | liver B-Disease | tests O | always O | normal O | . O | Would O | give O | it O | a O | '5' O | , O | but O | it O | isn’t O | the O | best O | med O | for O | me O | . O | Triglycerides B-Disease | and O | cholesterol B-Disease | were O | getting O | worse O | every O | year O | ; O | diet O | / O | exercise O | did O | not O | help O | much O | . O | First O | on O | Lopid B-Drug | ( O | Gemfibrozil I-Drug | ) O | which O | worked O | OK O | , O | but O | had O | gall O | bladder O | out O | as O | a O | result O | ! O | Doc O | put O | me O | on O | Lipitor B-Drug | . O | While O | it O | did O | help O | get O | the O | overall O | numbers O | down O | somewhat O | , O | I O | am O | still O | very O | high O | . O | ( O | Untreated O | TG B-Disease | 1700 O | ; O | w/drug O | 700-1100 O | . O | Chol O | too O | high O | to O | measure O | came O | down O | to O | 280-350 O | . O | Cardiologist O | now O | switching O | me O | to O | Tricor B-Drug | ( O | scary O | ) O | which O | is O | working O | better O | for O | my O | particular O | situation O | , O | but O | not O | as O | pleasant O | to O | take O | . O |
+
+Structured Output:
+T1 Disease 74 79 liver
+T2 Disease 85 96 Triglycerides
+T3 Disease 101 111 cholesterol
+T4 Drug 127 133 Lopid
+T5 Drug 134 146 Gemfibrozil
+T6 Drug 152 159 Lipitor
+T7 Disease 188 190 TG
+T8 Drug 214 220 Tricor

@@ -1,0 +1,12 @@
+BIO Sequence:
+Had O | 1 O | pill O | only O | 10mg O | lipitor B-Drug | (had O | tried O | lipex B-Drug | (2pills O | 1st O | but O | face O | had O | swollen O | up O | -cleared O | 2weeks O | ) O | anyway O | the O | next O | morning O | -after O | sitting O | down O | for O | 10minutes O | -i O | stood O | up O | to O | walk O | and O | it O | was O | a O | very O | painful B-Symptom | and O | a O | very O | slow O | stooped O | debilatating B-Symptom | (compressed O | back O |) O | type O | of O | walk O | but O | after O | 5-10 O | minutes O | of O | standing O | could O | straighten O | back O | -only O | problem O | when O | sitting O | down O | -lower B-Symptom | back I-Symptom | . O | no O | other O | part O | of O | back O | a O | problem O | -can O | play O | tennis O | with O | only O | slight O | pain B-Symptom | if O | bending O | over O | . O | it O | is O | now O | 14 O | days O | and O | still O | same O | problem O | -tend O | to O | stand O | or O | lie O | down O | for O | computor O | work O | no O | other O | side B-ADR | affects I-ADR | that O | im O | aware O | of O | . O | Will O | see O | doctor O | if O | it O | continues O | to O | be O | a O | problem O | in O | 1 O | week O | though O | i O | see O | some O | have O | continued O | to O | have O | problems O | even O | after O | stopping O | and O | after O | reading O | this O | blog O | i O | am O | swayed O | to O | think O | that O | it O | is O | a O | degenative B-Disease | muscle I-Disease | problem I-Disease | ( which O | will O | heal O | in O | time O | due O | to O | 1 O | pill O | only O | usage O | ) O | and O | may O | not O | be O | other O | internal O | organ O | reactions O | as O | i O | 1st O | suspected O | . O | 
+
+Structured Output:
+T1 Drug 26 32 lipitor
+T2 Drug 76 81 lipex
+T3 Symptom 87 93 painful
+T4 Symptom 109 124 debilatating
+T5 Symptom 144 158 lower back
+T6 Symptom 205 210 pain
+T7 ADR 242 249 side affects
+T8 Disease 305 316 degenative muscle problem

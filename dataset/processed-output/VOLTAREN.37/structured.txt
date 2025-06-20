@@ -1,0 +1,11 @@
+T1 Symptom 5 12 stomach
+T2 Symptom 13 21 gurgling
+T3 ADR 78 86 diarrhea
+T4 Symptom 119 123 pain relief
+T5 Disease 134 140 chronic
+T6 Disease 141 152 bone/joint
+T7 Disease 156 162 broken
+T8 Drug 171 177 narcotic
+T9 Drug 181 185 pain
+T10 Drug 187 195 reliever
+T11 Drug 197 204 Voltaren

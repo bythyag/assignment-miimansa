@@ -1,0 +1,9 @@
+BIO Sequence:
+Extreme O | fatigue B-Symptom | and O | general O | weak B-Symptom | feeling O | overall O | like O | I O | have O | never O | experienced O | EVER O | in O | my O | entire O | life O | before O | . O | In O | all O | honestly O | , O | I O | feel O | as O | though O | my O | sense O | of O | well O | being O | has O | taken O | a O | sudden O | decline O | after O | taking O | this O | medication B-Drug | for O | only O | two O | weeks O | . O | I O | intend O | to O | phone O | my O | M.D. B-Drug | . O | this O | morning O | about O | discontinuing O | this O | medication B-Drug | . O 
+
+Structured Output:
+T1 Symptom 10 16 fatigue  
+T2 Symptom 38 42 weak  
+T3 Drug 117 126 medication  
+T4 Drug 129 133 M.D.  
+T5 Drug 141 150 medication  

@@ -1,0 +1,13 @@
+BIO Sequence:
+Severe B-Symptom | back I-Symptom | pain I-Symptom | . O | Leg B-Symptom | , O | finger I-Symptom | and O | feet I-Symptom | joint B-Symptom | pain I-Symptom | similar O | to O | arthritis B-Disease | . O | Planta B-Disease | fasciitis I-Disease | similarities O | . O | Big O | weight B-Symptom | gain I-Symptom | in O | stomach B-Symptom | area I-Symptom | . O | I O | am O | 55 O | and O | never O | felt O | so O | old O | in O | my O | life O | ! O | went O | down O | to O | 10 B-Drug | mlg I-Drug | after O | complaining O | about O | back B-Symptom | pain I-Symptom | . O | Doctor O | refuses O | to O | believe O | it O | is O | the O | medication B-Drug | causing O | the O | pain I-Symptom | . O 
+
+Structured Output:
+T1 Symptom 1 6 Severe back pain
+T2 Symptom 8 38 Leg,finger and feet joint pain
+T3 Disease 43 51 arthritis
+T4 Disease 53 63 Planta fasciitis
+T5 Symptom 65 79 Big weight gain in stomach area
+T6 Drug 118 124 10 mlg
+T7 Symptom 136 143 back pain
+T8 Drug 155 166 medication
+T9 Symptom 170 174 pain

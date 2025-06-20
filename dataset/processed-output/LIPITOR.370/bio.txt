@@ -1,0 +1,1 @@
+very O | productive B-Symptom | cough I-Symptom | . O | Doctor O | said O | it O | couldn't O | possibly O | b O | e O | that O | - O | I O | stopped O | in O | two O | days O | cough B-Symptom | had O | gone O | . O

@@ -1,0 +1,2 @@
+T1 Drug 15 21 Pfizer
+T2 Drug 98 103 Zocor

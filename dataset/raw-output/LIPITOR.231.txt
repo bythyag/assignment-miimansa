@@ -1,0 +1,12 @@
+BIO Sequence:
+Reduced O | chol O | from O | 300 O | to O | 160 O | ( O | 29 O | yrs O | old O | in O | great O | shape O | just O | genetically O | high O | ). O | Miracle O | drug B-Drug | - O | until O | year O | 3 O | . O | Leg O | began O | having O | vibrating B-Symptom | sensation I-Symptom | ( O | kept O | thinking O | cell O | phone O | was O | in O | pocket O | but O | it O | wasnt O | ). O | Entire O | body O | ached B-Symptom | ; O | toes O | felt O | arthritic B-Symptom | ; O | had O | problems O | with O | memory B-Symptom | & O | coordination B-Symptom | ( O | fell O | down O | stairs O | # O | of O | times O | ). O | Stopped O | and O | all O | symptoms O | have O | gone O | away O | . O | Experienced O | same O | issue O | w/ O | all O | Statins B-Drug | - O | not O | just O | lipitor B-Drug | . O
+
+Structured Output:
+T1 Drug 79 84 Miracle drug
+T2 Symptom 120 133 vibrating sensation
+T3 Symptom 150 155 ached
+T4 Symptom 162 171 arthritic
+T5 Symptom 178 184 memory
+T6 Symptom 195 205 coordination
+T7 Drug 233 240 Statins
+T8 Drug 248 255 lipitor

@@ -1,0 +1,11 @@
+T1 Symptom 0 6 Severe
+T2 Symptom 7 15 abdominal
+T3 Symptom 16 20 pain
+T4 Symptom 22 29 bloating
+T5 Symptom 31 34 gas
+T6 ADR 36 43 nauseous
+T7 Symptom 45 52 constant
+T8 Symptom 53 58 hunger
+T9 Drug 76 80 drug
+T10 Symptom 102 106 sore
+T11 Drug 118 122 drug

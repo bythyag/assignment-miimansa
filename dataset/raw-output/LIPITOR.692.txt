@@ -1,0 +1,12 @@
+BIO Sequence:
+Slowly O | worsening O | muscle B-Symptom | weakness I-Symptom | and O | fatigue B-Symptom | in O | arms O | ( O | where O | hardest O | daily O | work O | occurs O | ) O | . O | Strained O | or O | pulled B-Symptom | a O | muscle I-Symptom | at O | the O | time O | period O | of O | greatest O | weakness I-Symptom | . O | Stopped O | taking O | Lipitor B-Drug | after O | reading O | about O | possible O | side O | effects B-ADR | ( O | was O | never O | told O | by O | MD O | ) O | in O | newspaper O | . O | Muscle O | strength O | recovered O | after O | 3 O | to O | 4 O | weeks O | . O | Pulled B-Symptom | muscle I-Symptom | still O | will O | not O | heal O | after O | 9 O | months O | . O | Have O | a O | friend O | also O | with O | a O | physically O | demanding O | job O | who O | thought O | he O | was O | just O | getting O | old O | with O | his O | weak B-Symptom | muscles I-Symptom | . O | Guess O | what O | he O | was O | taking O | ? O | . O
+
+Structured Output:
+T1 Symptom 29 35 muscle weakness
+T2 Symptom 41 48 fatigue
+T3 Symptom 75 80 pulled muscle
+T4 Symptom 95 102 greatest weakness
+T5 Drug 112 119 Lipitor
+T6 ADR 136 149 side effects
+T7 Symptom 161 166 Pulled muscle
+T8 Symptom 165 173 weak muscles

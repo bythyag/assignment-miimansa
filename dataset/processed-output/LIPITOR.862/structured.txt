@@ -1,0 +1,4 @@
+T1 ADR 45 58 side effects
+T2 Disease 70 75 older
+T3 Disease 82 86 70's
+T4 Symptom 90 97 sex drive

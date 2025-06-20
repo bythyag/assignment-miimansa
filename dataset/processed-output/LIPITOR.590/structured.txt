@@ -1,0 +1,17 @@
+T1 Drug 23 29 Lipitor
+T2 Symptom 73 77 sore
+T3 Symptom 79 85 tingly
+T4 Symptom 86 91 tongue
+T5 Disease 93 101 Glossitis
+T6 Symptom 114 118 dizzy
+T7 Symptom 127 135 headaches
+T8 Symptom 138 155 trouble sleeping
+T9 Drug 185 191 Lipitor
+T10 ADR 213 221 glossitis
+T11 ADR 235 245 delayed reaction
+T12 Disease 249 257 cholesterol
+T13 ADR 278 286 glossitis
+T14 ADR 288 296 headaches
+T15 ADR 301 308 dizziness
+T16 Disease 337 345 cholesterol
+T17 Drug 352 358 Lipitor

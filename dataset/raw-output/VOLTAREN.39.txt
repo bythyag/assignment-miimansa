@@ -1,0 +1,11 @@
+BIO Sequence:
+Took O | for O | 2 O | weeks O | . O | Towards O | the O | end O | , O | began O | getting O | tightness B-Symptom | in O | my O | throat I-Symptom | , O | tingling B-Symptom | eyes O | and O | lips I-Symptom | . O | These O | symptoms O | worsened O | over O | the O | following O | two O | weeks O | , O | especially O | the O | tightness B-Symptom | in O | my O | throat I-Symptom | until O | a O | severe O | case O | resulted O | in O | me O | colapsing O | from O | a O | heart B-Disease | attack I-Disease | and O | hospitalised O | for O | a O | week O | . O | Would O | never O | use O | it O | again O | or O | reccommend O | it O | . O 
+
+Structured Output:
+T1 Symptom 63 72 tightness
+T2 Symptom 78 83 throat
+T3 Symptom 86 94 tingling
+T4 Symptom 95 100 eyes
+T5 Symptom 103 108 lips
+T6 Symptom 143 152 tightness
+T7 Disease 159 163 heart attack

@@ -1,0 +1,15 @@
+T1 Symptom 8 13 heart beats
+T2 Symptom 15 19 fast
+T3 Symptom 24 29 slow heartbeat
+T4 Symptom 31 38 leg pain
+T5 Symptom 40 49 chest pain
+T6 Symptom 51 66 extreme tiredness
+T7 Symptom 68 77 depression
+T8 ADR 80 91 severe arrythmias
+T9 Disease 103 115 emergency room
+T10 Symptom 130 148 irregular heartbeat
+T11 Disease 151 158 hospital
+T12 Disease 161 172 cardiologist
+T13 Drug 177 184 Lipitor
+T14 ADR 191 204 side effects
+T15 Disease 212 224 heart disease

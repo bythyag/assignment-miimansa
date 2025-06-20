@@ -1,0 +1,18 @@
+BIO Sequence:
+fatigue B-Symptom | , O | depression B-Symptom | , O | hand B-Symptom | and O | feet B-Symptom | joint B-Symptom | pains I-Symptom | so O | very O | severe O | , O | dysfunctional B-Disease | bowel I-Disease | , O | muscle B-Symptom | aches I-Symptom | , O | no O | energy B-Symptom | . O | patients O | need O | to O | realize O | that O | the O | statins B-Drug | block O | the O | mevalonate B-Disease | pathway O | that O | leads O | to O | ubuquinol B-Drug | which O | is O | the O | catalyst O | for O | all O | energy O | formation O | in O | the O | human O | body O | , O | this O | is O | catastrophic O | and O | must O | be O | treated O | by O | cessation O | of O | statin B-Drug | and O | 200mg. O | of O | ubiquinol B-Drug | twice O | a O | day O | , O | takes O | time O | to O | reverse O | side O | effects O | . O
+
+Structured Output:
+T1 Symptom 0 7 fatigue
+T2 Symptom 9 18 depression
+T3 Symptom 20 27 hand
+T4 Symptom 29 34 feet
+T5 Symptom 36 50 joint pains
+T6 Symptom 52 59 so
+T7 Disease 63 80 dysfunctional bowel
+T8 Symptom 82 92 muscle aches
+T9 Symptom 94 96 no energy
+T10 Drug 126 132 statins
+T11 Disease 134 145 mevalonate
+T12 Drug 147 156 ubuquinol
+T13 Drug 164 170 statin
+T14 Drug 175 184 ubiquinol

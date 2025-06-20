@@ -1,0 +1,10 @@
+BIO Sequence:
+Took O | my O | 1st O | pill O | 5 O | hours O | ago O | & O | almost O | immediately O | experienced O | sever B-Symptom | abdominal I-Symptom | cramps I-Symptom | . O | Much O | like O | period B-Symptom | cramps I-Symptom | . O | Just O | took O | 2 O | Advil B-Drug | to O | try O | & O | combat O | the O | cramping B-Symptom | pain I-Symptom | ! O | Also O | ; O | some O | diarrhea B-ADR | . O | Will O | not O | take O | any O | more O | of O | these O | ! O 
+
+Structured Output:
+T1 Symptom 56 61 sever
+T2 Symptom 62 70 abdominal cramps
+T3 Symptom 87 101 period cramps
+T4 Drug 41 47 Advil
+T5 Symptom 113 122 cramping pain
+T6 ADR 130 138 diarrhea

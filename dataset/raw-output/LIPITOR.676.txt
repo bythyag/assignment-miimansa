@@ -1,0 +1,8 @@
+BIO Sequence:
+Possible O | body B-Symptom | stiffness I-Symptom | and O | joint B-Symptom | pain I-Symptom
+
+Structured Output:
+T1 Symptom 8 13 body
+T2 Symptom 14 21 stiffness
+T3 Symptom 25 30 joint
+T4 Symptom 31 35 pain

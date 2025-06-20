@@ -1,0 +1,6 @@
+T1 Symptom 0 6 Muscule
+T2 Symptom 7 11 pain
+T3 Symptom 14 18 numb
+T4 Symptom 19 22 leg
+T5 Symptom 23 28 chest
+T6 Symptom 29 33 pain

@@ -1,0 +1,14 @@
+BIO Sequence:
+Severe O | gut-renching O | abdominal B-Symptom | pain I-Symptom | , O | jaundins B-ADR | , O | diahrea B-ADR | , O | sweats B-ADR | & O | hot B-ADR | flashes I-ADR | , O | vaginal B-Symptom | bleeding I-Symptom | , O | and O | now O | constipation B-Symptom | . O | I O | had O | to O | go O | to O | the O | emergency B-Disease | room I-Disease | of O | local O | hospital O | and O | that’s O | where O | I O | learned O | of O | the O | side B-ADR | effects I-ADR | . O | From O | the O | info O | on O | the O | web O | about O | this O | medication B-Drug | , O | it O | should O | not O | be O | given O | to O | anyone O | . O | I O | can’t O | believe O | it O | was O | approved O | at O | all O | . O
+
+Structured Output:
+T1 Symptom 32 41 abdominal pain
+T2 ADR 43 51 jaundins
+T3 ADR 53 60 diahrea
+T4 ADR 62 67 sweats
+T5 ADR 69 78 hot flashes
+T6 Symptom 80 94 vaginal bleeding
+T7 Symptom 96 106 constipation
+T8 Disease 137 145 emergency room
+T9 ADR 150 162 side effects
+T10 Drug 164 174 medication

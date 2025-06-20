@@ -1,0 +1,10 @@
+BIO Sequence:
+Loss O | of O | Vison B-Symptom | . O | Was O | off O | for O | four O | days O | then O | My O | vision B-Symptom | cleared O | up O | , O | but O | has O | been O | damaged O | . O | Others O | that O | I O | have O | talked O | to O | have O | leg B-Symptom | muscle I-Symptom | and O | thigh B-Symptom | problems O | that O | go O | up O | to O | their O | waist B-Symptom | . O 
+
+Structured Output:
+T1 Symptom 21 27 Vison
+T2 Symptom 76 81 vision
+T3 Symptom 113 117 leg
+T4 Symptom 118 124 muscle
+T5 Symptom 127 132 thigh
+T6 Symptom 140 145 waist

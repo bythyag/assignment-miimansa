@@ -1,0 +1,9 @@
+T1 Symptom 8 15 muscles
+T2 Symptom 17 25 fatigued
+T3 Symptom 28 30 pck
+T4 Symptom 32 43 level
+T5 Symptom 46 60 liver enzyme
+T6 Symptom 62 71 leg cramps
+T7 Symptom 73 92 flared up tendenitis
+T8 Drug 94 100 lipitor
+T9 ADR 118 123 poison

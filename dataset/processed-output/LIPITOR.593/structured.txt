@@ -1,0 +1,13 @@
+T1 Drug 8 15 Lipitor
+T2 Symptom 63 66 hip
+T3 Symptom 68 71 leg
+T4 Symptom 73 77 foot
+T5 Symptom 78 82 pain
+T6 Symptom 84 91 numbness
+T7 Symptom 135 142 bouts
+T8 Symptom 146 152 nausia
+T9 Drug 136 143 lipitor
+T10 Symptom 170 175 pains
+T11 ADR 213 224 side effects
+T12 Disease 249 255 muscle
+T13 Drug 339 346 Crestor

@@ -1,0 +1,4 @@
+T1 Symptom 1 7 severe
+T2 Disease 8 13 acid
+T3 Disease 14 20 reflux
+T4 Symptom 91 99 headache

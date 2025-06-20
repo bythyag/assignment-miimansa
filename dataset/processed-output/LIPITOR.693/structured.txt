@@ -1,0 +1,11 @@
+T1 Symptom 0 27 lower back pain
+T2 Symptom 29 52 pain in neck and shoulders
+T3 Symptom 54 70 calf cramping
+T4 Symptom 72 86 red bumps
+T5 Symptom 88 102 skin
+T6 Symptom 104 118 Muscle fatigue
+T7 Drug 126 130 drug
+T8 Disease 141 155 high cholesterol
+T9 Drug 163 172 medication
+T10 Symptom 174 222 economic and physical damage
+T11 Symptom 224 242 process of recovering

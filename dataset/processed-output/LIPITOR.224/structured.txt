@@ -1,0 +1,15 @@
+T1 Symptom 0 7 Bloating
+T2 Disease 8 10 GI
+T3 Symptom 38 43 weight
+T4 Symptom 71 78 muscle
+T5 Symptom 90 95 arms
+T6 Drug 19 25 Lipitor
+T7 Disease 43 52 cholesterol
+T8 Disease 56 61 liver
+T9 Disease 89 95 doctor
+T10 Drug 80 86 herbal
+T11 Drug 92 98 vitamin
+T12 ADR 107 119 side effects
+T13 ADR 121 126 memory
+T14 ADR 128 137 difficulties
+T15 ADR 140 155 muscle-joint degeneration

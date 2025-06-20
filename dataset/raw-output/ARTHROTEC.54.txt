@@ -1,0 +1,6 @@
+BIO Sequence:
+I O | have O | not O | experienced O | any O | of O | the O | side B-ADR | effects I-ADR | . O | Arthrotec B-Drug | helps O | me O | get O | through O | the O | day O | . O 
+
+Structured Output:
+T1 ADR 36 44 side effects
+T2 Drug 49 56 Arthrotec

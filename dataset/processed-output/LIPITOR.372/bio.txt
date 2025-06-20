@@ -1,0 +1,1 @@
+no O | side B-ADR | effects I-ADR | . O | feel O | fine O | and O | know O | that O | my O | risk O | of O | having O | heart B-Disease | attack I-Disease | and O | stroke B-Disease | are O | drastically O | reduced O | ! O | ldl B-Symptom | went O | from O | 172 O | to O | 80 O | and O | hdl B-Symptom | went O | from O | 65 O | to O | 98 O | ! O

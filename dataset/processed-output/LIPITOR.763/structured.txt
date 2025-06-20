@@ -1,0 +1,8 @@
+T1 Symptom 49 52 hip
+T2 Symptom 55 59 knee
+T3 Symptom 62 67 ankle
+T4 Symptom 68 72 pain
+T5 Symptom 78 82 back
+T6 Symptom 87 91 pain
+T7 Drug 42 48 Lipitor
+T8 Drug 155 161 Lipitor

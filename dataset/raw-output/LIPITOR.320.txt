@@ -1,0 +1,9 @@
+BIO Sequence:
+cognitive O | ability O | deminished B-Symptom | . O | My O | recall B-Symptom | was O | slower O | and O | not O | uncommon O | to O | not O | be O | able O | to O | process O | thoughts B-Symptom | . O | The O | best O | way O | to O | describe O | it O | would O | be O | to O | say O | that O | I O | notice O | that O | I O | am O | not O | as O | smart B-Symptom | as O | I O | use O | to O | be O | . O | I O | no O | longer O | take O | it O | and O | I O | am O | smarter O | . O | I O | was O | only O | taking O | 20 B-Drug | mg I-Drug | a O | day O | . O 
+
+Structured Output:
+T1 Symptom 28 37 deminished
+T2 Symptom 45 51 recall
+T3 Symptom 83 90 thoughts
+T4 Symptom 100 105 smart
+T5 Drug 128 131 20 mg

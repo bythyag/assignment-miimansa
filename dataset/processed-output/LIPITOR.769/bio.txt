@@ -1,0 +1,1 @@
+aching O | joints B-Symptom | . O | knees B-Symptom | , O | shoulders B-Symptom | , O | lower B-Symptom | back I-Symptom | , O | etc O | My O | doc O | took O | me O | off O | the O | Lipitor B-Drug | for O | two O | months O | . O | My O | joints B-Symptom | quit O | aching I-Symptom | and O | my O | cholestral B-Disease | went O | back O | up O | to O | 222 O | . O

@@ -1,0 +1,8 @@
+BIO Sequence:
+stiff O | upper O | leg B-Symptom | , O | quad O | area O | . O | some O | chest B-Symptom | pain I-Symptom | left B-Symptom | side I-Symptom | . O | not O | for O | me O | . O | called O | my O | pharma O | said O | usualy O | these O | side B-ADR | effects I-ADR | in O | 1-2 O | weeks O | . O
+
+Structured Output:
+T1 Symptom 18 21 leg
+T2 Symptom 28 32 chest pain
+T3 Symptom 37 41 left side
+T4 ADR 61 68 side effects

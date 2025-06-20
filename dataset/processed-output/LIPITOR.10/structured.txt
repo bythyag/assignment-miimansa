@@ -1,0 +1,14 @@
+T1 Symptom 38 43 calf
+T2 Symptom 50 54 burn
+T3 Symptom 66 73 severe cramping
+T4 Symptom 80 86 tinnitis
+T5 Symptom 88 97 headaches
+T6 Symptom 104 109 sleep
+T7 Disease 136 144 torn maniscus
+T8 Disease 147 155 arthritis
+T9 Drug 172 179 LIPITOR
+T10 Drug 185 188 med
+T11 Disease 202 211 Myocardial Infarction
+T12 Disease 224 230 stents
+T13 Drug 237 240 med
+T14 Symptom 244 248 chol

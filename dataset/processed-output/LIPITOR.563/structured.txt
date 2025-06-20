@@ -1,0 +1,23 @@
+T1 Drug 21 27 lipitor  
+T2 ADR 72 84 side effects  
+T3 ADR 114 129 side effects  
+T4 Symptom 146 156 Memory loss  
+T5 Symptom 160 169 joint pain  
+T6 Symptom 175 185 swollen feet  
+T7 Symptom 191 197 hands  
+T8 Symptom 203 211 sore ribs  
+T9 Symptom 218 236 inability to sleep well  
+T10 Symptom 244 256 no sex drive  
+T11 Symptom 263 272 moodiness  
+T12 Symptom 283 288 always tired  
+T13 Symptom 298 309 lack of energy  
+T14 Symptom 319 332 increased heart rate  
+T15 Symptom 338 345 headaches  
+T16 Symptom 352 363 dry joints  
+T17 Drug 434 439 40mg  
+T18 Drug 443 447 80  
+T19 Disease 463 474 cholesterol  
+T20 Drug 494 503 lecithin  
+T21 Drug 511 517 Omega 3  
+T22 Drug 520 526 Vit C  
+T23 Symptom 626 637 walk

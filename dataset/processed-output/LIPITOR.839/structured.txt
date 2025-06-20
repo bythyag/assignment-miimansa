@@ -1,0 +1,8 @@
+T1 Symptom 0 8 blinding
+T2 Symptom 9 17 headaches
+T3 Symptom 19 23 neck
+T4 Symptom 24 32 shoulder
+T5 Symptom 33 37 pain
+T6 Symptom 41 56 Memory loss
+T7 Symptom 68 111 severe fatigue with aches and pains
+T8 Drug 122 128 lipitor

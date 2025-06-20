@@ -1,0 +1,18 @@
+T1 Symptom 11 19 eyesight  
+T2 Symptom 21 30 hair loss  
+T3 Symptom 32 47 painful leg cramps  
+T4 Symptom 50 67 muscle weakness  
+T5 Symptom 73 84 hard  
+T6 Symptom 94 107 legs and ankles ache  
+T7 Symptom 165 178 tired  
+T8 Symptom 181 185 pain  
+T9 Symptom 199 205 muscle  
+T10 Symptom 218 236 digestive changes  
+T11 Symptom 238 245 bloating  
+T12 Symptom 247 250 gas  
+T13 Symptom 252 258 diarhea  
+T14 Drug 97 102 Lopid  
+T15 Drug 108 114 Lipitor  
+T16 Symptom 121 129 eyesight problems  
+T17 Symptom 132 139 fatigue  
+T18 Symptom 142 157 muscle weakness

@@ -1,0 +1,15 @@
+BIO Sequence:
+slightly O | heavier O | menstrual B-Symptom | cycle I-Symptom | . O | An O | absolute O | miracle O | drug B-Drug | for O | me O | . O | None O | of O | the O | stomach O | issues O | others O | seem O | to O | have O | . O | I O | was O | at O | the O | point O | where O | I O | was O | becoming O | highly O | immobile B-Symptom | and O | in O | constant O | pain B-Symptom | . O | Started O | taking O | arthrotec B-Drug | and O | had O | IMMEDIATE O | relief O | . O | honestly O | never O | thought O | I O | would O | feel O | that O | way O | again O | . O | recently O | pain B-Symptom | has O | started O | to O | increase O | though O | , O | and O | not O | sure O | if O | I O | ' O | ve O | overworked O | my O | back B-Symptom | . O | or O | if O | I O | ' O | m O | becoming O | intolerant B-ADR | . O | Have O | recommended O | to O | two O | others O | who O | have O | had O | similar O | exceptional O | results O | for O | chronic B-Disease | arthritic I-Disease | type O | issues O | . O 
+
+Structured Output:
+T1 Symptom 28 35 menstrual cycle
+T2 Drug 89 93 drug
+T3 Symptom 56 58 immobile
+T4 Symptom 67 71 pain
+T5 Drug 103 111 arthrotec
+T6 Symptom 117 121 relief
+T7 Symptom 144 148 pain
+T8 Symptom 165 169 back
+T9 ADR 171 181 intolerant
+T10 Disease 198 205 chronic
+T11 Disease 206 214 arthritic

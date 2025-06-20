@@ -1,0 +1,4 @@
+T1 Symptom 8 14 nausea
+T2 Symptom 16 23 dizziness
+T3 Symptom 32 37 stomach
+T4 Symptom 38 42 pain

@@ -1,0 +1,16 @@
+T1 Disease 59 69 cholesterol
+T2 Symptom 79 96 general weakness
+T3 Symptom 98 107 constant leg pain
+T4 Symptom 112 125 terrible pain
+T5 Symptom 130 138 feet
+T6 Symptom 144 149 ankles
+T7 Symptom 177 181 loss of balance
+T8 Symptom 207 226 feel like 75 instead of 50
+T9 Symptom 304 313 symptoms
+T10 Disease 339 351 circulation
+T11 Symptom 354 366 Tingling toes
+T12 Symptom 368 382 numb toes
+T13 Symptom 387 392 sore ankles
+T14 Symptom 394 399 legs
+T15 Drug 511 518 Mevacore
+T16 Symptom 569 580 withdrawals

@@ -1,0 +1,12 @@
+BIO Sequence:
+This O | drug O | is O | NOT O | fit O | for O | human O | consumption O | in O | my O | opinion O | ! O | I O | was O | taking O | it O | about O | 4 O | months O | ago O | and O | let O | me O | tell O | you O | , O | I O | suffered O | the O | worst O | side O | effects B-ADR | of O | the O | drug O | . O | I O | had O | severe B-ADR | muscle I-ADR | spasms I-ADR | and O | pain B-ADR | all O | over O | my O | body O | . O | My O | doctor O | sent O | me O | to O | the O | e.r. O | from O | his O | office O | and O | I O | got O | there O | I O | was O | in O | such O | excruciating B-ADR | pain I-ADR | they O | e.r. O | doc O | had O | me O | on O | morphine B-Drug | ! O | I O | am O | still O | suffering O | from O | the O | use O | of O | the O | Lipitor B-Drug | . O | There O | is O | not O | a O | day O | that O | goes O | by O | where O | I O | am O | not O | in O | pain O | . O | My O | muscles O | in O | my O | arms O | and O | legs O | are O | very O | weak O | . O | I O | am O | 31 O | years O | old O | with O | 3 O | kids O | ages O | 5 O | , O | 8 O | and O | 11 O | . O | I O | will O | be O | disabled O | for O | the O | rest O | of O | my O | life O | . O | I O | will O | be O | taking O | pain O | meds B-Drug | the O | rest O | of O | my O | life O | . O | Please O | please O | think O | twice O | about O | using O | this O | and O | other O | statin B-Drug | drugs O | . O
+
+Structured Output:
+T1 ADR 66 81 side effects
+T2 ADR 94 103 severe muscle spasms
+T3 ADR 110 114 pain
+T4 ADR 136 153 excruciating pain
+T5 Drug 197 204 morphine
+T6 Drug 246 252 Lipitor
+T7 Drug 277 285 pain meds
+T8 Drug 283 288 statin drugs

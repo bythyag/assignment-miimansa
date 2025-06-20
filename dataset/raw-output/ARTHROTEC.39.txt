@@ -1,0 +1,14 @@
+BIO Sequence:
+none O | but O | it O | wears O | off O | after O | 15 O | days O | . O | Natural O | cures O | are O | better O | ; O | apple B-Drug | cidar I-Drug | vinegar I-Drug | can O | effectively O | cure O | arthritis B-Disease | and O | headaches B-Symptom | ; O | vitamin B-Drug | C I-Drug | crystals I-Drug | can O | help O | pain B-Symptom | at O | high O | doses O | ; O | the O | Gerson B-Drug | diet I-Drug | with O | no O | salt O | can O | cure O | migrains B-Disease | , O | Fibro B-Disease | etc O | see O | doctoryourself.com O | and O | 'just O | say O | no O | to O | drugs B-Drug | ( O | Nancy B-Drug | Reagan I-Drug | ) O | . O
+
+Structured Output:
+T1 Drug 37 53 apple cidar vinegar
+T2 Disease 85 93 arthritis
+T3 Symptom 97 105 headaches
+T4 Drug 107 113 vitamin C
+T5 Symptom 122 126 pain
+T6 Drug 128 133 Gerson diet
+T7 Disease 142 150 migrains
+T8 Disease 152 158 Fibro
+T9 Drug 164 169 drugs
+T10 Drug 171 178 Nancy Reagan

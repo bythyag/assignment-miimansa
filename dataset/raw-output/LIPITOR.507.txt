@@ -1,0 +1,28 @@
+BIO Sequence:
+DEPRESSION O | !! O | muscle B-Symptom | twitching I-Symptom | and O | pain B-Symptom | , O | tired B-Symptom | , O | loss B-Symptom | of O | drive B-Symptom | , O | irritable B-Symptom | with O | my O | loved O | ones O | , O | insomnia B-Symptom | , O | anxiety B-Symptom | , O | loss B-Symptom | of O | desire B-Symptom | to O | do O | or O | accomplish O | anything O | which O | is O | the O | total O | opposite O | of O | my O | character O | and O | personality O | , O | huge O | drawback O | in O | quality B-Disease | of O | life O | . O | READ O | -----> O | . O | Be O | careful O | with O | this O | stuff O | . O | Had O | a O | total O | cholesterol B-Disease | of O | about O | 230 O | . O | saw O | results O | after O | first O | 3 O | months O | . O | Had O | no O | other O | health O | concerns O | . O | Exercised O | on O | a O | regular O | basis O | and O | am O | in O | very O | good O | shape O | . O | This O | stuff O | grabbed O | me O | and O | ruined O | the O | this O | last O | year O | of O | my O | life O | . O | I O | have O | no O | other O | risk O | factors O | for O | heart B-Disease | desease I-Disease | except O | a O | moderatly O | elevated O | cholesterol B-Disease | level O | , O | no O | family O | history O | or O | anything O | . O | Thought O | I O | would O | take O | lipitor B-Drug | just O | to O | be O | safe O | . O | Big O | mistake O | . O | Went O | to O | my O | doctor O | and O | told O | him O | I O | wasn't O | going O | to O | take O | the O | lipitor I-Drug | any O | more O | . O | Told O | him O | I O | was O | presenting O | with O | some O | very O | adverse B-ADR | signs O | and O | symptoms O | and O | the O | only O | thing O | that O | had O | ever O | changed O | was O | the O | fact O | i O | was O | on O | Lipitor I-Drug | . O | He O | was O | not O | happy O | with O | my O | decision O | and O | offered O | a O | switch O | to O | a O | different O | statin B-Drug | , O | I O | declined O | . O | He O | got O | aggitated O | and O | asked O | what O | articles O | I O | had O | been O | reading O | and O | where O | I O | got O | my O | information O | . O | I O | told O | him O | I O | didn't O | need O | a O | medical O | journal O | to O | convince O | me O | this O | stuff O | was O | messing O | me O | up O | , O | I O | was O | living O | proof O | . O | 4-5 O | days O | after O | stopping O | the O | Lipitor I-Drug | it O | was O | like O | someonebrought O | the O | sun O | out O | . O | Depression B-Symptom | faded O | along O | with O | all O | the O | other O | psychological O | enigmas O | I O | was O | dealing O | with O | . O | The O | only O | residuals O | I O | am O | now O | dealing O | with O | are O | some O | minor O | muscle B-Symptom | aches I-Symptom | and O | twitching I-Symptom | , O | which O | are O | slowly O | getting O | better O | . O | Folks O | , O | drugs O | can O | be O | a O | wonderful O | thing O | but O | that O | doesn't O | mean O | all O | drugs O | are O | wonderful O | . O | Please O | , O | be O | carefull O | . O 
+
+Structured Output:
+T1 Symptom 0 9 DEPRESSION
+T2 Symptom 24 32 muscle twitching
+T3 Symptom 37 41 pain
+T4 Symptom 43 48 tired
+T5 Symptom 50 54 loss
+T6 Symptom 56 60 drive
+T7 Symptom 62 71 irritable
+T8 Symptom 73 81 insomnia
+T9 Symptom 83 89 anxiety
+T10 Symptom 91 95 loss
+T11 Symptom 97 103 desire
+T12 Symptom 108 118 accomplish anything
+T13 Disease 167 173 quality
+T14 Disease 175 179 of life
+T15 Disease 188 199 cholesterol
+T16 Disease 207 212 heart desease
+T17 Disease 228 238 cholesterol
+T18 Drug 252 258 lipitor
+T19 Drug 272 278 lipitor
+T20 ADR 293 298 adverse
+T21 Disease 317 325 Lipitor
+T22 Symptom 392 400 Depression
+T23 Symptom 457 463 muscle aches
+T24 Symptom 465 473 twitching

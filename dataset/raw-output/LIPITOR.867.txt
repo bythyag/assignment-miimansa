@@ -1,0 +1,17 @@
+BIO Sequence:
+Took O | 10 O | mg O | for O | two O | years O | with O | no O | problems O | , O | then O | started O | to O | have O | burning B-Symptom | , O | numb B-Symptom | feet B-Symptom | in O | toe O | area O | - O | both O | feet O | . O | Also O | , O | had O | discomfort B-Symptom | in O | right B-Disease | side I-Disease | upper I-Disease | and O | lower I-Disease | of O | stomach B-Disease | area O | . O | After O | assorted O | blood O | tests O | which O | were O | all O | normal O | , O | read O | an O | article O | regarding O | neurophathy B-Disease | and O | statins B-Drug | drugs I-Drug | . O | Stopped O | the O | Lipitor B-Drug | and O | slowly O | the O | stomach O | discomfort I-Symptom | went O | away O | , O | but O | two O | years O | later O | my O | feet O | are O | still O | a O | mess O | . O | Would O | not O | take O | this O | or O | any O | other O | statin B-Drug | drug O | .
+
+Structured Output:
+T1 Symptom 50 56 burning
+T2 Symptom 58 62 numb
+T3 Symptom 64 68 feet
+T4 Symptom 104 113 discomfort
+T5 Disease 118 123 right
+T6 Disease 125 129 side
+T7 Disease 130 135 upper
+T8 Disease 141 146 lower
+T9 Disease 150 157 stomach
+T10 Disease 169 178 neurophathy
+T11 Drug 184 191 statins
+T12 Drug 196 202 Lipitor
+T13 Drug 216 221 statin

@@ -1,0 +1,10 @@
+T1 Symptom 22 26 pain
+T2 Symptom 36 43 shoulder
+T3 Disease 59 65 injury
+T4 Drug 80 86 lipitor
+T5 Symptom 101 105 pain
+T6 Symptom 117 124 tingling
+T7 Symptom 129 136 numbness
+T8 Drug 146 152 vitamins
+T9 Drug 154 155 C
+T10 Drug 164 170 niacin

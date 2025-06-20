@@ -1,0 +1,6 @@
+T1 Symptom 0 6 severe
+T2 Symptom 7 16 abdominal cramps
+T3 Symptom 18 28 leg cramps
+T4 Symptom 30 39 diahhrea
+T5 Drug 41 45 10mg
+T6 Symptom 49 56 Symptoms

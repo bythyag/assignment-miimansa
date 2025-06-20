@@ -1,0 +1,17 @@
+BIO Sequence:
+Side B-ADR | effects I-ADR | are O | some O | drowsiness B-ADR | and O | some O | dry B-ADR | mouth I-ADR | . O | Can O | take O | it O | on O | an O | empty O | stomach O | with O | no O | problem O | . O | The O | drowsiness B-ADR | is O | nice O | and O | helps O | me O | sleep O | , O | as O | well O | . O | Overall O | an O | excellent O | drug B-Drug | that O | works O | better O | than O | any O | other O | NSAID B-Drug | I've O | tried O | ! O | . O | I O | was O | surprised O | to O | find O | that O | this O | drug B-Drug | noticeably O | lowers O | my O | pain B-Symptom | level O | after O | about O | 45 O | minutes O | . O | I O | still O | have O | to O | take O | it O | in O | combo O | with O | a O | stronger O | pain B-Symptom | reliever O | , O | but O | it's O | just O | a O | good O | drug B-Drug | for O | aches B-Symptom | and O | pains I-Symptom | . O | Better O | than O | things O | like O | Vioxx B-Drug | and O | OTC B-Drug | stuff O | , O | for O | sure O | . O
+
+Structured Output:
+T1 ADR 0 15 Side effects  
+T2 ADR 25 34 drowsiness  
+T3 ADR 39 48 dry mouth  
+T4 ADR 84 93 drowsiness  
+T5 Drug 108 112 drug  
+T6 Drug 139 144 NSAID  
+T7 Drug 176 180 drug  
+T8 Symptom 191 195 pain  
+T9 Symptom 219 223 pain  
+T10 Symptom 227 232 aches  
+T11 Symptom 236 241 pains  
+T12 Drug 262 266 Vioxx  
+T13 Drug 271 274 OTC  

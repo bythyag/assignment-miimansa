@@ -1,0 +1,5 @@
+T1 Symptom 0 6 severe
+T2 Symptom 7 11 pain
+T3 Symptom 14 19 limbs
+T4 Symptom 21 26 muscle
+T5 Symptom 27 33 fatigue

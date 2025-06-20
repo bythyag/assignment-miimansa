@@ -1,0 +1,5 @@
+T1 Symptom 3 12 muscle cramps
+T2 Symptom 14 23 muscle pain
+T3 Symptom 35 40 muscle pain
+T4 Symptom 44 49 chest
+T5 Drug 20 26 Lipitor

@@ -1,0 +1,11 @@
+T1 Disease 0 8 depression
+T2 Symptom 10 23 sleeplessness
+T3 Symptom 25 39 muscle weakness
+T4 ADR 81 87 adverse
+T5 ADR 96 104 reactions
+T6 Drug 112 117 drugs
+T7 ADR 134 140 adverse
+T8 ADR 142 150 reactions
+T9 Drug 169 173 Food
+T10 Drug 175 179 Drug
+T11 Drug 181 198 Administration

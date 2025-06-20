@@ -1,0 +1,1 @@
+W/ O | prescribed O | dosage O | ( O | 75 B-Drug | mg O | BID O | ) O | crankiness B-ADR | and O | irritability B-ADR | . O | Increased O | BP B-Symptom | . O | Possible O | visual B-Symptom | disturbances I-Symptom | . O | Relieved O | pain B-Symptom | very O | well O | . O | However O | , O | the O | side B-ADR | effects I-ADR | are O | a O | great O | concern O | . O

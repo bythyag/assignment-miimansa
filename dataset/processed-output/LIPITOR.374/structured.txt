@@ -1,0 +1,10 @@
+T1 Disease 29 38 Bell's palsy
+T2 Drug 57 64 lipitor
+T3 Disease 80 89 Bell's
+T4 Disease 90 95 palsy
+T5 Drug 111 118 lipitor
+T6 Disease 137 146 liver
+T7 Symptom 157 167 muscle pain
+T8 Symptom 186 191 muscle cramps
+T9 Symptom 222 232 muscle cramps
+T10 ADR 279 293 side effects

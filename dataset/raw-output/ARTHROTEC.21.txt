@@ -1,0 +1,9 @@
+BIO Sequence:
+Didn't O | have O | much O | pain B-Symptom | relief I-Symptom | , O | and O | within O | a O | few O | days O | of O | starting O | the O | meds O | I O | began O | having O | cramps B-Symptom | and O | heavy B-Symptom | vaginal I-Symptom | bleeding I-Symptom | . O | My O | period B-Disease | ended O | last O | week O | and O | this O | med B-Drug | made O | me O | have O | another O | one O | ! O
+
+Structured Output:
+T1 Symptom 32 44 pain relief
+T2 Symptom 72 78 cramps
+T3 Symptom 83 108 heavy vaginal bleeding
+T4 Disease 118 124 period
+T5 Drug 126 130 med

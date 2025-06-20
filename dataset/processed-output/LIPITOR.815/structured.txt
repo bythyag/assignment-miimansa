@@ -1,0 +1,17 @@
+T1 Symptom 0 9 Weight gain
+T2 Symptom 10 27 extreme muscle aches
+T3 Symptom 29 36 fatigue
+T4 Symptom 38 59 alternating constipation
+T5 Symptom 61 68 diarrhea
+T6 Disease 77 82 asthma
+T7 Symptom 84 92 flare-ups
+T8 Symptom 94 102 insomnia
+T9 ADR 104 114 weird dreams
+T10 Symptom 132 136 weak
+T11 Symptom 146 150 ached
+T12 Symptom 167 171 legs
+T13 Drug 182 188 Lipitor
+T14 Symptom 190 195 sleep
+T15 Drug 217 223 Lipitor
+T16 Drug 225 232 garlique
+T17 Drug 234 241 Lipitor

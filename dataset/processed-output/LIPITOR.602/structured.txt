@@ -1,0 +1,9 @@
+T1 Disease 37 48 high cholesterol
+T2 Drug 74 81 Lipitor
+T3 Drug 101 108 Lipitor
+T4 Disease 160 171 high cholesterol
+T5 Symptom 178 186 migranes
+T6 Symptom 188 197 back aches
+T7 Symptom 198 202 sore neck
+T8 Symptom 215 220 pains
+T9 Symptom 232 237 tired

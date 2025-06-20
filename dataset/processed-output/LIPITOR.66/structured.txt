@@ -1,0 +1,11 @@
+T1 Symptom 0 13 muscle spasms  
+T2 Symptom 18 22 pain  
+T3 Symptom 24 29 joint pain  
+T4 Symptom 31 39 headaches  
+T5 Symptom 41 53 memory loss  
+T6 Symptom 55 63 skin rash  
+T7 Symptom 65 74 depression  
+T8 Symptom 76 83 insomnia  
+T9 Symptom 102 106 muscle pain  
+T10 Organ 115 120 liver  
+T11 Organ 126 131 liver enzymes

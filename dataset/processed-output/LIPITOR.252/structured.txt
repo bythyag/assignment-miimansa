@@ -1,0 +1,6 @@
+T1 ADR 20 33 side effects
+T2 Drug 63 66 10 mg
+T3 Disease 76 86 cholesterol
+T4 Drug 116 120 5mg
+T5 Drug 124 131 niaspan
+T6 Disease 136 140 HDL

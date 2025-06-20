@@ -1,0 +1,14 @@
+T1 Symptom 0 5 rapid
+T2 Symptom 6 12 shallow breathing
+T3 Symptom 14 21 fatigue
+T4 Symptom 23 35 disorientation
+T5 Symptom 37 56 slightly blurred vision
+T6 Symptom 58 77 erectile disfunction
+T7 Symptom 79 91 muscle pain
+T8 Disease 99 120 respiratory specialist
+T9 Disease 132 140 allergy
+T10 Disease 142 148 asthma
+T11 Drug 150 156 Lipitor
+T12 Drug 172 178 Lipitor
+T13 Drug 192 198 Lipitor
+T14 Drug 206 212 Lipitor

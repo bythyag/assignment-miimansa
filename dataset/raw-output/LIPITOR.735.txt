@@ -1,0 +1,10 @@
+BIO Sequence:
+very O | very O | blurry B-Symptom | vision I-Symptom | , O | at O | times O | felt O | that O | I O | 'm O | going O | blind B-Symptom | , O | severe B-Symptom | muscle I-Symptom | pain I-Symptom | , O | dizziness B-Symptom | , O | and O | migrane B-Symptom | headaches I-Symptom | . O | please O | call O | your O | physician O | if O | you O | feel O | like O | me O | as O | this O | is O | what O | I O | did O | . O | had O | to O | make O | another O | entry O | as O | I O | wanted O | to O | change O | the O | length O | of O | medicine B-Drug | taken O | from O | 1 O | day O | to O | 1 O | month O | as O | this O | was O | a O | typo O | on O | my O | part O | . O 
+
+Structured Output:
+T1 Symptom 20 26 blurry vision
+T2 Symptom 45 49 going blind
+T3 Symptom 60 76 severe muscle pain
+T4 Symptom 78 85 dizziness
+T5 Symptom 88 103 migrane headaches
+T6 Drug 153 161 medicine

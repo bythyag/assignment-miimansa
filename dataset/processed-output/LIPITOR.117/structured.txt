@@ -1,0 +1,18 @@
+T1 Symptom 20 24 pain
+T2 Symptom 29 33 feet
+T3 Symptom 38 42 legs
+T4 Drug 77 83 Lipitor
+T5 ADR 139 157 agonizing pain
+T6 Symptom 178 182 Feet
+T7 Drug 217 223 Simcor
+T8 Drug 244 249 Statin
+T9 Drug 253 258 Simcor
+T10 Symptom 263 270 Foot/ankle pain
+T11 Drug 283 288 Statin
+T12 Symptom 306 318 Cholesterol
+T13 Drug 326 331 Statin
+T14 Drug 335 339 Statin
+T15 Symptom 346 358 Cholesterol
+T16 Disease 411 416 Heart attacks
+T17 Drug 446 451 Statin
+T18 Drug 456 461 Statin

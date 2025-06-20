@@ -1,0 +1,1 @@
+pain B-Symptom | in O | knee B-Symptom | and O | foot B-Symptom

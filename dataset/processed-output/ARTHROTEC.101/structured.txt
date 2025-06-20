@@ -1,0 +1,7 @@
+T1 Symptom 76 91 shortness of breath
+T2 Symptom 96 104 sense of depression
+T3 ADR 113 121 cramping
+T4 ADR 123 136 upset stomache
+T5 Drug 144 148 drug
+T6 ADR 153 165 side effects
+T7 Drug 167 172 75mg

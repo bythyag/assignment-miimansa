@@ -1,0 +1,9 @@
+T1 Symptom 1 14 sleeplessness
+T2 Disease 16 29 peripheral neuropathy
+T3 Symptom 31 38 tingling
+T4 Symptom 40 47 numbness
+T5 Symptom 49 55 bizarre muscular sensations
+T6 ADR 57 61 rash
+T7 ADR 63 67 itch
+T8 Disease 80 88 cholesterol
+T9 ADR 94 100 side effects

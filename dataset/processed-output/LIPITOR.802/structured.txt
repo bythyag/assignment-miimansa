@@ -1,0 +1,4 @@
+T1 Disease 39 49 Cholesterol
+T2 Disease 64 69 January 2005
+T3 Disease 74 79 April 2005
+T4 Disease 83 86 LDL

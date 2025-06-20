@@ -1,0 +1,9 @@
+BIO Sequence:
+was O | given O | this O | to O | replace O | ibuprofen B-Drug | ( O | possible O | sun B-ADR | sensitivity I-ADR | developed O | with O | ibu B-Drug | ) O | but O | it O | doesn't O | relieve O | any O | pain B-Symptom | for O | me O | or O | reduce O | inflammation B-Symptom | . O
+
+Structured Output:
+T1 Drug 27 36 ibuprofen
+T2 ADR 43 56 sun sensitivity
+T3 Drug 64 67 ibu
+T4 Symptom 83 87 pain
+T5 Symptom 97 108 inflammation

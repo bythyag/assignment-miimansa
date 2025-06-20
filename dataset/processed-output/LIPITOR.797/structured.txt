@@ -1,0 +1,2 @@
+T1 Symptom 12 16 pain
+T2 Symptom 20 27 muscles

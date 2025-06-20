@@ -1,0 +1,40 @@
+BIO Sequence:
+insommnia B-Symptom | , O | loss B-Symptom | of O | dreaming B-Symptom | , O | inability B-Symptom | to O | visualize B-Symptom | ; O | muscle B-Symptom | pain B-Symptom | , O | weakness B-Symptom | , O | atrophy B-Symptom | ; O | tendinitis B-Disease | , O | tendinopathy B-Disease | , O | tendon B-Disease | contracture I-Disease | ; O | miniscus B-Disease | damage I-Disease | ; O | working B-Symptom | memory B-Symptom | and O | short-term B-Symptom | memory B-Symptom | loss B-Symptom | , O | language B-Symptom | and O | learning B-Symptom | ability B-Symptom | loss B-Symptom | including O | spoken B-Symptom | and O | written B-Symptom | aphasia B-Symptom | and O | inability B-Symptom | to O | read B-Symptom | ; O | gall B-Disease | bladder I-Disease | disease I-Disease | , O | pancreatitis B-Disease | , O | acid B-Disease | reflux I-Disease | ; O | inability B-Symptom | to O | walk B-Symptom | . O | I O | kept O | taking O | myself O | off O | this O | drug B-Drug | , O | was O | told O | it O | COULD O | NOT O | BE O | TH O | E O | DRUG B-Drug | , O | urged O | to O | go O | back O | on O | , O | recovering O | somewhat O | each O | time O | , O | but O | finally O | the O | damage O | was O | not O | reversible O | . O | Today O | , O | I O | live O | with O | Lipitor B-Drug | and O | ( O | other O | statins B-Drug | ) O | injury B-ADR | which O | affects O | my O | ability O | to O | work O | , O | and O | I O | continue O | to O | try O | to O | recover O | . O | After O | long O | and O | only O | partial O | recovery O | from O | Lipitor B-Drug | I O | took O | two O | other O | statins B-Drug | with O | similar O | response O | . O | My O | cholesterol O | level O | is O | over O | 480 O | . O | I O | have O | no O | cardiovascular B-Disease | disease I-Disease | , O | and O | see O | that O | according O | to O | this O | evidence O | based O | medicine O | source O | , O | there O | is O | NO O | evidence O | for O | statins B-Drug | in O | women O | for O | prevention O | . O | Do O | statins B-Drug | have O | a O | role O | in O | primary O | prevention O | ? O | NO O | ! O | http://www.ti.ubc.ca/pages/letter48.htm#comment O | A O | question O | to O | us O | about O | Letter O | # O | 48 O | : O | What O | is O | the O | evidence O | of O | benefit O | for O | primary O | prevention O | in O | women O | ? O | There O | were O | 10,990 O | women O | in O | the O | primary O | prevention O | trials O | ( O | 28% O | of O | the O | total O | ) O | . O | Only O | coronary B-Disease | events I-Disease | were O | reported O | for O | women O | , O | but O | when O | these O | were O | pooled O | they O | were O | not O | reduced O | by O | statin B-Drug | therapy O | , O | RR O | 0.98 O | [ O | 0.85-1.12 O | ] O | . O | Thus O | the O | coronary O | benefit O | in O | primary O | prevention O | trials O | appears O | to O | be O | limited O | to O | men O | , O | RR O | 0.74 O | [ O | 0.68-0.81 O | ] O | , O | ARR O | 2.0% O | , O | NNT O | 50 O | for O | 3 O | to O | 5 O | years O | . O |
+
+Structured Output:
+T1 Symptom 0 8 insommnia
+T2 Symptom 10 14 loss
+T3 Symptom 15 22 dreaming
+T4 Symptom 34 42 inability
+T5 Symptom 43 53 visualize
+T6 Symptom 55 61 muscle
+T7 Symptom 62 66 pain
+T8 Symptom 68 75 weakness
+T9 Symptom 77 83 atrophy
+T10 Disease 84 95 tendinitis
+T11 Disease 97 108 tendinopathy
+T12 Disease 110 130 tendon contracture
+T13 Disease 132 145 miniscus damage
+T14 Symptom 147 163 working memory
+T15 Symptom 164 179 short-term memory
+T16 Symptom 180 184 loss
+T17 Symptom 186 193 language
+T18 Symptom 194 217 learning ability
+T19 Symptom 218 222 loss
+T20 Symptom 223 230 including
+T21 Symptom 232 237 spoken
+T22 Symptom 239 244 written
+T23 Symptom 246 253 aphasia
+T24 Symptom 255 266 inability
+T25 Symptom 268 272 walk
+T26 Drug 280 284 drug
+T27 Drug 303 308 DRUG
+T28 Drug 310 316 Lipitor
+T29 Drug 324 330 statins
+T30 ADR 332 337 injury
+T31 Disease 351 373 cardiovascular disease
+T32 Drug 407 413 statins
+T33 Drug 415 421 statins
+T34 Drug 439 446 statins
+T35 Disease 449 455 coronary events
+T36 Drug 553 558 statin

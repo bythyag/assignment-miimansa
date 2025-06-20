@@ -1,0 +1,18 @@
+BIO Sequence:
+My O | EKG B-Symptom | was O | not O | good O | and O | a O | blood B-Test | test I-Test | also O | indicated O | a O | problem O | . O | I O | was O | sent O | for O | a O | stress B-Test | test I-Test | which O | I O | failed O | , O | and O | was O | sent O | to O | a O | heart B-Disease | doctor I-Disease | . O | I O | had O | no O | other O | symptoms O | of O | heart B-Disease | problems I-Disease | , O | but O | I O | had O | high B-Symptom | blood I-Symptom | pressure I-Symptom | and O | overweight B-Symptom | . O | So O | lipitor B-Drug | was O | prescribed O | to O | lessen O | likelihood O | of O | partial O | blockage O | to O | my O | heart B-Disease | . O | Cholesterol B-Disease | levels I-Disease | are O | terrific O | now O | and O | I O | may O | be O | sent O | for O | another O | stress B-Test | test I-Test | next O | month O | . O | I O | feel O | great O | on O | Lipitor B-Drug | but O | could O | not O | take O | Zocor B-Drug | ( O | side B-ADR | effects I-ADR | ) O | . O
+
+Structured Output:
+T1 Symptom 9 12 EKG
+T2 Test 22 26 blood test
+T3 Test 42 45 stress test
+T4 Disease 66 71 heart
+T5 Disease 78 83 heart problems
+T6 Symptom 104 109 high blood pressure
+T7 Symptom 111 120 overweight
+T8 Drug 124 131 lipitor
+T9 Disease 144 155 heart
+T10 Disease 157 165 Cholesterol levels
+T11 Test 181 185 stress test
+T12 Drug 193 199 Lipitor
+T13 Drug 206 211 Zocor
+T14 ADR 213 223 side effects

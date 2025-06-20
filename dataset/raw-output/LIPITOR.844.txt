@@ -1,0 +1,11 @@
+BIO Sequence:
+after O | taking O | the O | drug O | for O | several O | years O | , O | I O | developed O | one O | of O | the O | supposedly O | rare O | side O | effects O | . O | muscle B-Symptom | disintegration I-Symptom | / O | degeneration I-Symptom | . O | fortuntately O | when O | I O | experienced O | fatigue B-Symptom | and O | muscle/joint B-Symptom | pain I-Symptom | , O | I O | remembered O | some O | of O | the O | warnings O | I O | had O | read O | when O | I O | first O | started O | taking O | the O | drug O | . O | My O | doctor O | ordered O | a O | blood O | test O | when O | I O | told O | him O | of O | my O | symptoms B-Symptom | and O | concerns O | and O | it O | revealed O | a O | grossly O | excessive O | amount O | of O | muscle B-Disease | tissue I-Disease | in O | my O | blood O | . O | I O | haven't O | taken O | it O | since O | . O | after O | I O | stopped O | taking O | Lipitor B-Drug | , O | I O | felt O | normal O | about O | three O | weeks O | later O | . O
+
+Structured Output:
+T1 Symptom 102 123 muscle disintegration  
+T2 Symptom 124 137 degeneration  
+T3 Symptom 145 152 fatigue  
+T4 Symptom 160 176 muscle/joint pain  
+T5 Symptom 207 215 symptoms  
+T6 Disease 225 237 muscle tissue  
+T7 Drug 282 289 Lipitor  

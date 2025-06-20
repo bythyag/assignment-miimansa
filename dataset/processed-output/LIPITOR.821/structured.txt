@@ -1,0 +1,8 @@
+T1 Drug 62 67 liptor
+T2 Disease 73 91 high blood pressure
+T3 ADR 126 135 decreased libido
+T4 ADR 194 198 regular dioreaha
+T5 ADR 205 210 muscle pain
+T6 ADR 221 235 shoulder blades
+T7 ADR 247 255 headaches
+T8 ADR 274 279 tired

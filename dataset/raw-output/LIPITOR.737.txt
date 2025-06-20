@@ -1,0 +1,18 @@
+BIO Sequence:
+Extreme O | agitation B-Symptom | , O | blood B-Symptom | vessels I-Symptom | in O | eye B-Symptom | burst O | , O | slurred B-Symptom | speach I-Symptom | , O | hot B-Symptom | and O | cold B-Symptom | on O | and O | off O | , O | constipation B-Symptom | , O | mental B-Symptom | confusion I-Symptom | . O | I O | felt O | like O | I O | was O | having O | a O | stroke B-Symptom | . O | I O | had O | a O | terrible O | experience O | with O | this O | . O | My O | eyes O | are O | bloodshot B-Symptom | and O | I O | felt O | like O | I O | was O | having O | a O | stroke B-Symptom | after O | only O | 9 O | days O | . O
+
+Structured Output:
+T1 Symptom 16 24 agitation
+T2 Symptom 29 34 blood vessels
+T3 Symptom 36 39 eye
+T4 Symptom 44 49 burst
+T5 Symptom 51 55 slurred speach
+T6 Symptom 58 61 hot
+T7 Symptom 66 70 cold
+T8 Symptom 72 74 on
+T9 Symptom 78 81 off
+T10 Symptom 83 94 constipation
+T11 Symptom 96 101 mental confusion
+T12 Symptom 116 123 stroke
+T13 Symptom 139 149 bloodshot
+T14 Symptom 155 160 stroke

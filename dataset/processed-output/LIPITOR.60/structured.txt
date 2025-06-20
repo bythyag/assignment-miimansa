@@ -1,0 +1,17 @@
+T1 Symptom 18 24 increasing
+T2 Symptom 26 30 pain
+T3 Symptom 35 43 stiffness
+T4 Disease 48 52 left knee
+T5 Symptom 83 91 Symptoms
+T6 Symptom 97 104 worsened
+T7 Symptom 107 114 swelling
+T8 Disease 118 122 knee
+T9 Disease 145 157 Orothopedic consult
+T10 Symptom 159 166 Symptoms
+T11 Symptom 206 213 worsend
+T12 Disease 223 227 right knee
+T13 Drug 226 232 Lipitor
+T14 Symptom 278 285 symptoms
+T15 Symptom 308 314 symptoms
+T16 Drug 317 323 Lipitor
+T17 Drug 328 335 Choleast

@@ -1,0 +1,10 @@
+T1 Symptom 26 36 itchiness
+T2 Drug 59 67 Red Yeast
+T3 Disease 75 88 chlolesterol
+T4 Drug 101 107 Lipitor
+T5 Drug 117 123 statin
+T6 Disease 128 134 heart disease
+T7 Disease 153 163 chlosterol
+T8 Disease 170 177 coronary problems
+T9 Symptom 180 183 AMA
+T10 Drug 197 203 Lipitor

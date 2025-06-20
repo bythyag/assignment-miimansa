@@ -1,0 +1,3 @@
+T1 Symptom 18 35 abdominal pain  
+T2 Drug 70 78 arthrotec  
+T3 ADR 112 119 bleeding

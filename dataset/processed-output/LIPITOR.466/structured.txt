@@ -1,0 +1,15 @@
+T1 Drug 11 20 Provachol
+T2 Drug 46 52 Lipitor
+T3 Drug 75 81 Lipitor
+T4 Symptom 98 102 pain
+T5 Symptom 107 111 butt
+T6 Symptom 117 128 thighs
+T7 Symptom 130 134 pain
+T8 Symptom 166 170 pain
+T9 Symptom 183 189 spikes of pain
+T10 Symptom 193 198 severe
+T11 Symptom 237 261 standing/walking
+T12 Drug 76 82 Lipitor
+T13 Symptom 277 281 pain
+T14 Symptom 303 307 pain
+T15 Disease 341 354 chronic pain condition

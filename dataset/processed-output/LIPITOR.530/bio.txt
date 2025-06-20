@@ -1,0 +1,1 @@
+muscle B-Symptom | weakness I-Symptom | causing O | nerve B-Disease | damage I-Disease | and O | imbalance B-Symptom | ; O | stiffness B-Symptom | similar O | to O | arthritis B-Disease | , O | s O | l O | o O | w O | walking B-Symptom | and O | numbness B-Symptom | . O

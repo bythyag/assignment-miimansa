@@ -1,0 +1,7 @@
+T1 Symptom 25 30 tired
+T2 Symptom 37 52 severe left knee pain
+T3 Symptom 57 63 feet hurt
+T4 Drug 82 88 lipitor
+T5 ADR 96 100 muscle pain
+T6 Drug 114 120 lipitor
+T7 Disease 138 149 cholesterol

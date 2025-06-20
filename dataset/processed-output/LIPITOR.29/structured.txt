@@ -1,0 +1,10 @@
+T1 Drug 66 72 lipitor
+T2 Symptom 84 108 chest muscle soreness
+T3 Symptom 113 119 spazms
+T4 Drug 129 138 neurontin
+T5 Drug 147 157 anti-seizure
+T6 Drug 170 180 pain killers
+T7 Drug 189 195 lipitor
+T8 Disease 211 218 physiotherpist
+T9 Drug 223 229 lipitor
+T10 Disease 250 259 cholesterol

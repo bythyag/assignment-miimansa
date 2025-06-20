@@ -1,0 +1,16 @@
+T1 Symptom 0 12 Muscle pain  
+T2 Disease 14 23 depression  
+T3 Symptom 25 32 dizziness  
+T4 Symptom 34 46 fainting spells  
+T5 Symptom 48 56 hair loss  
+T6 Symptom 58 70 panic attacks  
+T7 Drug 107 114 Mevacor  
+T8 Drug 117 128 Gemfibrozil  
+T9 Drug 136 142 statin  
+T10 ADR 159 184 statin-induced depression  
+T11 Drug 196 202 statin  
+T12 Disease 214 223 depression  
+T13 Symptom 225 237 panic attacks  
+T14 Symptom 239 243 hair  
+T15 Drug 267 273 statins  
+T16 Drug 284 288 killer drug

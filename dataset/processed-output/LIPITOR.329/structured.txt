@@ -1,0 +1,2 @@
+T1 Drug 43 59 cholesterol medication
+T2 Drug 98 105 Lipitor

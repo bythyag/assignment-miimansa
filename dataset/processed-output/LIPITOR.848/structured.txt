@@ -1,0 +1,7 @@
+T1 Drug 37 44 lipitor
+T2 Drug 45 50 40mg
+T3 Symptom 78 94 loss of muscle strenth
+T4 Symptom 98 103 calves
+T5 Drug 116 123 lipitor
+T6 Drug 125 131 Lipitor
+T7 Disease 146 155 colestrol

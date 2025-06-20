@@ -1,0 +1,8 @@
+T1 Disease 46 62 frozen shoulder
+T2 Symptom 79 83 back
+T3 Symptom 88 93 chest pain
+T4 Disease 105 111 cardio event
+T5 Drug 126 132 Lipitor
+T6 Symptom 150 154 back pain
+T7 Organ 166 171 HEART
+T8 Disease 198 205 elevated lipids

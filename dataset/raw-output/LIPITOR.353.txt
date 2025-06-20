@@ -1,0 +1,11 @@
+BIO Sequence:
+I O | have O | been O | on O | Lipitor B-Drug | 40mg O |. O | GREAT O | results O |. O | Went O | from O | 256 O | to O | 135 O | and O | LDL B-Disease | from O | 201 O | to O | 65 O |. O | In O | the O | past O | 3 O | weeks O |, O | I O | have O | been O | experiancing O | TERRIBLE O | abdominal B-Symptom | pain I-Symptom |, O | shortness B-Symptom | of O | breath I-Symptom |, O | and O | EXTREME O | muscle B-Symptom | pains I-Symptom |. O | I'm O | a O | pharmacist O |, O | so O | I O | know O | all O | to O | well O | what O | these O | side B-ADR | effects I-ADR | are O | from O |. O | I've O | stopped O | taking O | it O |, O | but O | the O | effects O | are O | a O | slow O | go O |. O | I O | would O | NOT O | reccomend O | lipitor B-Drug | to O | anyone O |. O 
+
+Structured Output:
+T1 Drug 22 28 Lipitor
+T2 Disease 66 69 LDL
+T3 Symptom 119 128 abdominal pain
+T4 Symptom 130 144 shortness of breath
+T5 Symptom 147 162 muscle pains
+T6 ADR 171 183 side effects
+T7 Drug 229 235 lipitor

@@ -1,0 +1,13 @@
+BIO Sequence:
+charley B-Symptom | horses I-Symptom | , O | back B-Symptom | and O | neck B-Symptom | pain I-Symptom | -- O | actually O | an O | ache B-Symptom | , O | lack B-Symptom | of O | appetite B-Symptom | . O | to O | even O | a O | sense B-Symptom | of O | nausea B-Symptom | . O | veneer O | of O | sadness B-Symptom | . O | my O | chostral B-Symptom | has O | dropped O | over O | the O | past O | few O | months O | . O | doc O | is O | happy O | with O | it O | -- O | 326 O | to O | 270 O | in O | 3 O | months O | <?> O | i'd O | like O | to O | dp O | this O | without O | pills B-Drug | -- O | . O
+
+Structured Output:
+T1 Symptom 0 13 charley horses
+T2 Symptom 15 28 back and neck pain
+T3 Symptom 38 42 ache
+T4 Symptom 45 58 lack of appetite
+T5 Symptom 62 68 sense
+T6 Symptom 73 79 nausea
+T7 Symptom 81 87 veneer of sadness
+T8 Symptom 90 97 chostral
+T9 Drug 117 122 pills

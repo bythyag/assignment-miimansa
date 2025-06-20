@@ -1,0 +1,11 @@
+BIO Sequence:
+depression B-Disease | , O | exercise B-Symptom | intolerance I-Symptom | , O | muscle B-Symptom | weakness I-Symptom | , O | memory B-Symptom | problems I-Symptom | , O | including O | 2 O | periods O | of O | amnesia B-Symptom | , O | each O | lasting O | several O | hours O | , O | nausea B-ADR | and O | vomiting B-ADR | . O | lowered O | . O
+
+Structured Output:
+T1 Disease 0 9 depression
+T2 Symptom 11 30 exercise intolerance
+T3 Symptom 32 46 muscle weakness
+T4 Symptom 48 62 memory problems
+T5 Symptom 64 71 amnesia
+T6 ADR 86 92 nausea
+T7 ADR 97 104 vomiting

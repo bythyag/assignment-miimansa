@@ -1,0 +1,2 @@
+T1 Symptom 40 49 cholesterol
+T2 Drug 59 66 Lipitor

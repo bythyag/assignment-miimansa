@@ -1,0 +1,24 @@
+T1 Disease 0 15 Kidney failure
+T2 Symptom 17 36 difficulty swallowing
+T3 Symptom 38 58 persistent pain in calf and knee
+T4 Symptom 60 79 short term memory loss
+T5 Symptom 81 100 peripheral neuropathy
+T6 Symptom 102 114 constipation
+T7 Symptom 116 132 sleep disturbance
+T8 Symptom 134 144 mood change
+T9 Symptom 146 150 rage
+T10 Drug 24 30 80mg
+T11 Drug 33 40 Lipitor
+T12 Disease 163 174 kidney failure
+T13 Drug 185 190 zetia
+T14 Symptom 211 228 feel even worse
+T15 Symptom 259 271 leg pain
+T16 Disease 186 198 kidney failure
+T17 Drug 31 39 statins
+T18 Disease 292 303 heart attacks
+T19 Drug 309 315 statins
+T20 Symptom 326 344 improvement in swallowing
+T21 Symptom 347 356 Leg pain
+T22 Disease 364 379 kidney failure
+T23 Disease 384 392 dialysis
+T24 Disease 396 404 transplant

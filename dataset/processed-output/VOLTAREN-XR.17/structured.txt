@@ -1,0 +1,4 @@
+T1 ADR 37 41 side
+T2 ADR 49 53 rise
+T3 Symptom 55 57 bp
+T4 ADR 74 80 adverse side effects

@@ -1,0 +1,20 @@
+BIO Sequence:
+I O | was O | on O | 5mg B-Drug | - O | cut O | a O | 10mg B-Drug | pill O | in O | half O | . O | After O | about O | 2 O | weeks O | taking O | it O | I O | woke O | up O | with O | leg B-Symptom | cramps I-Symptom | . O | During O | the O | day O | if O | I O | squatted O | ( O | e.g. O | in O | the O | garden O | ) O | or O | tried O | to O | get O | on O | a O | ladder O | I O | got O | foot/leg B-Symptom | cramps I-Symptom | . O | I O | mentioned O | it O | to O | my O | doctor O | who O | said O | it O | couldn't O | possibly O | be O | related O | to O | the O | Lipitor B-Drug | . O | It O | kept O | getting O | worse O | and O | worse O | - O | legs B-Disease | began O | feeling O | very O | tired O | , O | couldn't O | go O | up O | stairs O | easily O | , O | had O | cramping B-Symptom | events O | in O | my O | legs I-Disease | 3-4 O | times O | a O | day O | . O | I O | took O | 5mg/day B-Drug | of O | Lipitor B-Drug | for O | a O | year O | but O | finally O | quit O | as O | my O | legs O | were O | hurting O | too O | much O | . O | Most O | cramping B-Symptom | stopped O | within O | a O | couple O | of O | days O | but O | there O | was O | a O | long O | tail O | - O | it O | has O | only O | been O | in O | the O | last O | two O | years O | that O | all O | cramping I-Symptom | stopped O | ( O | having O | been O | off O | since O | 2005 O | ) O | . O | It O | did O | help O | get O | my O | TC B-Symptom | down O | to O | 180 O | from O | 220 O | , O | and O | my O | HDL B-Symptom | to O | 70-90 O | frum O | 30 O | . O | My O | legs O | are O | still O | very O | weak O | even O | now O | - O | but O | they O | don't O | cramp O | . O | My O | physician O | said O | it O | was O | all O | in O | my O | head O | . O
+
+Structured Output:
+T1 Drug 19 22 5mg
+T2 Drug 34 39 10mg
+T3 Symptom 65 69 leg cramps
+T4 Symptom 133 144 foot/leg cramps
+T5 Drug 177 184 Lipitor
+T6 Disease 204 208 legs
+T7 Symptom 250 258 cramping
+T8 Drug 293 305 5mg/day
+T9 Drug 307 314 Lipitor
+T10 Symptom 388 396 cramping
+T11 Symptom 418 421 TC
+T12 Symptom 454 459 HDL
+T13 Symptom 478 484 70-90
+T14 Disease 486 490 legs
+T15 Symptom 505 509 weak
+T16 Symptom 517 522 cramp

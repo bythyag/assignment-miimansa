@@ -1,0 +1,12 @@
+BIO Sequence:
+Absent O | mindendness B-Symptom | trouble O | concentrating B-Symptom | , O | blurred B-Symptom | vision I-Symptom | , O | headaches B-Symptom | . O | I O | am O | satisfied O | as O | the O | drug B-Drug | has O | been O | hugely O | successful O | on O | my O | Cholesterol B-Disease | levels I-Disease | . O | However O | , O | I O | am O | posting O | this O | due O | to O | my O | side B-ADR | effects I-ADR | which O | I O | have O | linked O | to O | the O | drug B-Drug | . O 
+
+Structured Output:
+T1 Symptom 0 12 mindendness
+T2 Symptom 14 26 concentrating
+T3 Symptom 28 42 blurred vision
+T4 Symptom 44 53 headaches
+T5 Drug 76 80 drug
+T6 Disease 95 104 Cholesterol
+T7 ADR 113 127 side effects
+T8 Drug 135 139 drug

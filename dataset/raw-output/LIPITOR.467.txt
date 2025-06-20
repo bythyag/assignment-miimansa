@@ -1,0 +1,11 @@
+BIO Sequence:
+I O | Have O | been O | on O | lipitor B-Drug | for O | several O | years O | . O | I O | have O | noticed O | over O | the O | last O | few O | years O | that O | I O | have O | not O | been O | feeling O | well O | . O | The O | last O | couple O | of O | months O | I O | have O | been O | suffering O | with O | vertigo B-Symptom | . O | I O | have O | had O | all O | kinds O | of O | test O | and O | they O | all O | come O | up O | negative O | . O | I O | decided O | to O | go O | off O | lipitor B-Drug | about O | three O | days O | ago O | to O | see O | if O | this O | is O | causing O | it O | . O | I O | have O | a O | freind O | with O | the O | same O | problem O | and O | is O | on O | lipitor B-Drug | for O | about O | the O | same O | amount O | of O | time O | as O | I O | have O | been O | on O | it O | . O | I O | 'm O | hoping O | that O | this O | dizziness B-Symptom | will O | go O | away O | in O | time O | now O | that O | I O | have O | stopped O | lipitor B-Drug | . O | None O | of O | my O | doctors O | will O | admit O | that O | is O | lipitor B-Drug | causing O | the O | problem O | . O 
+
+Structured Output:
+T1 Drug 21 28 lipitor  
+T2 Symptom 128 135 vertigo  
+T3 Drug 164 171 lipitor  
+T4 Drug 211 218 lipitor  
+T5 Symptom 254 262 dizziness  
+T6 Drug 293 300 lipitor  
+T7 Drug 324 331 lipitor  

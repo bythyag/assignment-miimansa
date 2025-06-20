@@ -1,0 +1,22 @@
+BIO Sequence:
+Jaundice B-Symptom | , O | right O | upper O | quadrant O | abdominal O | pain B-Symptom | , O | very O | elevated O | liver B-Disease | function O | tests O | , O | itching B-Symptom | of O | the O | skin B-Symptom | , O | weakness B-Symptom | , O | loss B-Symptom | of O | appetite B-Symptom | . O | Gall B-Disease | bladder I-Disease | sonogram O | , O | CT B-Disease | scan O | , O | MRI B-Disease | of O | liver I-Disease | ducts O | all O | negative O | for O | gall B-Disease | bladder I-Disease | disease O | . O | Hospitalized O | 4 O | days O | . O | six O | weeks O | after O | stopping O | Lipitor B-Drug | all O | liver B-Disease | tests O | returned O | to O | normal O | . O | . O | I O | am O | a O | retired O | physician O | and O | had O | an O | excellent O | therapeutic O | result O | while O | on O | the O | medication O | . O | I O | did O | have O | occasional O | muscle B-Symptom | aches I-Symptom | and O | flu B-Symptom | - O | like O | symptoms I-Symptom | which O | subsided O | when O | a O | stopped O | lipitor B-Drug | for O | short O | periods O | of O | time O | . O | But O | the O | overall O | good O | effect O | of O | the O | drug O | on O | my O | lipid B-Disease | profile O | caused O | me O | to O | return O | to O | using O | it O | . O | Not O | any O | more O | ! O | I O | could O | have O | wound O | up O | with O | permanent O | liver B-Disease | damage O | or O | dying O | . O | The O | drug O | isert O | for O | lipitor B-Drug | does O | mention O | cholestatic B-ADR | Jaundice I-ADR | in O | the O | post O | market O | studies O | . O | no O | numbers O | as O | to O | the O | number O | of O | cases O | reported O | . O | How O | many O | go O | unreported O | ? O
+
+Structured Output:
+T1 Symptom 0 7 Jaundice
+T2 Symptom 37 49 abdominal pain
+T3 Symptom 84 90 itching
+T4 Symptom 95 102 weakness
+T5 Symptom 107 119 loss of appetite
+T6 Disease 153 164 Gall bladder
+T7 Disease 166 169 CT
+T8 Disease 173 175 MRI
+T9 Disease 182 194 liver ducts
+T10 Disease 200 213 gall bladder disease
+T11 Drug 261 267 Lipitor
+T12 Disease 276 281 liver 
+T13 Symptom 411 418 muscle aches
+T14 Symptom 421 434 flu-like symptoms
+T15 Drug 453 459 lipitor
+T16 Disease 475 480 lipid profile
+T17 Disease 490 495 liver
+T18 ADR 510 520 cholestatic Jaundice

@@ -1,0 +1,11 @@
+BIO Sequence:
+ldl O | is O | still O | too O | high O | . O | Dr O | has O | added O | zetia B-Drug | and O | I O | will O | switch O | to O | vytorin B-Drug | in O | August O | and O | have O | the O | blood O | work O | in O | October O | so O | see O | if O | its O | working O | . O | Heart B-Disease | attack I-Disease | in O | 1991 O | and O | quadruple B-Disease | bypass I-Disease | in O | 2002 O | . O | Started O | with O | 10mg B-Drug | in O | 2001 O | and O | increased O | to O | 40mg B-Drug | after O | the O | bypass B-Disease | surgery I-Disease | . O
+
+Structured Output:
+T1 Drug 58 63 zetia
+T2 Drug 69 76 vytorin
+T3 Disease 99 104 Heart attack
+T4 Disease 112 120 quadruple bypass
+T5 Drug 132 136 10mg
+T6 Drug 148 152 40mg
+T7 Disease 157 163 bypass

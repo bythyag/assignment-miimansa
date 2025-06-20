@@ -1,0 +1,10 @@
+T1 ADR 25 35 side effects
+T2 Drug 56 72 Grapefruit juice
+T3 Drug 88 94 Lipitor
+T4 Drug 113 129 grapefruit juice
+T5 Drug 134 140 Lipitor
+T6 Drug 161 177 Grapefruit juice
+T7 Drug 182 188 Lipitor
+T8 Drug 192 208 Grapefruit juice
+T9 Drug 213 219 Lipitor
+T10 ADR 216 234 toxic reactions

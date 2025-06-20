@@ -1,0 +1,17 @@
+BIO Sequence:
+Leg O | calf B-Symptom | cramps I-Symptom | , O | eyes O | feeling O | of O | pressure B-Symptom | or O | spaced O | out O | feeling O | . O | Horrible O | depression B-Disease | , O | wild O | mood B-Symptom | swings I-Symptom | , O | feeling O | of O | impending O | doom B-Symptom | , O | sinus B-Symptom | congestion I-Symptom | , O | extreme O | fatigue B-Symptom | , O | lack O | of O | motivation B-Symptom | and O | diffuculty B-Symptom | thinking I-Symptom | , O | memory B-Symptom | loss I-Symptom | . O | I O | went O | from O | a O | highly O | motivated O | regional O | manager O | to O | a O | person O | who O | dosent O | want O | to O | get O | out O | of O | bed O | . O | No O | amount O | of O | sleep O | makes O | me O | feel O | rested O | . O | My O | legs O | are O | killing O | me O | and O | I O | thank O | God O | I O | found O | this O | website O | . O | My O | mind O | was O | starting O | to O | deteriorate O | and O | I O | couldnt O | remember O | anything O | without O | difficulty O | . O | My O | driving O | became O | dangerous O | . O | I O | have O | stopped O | the O | cursed B-Drug | drug I-Drug | and O | after O | 2 O | days O | my O | energy O | level O | has O | increased O | dramaticly O | . O | No O | one O | warned O | me O | of O | these O | risks O | . O | This O | drug B-Drug | should O | be O | taken O | off O | the O | market O | . O |
+
+Structured Output:
+T1 Symptom 4 13 calf cramps
+T2 Symptom 20 27 pressure
+T3 Symptom 38 53 spaced out feeling
+T4 Disease 78 86 depression
+T5 Symptom 95 107 mood swings
+T6 Symptom 120 140 impending doom
+T7 Symptom 142 158 sinus congestion
+T8 Symptom 161 168 fatigue
+T9 Symptom 171 186 lack of motivation
+T10 Symptom 189 207 difficulty thinking
+T11 Symptom 210 222 memory loss
+T12 Drug 353 356 cursed drug
+T13 Drug 390 394 drug

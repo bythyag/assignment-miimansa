@@ -1,0 +1,5 @@
+BIO Sequence:
+Very O | effective O | . O | Lowered O | cholesterol B-Disease | from O | 230 O | to O | 160 O | . O
+
+Structured Output:
+T1 Disease 23 33 cholesterol

@@ -1,0 +1,12 @@
+BIO Sequence:
+I O | took O | this O | medication O | for O | about O | 2 O | weeks O | . O | On O | day O | two O | I O | noticed O | a O | rash B-ADR | on O | the O | outside O | part O | of O | my O | left O | arm O | , O | then O | the O | it O | spread O | to O | to O | my O | back O | and O | front O | of O | my O | neck O | by O | day O | three O | . O | I O | also O | noticed O | some O | dizziness B-ADR | , O | bloated B-ADR | stomach I-ADR | , O | gas B-ADR | , O | and O | muscle B-ADR | weakness I-ADR | specially O | in O | my O | back O | . O | I O | had O | kidney B-Symptom | pain I-Symptom | on O | the O | right O | side O | to O | the O | point O | I O | could O | not O | bend O | forwad O | . O | I O | stoped O | taking O | this O | medication O | by O | the O | second O | week O | I O | was O | on O | it O | , O | however O | it O | is O | taking O | me O | a O | while O | to O | get O | better O | from O | the O | weakness O | , O | the O | rash O | is O | improving O | but O | my O | skin O | is O | stained O | with O | multiple O | brown O | dots O | . O | I O | would O | not O | recommend O | this O | medication O | . O 
+
+Structured Output:
+T1 ADR 62 66 rash
+T2 ADR 133 140 dizziness
+T3 ADR 143 151 bloated stomach
+T4 ADR 153 156 gas
+T5 ADR 158 164 muscle weakness
+T6 Symptom 174 179 kidney pain
+T7 ADR 185 192 weakness
+T8 ADR 215 219 rash

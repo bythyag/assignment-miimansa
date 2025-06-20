@@ -1,0 +1,13 @@
+BIO Sequence:
+I O | think O | I've O | been O | ok O | with O | this O | medication O | . O | I O | was O | diagnosed O | with O | high B-Disease | cholesterol I-Disease | when O | I O | was O | 19 O | , O | I'm O | now O | 38 O | and O | started O | on O | Lipitor B-Drug | when O | I O | was O | 31 O | . O | Prior O | to O | starting O | Lipitor B-Drug | my O | cholesterol O | level O | was O | 8.45 O | ( O | Canada O | ) O | , O | in O | Nov/03 O | my O | level O | was O | down O | to O | 6.24 O | . O | Its O | still O | a O | bit O | high O | , O | ( O | Canada O | the O | levels O | are O | measured O | different O | then O | the O | US O | , O | levels O | should O | be O | below O | 5.20 O | ) O | . O | My O | mother O | and O | I O | are O | both O | recipients O | of O | high B-Disease | cholesterol I-Disease | . O | I O | do O | suffer O | migranes B-Symptom | , O | back B-Symptom | aches I-Symptom | sore I-Symptom | neck I-Symptom | . O | I O | do O | exercise O | regualarly O | , O | but O | still O | have O | pains B-Symptom | . O | I O | am O | always O | tired B-Symptom | , O | but O | I O | really O | don't O | know O | if O | this O | is O | caused O | by O | the O | medication O | . O | I O | have O | never O | mentioned O | this O | to O | my O | doctor O | , O | because O | I O | just O | thought O | this O | was O | caused O | by O | my O | job O | and O | being O | run O | down O | with O | dealing O | with O | my O | children O | . O 
+
+Structured Output:
+T1 Disease 37 48 high cholesterol
+T2 Drug 74 81 Lipitor
+T3 Drug 101 108 Lipitor
+T4 Disease 160 171 high cholesterol
+T5 Symptom 178 186 migranes
+T6 Symptom 188 197 back aches
+T7 Symptom 198 202 sore neck
+T8 Symptom 215 220 pains
+T9 Symptom 232 237 tired

@@ -1,0 +1,7 @@
+T1 Drug 21 28 lipitor  
+T2 Symptom 128 135 vertigo  
+T3 Drug 164 171 lipitor  
+T4 Drug 211 218 lipitor  
+T5 Symptom 254 262 dizziness  
+T6 Drug 293 300 lipitor  
+T7 Drug 324 331 lipitor

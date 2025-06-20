@@ -1,0 +1,13 @@
+Severe B-Symptom | muscle I-Symptom | cramping I-Symptom | . O  
+Muscle B-Symptom | weakness I-Symptom | . O  
+Lipitor B-Drug | dropped O | my O | bad O | cholesterol O | immediately O | , O | however O | , O | I O | have O | noticed O | increasing O | muscle B-Symptom | spasms I-Symptom | and O | cramping I-Symptom | . O  
+My O | hands O | , O | feet O | , O | legs O | , O | stomach O | and O | back O | muscles O | . O  
+I O | am O | trying O | to O | improve O | my O | health O | yet O | I O | can O | not O | sleep O | due O | to O | severe B-Symptom | leg I-Symptom | cramping I-Symptom | . O  
+Crippling B-Symptom | cramps I-Symptom | . O  
+I O | told O | my O | Doc O | today O | that O | I O | didnt O | want O | to O | take O | Lipitor B-Drug | any O | more O | . O  
+She O | switched O | me O | to O | another O | brand O | that O | has O | less O | of O | the O | muscle B-Symptom | side I-Symptom | effects O | . O  
+My O | husband O | had O | to O | pull O | me O | out O | of O | the O | bath O | tub O | the O | other O | night O | , O | my O | thighs O | would O | not O | push O | me O | up O | ! O  
+I O | now O | know O | I O | am O | not O | crazy O | . O  
+fingers B-Symptom | twitching I-Symptom | , O | making O | my O | mouse O | click O | on O | things O | I O | didnt O | want O | to O | click O | on O | . O  
+Legs B-Symptom | twitching I-Symptom | , O | especially O | in O | bed O | at O | night O | . O  
+And O | the O | awful B-Symptom | cramps I-Symptom | ! O

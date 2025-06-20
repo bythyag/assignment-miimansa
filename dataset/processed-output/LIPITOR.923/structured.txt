@@ -1,0 +1,8 @@
+T1 Drug 26 32 lipitor
+T2 Drug 76 81 lipex
+T3 Symptom 87 93 painful
+T4 Symptom 109 124 debilatating
+T5 Symptom 144 158 lower back
+T6 Symptom 205 210 pain
+T7 ADR 242 249 side affects
+T8 Disease 305 316 degenative muscle problem

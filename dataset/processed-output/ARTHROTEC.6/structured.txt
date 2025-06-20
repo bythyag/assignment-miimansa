@@ -1,0 +1,18 @@
+T1 Symptom 31 42 stomach pain
+T2 Symptom 48 53 slight nausea
+T3 Symptom 59 65 reflux
+T4 Symptom 101 109 abdominal gas
+T5 Symptom 111 117 cramps
+T6 Symptom 121 125 pain
+T7 Symptom 131 138 abdominal cramps
+T8 Drug 224 232 Arthrotec
+T9 ADR 252 263 pain relief
+T10 ADR 270 284 side effects
+T11 Disease 296 303 reflux problem
+T12 Symptom 316 321 abdominal gas
+T13 Symptom 323 129 cramps
+T14 Symptom 331 342 discomfort
+T15 Drug 351 359 Arthrotec
+T16 Drug 368 376 Tylenol
+T17 Drug 378 380 3
+T18 Drug 396 404 Arthrotec

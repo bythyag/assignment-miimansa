@@ -1,0 +1,12 @@
+T1 Drug 48 54 Lipitor
+T2 Drug 77 83 Lipitor
+T3 Disease 101 106 hips
+T4 Disease 112 117 knees
+T5 Symptom 148 155 spasms
+T6 Symptom 162 170 thighs
+T7 Disease 233 238 knee
+T8 Disease 276 281 foot
+T9 Symptom 318 324 tender
+T10 Symptom 331 336 calves
+T11 Drug 430 436 Lipitor
+T12 Disease 437 448 cholesteral

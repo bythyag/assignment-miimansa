@@ -1,0 +1,10 @@
+BIO Sequence:
+dry B-Symptom | mouth I-Symptom | ( O | also O | taking O | cymbalta B-Drug | ). O | when O | i O | first O | took O | voltaren B-Drug | , O | i O | didn't O | feel O | it O | helped O | me O | at O | all O | . O | however O | when O | i O | stopped O | , O | i O | was O | in O | a O | great O | deal O | more O | pain B-Symptom | the O | following O | day O | . O | when O | i O | restarted O | it O | , O | i O | started O | feeling O | better O | . O | so O | it O | doesn't O | get O | rid O | of O | my O | pain B-Symptom | , O | but O | does O | seem O | to O | make O | it O | more O | bearable B-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 9 dry mouth
+T2 Drug 25 32 cymbalta
+T3 Drug 36 43 voltaren
+T4 Symptom 79 83 pain
+T5 Symptom 154 158 pain
+T6 Symptom 164 172 bearable

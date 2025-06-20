@@ -1,0 +1,13 @@
+T1 Symptom 0 15 Muscle tightness  
+T2 Symptom 16 24 cramping  
+T3 Symptom 26 30 legs  
+T4 Symptom 33 37 back  
+T5 Symptom 40 47 Problems sleeping  
+T6 Symptom 49 61 concentrating  
+T7 Disease 67 70 flu  
+T8 Symptom 79 88 Irritable  
+T9 Symptom 92 100 symptoms  
+T10 Drug 107 116 medication  
+T11 Drug 136 143 medicine  
+T12 Drug 145 152 statins  
+T13 ADR 160 171 side effects

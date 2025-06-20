@@ -1,0 +1,7 @@
+T1 Symptom 18 42 Heavy menstrual bleeding
+T2 Symptom 44 50 cramps
+T3 ADR 52 58 nausea
+T4 Drug 116 120 drug
+T5 ADR 130 137 bleeding
+T6 ADR 143 149 cramps
+T7 Drug 155 159 drug

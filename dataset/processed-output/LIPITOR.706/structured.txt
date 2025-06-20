@@ -1,0 +1,9 @@
+T1 Symptom 15 22 enzymes
+T2 Drug 90 97 Mevacor
+T3 Drug 102 109 Lipitor
+T4 Drug 118 125 Lipitor
+T5 Drug 195 202 Lipitor
+T6 Drug 218 225 Lipitor
+T7 Symptom 361 372 well-being
+T8 Symptom 413 420 bloated
+T9 Symptom 438 448 comfortable

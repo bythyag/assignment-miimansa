@@ -1,0 +1,53 @@
+BIO Sequence:  
+Severe B-Symptom | back I-Symptom | pain I-Symptom | muscle B-Symptom | degenerating I-Symptom | can O | barely O | walk O | extreme B-Symptom | fatique I-Symptom | , O | depression B-Symptom | , O | major B-Disease | gastrointestinal I-Disease | problems I-Disease | , O | feel O | like O | an O | old O | man O | . O | Fever B-Symptom | , O | sweats B-Symptom | , O | chills B-Symptom | . O | Insomnia B-Symptom | , O | fitfull I-Symptom | sleep I-Symptom | . O | Neck B-Symptom | pain I-Symptom | , O | cracking B-Symptom | sensations I-Symptom | in O | my O | joints I-Symptom | . O | All O | joints I-Symptom | and O | muscles I-Symptom | hurt O | . O | Have O | been O | going O | to O | Drs. O | trying O | to O | find O | out O | what O | is O | wrong O | . O | All O | tests O | comimg O | back O | negative O | except O | ck B-Drug | which O | is O | positive O | . O | They O | tell O | me O | I O | might O | have O | arthritis B-Disease | . O | Have O | been O | on O | this O | drug B-Drug | since O | the O | beginning O | before O | that O | Zocor B-Drug | . O | Am O | getting O | worse O | everyday O | . O | Nobody O | ever O | said O | anything O | about O | all O | these O | side B-ADR | affects I-ADR | . O | But O | have O | been O | complaining O | to O | my O | Dr O | for O | a O | while O | now O | of O | terrible B-ADR | muscle I-ADR | pain I-ADR | and O | nothing O | was O | mentioned O | that O | it O | could O | be O | Lipitor B-Drug | . O | Been O | tested O | for O | everything O | from O | malaria B-Disease | to O | lupus B-Disease | . O | Was O | always O | physically O | fit O | and O | not O | overweight O | and O | maintained O | an O | active O | lifestyle O | but O | this O | has O | sapped O | every O | ounce O | of O | energy O | I O | have O | and O | can't O | do O | much O | of O | anything O | anymore O | . O | Have O | an O | appointment O | with O | my O | Dr O | in O | a O | few O | days O | and O | I O | will O | be O | bringing O | a O | printout O | of O | this O | site O | . O | There O | are O | other O | people O | who O | are O | suffering O | just O | like O | me O | . O | Now O | I O | know O | what O | the O | hell O | is O | wrong O | and O | will O | be O | off O | Lipitor B-Drug | . O | My O | quaility O | of O | life O | has O | suffered O | too O | long O | on O | this O | garbage O | . O | Thank O | God O | I O | found O | this O | site O | . O
+
+Structured Output:  
+T1 Symptom 0 6 Severe  
+T2 Symptom 7 11 back  
+T3 Symptom 12 16 pain  
+T4 Symptom 17 25 muscle  
+T5 Symptom 26 37 degenerating  
+T6 Symptom 39 44 can  
+T7 Symptom 45 50 barely  
+T8 Symptom 51 55 walk  
+T9 Symptom 57 63 extreme  
+T10 Symptom 64 71 fatique  
+T11 Disease 73 79 major  
+T12 Disease 80 95 gastrointestinal  
+T13 Disease 96 104 problems  
+T14 Symptom 108 112 feel  
+T15 Symptom 113 116 like  
+T16 Symptom 117 119 an  
+T17 Symptom 120 123 old  
+T18 Symptom 124 127 man  
+T19 Symptom 129 133 Fever  
+T20 Symptom 135 140 sweats  
+T21 Symptom 142 146 chills  
+T22 Symptom 148 155 Insomnia  
+T23 Symptom 157 164 fitfull  
+T24 Symptom 165 170 sleep  
+T25 Symptom 172 177 Neck  
+T26 Symptom 178 182 pain  
+T27 Symptom 184 192 cracking  
+T28 Symptom 193 203 sensations  
+T29 Symptom 205 207 in  
+T30 Symptom 209 212 my  
+T31 Symptom 213 219 joints  
+T32 Symptom 221 225 All  
+T33 Symptom 227 233 joints  
+T34 Symptom 234 241 and  
+T35 Symptom 243 249 muscles  
+T36 Symptom 251 255 hurt  
+T37 Drug 322 324 ck  
+T38 Disease 353 362 arthritis  
+T39 Drug 366 370 drug  
+T40 Drug 375 380 Zocor  
+T41 ADR 439 452 side  
+T42 ADR 453 460 affects  
+T43 ADR 469 485 terrible  
+T44 ADR 486 490 muscle  
+T45 ADR 491 495 pain  
+T46 Drug 517 523 Lipitor  
+T47 Disease 547 554 malaria  
+T48 Disease 556 561 lupus  
+T49 Drug 723 730 Lipitor  

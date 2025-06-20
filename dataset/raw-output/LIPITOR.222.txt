@@ -1,0 +1,31 @@
+BIO Sequence:
+Took O | 10mg O | lipitor B-Drug | for O | 7 O | years O | had O | soreness B-Symptom | of O | muscles I-Symptom | for O | 4 O | years O | . O | Then O | started O | with O | excruciating B-Symptom | pain I-Symptom | and O | muscle I-Symptom | cramps I-Symptom | in O | lower B-Disease | back I-Disease | , O | then O | down O | left O | buttock B-Symptom | , O | thigh B-Symptom | , O | calf B-Symptom | and O | ankle B-Symptom | . O | Left O | foot O | has O | a O | numbness B-Symptom | feeling O | to O | it O | , O | tingling B-Symptom | in O | lower B-Symptom | leg I-Symptom | when O | walking O | , O | which O | I O | have O | to O | use O | a O | cane O | now O | . O | Also O | very O | fatiqued B-Symptom | , O | buzzing B-Symptom | in O | both O | ears I-Symptom | , O | nausia B-ADR | , O | sleeplessness B-Symptom | , O | gas B-ADR | and O | dark B-Symptom | urine I-Symptom | . O | All O | these O | side O | effect B-ADR | I O | have O | 24/7 O | . O | I O | have O | asked O | my O | doctors O | more O | then O | once O | if O | any O | of O | my O | meds. B-Drug | could O | be O | causing O | me O | all O | this O | pain O | , O | 3 O | different O | doctors O | said O | NO O | . O | They O | came O | up O | with O | , O | Arthritis B-Disease | , O | Tendonitis B-Disease | , O | Sciatica B-Disease | , O | after O | being O | checked O | out O | for O | all O | these O | , O | they O | were O | wrong O | . O | I O | stopped O | taking O | Lipitor B-Drug | and O | Tricor B-Drug | about O | 6 O | weeks O | ago O | . O 
+
+Structured Output:
+T1 Drug 22 29 lipitor
+T2 Symptom 56 63 soreness
+T3 Symptom 65 72 muscles
+T4 Symptom 89 96 excruciating
+T5 Symptom 101 105 pain
+T6 Symptom 107 112 muscle
+T7 Symptom 114 119 cramps
+T8 Disease 123 127 lower back
+T9 Symptom 132 139 buttock
+T10 Symptom 141 146 thigh
+T11 Symptom 148 152 calf
+T12 Symptom 158 163 ankle
+T13 Symptom 172 179 numbness
+T14 Symptom 184 192 tingling
+T15 Symptom 199 203 lower leg
+T16 Symptom 221 228 fatiqued
+T17 Symptom 233 239 buzzing
+T18 ADR 241 247 nausia
+T19 Symptom 250 263 sleeplessness
+T20 ADR 265 268 gas
+T21 Symptom 273 278 dark urine
+T22 ADR 283 297 side effect
+T23 Disease 298 306 Arthritis
+T24 Disease 308 319 Tendonitis
+T25 Disease 321 328 Sciatica
+T26 Drug 353 360 Lipitor
+T27 Drug 366 372 Tricor

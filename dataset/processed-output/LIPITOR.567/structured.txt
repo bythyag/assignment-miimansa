@@ -1,0 +1,11 @@
+T1 Symptom 9 13 legs
+T2 Symptom 18 22 arms
+T3 Symptom 37 41 numb
+T4 Symptom 46 53 tingling
+T5 Symptom 63 69 fatigue
+T6 Symptom 76 88 concentration
+T7 Symptom 90 98 problems
+T8 ADR 104 110 feeling stupid
+T9 ADR 131 143 side effect
+T10 Symptom 151 159 symptons
+T11 Drug 194 198 drug

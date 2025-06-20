@@ -1,0 +1,13 @@
+T1 Symptom 23 41 symptoms
+T2 Symptom 43 51 Numbness
+T3 Symptom 54 62 tingling
+T4 Symptom 66 71 left
+T5 Symptom 78 85 equilibrium
+T6 Disease 92 101 cholesterol
+T7 Disease 117 128 heart attack
+T8 Drug 133 140 Lipitor
+T9 Symptom 148 167 symptoms
+T10 Drug 186 193 Lipitor
+T11 Drug 198 205 Lipitor
+T12 Symptom 221 241 equilibrium
+T13 Symptom 246 263 symptoms

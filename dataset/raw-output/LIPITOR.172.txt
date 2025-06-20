@@ -1,0 +1,7 @@
+BIO Sequence:
+Sleeping O | all O | day O | and O | night O | - O | exhaustion B-Symptom | . O | 10mg B-Drug | started O | two O | weeks O | ago O | - O | have O | slept O | soundly O | 30 O | of O | the O | last O | 48 O | hours O | . O | But O | even O | when O | awake O | , O | feel O | exhausted B-Symptom | . O | Can't O | continue O | this O | way O | . O | Will O | ask O | physician O | for O | alternative O | at O | next O | visit O | . O | Normally O | have O | high O | energy O | and O | sleep O | average O | of O | 6 O | to O | 7 O | hrs O | per O | day O | . O | Haven't O | been O | back O | yet O | for O | blood O | work O | to O | establish O | reduction O | numbers O | . O 
+
+Structured Output:
+T1 Symptom 44 54 exhaustion
+T2 Drug 13 16 10mg
+T3 Symptom 116 124 exhausted

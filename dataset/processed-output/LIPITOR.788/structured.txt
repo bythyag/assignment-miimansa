@@ -1,0 +1,14 @@
+T1 Symptom 9 12 EKG
+T2 Test 22 26 blood test
+T3 Test 42 45 stress test
+T4 Disease 66 71 heart
+T5 Disease 78 83 heart problems
+T6 Symptom 104 109 high blood pressure
+T7 Symptom 111 120 overweight
+T8 Drug 124 131 lipitor
+T9 Disease 144 155 heart
+T10 Disease 157 165 Cholesterol levels
+T11 Test 181 185 stress test
+T12 Drug 193 199 Lipitor
+T13 Drug 206 211 Zocor
+T14 ADR 213 223 side effects

@@ -1,0 +1,20 @@
+BIO Sequence:
+neck B-Symptom | pain I-Symptom | / O | back B-Symptom | spasms I-Symptom | / O | foggy B-Symptom | thinking I-Symptom | / O | insomnia B-Symptom | . O | I O | took O | this O | drug B-Drug | for O | 1.5 O | years O | . O | Great O | results O | . O | but O | the O | side B-ADR | effects I-ADR | were O | very O | negative O | as O | listed O | above O | . O | My O | dr. O | reviewed O | my O | complaints O | and O | agreed O | that O | it O | wasn't O | worth O | it O | . O | I O | am O | going O | to O | do O | a O | diet B-Symptom | and O | excercise B-Symptom | change I-Symptom | . O | 60 O | days O | blood B-Symptom | check I-Symptom | and O | then O | look O | at O | natural O | options B-Drug | / O | red B-Drug | rice I-Drug | / O | increase O | omega B-Drug | 3 I-Drug | / O | ect. O | No O | more O | statins B-Drug | for O | me O | . O | I O | don't O | have O | plaque B-Disease | so O | I O | have O | options O | . O | My O | husband O | has O | a O | high O | plaque I-Disease | count I-Disease | so O | he O | doesn't O | . O 
+
+Structured Output:
+T1 Symptom 0 9 neck pain
+T2 Symptom 10 18 back spasms
+T3 Symptom 19 33 foggy thinking
+T4 Symptom 34 42 insomnia
+T5 Drug 58 62 drug
+T6 ADR 80 95 side effects
+T7 Symptom 96 101 very negative
+T8 Symptom 104 108 diet
+T9 Symptom 114 123 excercise change
+T10 Symptom 130 135 blood check
+T11 Drug 153 161 options
+T12 Drug 163 171 red rice
+T13 Drug 173 177 omega 3
+T14 Drug 180 187 statins
+T15 Disease 197 203 plaque
+T16 Disease 214 219 plaque count

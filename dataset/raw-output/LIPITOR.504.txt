@@ -1,0 +1,27 @@
+BIO Sequence:
+Extreme O | back B-Symptom | pain I-Symptom | , O | nerve B-Disease | damage I-Disease | , O | breathing B-Symptom | problems I-Symptom | to O | the O | point O | of O | hospitalization B-Symptom | stiffness B-Symptom | all O | over O | body O | , O | muscle B-Disease | damage I-Disease | , O | hugh O | black B-Symptom | and O | blue O | marks B-Symptom | 6 O | in O | . O | hair B-Symptom | loss I-Symptom | , O | dizzyness B-Symptom | , O | vision B-Symptom | problems I-Symptom | , O | close O | to O | blackouts B-Symptom | , O | sinus B-Disease | problems I-Disease | , O | temperature B-Symptom | , O | heart B-Symptom | palputations I-Symptom | , O | abdominal B-Disease | problems I-Disease | , O | bleeding B-ADR | , O | gas B-Disease | . O | Wore O | braces O | on O | calf B-Disease | , O | ankle B-Disease | , O | full O | knee B-Disease | brace O | and O | two O | small O | braces O | and O | crutches O | , O | wrist B-Disease | locked O | up O | on O | me O | , O | wore O | a O | brace O | for O | months O | , O | just O | to O | mention O | a O | few O | of O | the O | problems O | I O | had O | on O | all O | Statins B-Drug | . O | Doctors O | left O | me O | on O | Statins B-Drug | for O | seven O | years O | . O | My O | advise O | is O | not O | to O | go O | on O | any O | Statins B-Drug | I O | still O | hurt O | after O | 2 O | years O | off O | them O | . O 
+
+Structured Output:
+T1 Symptom 8 12 back pain
+T2 Disease 14 19 nerve damage
+T3 Symptom 21 29 breathing problems
+T4 Symptom 44 61 hospitalization stiffness all over body
+T5 Disease 64 70 muscle damage
+T6 Symptom 72 104 hugh black and blue marks
+T7 Symptom 106 112 hair loss
+T8 Symptom 114 123 dizzyness
+T9 Symptom 125 138 vision problems
+T10 Symptom 140 154 blackouts
+T11 Disease 156 168 sinus problems
+T12 Symptom 170 180 temperature
+T13 Symptom 182 202 heart palputations
+T14 Disease 204 220 abdominal problems
+T15 ADR 222 230 bleeding
+T16 Disease 232 235 gas
+T17 Disease 246 250 calf
+T18 Disease 252 257 ankle
+T19 Disease 259 263 knee
+T20 Disease 276 281 wrist
+T21 Drug 307 313 Statins
+T22 Drug 325 331 Statins
+T23 Drug 338 344 Statins

@@ -1,0 +1,13 @@
+BIO Sequence:
+Sever O | muscle B-Symptom | pain I-Symptom | ? O | tendons B-Symptom | too O | . O | Tested O | for O | all O | kinds O | of O | arthritis B-Disease | by O | practitionaer O | who O | would O | not O | believe O | that O | Lipitor B-Drug | could O | cause O | such O | reactions O | . O | Over O | two O | years O | for O | pain B-Symptom | to O | subside O | . O | Acupuncturist O | agrees O | . O | He O | too O | has O | patients O | who O | were O | prescribed O | Lipitor B-Drug | and O | they O | experience O | similar O | reactions O | . O | A O | terrible O | drug O | that O | caused O | me O | excrutiation B-ADR | pain I-ADR | at O | times O | throughout O | my O | entire O | body O | . O | On O | Lipitor B-Drug | for O | only O | three O | and O | a O | half O | weeks O | . O | Over O | two O | years O | to O | rid O | myself O | of O | the O | pain B-Symptom | . O | Getting O | out O | of O | a O | car O | was O | an O | ordeal O | ? O | it O | was O | that O | painful B-Symptom | . O | Take O | the O | goddamn O | stuff O | off O | the O | market O | . O |
+
+Structured Output:
+T1 Symptom 8 13 muscle pain
+T2 Symptom 24 31 tendons
+T3 Disease 48 56 arthritis
+T4 Symptom 65 69 pain
+T5 Drug 76 82 Lipitor
+T6 ADR 90 108 excrutiation pain
+T7 Drug 120 126 Lipitor
+T8 Symptom 156 160 pain
+T9 Symptom 193 198 painful

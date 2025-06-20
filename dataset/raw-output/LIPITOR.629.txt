@@ -1,0 +1,19 @@
+BIO Sequence:
+Back O | pain B-Symptom | , O | Lipitor B-Drug | seems O | to O | be O | involved O | . O | In O | November O | of O | 2005 O | I O | was O | prescribed O | Lipitor B-Drug | for O | elevated O | cholesterol B-Disease | . O | Not O | really O | high O | , O | but O | high O | enough O | , O | dosage O | was O | only O | 20 B-Drug | mg I-Drug | per O | day O | . O | Within O | two O | months O | , O | I O | had O | developed O | wicked O | back B-Symptom | pain I-Symptom | , O | along O | with O | neuropathy B-ADR | and O | hypersensitivity B-ADR | that O | wrapped O | around O | my O | abdomen O | . O | We O | suspected O | the O | Lipitor B-Drug | was O | involved O | , O | so O | I O | went O | off O | it O | , O | since O | my O | numbers O | had O | gotten O | really O | low O | . O | I O | was O | effectively O | laid O | up O | for O | about O | six O | months O | . O | Since O | there O | was O | no O | immediate O | improvement O | , O | we O | surmised O | that O | Lipitor B-Drug | wasn't O | causing O | this O | . O | It O | 's O | October O | 2006 O | now O | , O | and O | I O | 'm O | starting O | to O | feel O | more O | like O | myself O | , O | still O | hurts O | but O | I O | can O | work O | around O | it O | . O | The O | cholesterol B-Disease | has O | crept O | up O | , O | so O | two O | weeks O | ago O | we O | started O | the O | Lipitor B-Drug | again O | , O | and O | within O | a O | few O | days O | I O | was O | paractically O | flat O | on O | my O | back B-Symptom | again O | ! O | So O | , O | I O | 've O | stopped O | again O | . O | It O | 's O | a O | bloody O | shame O | this O | is O | happening O | , O | as O | the O | drug B-Drug | was O | extremely O | effective O | in O | dropping O | that O | cholesterol B-Disease | . O | Too O | bad O | , O | we O | 're O | going O | to O | have O | to O | try O | something O | else O | , O | I O | guess O | . O
+
+Structured Output:
+T1 Symptom 5 9 pain
+T2 Drug 34 40 Lipitor
+T3 Drug 73 79 Lipitor
+T4 Disease 84 93 cholesterol
+T5 Drug 123 126 20
+T6 Symptom 138 147 back pain
+T7 ADR 166 175 neuropathy
+T8 ADR 177 192 hypersensitivity
+T9 Drug 215 221 Lipitor
+T10 ADR 239 245 Lipitor
+T11 Disease 287 296 cholesterol
+T12 Drug 308 314 Lipitor
+T13 Symptom 360 363 back
+T14 Drug 399 404 drug
+T15 Disease 412 421 cholesterol

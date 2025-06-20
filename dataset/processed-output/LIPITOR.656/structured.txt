@@ -1,0 +1,14 @@
+T1 Drug 20 23 10
+T2 Drug 25 31 Lipitor
+T3 Symptom 102 108 speech
+T4 Symptom 113 121 swallowing
+T5 Symptom 122 130 problems
+T6 Symptom 198 204 speech
+T7 Symptom 209 217 swallowing
+T8 Disease 261 264 ALS
+T9 Symptom 423 429 speech
+T10 Symptom 434 442 swallowing
+T11 Drug 463 469 Lipitor
+T12 Symptom 482 487 memory
+T13 Drug 539 544 Lipitor
+T14 Drug 554 560 statin

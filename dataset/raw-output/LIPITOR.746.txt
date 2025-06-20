@@ -1,0 +1,21 @@
+BIO Sequence:
+After O | being O | on O | Lipitor B-Drug | for O | only O | two O | months O | , O | I O | was O | experiencing O | debilitating O | muscle B-Symptom | pain I-Symptom | in O | my O | arms B-Symptom | , O | legs B-Symptom | and O | back B-Symptom | . O | Additionally O | , O | I O | was O | experiencing O | severe O | cramping B-ADR | in O | my O | legs B-Symptom | and O | back I-Symptom | . O | The O | good O | news O | was O | that O | my O | cholesterol B-Disease | dropped O | from O | 269 O | to O | 160 O | . O | The O | bad O | news O | was O | that O | long O | term O | , O | it O | would O | likely O | impact O | the O | heart B-Disease | muscle I-Disease | . O | Once O | the O | doctor O | saw O | the O | CPK B-Drug | levels O | on O | my O | next O | liver B-Disease | function O | test O | , O | he O | called O | ( O | himself O | ) O | and O | said O | to O | stop O | taking O | Lipitor B-Drug | immediately O | . O | Interestingly O | , O | Niaspan B-Drug | had O | the O | same O | effect O | . O | I O | 'm O | currently O | trying O | a O | therapy O | of O | 6000 O | mg O | . O | of O | vitamin B-Drug | C I-Drug | daily O | . O | An O | interesting O | site O | for O | information O | on O | this O | is O | www.newmediaexplorer.org/sepp/2003/11/09/ vitamin_c_beats_statins_in_cholesterol_heart_disease.htm O | and O | http://www.cqs.com/lipitor.htm O | . O | I O | 'll O | post O | again O | after O | I O | have O | my O | next O | cholesterol B-Disease | test O | ( O | 2/7 O | ) O | and O | see O | what O | the O | vitamin B-Drug | C I-Drug | has O | done O | . O | I O | 'm O | not O | certain O | that O | any O | of O | the O | statins B-Drug | are O | worth O | the O | risk O | . O 
+
+Structured Output:
+T1 Drug 21 28 Lipitor
+T2 Symptom 56 70 muscle pain
+T3 Symptom 73 77 arms
+T4 Symptom 79 83 legs
+T5 Symptom 88 92 back
+T6 ADR 109 117 cramping
+T7 Symptom 120 124 legs
+T8 Symptom 130 134 back
+T9 Disease 149 158 cholesterol
+T10 Disease 195 200 heart muscle
+T11 Drug 222 226 CPK
+T12 Drug 248 255 Lipitor
+T13 Drug 258 265 Niaspan
+T14 Drug 295 302 vitamin C
+T15 Disease 384 393 cholesterol
+T16 Drug 395 400 vitamin C
+T17 Drug 404 411 statins

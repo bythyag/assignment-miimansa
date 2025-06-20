@@ -1,0 +1,6 @@
+T1 Symptom 10 15 aches
+T2 Symptom 18 21 gas
+T3 Symptom 23 31 depressed
+T4 Symptom 37 41 lack
+T5 Symptom 44 53 motivation
+T6 Drug 81 85 drug

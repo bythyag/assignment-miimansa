@@ -1,0 +1,11 @@
+BIO Sequence:
+None O | Maybe O | I'm O | just O | lucky O | . O | I O | went O | from O | 80 B-Drug | mg O | zocor B-Drug | to O | 40 O | then O | 80 B-Drug | mg O | lipitor B-Drug | all O | with O | no O | discernible O | side B-ADR | effects I-ADR | . O | Without O | statins B-Drug | my O | TC O | is O | around O | 300 O | , O | with O | 80 B-Drug | mg O | lipitor B-Drug | it O | is O | a O | consistent O | 140 O | . O | Nothing O | else O | worked O | to O | bring O | it O | down O | and O | I O | nearly O | died O | with O | 99% O | blockage O | of O | the O | LAD B-Disease | before O | an O | angioplasty B-Disease | and O | going O | on O | statins B-Drug | . O | Both O | my O | grandfather O | and O | father O | dropped O | dead O | in O | their O | early O | sixties O | . O | For O | me O | , O | this O | is O | a O | wonder O | drug O | . O
+
+Structured Output:
+T1 Drug 35 40 zocor
+T2 Drug 48 55 lipitor
+T3 Drug 79 84 statins
+T4 Drug 99 104 lipitor
+T5 Disease 118 121 LAD
+T6 Disease 125 138 angioplasty
+T7 Drug 140 147 statins

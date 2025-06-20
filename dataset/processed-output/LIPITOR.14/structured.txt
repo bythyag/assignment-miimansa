@@ -1,0 +1,18 @@
+T1 Drug 43 50 Lipitor
+T2 Symptom 72 76 pain
+T3 Disease 102 111 inflammed ligaments
+T4 Disease 116 122 bursae
+T5 Symptom 142 146 Nerve pain
+T6 Symptom 166 172 burning
+T7 Drug 213 220 Lipitor
+T8 Drug 232 240 Lipitor
+T9 Symptom 274 278 pain
+T10 ADR 336 341 pains
+T11 Drug 356 363 Lipitor
+T12 Drug 401 405 Lipitor
+T13 Symptom 418 422 pain
+T14 Drug 467 482 Red Yeast Rice
+T15 Drug 486 492 COQ10
+T16 Drug 511 517 Vitamin C
+T17 Drug 533 539 Lipitor
+T18 Symptom 594 600 symptoms

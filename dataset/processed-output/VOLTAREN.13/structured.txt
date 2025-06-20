@@ -1,0 +1,7 @@
+T1 ADR 18 33 allergic reaction  
+T2 ADR 43 48 itchy  
+T3 Symptom 54 59 sore throat  
+T4 Symptom 60 67 burning  
+T5 Symptom 69 73 itchy  
+T6 Symptom 79 87 numbness  
+T7 Drug 100 108 Benadryl

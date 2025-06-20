@@ -1,0 +1,10 @@
+T1 Symptom 40 44 pain
+T2 ADR 61 67 side affects
+T3 Disease 83 91 menstrual cycle
+T4 Symptom 106 113 bleeding
+T5 Symptom 115 121 Nausea
+T6 Symptom 143 151 Irregular cramping
+T7 Symptom 166 170 hip pain
+T8 Symptom 185 191 period
+T9 ADR 218 226 nauseous
+T10 Drug 250 258 medication

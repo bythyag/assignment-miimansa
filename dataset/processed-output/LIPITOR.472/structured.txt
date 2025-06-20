@@ -1,0 +1,14 @@
+T1 Symptom 0 12 Muscle pain
+T2 Symptom 14 18 feet
+T3 Symptom 20 29 shoulders
+T4 Symptom 31 44 chest muscle
+T5 Symptom 46 51 arms
+T6 Symptom 53 61 Tingling
+T7 Symptom 63 75 extremities
+T8 Symptom 80 94 chronic fatigue
+T9 Symptom 96 103 Headache
+T10 Drug 228 233 5 pound sledge
+T11 Symptom 275 282 severe arthritis
+T12 Disease 344 354 digestive problems
+T13 Symptom 366 373 headache
+T14 Symptom 391 395 pain

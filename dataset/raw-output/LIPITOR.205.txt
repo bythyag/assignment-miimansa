@@ -1,0 +1,38 @@
+BIO Sequence:
+Alopecia B-Disease | , O | nausea B-ADR | , O | vomiting B-ADR | , O | severe O | back B-Symptom | and O | hip B-Symptom | pain I-Symptom | , O | depression B-Symptom | , O | dark O | thoughts B-Symptom | , O | overwhelming O | exhaustion B-Symptom | and O | muscle B-Symptom | fatigue I-Symptom | , O | sleeplessness B-Symptom | , O | facial B-Symptom | paralysis I-Symptom | , O | loss O | of O | quality O | of O | life O | . O | Have O | been O | on O | Lipitor B-Drug | for O | approx O | . O | 2 O | 1/2 O | years O | . O | Within O | 5 O | months O | experienced O | alopecia B-Disease | , O | which O | I O | had O | never O | had O | before O | and O | excused O | as O | stress O | related O | . O | Nausea B-ADR | and O | vomiting B-ADR | began O | several O | months O | later O | , O | if O | taken O | within O | a O | 3-4 O | hours O | of O | eating O | . O | Then O | within O | a O | year O | of O | being O | on O | the O | medication O | , O | I O | experienced O | severe O | facial B-Symptom | paralysis I-Symptom | diagnosed O | as O | Bell's B-Disease | Palsey I-Disease | . O | Severe O | hip B-Symptom | and O | back B-Symptom | pain I-Symptom | followed O | , O | along O | with O | depression B-Symptom | , O | thoughts B-Symptom | of O | suicide B-Symptom | and O | paranoia B-Symptom | . O | The O | overwhelming O | exhaustion B-Symptom | that O | I O | felt O | every O | morning O | for O | over O | a O | year O | intensified O | . O | I O | have O | tried O | altering O | when O | I O | take O | Lipitor B-Drug | but O | it O | did O | not O | help O | with O | the O | nausea B-ADR | . O | I O | stopped O | taking O | the O | Lipitor B-Drug | 45 O | days O | ago O | after O | I O | began O | to O | experience O | hair B-Symptom | loss I-Symptom | again O | . O | I O | researched O | Lipitor B-Drug | in O | a O | pharmacy O | book O | and O | realized O | hair B-Symptom | loss I-Symptom | , O | along O | with O | most O | of O | my O | other O | ailments O | , O | were O | side O | effects O | . O | I O | started O | noticing O | improvement O | during O | the O | first O | 30 O | days O | . O | At O | 45 O | days O | , O | my O | facial B-Symptom | paralysis I-Symptom | is O | 99% O | gone O | , O | I O | wake O | rested O | , O | my O | back B-Symptom | and O | hip B-Symptom | pain I-Symptom | are O | slowly O | improving O | and O | my O | overall O | mental O | wellbein O | . O
+
+Structured Output:
+T1 Disease 0 8 Alopecia
+T2 ADR 10 16 nausea  
+T3 ADR 18 25 vomiting  
+T4 Symptom 31 35 back  
+T5 Symptom 40 43 hip  
+T6 Symptom 44 48 pain  
+T7 Symptom 50 59 depression  
+T8 Symptom 61 66 thoughts  
+T9 Symptom 68 88 exhaustion  
+T10 Symptom 90 95 fatigue  
+T11 Symptom 97 108 sleeplessness  
+T12 Symptom 110 126 paralysis  
+T13 Disease 128 138 Bell's Palsey  
+T14 Symptom 154 157 hip  
+T15 Symptom 162 165 pain  
+T16 Symptom 173 179 thoughts  
+T17 Symptom 186 198 suicide  
+T18 Symptom 201 208 paranoia  
+T19 Symptom 210 223 exhaustion  
+T20 Drug 226 232 Lipitor  
+T21 Disease 243 251 alopecia  
+T22 ADR 257 263 Nausea  
+T23 ADR 271 278 vomiting  
+T24 Drug 290 296 Lipitor  
+T25 ADR 327 333 nausea  
+T26 Drug 341 347 Lipitor  
+T27 Symptom 357 360 hair  
+T28 Symptom 364 368 loss  
+T29 Drug 382 388 Lipitor  
+T30 Symptom 397 401 loss  
+T31 Symptom 553 563 facial paralysis  
+T32 Symptom 641 645 back  
+T33 Symptom 653 656 hip  
+T34 Symptom 671 677 mental wellbein  

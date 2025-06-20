@@ -1,0 +1,9 @@
+T1 Symptom 0 8 Paranoia
+T2 Symptom 10 16 anxiety
+T3 Drug 30 33 LDL
+T4 Drug 37 48 cholesterol
+T5 Drug 54 66 triglycerides
+T6 ADR 69 79 psychiatric
+T7 ADR 81 84 side
+T8 ADR 86 92 effects
+T9 ADR 98 103 harsh

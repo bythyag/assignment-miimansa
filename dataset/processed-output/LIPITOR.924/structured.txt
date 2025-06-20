@@ -1,0 +1,7 @@
+T1 ADR 24 37 side effects
+T2 Drug 52 59 lipitor
+T3 Drug 62 68 lipitor
+T4 Disease 88 98 cholesterol
+T5 Drug 104 111 lipitor
+T6 Drug 115 121 lipitor
+T7 Disease 123 134 dependancy

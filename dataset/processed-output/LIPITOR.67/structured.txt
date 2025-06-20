@@ -1,0 +1,21 @@
+T1 Symptom 0 6 Severe  
+T2 Symptom 7 13 muscle  
+T3 Symptom 14 21 cramping  
+T4 Symptom 0 6 Muscle  
+T5 Symptom 8 15 weakness  
+T6 Drug 0 6 Lipitor  
+T7 Symptom 49 55 muscle  
+T8 Symptom 56 62 spasms  
+T9 Symptom 63 70 cramping  
+T10 Symptom 43 56 severe leg  
+T11 Symptom 0 8 Crippling  
+T12 Symptom 0 5 cramps  
+T13 Drug 29 35 Lipitor  
+T14 Symptom 37 42 muscle  
+T15 Symptom 64 70 cramping  
+T16 Symptom 0 7 fingers  
+T17 Symptom 18 26 twitching  
+T18 Symptom 0 5 Legs  
+T19 Symptom 12 20 twitching  
+T20 Symptom 0 5 awful  
+T21 Symptom 6 12 cramps

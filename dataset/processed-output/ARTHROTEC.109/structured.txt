@@ -1,0 +1,5 @@
+T1 Symptom 9 15 stomach
+T2 Symptom 44 48 pain
+T3 Symptom 66 72 stomach
+T4 Symptom 95 100 pain
+T5 Symptom 116 131 MISERABLE

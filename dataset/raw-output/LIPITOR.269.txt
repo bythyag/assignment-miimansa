@@ -1,0 +1,67 @@
+BIO Sequence:
+deppression B-Symptom | , O | weakness B-Symptom | , O | fatigue B-Symptom | , O | muscle B-Symptom | pain I-Symptom | and O | stiffness B-Symptom | in O | neck B-Symptom | , O | numbness B-Symptom | and O | tingling B-Symptom | in O | extremeties B-Symptom | , O | gas B-Symptom | , O | bloating B-Symptom | indegestion B-Symptom | , O | stuffy B-Symptom | nose B-Symptom | , O | plugged B-Symptom | ears B-Symptom | , O | lack B-Symptom | of O | balance B-Symptom | and O | cooridination B-Symptom | , O | kidney B-Disease | stone I-Disease | , O | bronchitis B-Disease | , O | increased B-Symptom | cough I-Symptom | , O | abdominal B-Symptom | hematoma I-Symptom | from O | bleeding B-Symptom | in O | my O | abdomen B-Symptom | after O | coughing B-Symptom | and O | rupturing B-Symptom | a O | blood B-Symptom | vessel I-Symptom | . O | decreased B-Symptom | immune B-Symptom | system I-Symptom | , O | elevated B-Symptom | wbc I-Symptom | , O | s I-Symptom | , O | trouble B-Symptom | swallowing I-Symptom | , O | hoarse B-Symptom | voice B-Symptom | , O | chest B-Symptom | pain I-Symptom | shortness B-Symptom | of O | breath B-Symptom | , O | decreased B-Symptom | sense B-Symptom | of O | smell B-Symptom | and O | taste B-Symptom | , O | irregular B-Symptom | periods I-Symptom | abnormal B-Symptom | uterine B-Symptom | bleeding I-Symptom | , O | decreased B-Symptom | progesterone B-Symptom | production I-Symptom | , O | dark B-Symptom | urine B-Symptom | , O | tooth B-Symptom | decay I-Symptom | , O | anxiety B-Symptom | , O | anemia B-Disease | , O | back B-Symptom | pain I-Symptom | . O | I O | felt O | like O | I O | was O | being O | poisoned B-ADR | for O | the O | 3 O | years O | I O | was O | on O | it O | esp. O | the O | last O | several O | months O | after O | my O | dosage B-Drug | was O | increased O | to O | 40 O | mg I-Drug | . O | and O | I O | was O | being O | poisoned B-ADR | !!! O | by O | lipitor B-Drug | !! O | I O | have O | been O | off O | it O | now O | for O | 9 O | months O | and O | feel O | much O | better O | but O | still O | have O | residual B-ADR | side B-ADR | effects I-ADR | a O | constant B-ADR | vibrating I-ADR | down O | left O | leg B-Symptom | , O | muscle B-Symptom | and O | joint B-Symptom | pain I-Symptom | on O | and O | off O | still O | never O | got O | back O | all O | my O | smell B-Symptom | and O | taste B-Symptom | and O | still O | not O | making O | progestero B-Symptom | . O | I O | have O | been O | a O | nurse B-Profession | for O | the O | past O | 25 O | years O | and O | have O | seen O | the O | devistation B-ADR | of O | these O | dangerous O | over B-ADR | perscribed I-ADR | drugs I-ADR | every O | day O | I O | go O | to O | work O | . O | The O | increase B-Symptom | in O | kidney B-Disease | failure I-Disease | from O | patients O | on O | it O | the O | increase B-Symptom | in O | infections I-Symptom | , O | auto O | immune B-Disease | diseases I-Disease | , O | and O | the O | over O | all O | ill O | health O | of O | these O | patients O | increased B-Symptom | confusion B-Symptom | muscle B-Symptom | pain I-Symptom | and O | weakness I-Symptom | trouble B-Symptom | walking I-Symptom | increased B-Symptom | bleeding I-Symptom | in O | patients O | on O | statin B-Drug | drugs I-Drug | . O 
+
+Structured Output:
+T1 Symptom 0 11 deppression
+T2 Symptom 12 20 weakness
+T3 Symptom 21 28 fatigue
+T4 Symptom 29 40 muscle pain
+T5 Symptom 41 43 stiffness
+T6 Symptom 45 49 neck
+T7 Symptom 51 57 numbness
+T8 Symptom 59 66 tingling
+T9 Symptom 68 88 extremeties
+T10 Symptom 90 93 gas
+T11 Symptom 94 102 bloating
+T12 Symptom 103 112 indegestion
+T13 Symptom 114 120 stuffy nose
+T14 Symptom 122 126 plugged ears
+T15 Symptom 128 135 lack
+T16 Symptom 137 143 balance
+T17 Symptom 145 158 cooridination
+T18 Disease 160 171 kidney stone
+T19 Disease 173 182 bronchitis
+T20 Symptom 183 189 increased cough
+T21 Symptom 191 204 abdominal hematoma
+T22 Symptom 206 213 bleeding
+T23 Symptom 215 220 abdomen
+T24 Symptom 221 227 coughing
+T25 Symptom 229 239 rupturing
+T26 Symptom 241 255 blood vessel
+T27 Symptom 257 274 decreased immune system
+T28 Symptom 276 290 elevated wbc
+T29 Symptom 292 295 s
+T30 Symptom 297 315 trouble swallowing
+T31 Symptom 317 328 hoarse voice
+T32 Symptom 330 339 chest pain
+T33 Symptom 341 358 shortness of breath
+T34 Symptom 360 378 decreased sense of smell and taste
+T35 Symptom 380 398 irregular periods
+T36 Symptom 400 423 abnormal uterine bleeding
+T37 Symptom 425 460 decreased progesterone production
+T38 Symptom 462 473 dark urine
+T39 Symptom 475 486 tooth decay
+T40 Symptom 488 494 anxiety
+T41 Disease 496 501 anemia
+T42 Symptom 503 511 back pain
+T43 ADR 513 521 poisoned
+T44 ADR 523 530 poisoned
+T45 Drug 569 576 lipitor
+T46 ADR 585 594 residual side effects
+T47 ADR 596 610 constant vibrating
+T48 Symptom 612 619 left leg
+T49 Symptom 622 636 muscle and joint pain
+T50 ADR 639 646 devistation
+T51 ADR 649 661 dangerous over perscribed drugs
+T52 Symptom 663 668 increase
+T53 Disease 669 683 kidney failure
+T54 Symptom 685 695 increase
+T55 Symptom 697 707 infections
+T56 Disease 710 724 auto immune diseases
+T57 Symptom 727 731 ill
+T58 Symptom 733 739 increased confusion
+T59 Symptom 741 748 muscle pain
+T60 Symptom 750 757 weakness
+T61 Symptom 759 765 trouble walking
+T62 Symptom 767 775 increased bleeding
+T63 Drug 785 791 statin drugs

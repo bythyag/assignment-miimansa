@@ -1,0 +1,9 @@
+T1 Symptom 49 65 uterine cramping
+T2 Symptom 97 113 excruciating pain
+T3 Symptom 142 158 Heavy bleeding
+T4 Disease 224 231 uterine
+T5 Disease 234 241 vaginal
+T6 Drug 296 308 misoprostol
+T7 Drug 317 325 Arthrotec
+T8 Drug 358 362 drug
+T9 Drug 397 401 drug

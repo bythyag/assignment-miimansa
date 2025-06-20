@@ -1,0 +1,21 @@
+T1 Symptom 0 4 Back
+T2 Symptom 6 9 hip
+T3 Symptom 10 15 thigh
+T4 Symptom 17 21 knee
+T5 Symptom 22 26 pain
+T6 Symptom 50 54 gait
+T7 Symptom 57 67 Memory loss
+T8 Symptom 78 83 memory loss
+T9 Symptom 85 92 fatigue
+T10 ADR 103 108 pain
+T11 Drug 124 130 Lipitor
+T12 Drug 142 149 statins
+T13 ADR 183 191 side effects
+T14 ADR 195 200 side effects
+T15 Symptom 204 211 benefits
+T16 ADR 221 227 fatigue
+T17 ADR 229 236 muscle aches
+T18 ADR 267 281 uncomfortable
+T19 Disease 293 302 cholesterol
+T20 Disease 305 314 insurance company
+T21 Disease 347 357 insurance company

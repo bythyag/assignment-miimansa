@@ -1,0 +1,6 @@
+T1 Symptom 0 8 Dry mouth
+T2 Symptom 34 38 pain
+T3 Drug 42 49 propain
+T4 Drug 54 61 mypaid forte
+T5 Drug 63 71 Ibuprofen
+T6 Drug 73 83 Paracetamol

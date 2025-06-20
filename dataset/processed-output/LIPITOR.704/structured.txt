@@ -1,0 +1,9 @@
+T1 Symptom 0 5 memory loss
+T2 Disease 7 25 chronic muscle pain
+T3 Symptom 27 31 pain
+T4 Symptom 35 40 joints
+T5 Symptom 42 50 constant itching
+T6 Drug 66 72 Baycol
+T7 Drug 81 87 Lipitor
+T8 ADR 92 105 side effects
+T9 ADR 107 114 similar complaints

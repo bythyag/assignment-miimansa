@@ -1,0 +1,4 @@
+T1 Symptom 8 13 pains
+T2 ADR 20 27 vomited
+T3 Symptom 29 38 abdominal pain
+T4 ADR 48 61 severe vaginal bleeding

@@ -1,0 +1,3 @@
+T1 Symptom 0 4 pain
+T2 Symptom 18 23 aches
+T3 Symptom 32 38 misery

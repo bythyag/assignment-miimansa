@@ -1,0 +1,10 @@
+T1 Symptom 32 41 abdominal pain
+T2 ADR 43 51 jaundins
+T3 ADR 53 60 diahrea
+T4 ADR 62 67 sweats
+T5 ADR 69 78 hot flashes
+T6 Symptom 80 94 vaginal bleeding
+T7 Symptom 96 106 constipation
+T8 Disease 137 145 emergency room
+T9 ADR 150 162 side effects
+T10 Drug 164 174 medication

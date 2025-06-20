@@ -1,0 +1,11 @@
+BIO Sequence:
+Severe B-Symptom | headaches I-Symptom | . O | Memory B-Symptom | loss I-Symptom | and O | extreme B-Symptom | tiredness I-Symptom | . O | Dr B-Drug | wanted O | me O | to O | take O | 40mg B-Drug | per O | day O | and O | I O | said O | no O | . O | I O | would O | try O | the O | 20 B-Drug | mg O | . O | I O | am O | sensitive O | to O | medication B-Drug | . O | I O | was O | told O | to O | stop O | for O | a O | week O | and O | call O | back O | if O | my O | symptoms O | stop O | . O | I O | don't O | know O | if O | I O | want O | to O | take O | even O | a O | lower O | dosage B-Drug | . O
+
+Structured Output:
+T1 Symptom 1 15 Severe headaches
+T2 Symptom 17 34 Memory loss
+T3 Symptom 39 63 extreme tiredness
+T4 Drug 67 73 40mg
+T5 Drug 85 90 20
+T6 Drug 96 104 medication
+T7 Drug 138 144 dosage

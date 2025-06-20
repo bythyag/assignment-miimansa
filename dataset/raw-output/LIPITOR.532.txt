@@ -1,0 +1,11 @@
+BIO Sequence:
+Stomach B-Symptom | pain I-Symptom | , O | Gas B-Symptom | , O | Burping B-Symptom | , O | Diarhea B-Symptom | . O | I O | called O | the O | doctor O | today O | to O | report O | my O | issues O | . O | I O | am O | waiting O | on O | him O | to O | call O | back O | . O | Looks O | like O | I O | will O | need O | to O | get O | off O | of O | Lipitor B-Drug | . O | The O | stomach B-Symptom | pain I-Symptom | comes O | and O | goes O | and O | can O | become O | quite O | uncomfortable B-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 13 Stomach pain
+T2 Symptom 15 18 Gas
+T3 Symptom 20 27 Burping
+T4 Symptom 29 36 Diarhea
+T5 Drug 73 80 Lipitor
+T6 Symptom 98 105 stomach pain
+T7 Symptom 116 128 uncomfortable

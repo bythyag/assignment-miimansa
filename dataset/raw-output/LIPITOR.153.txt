@@ -1,0 +1,11 @@
+BIO Sequence:
+Jan O | . O | 15th O | , O | 2006 O | . O | I've O | only O | been O | taking O | lipitor B-Drug | for O | a O | week O | but O | I'm O | glad O | I O | came O | across O | this O | site O | as O | I O | myself O | have O | already O | been O | experiencing O | dizziness B-ADR | , O | lightheadedness B-ADR | bloating B-ADR | , O | excess B-ADR | gas B-ADR | adn O | mild O | stiffness B-ADR | of O | my O | fingers O | . O | Not O | to O | mention O | feeling O | tired B-Symptom | all O | the O | time O | . O
+
+Structured Output:
+T1 Drug 49 56 lipitor
+T2 ADR 96 104 dizziness
+T3 ADR 106 120 lightheadedness
+T4 ADR 122 129 bloating
+T5 ADR 131 137 excess gas
+T6 ADR 144 151 mild stiffness
+T7 Symptom 164 169 tired

@@ -1,0 +1,14 @@
+T1 Symptom 44 49 pains
+T2 Symptom 53 57 knee
+T3 Symptom 59 64 ankle
+T4 Symptom 66 74 big toe
+T5 Disease 91 95 gout
+T6 Disease 99 103 gout
+T7 Drug 152 158 Lipitor
+T8 ADR 217 221 pain
+T9 ADR 226 233 symptoms
+T10 Symptom 236 239 eg
+T11 Symptom 241 248 popping
+T12 Symptom 261 266 knee
+T13 Symptom 268 273 ankle
+T14 Symptom 275 282 big toe

@@ -1,0 +1,25 @@
+BIO Sequence:
+on O | 10mg O | tightness B-Symptom | and O | fatigue B-Symptom | in O | forearms B-Symptom | and O | legs B-Symptom | . O | Pain B-Symptom | in O | side B-Symptom | muscles I-Symptom | on O | one O | side O | of O | chest B-Disease | . O | Off O | balanced-ness B-Symptom | . O | However, O | I O | started O | to O | have O | these O | symptoms O | to O | a O | lesser O | degree O | two O | weeks O | before O | I O | started O | the O | Lipitor B-Drug | due O | to O | a O | viral B-Disease | upper I-Disease | respiratory I-Disease | infection I-Disease | . O | These O | symptoms O | increased O | with O | Lipitor B-Drug | and O | lessened O | when O | I O | went O | off O | it O | . O | Wondering O | if O | metabolic B-Disease | changes I-Disease | battling O | high O | cholesterol B-Disease | is O | the O | cause O | rather O | than O | the O | drug B-Drug | formulation I-Drug | itself O | . O | I O | will O | try O | taking O | Co-Enzyme B-Drug | Q I-Drug | to O | moderate O | side B-ADR | effects I-ADR | . O | I O | also O | take O | Zinc B-Drug | and O | Omega B-Drug | 3-6-9 I-Drug | capsules I-Drug | ( O | which O | lowers O | cholesterol B-Disease | ) O | . O
+
+Structured Output:
+T1 Symptom 24 34 tightness
+T2 Symptom 40 47 fatigue
+T3 Symptom 56 64 forearms
+T4 Symptom 69 73 legs
+T5 Symptom 76 81 Pain
+T6 Symptom 87 93 side
+T7 Symptom 94 101 muscles
+T8 Disease 109 114 chest
+T9 Symptom 124 139 balanced-ness
+T10 Drug 166 172 Lipitor
+T11 Disease 178 187 viral upper respiratory infection
+T12 Drug 193 199 Lipitor
+T13 Disease 206 215 metabolic changes
+T14 Disease 220 229 high cholesterol
+T15 Drug 249 253 drug
+T16 Drug 264 274 Co-Enzyme Q
+T17 ADR 292 300 side effects
+T18 Drug 305 310 Zinc
+T19 Drug 315 320 Omega
+T20 Drug 321 326 3-6-9
+T21 Disease 329 339 cholesterol

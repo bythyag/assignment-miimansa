@@ -1,0 +1,9 @@
+BIO Sequence:
+severe B-Symptom | muscle I-Symptom | pain I-Symptom | . O | It O | has O | been O | about O | seven O | years O | since O | I've O | been O | off O | this O | but O | I O | still O | have O | muscle B-Symptom | pains I-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 6 severe
+T2 Symptom 7 13 muscle
+T3 Symptom 14 18 pain
+T4 Symptom 66 72 muscle
+T5 Symptom 73 78 pains

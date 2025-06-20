@@ -1,0 +1,9 @@
+T1 Symptom 21 25 pain
+T2 Symptom 37 44 soreness
+T3 Symptom 68 72 pain
+T4 Symptom 77 83 pressure
+T5 Symptom 94 97 fog
+T6 Drug 98 104 Lipitor
+T7 Symptom 123 127 pain
+T8 Drug 130 136 Lipitor
+T9 ADR 175 194 extremely dangerous poison

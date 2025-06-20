@@ -1,0 +1,8 @@
+T1 Symptom 11 16 muscle pain
+T2 Symptom 22 26 back
+T3 Symptom 34 37 leg
+T4 Drug 63 69 Lipitor
+T5 ADR 89 101 achy legs
+T6 Symptom 117 121 back
+T7 Disease 147 153 bulging disc
+T8 Drug 173 179 Lipitor

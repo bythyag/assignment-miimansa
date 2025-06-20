@@ -1,0 +1,21 @@
+BIO Sequence:
+After O | taking O | Lipitor B-Drug | for O | 5 O | years O | : O | pain B-Symptom | in O | the O | knees B-Symptom | and O | feet B-Symptom | , O | neck B-Symptom | and O | shoulders B-Symptom | , O | abdominal B-Symptom | pain I-Symptom | and O | elbow B-Symptom | pain I-Symptom | . O | I O | recently O | completed O | 12 O | physical O | therapy O | sessions O | for O | severe B-ADR | and O | chronic B-Disease | tendonitis I-Disease | in O | my O | elbows O | and O | was O | released O | with O | no O | improvement O | . O | After O | searching O | the O | internet O | and O | reading O | comments O | from O | others O | who've O | taken O | Lipitor B-Drug | , O | I O | believe O | this O | drug O | has O | caused O | the O | severe B-ADR | pain I-ADR | I've O | experienced O | over O | the O | past O | 3 O | years O | . O | Countless O | MRIs B-Disease | and O | other O | tests O | have O | revealed O | no O | cause O | for O | the O | pain O | . O
+
+Structured Output:
+T1 Drug 8 14 Lipitor
+T2 Symptom 50 54 pain
+T3 Symptom 59 63 knees
+T4 Symptom 68 72 feet
+T5 Symptom 77 81 neck
+T6 Symptom 86 94 shoulders
+T7 Symptom 97 103 abdominal
+T8 Symptom 104 108 pain
+T9 Symptom 113 118 elbow
+T10 Symptom 119 123 pain
+T11 ADR 57 62 severe
+T12 Disease 73 81 chronic
+T13 Disease 82 91 tendonitis
+T14 Drug 193 199 Lipitor
+T15 ADR 149 154 severe
+T16 ADR 155 159 pain
+T17 Disease 188 193 MRIs

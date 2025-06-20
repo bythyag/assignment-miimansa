@@ -1,0 +1,18 @@
+BIO Sequence:
+Joint B-Symptom | pain I-Symptom | in O | shoulder O | , O | I O | could O | not O | lift O | my O | arms O | over O | my O | head O | . O | Extreme B-Symptom | pain I-Symptom | in O | upper B-Symptom | back I-Symptom | area O | . O | Pain B-Symptom | in O | knees O | , O | short B-Symptom | term I-Symptom | memory I-Symptom | loss I-Symptom | . O | Although O | the O | drug O | actually O | took O | me O | from O | a O | TC B-Disease | of O | 250 O | down O | to O | 174 O | , O | the O | side B-ADR | effects I-ADR | were O | just O | too O | much O | to O | bear O | . O | I O | was O | taking O | pain B-ADR | killers I-ADR | to O | numb O | out O | the O | pain I-ADR | from O | this O | drug O | . O | Unfortunately O | upon O | stopping O | my O | cholesterol B-Disease | went O | to O | 280 O | in O | 8 O | weeks O | . O | I O | am O | now O | starting O | Pravachol B-Drug | . O
+
+Structured Output:
+T1 Symptom 0 10 Joint pain  
+T2 Symptom 11 16 shoulder  
+T3 Symptom 20 25 Extreme pain  
+T4 Symptom 31 38 upper back  
+T5 Symptom 40 45 area  
+T6 Symptom 47 51 Pain  
+T7 Symptom 55 60 knees  
+T8 Symptom 62 81 short term memory loss  
+T9 Disease 95 104 TC  
+T10 ADR 129 143 side effects  
+T11 ADR 145 157 pain killers  
+T12 ADR 165 169 pain  
+T13 Disease 171 181 cholesterol  
+T14 Drug 189 197 Pravachol  

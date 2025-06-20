@@ -1,0 +1,7 @@
+BIO Sequence:
+muscle B-Symptom | pain I-Symptom | related O | to O | shoulders B-Symptom
+
+Structured Output:
+T1 Symptom 0 6 muscle
+T2 Symptom 7 11 pain
+T3 Symptom 20 28 shoulders

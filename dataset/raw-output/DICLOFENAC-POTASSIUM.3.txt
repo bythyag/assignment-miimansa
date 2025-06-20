@@ -1,0 +1,13 @@
+BIO Sequence:
+Well O | after O | 3 B-Symptom | days I O | consulted O | doctor O | with O | throat B-Symptom | pain I-Symptom | . O | Make O | a O | very O | long O | story O | short O | . O | After O | 3 B-Disease | days O | of O | use O | it O | gave O | me O | 3 B-Disease | esofogual I-Disease | uclers I-Disease | . O | Also O | couldn't O | eat B-Symptom | or O | drink B-Symptom | for O | over O | a O | week O | which O | isn't O | pretty O | . O | It's O | 3 B-Time | months O | later O | and O | I O | still O | can't O | eat B-Symptom | normal O | . O | I'm O | always O | sick B-Symptom | . O
+
+Structured Output:
+T1 Symptom 18 20 3
+T2 Symptom 46 52 throat pain
+T3 Disease 61 65 3
+T4 Disease 70 78 esofogual ulcers
+T5 Symptom 84 87 eat
+T6 Symptom 93 98 drink
+T7 Time 108 109 3
+T8 Symptom 137 140 eat
+T9 Symptom 146 150 sick

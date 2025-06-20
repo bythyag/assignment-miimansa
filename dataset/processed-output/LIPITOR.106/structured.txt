@@ -1,0 +1,16 @@
+T1 Symptom 6 12 anxiety
+T2 Symptom 19 26 paranoia
+T3 Drug 89 96 Norvasc
+T4 Symptom 115 122 symptoms
+T5 Drug 138 145 Norvasc
+T6 Drug 153 159 Diovan
+T7 Drug 242 248 Lipitor
+T8 Drug 286 293 Norvasc
+T9 Drug 298 308 amlodipine
+T10 Drug 318 325 Lipitor
+T11 Symptom 335 342 symptoms
+T12 Drug 370 374 Q10
+T13 Drug 376 386 Omega III
+T14 Drug 388 396 Nosterol
+T15 Drug 401 412 Vitamin E
+T16 Drug 418 424 Lipitor

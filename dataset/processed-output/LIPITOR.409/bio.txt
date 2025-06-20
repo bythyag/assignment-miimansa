@@ -1,0 +1,1 @@
+I O | feel O | fine O | while O | I O | am O | on O | it O | . O | No O | side B-ADR | effects I-ADR | . O | My O | Cholesterol B-Disease | went O | up O | after O | a O | couple O | day O | without O | it O | . O | I O | had O | my O | blood O | work O | and O | the O | cholesterol O | is O | 291 O | . O | I O | have O | Hypercholesterolemia B-Disease | . O

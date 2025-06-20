@@ -1,0 +1,6 @@
+T1 Symptom 10 19 vaginal bleeding
+T2 Symptom 21 29 cramping
+T3 ADR 76 83 bleeding
+T4 Drug 96 105 medication
+T5 Symptom 132 137 period
+T6 Symptom 168 176 cramping

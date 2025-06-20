@@ -1,0 +1,2 @@
+T1 Drug 20 29 medication
+T2 ADR 61 67 zombie

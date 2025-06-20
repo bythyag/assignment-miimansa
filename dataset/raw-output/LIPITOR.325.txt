@@ -1,0 +1,18 @@
+BIO Sequence:
+Due O | to O | bad O | family O | history O | and O | some O | early O | calcification O | , O | taking O | 10 O | mg O | at O | bed O | time O | quickly O | lowered O | total O | cholesterol O | to O | new O | target O | well O | under O | 200 O | . O | After O | taking O | it O | for O | 8 O | months O | developed O | widespread O | muscle B-Symptom | pain I-Symptom | - O | neck B-Symptom | , O | back B-Symptom | , O | hips B-Symptom | , O | legs B-Symptom | , O | and O | hands B-Symptom | . O | Aches B-Symptom | and O | pains I-Symptom | interupt O | sleep O | . O | Very O | stiff O | upon O | waking O | and O | hands O | hurt O | so O | much O | can O | ' O | t O | make O | a O | fist O | . O | Weakness B-Symptom | when O | standing O | after O | sitting O | . O | Early O | in O | the O | day O | I O | move O | like O | someone O | much O | older O | . O | Pain B-Symptom | diminishes O | throughout O | the O | day O | . O | lst O | doctor O | said O | probably O | had O | arthritis B-Disease | but O | could O | not O | explain O | overnight O | appearance O | or O | widespread O | discomfort O | . O | Second O | doctor O | said O | has O | been O | seeing O | lots O | of O | patients O | who O | have O | similar O | problem O | with O | statins B-Drug | and O | blood O | tests O | not O | confirming O | inflamation O | . O | Has O | suggested O | I O | stop O | taking O | for O | around O | 3 O | months O | to O | see O | if O | symptons B-Symptom | go O | away O | . O | If O | pain O | disappears O | will O | try O | another O | statin B-Drug | . O | Also O | taking O | Fosamax B-Drug | 35 O | . O |
+
+Structured Output:
+T1 Symptom 63 68 muscle pain
+T2 Symptom 70 74 neck
+T3 Symptom 76 80 back
+T4 Symptom 82 86 hips
+T5 Symptom 88 92 legs
+T6 Symptom 94 99 hands
+T7 Symptom 104 109 Aches
+T8 Symptom 114 119 pains
+T9 Symptom 126 131 Weakness
+T10 Disease 157 165 arthritis
+T11 Drug 209 215 statins
+T12 Symptom 229 238 symptons
+T13 Drug 253 259 statin
+T14 Drug 264 271 Fosamax

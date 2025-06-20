@@ -1,0 +1,13 @@
+T1 Symptom 0 16 Muscle Fatigue
+T2 Symptom 18 30 Memory Loss
+T3 Symptom 32 40 Cramping
+T4 Symptom 42 56 Cold Extremities
+T5 Symptom 58 75 Shortness of Breath
+T6 Symptom 77 92 General Fatigue
+T7 Symptom 94 112 Joint and Muscle Pain
+T8 Symptom 114 134 Inability to Sleep
+T9 Symptom 136 148 induced Depression
+T10 Drug 150 153 Med
+T11 Disease 175 182 Scaling
+T12 Drug 226 236 Medication
+T13 ADR 217 228 side affects

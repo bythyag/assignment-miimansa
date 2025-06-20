@@ -1,0 +1,14 @@
+BIO Sequence:
+Initially O | minor O | muscle B-Symptom | pain I-Symptom | but O | thought O | it O | was O | due O | to O | my O | working O | out O | . O | After O | two O | years O | of O | use O | - O | SEVERE B-Symptom | muscle I-Symptom | pain I-Symptom | in O | sholder B-Disease | and O | hip B-Disease | joints I-Disease | - O | random O | fluish B-Symptom | feeling I-Symptom | ( O | minor O | muscle B-Symptom | achs I-Symptom | all O | over O | ) O | - O | random O | low B-Symptom | energy I-Symptom | . O | Within O | two O | weeks O | of O | this O | sudden O | increase O | in O | pain O | , O | I O | was O | waking O | me O | up O | at O | night O | in O | pain O | . O | Pain O | immediately O | declined O | within O | a O | few O | days O | of O | stopping O | lipitor B-Drug | . O | Won't O | touch O | it O | . O | I O | don't O | know O | how O | long O | it O | will O | take O | for O | my O | muscles O | to O | heal O | now O | . O
+
+Structured Output:
+T1 Symptom 34 39 muscle pain
+T2 Symptom 68 73 SEVERE muscle pain
+T3 Disease 90 97 sholder
+T4 Disease 102 105 hip
+T5 Symptom 117 123 fluish feeling
+T6 Symptom 128 133 muscle achs
+T7 Symptom 138 141 low energy
+T8 Drug 204 210 lipitor
+T9 Symptom 253 257 pain
+T10 Symptom 315 320 muscles

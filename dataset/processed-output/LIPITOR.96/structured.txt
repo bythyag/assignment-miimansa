@@ -1,0 +1,5 @@
+T1 Symptom 28 42 muscle cramps
+T2 Symptom 44 55 uneasiness
+T3 ADR 67 75 HORRIBLE
+T4 ADR 100 113 bad side effects
+T5 Drug 120 126 ZETIA

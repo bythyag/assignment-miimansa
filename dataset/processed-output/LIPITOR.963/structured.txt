@@ -1,0 +1,4 @@
+T1 Symptom 0 12 sore muscles
+T2 Symptom 14 25 memory loss
+T3 Symptom 27 34 insomnia
+T4 Disease 44 54 cholesterol

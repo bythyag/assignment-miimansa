@@ -1,0 +1,19 @@
+T1 Disease 22 32 heart attack
+T2 Disease 41 57 emergency room
+T3 Symptom 92 96 pain
+T4 Disease 103 108 chest
+T5 Symptom 137 151 flushing
+T6 Symptom 156 168 sensation
+T7 Symptom 182 192 mid-torso
+T8 Disease 218 222 head
+T9 Symptom 244 251 tingling
+T10 Symptom 257 263 burning
+T11 Symptom 296 303 weakness
+T12 Symptom 308 313 doom
+T13 Symptom 340 345 chills
+T14 Disease 374 384 heart attack
+T15 Disease 387 393 shroke
+T16 Disease 397 402 stress
+T17 Disease 407 421 panic attack
+T18 Symptom 441 451 cholesterol
+T19 ADR 486 493 side effects

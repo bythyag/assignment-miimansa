@@ -1,0 +1,4 @@
+T1 Symptom 0 14 appetite increase
+T2 Symptom 19 25 stomach feels empty
+T3 Symptom 32 36 pain
+T4 Symptom 44 60 appetite increase

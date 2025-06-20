@@ -1,0 +1,5 @@
+T1 Drug 24 28 drug
+T2 Drug 45 50 10 mg
+T3 Disease 56 67 cholesteral
+T4 Disease 88 93 blood
+T5 ADR 111 124 side effects

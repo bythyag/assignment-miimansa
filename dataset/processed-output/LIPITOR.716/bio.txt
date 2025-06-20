@@ -1,0 +1,1 @@
+My O | Grandmother O | is O | in O | the O | hospital O | with O | side B-ADR | affect I-ADR | of O | a O | stroke B-Disease | , O | the O | Dr O | now O | think O | that O | it O | could O | be O | a O | reaction B-ADR | to O | Lipitor B-Drug | that O | she O | has O | been O | taking O | . O

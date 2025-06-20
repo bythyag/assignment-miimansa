@@ -1,0 +1,17 @@
+T1 Disease 42 51 gastritis
+T2 Symptom 56 60 pain
+T3 Symptom 64 70 abdomen
+T4 Symptom 72 80 headaches
+T5 Symptom 82 89 flushing
+T6 Test 94 113 abdominal ultrasound
+T7 Test 115 124 endoscopy
+T8 Test 132 135 CT
+T9 Test 136 141 scans
+T10 Test 143 146 MRI
+T11 Symptom 156 163 fatigue
+T12 Symptom 167 172 muscle pain
+T13 Symptom 174 182 headaches
+T14 Symptom 184 201 general malaise
+T15 Drug 218 222 drug
+T16 Drug 226 232 Lipitor
+T17 Drug 260 266 Lipitor

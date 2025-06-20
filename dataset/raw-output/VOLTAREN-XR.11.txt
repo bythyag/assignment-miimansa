@@ -1,0 +1,5 @@
+BIO Sequence:
+60 O | % O | effective O
+
+Structured Output:
+(no medical entities extracted)

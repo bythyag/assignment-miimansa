@@ -1,0 +1,4 @@
+T1 Symptom 0 7 weakness
+T2 Symptom 9 19 muscle pain
+T3 Symptom 21 30 knee pain
+T4 Symptom 32 42 memory loss

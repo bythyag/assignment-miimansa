@@ -1,0 +1,18 @@
+T1 Symptom 0 12 memory loss
+T2 Symptom 13 32 transient amnesia
+T3 Symptom 34 55 severe shoulder and knee pain
+T4 Symptom 57 65 insomnia
+T5 Symptom 67 83 extreme tiredness
+T6 Symptom 86 123 hard to get up in the AM and hard to stay awake
+T7 Symptom 126 145 crippling back pain
+T8 Symptom 147 157 depression
+T9 Symptom 159 173 loss of balance
+T10 Drug 176 185 Pravachol
+T11 Drug 191 196 Zocor
+T12 Drug 202 209 Lipitor
+T13 Drug 226 232 Lipitor
+T14 Drug 236 241 40mg
+T15 Drug 246 251 80mg
+T16 Disease 265 291 degenerative back disease
+T17 Disease 299 304 aging
+T18 ADR 406 412 Statins

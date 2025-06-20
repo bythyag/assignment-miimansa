@@ -1,0 +1,1 @@
+Some O | muscle B-Symptom | soreness I-Symptom | , O | but O | tolerable O | . O | However O | weight B-Symptom | gain I-Symptom | has O | been O | a O | problem O | . O | Several O | friends O | mentioned O | the O | same O | weight B-Symptom | gain I-Symptom | problem O | . O

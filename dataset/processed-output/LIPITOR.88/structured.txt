@@ -1,0 +1,11 @@
+T1 Symptom 0 7 tingling
+T2 Symptom 8 13 aches
+T3 Symptom 20 25 chest discomfort
+T4 Symptom 27 45 difficulty breathing
+T5 Symptom 47 57 stuffy nose
+T6 Symptom 59 75 weakness in legs
+T7 Symptom 77 86 back pain
+T8 Drug 88 92 drug
+T9 ADR 159 164 chest pains
+T10 ADR 172 189 difficulty breathing
+T11 Drug 281 285 drug

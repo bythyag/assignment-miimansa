@@ -1,0 +1,11 @@
+BIO Sequence:
+I O | have O | not O | clinically O | proved O | my O | theory O | yet O | , O | but O | I O | strongly O | believe O | that O | taking O | Lipitor B-Drug | for O | 4 O | years O | ended O | up O | giving O | me O | Multiple B-Disease | Sclerosis I-Disease | . O | I O | am O | a O | 37 O | yr O | old O | male O | , O | I O | was O | diagnosed O | with O | MS B-Disease | two O | months O | ago O | . O | My O | cholesterol O | was O | it's O | highest O | at O | 212 O | when O | my O | GP O | prescribed O | the O | drug O | . O | My O | total O | cholesterol O | while O | on O | it O | got O | down O | to O | 130 O | ish O | . O | This O | is O | too O | low O | in O | my O | opinion O | and O | my O | body O | began O | attacking O | my O | CNS B-Symptom | and O | now O | have O | to O | live O | with O | this O | . O | Again O | , O | this O | has O | not O | yet O | proven O | , O | nor O | have O | i O | gone O | down O | that O | road O | yet O | . O | Big O | Pharma O | wants O | to O | promote O | the O | use O | of O | statins B-Drug | to O | treat O | MS B-Disease | , O | when O | I O | stopped O | taking O | mine O | ( O | Jan O | 2010 O | ) O | that O | is O | when O | my O | symptoms O | became O | present O | ?? O | I O | may O | have O | been O | the O | human O | rat O | in O | that O | theory O | . O | To O | make O | matters O | even O | worse O | , O | the O | therapy O | my O | neurologist O | wants O | to O | put O | me O | on O | , O | just O | so O | happens O | to O | be O | the O | same O | company O | that O | mfg.'s O | Lipitor B-Drug | . O | hmmm! O | . O
+
+Structured Output:
+T1 Drug 69 76 Lipitor
+T2 Disease 83 101 Multiple Sclerosis
+T3 Disease 124 126 MS
+T4 Symptom 167 170 CNS
+T5 Drug 297 303 statins
+T6 Disease 319 321 MS
+T7 Drug 400 407 Lipitor

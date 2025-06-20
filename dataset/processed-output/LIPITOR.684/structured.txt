@@ -1,0 +1,10 @@
+T1 Symptom 0 15 Muscle spasms
+T2 Symptom 17 27 joint ache
+T3 Symptom 30 48 loss of muscle structure
+T4 Symptom 72 83 calf muscles
+T5 Symptom 93 98 tired
+T6 Symptom 103 107 ache
+T7 Drug 119 128 cholesterol
+T8 Drug 133 145 triglycerides
+T9 Drug 166 176 medication
+T10 Drug 180 192 triglycerides

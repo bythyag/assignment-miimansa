@@ -1,0 +1,11 @@
+BIO Sequence:
+been O | taking O | Lipitor B-Drug | for O | 15 O | years O | , O | have O | experienced O | all O | manner O | of O | side O | effects O | from O | irregullar B-Symptom | heartbeat I-Symptom | , O | sever B-ADR | fatigue I-ADR | and O | now O | have O | a O | fatty B-Disease | liver I-Disease | !!!! O | yet O | doctors O | insist O | i O | still O | take O | it O | , O | 40mg B-Drug | daily I-Drug | . O | I O | also O | has O | type B-Disease | 1 I-Disease | Diabetes I-Disease | for O | 35 O | years O | . O | Lipitor B-Drug | does O | its O | job O | but O | at O | what O | cost O | latter O | down O | the O | line O | !!!!! O
+
+Structured Output:
+T1 Drug 18 24 Lipitor
+T2 Symptom 62 77 irregullar heartbeat
+T3 ADR 83 89 sever fatigue
+T4 Disease 95 106 fatty liver
+T5 Drug 129 134 40mg
+T6 Disease 145 150 type 1 Diabetes
+T7 Drug 170 176 Lipitor

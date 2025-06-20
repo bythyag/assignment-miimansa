@@ -1,0 +1,12 @@
+BIO Sequence:
+Taking O | 10 O | mg. O | of O | Lipitor B-Drug | . O | Was O | getting O | some O | muscle B-ADR | aches I-ADR | . O | A O | few O | weeks O | ago O | , O | got O | severe B-Symptom | intense I-Symptom | left O | arm O | and O | shoulder O | pain B-Symptom | . O | My O | MD O | ( O | who O | did O | not O | want O | me O | to O | take O | it O | ) O | diagnosed O | a O | rotator B-Disease | cuff I-Disease | injury I-Disease | ( O | liver O | test O | came O | back O | normal O | ) O | . O | X-rays O | did O | not O | show O | a O | fracture O | & O | MRI O | did O | not O | show O | a O | tear O | . O | In O | the O | past O | 2 O | weeks O | the O | toes B-Symptom | ( O | esp. O | the O | big O | toe I-Symptom | ) O | on O | my O | left O | foot O | have O | started O | to O | twitch B-Symptom | . O | This O | is O | really O | scaring O | me O | because O | my O | father O | had O | Parkinson's B-Disease | . O | Also O | , O | in O | the O | last O | couple O | of O | days O | , O | I O | have O | started O | to O | get O | pain B-Symptom | between O | my O | shoulder O | blades O | . O | I O | have O | not O | had O | my O | cholesterol O | tested O | since O | I O | started O | taking O | it O | ; O | but O | I O | am O | stopping O | it O | today O | . O | It O | seems O | to O | work O | great O | for O | some O | people O | . O | But O | everyone O | should O | be O | very O | vigilant O | and O | check O | out O | any O | changes O | immediately O | . O | It O | is O | too O | easy O | to O | attribute O | a O | change O | to O | a O | pulled O | muscle O | or O | aging O | , O | etc O | Thanks O | for O | this O | website O | .
+
+Structured Output:
+T1 Drug 20 27 Lipitor
+T2 ADR 41 55 muscle aches  
+T3 Symptom 69 101 severe intense left arm and shoulder pain
+T4 Disease 119 136 rotator cuff injury
+T5 Symptom 147 155 twitch
+T6 Disease 227 237 Parkinson's
+T7 Symptom 253 288 pain between my shoulder blades
+T8 Disease 296 308 cholesterol

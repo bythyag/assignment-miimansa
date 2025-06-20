@@ -1,0 +1,27 @@
+BIO Sequence:
+My O | fingers B-Symptom | swelled O | up O | and O | hurt O | . O  
+I O | thought O | I O | had O | gout B-Disease | or O | arthritis B-Disease | . O  
+My O | joints B-Symptom | in O | my O | hands O | hurt O | . O  
+My O | knee B-Symptom | hurt O | . O  
+It O | hurt O | to O | bend O | my O | knee B-Symptom | . O  
+I O | took O | 10 O | mg O | . O | each O | day O | for O | 120 O | days O | . O  
+I O | stopped O | taking O | lipitor B-Drug | now O | for O | 40 O | days O | and O | joint B-Symptom | pain I-Symptom | is O | slowly O | improving O | and O | not O | as O | bad O | . O  
+I O | have O | lost O | trust O | in O | most O | doctors O | . O  
+they O | are O | only O | doing O | what O | they O | know O | , O | which O | is O | very O | little O | . O  
+there O | are O | natural O | remedies O | , O | such O | as O | niacin B-Drug | , O | walnuts B-Drug | , O | flaxseed B-Drug | , O | oat B-Drug | bran I-Drug | , O | just O | to O | name O | a O | few O | . O  
+
+Structured Output:
+T1 Symptom 10 16 fingers  
+T2 Disease 22 27 gout  
+T3 Disease 29 37 arthritis  
+T4 Symptom 44 50 joints  
+T5 Symptom 55 59 knee  
+T6 Symptom 69 73 knee  
+T7 Drug 88 95 lipitor  
+T8 Symptom 100 105 joint  
+T9 Symptom 106 110 pain  
+T10 Drug 122 128 niacin  
+T11 Drug 130 137 walnuts  
+T12 Drug 139 147 flaxseed  
+T13 Drug 149 151 oat  
+T14 Drug 153 157 bran  

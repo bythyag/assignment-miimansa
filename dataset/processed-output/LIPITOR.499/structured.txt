@@ -1,0 +1,5 @@
+T1 Symptom 0 12 Muscle pain
+T2 Symptom 14 30 muscle twitching
+T3 Symptom 32 39 fatigue
+T4 ADR 75 87 side effects
+T5 Drug 97 101 drug

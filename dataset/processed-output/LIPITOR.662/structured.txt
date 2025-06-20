@@ -1,0 +1,11 @@
+T1 Disease 23 33 cholesterol
+T2 ADR 68 84 muscle/joint pain
+T3 Symptom 93 97 legs
+T4 Symptom 99 105 thighs
+T5 Symptom 107 113 calves
+T6 Symptom 127 131 arms
+T7 ADR 142 145 pain
+T8 Symptom 162 166 limp
+T9 Disease 189 199 cholesterol
+T10 Disease 211 221 cholesterol
+T11 Disease 235 245 cholesterol

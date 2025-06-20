@@ -1,0 +1,10 @@
+T1 Symptom 43 47 pain
+T2 Symptom 51 55 heel
+T3 Disease 70 87 plantar fasciitis
+T4 Symptom 137 141 pain
+T5 Symptom 194 204 uncomfortable
+T6 Disease 240 250 orthopedist
+T7 Drug 348 354 Flector
+T8 ADR 458 466 puffiness
+T9 Symptom 470 474 pain
+T10 Symptom 672 682 comfortable

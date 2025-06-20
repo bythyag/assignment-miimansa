@@ -1,0 +1,1 @@
+severe B-Symptom | leg I-Symptom | pains I-Symptom

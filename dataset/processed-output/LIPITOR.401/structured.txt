@@ -1,0 +1,12 @@
+T1 Symptom 6 10 legs
+T2 Symptom 36 51 lack of concentration
+T3 Symptom 53 60 slurred speach
+T4 Symptom 64 68 loss
+T5 Symptom 71 77 balance
+T6 Disease 83 97 short term memory
+T7 Symptom 113 117 weak
+T8 Drug 127 134 Lipitor
+T9 Symptom 142 146 sore
+T10 Symptom 150 154 weak
+T11 Disease 165 177 high cholesterol
+T12 Drug 185 192 Lipitor

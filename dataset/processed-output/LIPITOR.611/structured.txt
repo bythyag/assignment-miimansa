@@ -1,0 +1,9 @@
+T1 Drug 0 6 Lipitor
+T2 Disease 34 45 fibromyalgia
+T3 Symptom 67 71 pain
+T4 Drug 112 118 Lipitor
+T5 ADR 161 170 agravating
+T6 Disease 171 183 fibromyalgia
+T7 Drug 198 204 Lipitor
+T8 Symptom 251 255 pain
+T9 Symptom 270 275 body pain

@@ -1,0 +1,20 @@
+T1 Symptom 40 54 muscle aches
+T2 Symptom 56 63 tingling
+T3 Symptom 68 71 arm
+T4 Symptom 76 80 hand
+T5 Symptom 82 86 sore shoulder
+T6 Symptom 88 95 fatigue
+T7 Symptom 97 101 poor sleep
+T8 Drug 126 135 cholesterol
+T9 Drug 161 168 lipitor
+T10 ADR 195 200 side affects
+T11 Drug 208 215 statins
+T12 Drug 218 225 Lipitor
+T13 Drug 232 239 lipitor
+T14 Symptom 276 280 arms
+T15 Symptom 283 288 hands
+T16 Drug 305 312 lipitor
+T17 Symptom 364 368 pain
+T18 Symptom 373 379 muscles
+T19 Symptom 391 398 fatigue
+T20 Drug 414 422 Pravachol

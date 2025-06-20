@@ -1,0 +1,8 @@
+T1 Disease 66 74 Arthritis
+T2 Drug 83 90 medicines
+T3 ADR 46 59 severe side-effects
+T4 Drug 139 143 pill
+T5 Disease 165 173 arthritis
+T6 Drug 207 214 pills
+T7 Drug 274 281 medicines
+T8 Drug 312 316 drug

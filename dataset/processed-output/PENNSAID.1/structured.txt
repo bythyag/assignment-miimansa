@@ -1,0 +1,12 @@
+T1 Symptom 13 30 extremely painful shoulder
+T2 ADR 64 69 relief
+T3 Symptom 90 94 flare
+T4 Symptom 106 111 joint pain
+T5 Disease 115 120 wrist
+T6 Symptom 137 140 pain
+T7 Symptom 144 149 relief
+T8 Disease 165 173 knee pain
+T9 Drug 178 185 voltaren
+T10 Drug 194 199 Advil
+T11 ADR 214 220 gastro effects
+T12 Disease 234 240 Rheumy

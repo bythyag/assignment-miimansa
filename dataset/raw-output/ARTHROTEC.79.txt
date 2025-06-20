@@ -1,0 +1,10 @@
+BIO Sequence:
+Nothing O | unusual O | or O | that O | Im O | aware O | of O | . O | I O | have O | some O | acid B-Disease | reflux I-Disease | thats O | developed O | over O | the O | last O | few O | years O | , O | which O | may O | not O | be O | related O | since O | it O | runs O | in O | the O | family O | . O | Works O | great O | ! O | Hard O | to O | function O | without O | ( O | pain B-Symptom | ) O | , O | when O | I O | ran O | out O | . O | Im O | probably O | addicted O | to O | it O | . O | Somewhat O | concerned O | about O | the O | long O | term O | effects O | and O | listed O | possible O | side B-ADR | effects I-ADR | , O | so O | I've O | only O | ever O | taken O | arthrotec B-Drug | 50 I-Drug | once O | daily O | rather O | than O | twice O | , O | which O | is O | just O | enough O | to O | manage O | my O | pain B-Symptom | levels O | . O | I O | feel O | it O | has O | a O | cummulative O | effect O | . O | maybe O | . O | I O | dont O | think O | anything O | will O | completely O | remove O | the O | pain B-Symptom | , O | and O | maybe O | shouldnt O | since O | it O | helps O | you O | to O | know O | whats O | going O | on O | . O | Else O | how O | much O | would O | you O | have O | to O | take O | , O | thus O | increasing O | your O | risk O | for O | possible O | adverse B-ADR | reactions I-ADR | . O
+
+Structured Output:
+T1 Disease 55 60 acid reflux
+T2 Symptom 92 96 pain
+T3 ADR 140 153 side effects
+T4 Drug 174 182 arthrotec
+T5 Symptom 192 196 pain
+T6 ADR 226 240 adverse reactions

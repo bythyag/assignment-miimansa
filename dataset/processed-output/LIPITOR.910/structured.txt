@@ -1,0 +1,4 @@
+T1 Drug 27 32 10mg
+T2 ADR 66 73 drugged
+T3 Drug 81 86 10mg
+T4 ADR 92 101 side effects

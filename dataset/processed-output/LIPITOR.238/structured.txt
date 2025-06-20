@@ -1,0 +1,2 @@
+T1 Symptom 8 15 weakness
+T2 Symptom 21 29 decreased stamina

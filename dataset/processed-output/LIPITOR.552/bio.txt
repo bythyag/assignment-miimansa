@@ -1,0 +1,1 @@
+left O | side O | of O | jaw O | itches B-Symptom | , O | left O | shoulder O | aches B-Symptom | and O | tingles B-Symptom | left O | leg O | iliotial B-Disease | band I-Disease | syndrome I-Disease | . O

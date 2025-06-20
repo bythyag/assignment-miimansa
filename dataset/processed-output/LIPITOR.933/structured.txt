@@ -1,0 +1,3 @@
+T1 Drug 21 25 drug
+T2 Symptom 65 74 depression
+T3 Symptom 82 91 suicidal thoughts

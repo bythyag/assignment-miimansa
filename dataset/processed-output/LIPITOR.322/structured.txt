@@ -1,0 +1,14 @@
+T1 Symptom 0 6 muscle weakness
+T2 Symptom 9 14 ankle
+T3 Symptom 16 33 plantar muscle
+T4 Symptom 36 40 back
+T5 Drug 51 57 lipitor
+T6 Disease 74 86 fibromyalgia
+T7 Symptom 119 133 disabilitating symptoms
+T8 Drug 154 160 lipitor
+T9 Disease 171 180 cholesterol
+T10 Symptom 276 283 cripple
+T11 Disease 305 313 cholesterol
+T12 Disease 326 335 cholesterol
+T13 Disease 353 363 high cholesterol
+T14 Disease 366 375 cholesterol lowering

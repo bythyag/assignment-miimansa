@@ -1,0 +1,13 @@
+BIO Sequence:
+after O | taking O | for O | about O | 1 O | yr O | , O | I O | noticed O | muscle B-Symptom | pain I-Symptom | and O | weakness B-Symptom | in O | both O | arms O | on O | and O | off O | . O | I O | ache B-Symptom | 24 O | hrs O | a O | day O | . O | This O | is O | now O | continous B-Symptom | for O | about O | 6 O | weeks O | . O | I O | called O | MD B-Drug | today O | , O | he O | said O | stop O | taking O | lipitor B-Drug | immediately O | and O | sent O | me O | to O | lab O | for O | blood B-Test | tests I-Test | to O | determine O | if O | any O | damage O | done O | to O | liver B-Disease | , O | muscles B-Disease | or O | heart B-Disease | . O | I O | wish O | I O | had O | called O | MD O | sooner O | . O | Hope O | if O | any O | damage O | , O | it O | is O | reversible O | . O
+
+Structured Output:
+T1 Symptom 27 32 muscle pain
+T2 Symptom 38 45 weakness
+T3 Symptom 51 55 ache
+T4 Symptom 63 73 continous
+T5 Drug 100 102 MD
+T6 Drug 116 123 lipitor
+T7 Disease 148 153 liver
+T8 Disease 156 162 muscles
+T9 Disease 167 172 heart

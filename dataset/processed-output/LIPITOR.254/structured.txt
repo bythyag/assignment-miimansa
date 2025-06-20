@@ -1,0 +1,10 @@
+T1 Symptom 34 39 muscle pain
+T2 Symptom 68 73 SEVERE muscle pain
+T3 Disease 90 97 sholder
+T4 Disease 102 105 hip
+T5 Symptom 117 123 fluish feeling
+T6 Symptom 128 133 muscle achs
+T7 Symptom 138 141 low energy
+T8 Drug 204 210 lipitor
+T9 Symptom 253 257 pain
+T10 Symptom 315 320 muscles

@@ -1,0 +1,12 @@
+BIO Sequence:
+The O | pill O | eliminated O | all O | pain B-Symptom | I O | felt O | in O | my O | hip B-Disease | , O | but O | it O | was O | hard O | on O | my O | stomach B-ADR | . O | On O | my O | 10th O | day O | of O | medication O | , O | I O | experienced O | vaginal B-Symptom | bleeding I-Symptom | . O | This O | scared O | me O | because O | it O | was O | two O | weeks O | after O | my O | normal O | period O | . O | There O | is O | something O | really O | fishy O | about O | this O | drug B-Drug | . O | I O | do O | not O | advise O | anyone O | to O | take O | it O | as O | there O | are O | many O | adverse B-ADR | side I-ADR | effects I-ADR | . O 
+
+Structured Output:
+T1 Symptom 46 50 pain
+T2 Disease 54 57 hip
+T3 ADR 73 80 stomach
+T4 Symptom 93 111 vaginal bleeding
+T5 Drug 129 133 drug
+T6 ADR 145 150 adverse
+T7 ADR 151 156 side
+T8 ADR 157 163 effects

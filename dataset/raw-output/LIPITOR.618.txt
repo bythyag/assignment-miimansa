@@ -1,0 +1,7 @@
+BIO Sequence:
+pain B-Symptom | in O | knee B-Symptom | and O | foot B-Symptom
+
+Structured Output:
+T1 Symptom 0 4 pain
+T2 Symptom 8 12 knee
+T3 Symptom 17 21 foot

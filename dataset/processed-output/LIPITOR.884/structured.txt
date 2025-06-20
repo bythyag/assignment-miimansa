@@ -1,0 +1,11 @@
+T1 Symptom 1 10 Indigestion
+T2 Symptom 77 86 Chest pains
+T3 Symptom 116 125 Neuropothy
+T4 Drug 50 56 statin
+T5 Drug 164 170 statin
+T6 Drug 204 210 statin
+T7 Drug 244 250 statin
+T8 Drug 261 266 Zocor
+T9 Drug 282 289 Lipitor
+T10 Drug 260 266 statins
+T11 Drug 243 249 statins

@@ -1,0 +1,18 @@
+T1 Disease 52 61 cholesterol
+T2 Drug 77 84 Lipitor
+T3 Disease 95 106 cholesterol
+T4 ADR 155 167 side effects
+T5 Symptom 178 182 pain
+T6 Disease 187 197 hipjoints
+T7 Drug 238 245 lipitor
+T8 Symptom 254 258 pain
+T9 Symptom 273 277 walk
+T10 Symptom 283 287 sit
+T11 Disease 303 313 hipjoints
+T12 ADR 377 391 side-effects
+T13 Drug 411 415 lipitor
+T14 Drug 463 467 drug
+T15 Symptom 487 494 wasting
+T16 Disease 499 506 muscles
+T17 Disease 517 527 wheelchair
+T18 Drug 552 559 medicine

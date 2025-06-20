@@ -1,0 +1,1 @@
+Severe B-Symptom | Joint I-Symptom | Pain I-Symptom | . O | Without O | lipitor B-Drug | total O | cholestrol B-Disease | is O | 300 O | and O | hdl B-Disease | is O | 72 O | . O | don't O | think O | i O | need O | the O | lipitor B-Drug | . O | the O | hdl O | is O | high O | because O | of O | the O | Chlorella B-Drug | ( O | 3grams O | daily I-Drug | ) O | . O

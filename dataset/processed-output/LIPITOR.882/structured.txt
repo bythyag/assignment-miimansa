@@ -1,0 +1,18 @@
+T1 ADR 25 34 side effects  
+T2 Symptom 37 41 weak legs  
+T3 Symptom 43 48 muscle  
+T4 Symptom 55 61 back soreness  
+T5 Symptom 64 68 ears ringing  
+T6 Symptom 70 74 feel bad  
+T7 ADR 91 101 cholesterol  
+T8 ADR 104 118 tryglycerides  
+T9 ADR 121 134 blood pressure  
+T10 Disease 145 158 by-pass surgery  
+T11 Disease 161 174 angioplasty  
+T12 Drug 175 180 Zocor  
+T13 Drug 185 192 Lipitor  
+T14 Drug 206 213 statins  
+T15 Drug 216 221 20mg  
+T16 Drug 227 232 40mg  
+T17 Drug 238 243 80mg  
+T18 Drug 267 274 medicine

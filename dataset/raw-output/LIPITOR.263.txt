@@ -1,0 +1,12 @@
+BIO Sequence:
+Aches B-Symptom | and O | pains B-Symptom | everywhere O | . O | Gradually O | diminished O | mental B-Symptom | acuity I-Symptom | and O | felt O | depressed B-Symptom | . O | Side O | effects B-ADR | came O | on O | slowly O | so O | I O | did O | not O | think O | it O | was O | the O | statin B-Drug | for O | quite O | a O | while O | . O | Bad O | side O | effects B-ADR | took O | about O | a O | week O | to O | 10 O | days O | to O | disappear O | after O | I O | stopped O | taking O | it O | . O | Will O | NEVER O | take O | another O | statin B-Drug | . O
+
+Structured Output:
+T1 Symptom 1 5 Aches  
+T2 Symptom 7 12 pains  
+T3 Symptom 52 64 mental acuity  
+T4 Symptom 69 77 depressed  
+T5 ADR 84 91 Side effects  
+T6 ADR 106 118 Bad side effects  
+T7 Drug 130 136 statin  
+T8 Drug 168 174 statin  

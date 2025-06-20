@@ -1,0 +1,6 @@
+BIO Sequence:
+tiredness B-Symptom | , O | some O | back B-Symptom | pain I-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 9 tiredness
+T2 Symptom 11 19 back pain

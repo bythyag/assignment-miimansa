@@ -1,0 +1,21 @@
+BIO Sequence:
+Leg B-Symptom | and O | toe B-Symptom | cramping I-Symptom | , O | leg B-Symptom | pain I-Symptom | , O | fasciculations B-Symptom | ( O | muscle O | twitches I-Symptom | ) O | , O | muscle B-Symptom | atrophy I-Symptom | , O | memory B-Symptom | problems I-Symptom | , O | peripheral B-Symptom | neuropathy I-Symptom | . O | I O | took O | Lipitor B-Drug | for O | 2 O | years O | and O | 9 O | months O | before O | I O | finally O | made O | the O | connection O | after O | a O | myriad O | of O | tests O | showed O | no O | other O | reason O | for O | my O | array O | of O | symptoms O | . O | Since O | then O | , O | I O | have O | done O | extensive O | research O | on O | statins B-Drug | and O | would O | warn O | anybody O | on O | them O | to O | watch O | out O | . O | Make O | sure O | you O | take O | supplemental O | CoQ-10 B-Drug | along O | with O | a O | statin B-Drug | . O | If O | you O | start O | to O | have O | any O | muscle B-ADR | problems I-ADR | , O | quit O | the O | drug O | while O | you O | still O | have O | a O | chance O | . O | My O | life O | has O | been O | changed O | completely O | for O | the O | worse O | and O | I O | will O | probably O | never O | completely O | recover O | from O | the O | damage O | caused O | by O | Lipitor B-Drug | . O 
+
+Structured Output:
+T1 Symptom 1 4 Leg  
+T2 Symptom 7 10 toe  
+T3 Symptom 11 19 cramping  
+T4 Symptom 21 24 leg  
+T5 Symptom 26 30 pain  
+T6 Symptom 32 42 fasciculations  
+T7 Symptom 45 56 muscle twitches  
+T8 Symptom 58 63 muscle  
+T9 Symptom 65 72 atrophy  
+T10 Symptom 74 83 memory problems  
+T11 Symptom 85 100 peripheral neuropathy  
+T12 Drug 115 121 Lipitor  
+T13 Drug 184 191 statins  
+T14 Drug 207 213 CoQ-10  
+T15 Drug 219 225 statin  
+T16 ADR 77 84 muscle problems  
+T17 Drug 124 130 Lipitor  

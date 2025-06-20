@@ -1,0 +1,13 @@
+BIO Sequence:
+Constant O | stomach B-Symptom | discomfort I-Symptom | and O | pain B-Symptom | , O | distension B-Symptom | , O | gas B-Symptom | , O | muscle B-Symptom | aches I-Symptom | , O | leg B-Symptom | cramps I-Symptom | . O | Experimentation O | with O | stopping O | the O | treatment O | for O | a O | few O | weeks O | brought O | relief B-Symptom | . O | On O | re-starting O | , O | the O | symptons B-Symptom | rapidly O | returned O | . O | I O | now O | intend O | to O | ask O | my O | doctor O | for O | an O | alternative B-Drug | . O
+
+Structured Output:
+T1 Symptom 9 16 stomach discomfort
+T2 Symptom 21 25 pain
+T3 Symptom 27 36 distension
+T4 Symptom 38 40 gas
+T5 Symptom 42 47 muscle aches
+T6 Symptom 49 54 leg cramps
+T7 Symptom 80 86 relief
+T8 Symptom 93 101 symptons
+T9 Drug 113 122 alternative

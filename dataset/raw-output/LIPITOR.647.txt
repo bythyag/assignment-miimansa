@@ -1,0 +1,9 @@
+BIO Sequence:
+My O | feet O | feel O | like O | I O | have O | stone B-Symptom | bruises I-Symptom | just O | in O | front O | of O | the O | heel O | . O | My O | hips O | hurt B-Symptom | on O | both O | sides O | when O | I O | get O | up O | . O | I O | walk O | like O | an O | old O | person O | . O | My O | doctor O | noticed O | a O | rough O | sound O | in O | my O | lungs O | and O | a O | heart B-Disease | murmur I-Disease | that O | was O | never O | mentioned O | before O | . O | I O | 'm O | having O | tests O | next O | week O | for O | both O | . O | I O | was O | OK O | taking O | 20mg O | but O | the O | doctor O | raised O | me O | to O | 40mg B-Drug | about O | 4 O | months O | ago O | . O | It O | 's O | only O | since O | then O | that O | I O | 've O | had O | these O | symptoms O | . O | I O | 'll O | probably O | quit O | completely O | though O | . O | I O | 'm O | not O | physically O | able O | to O | do O | anything O | much O | . O | And O | at O | a O | young O | 50 O | that O | is O | just O | not O | acceptable O | . O
+
+Structured Output:
+T1 Symptom 31 49 stone bruises
+T2 Symptom 71 75 hurt
+T3 Symptom 90 109 walk like an old person
+T4 Disease 137 142 heart murmur
+T5 Drug 175 179 40mg

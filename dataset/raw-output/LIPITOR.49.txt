@@ -1,0 +1,5 @@
+BIO Sequence:
+Maintains O | my O | cholesterol B-Disease | levels O | at O | normal O.
+
+Structured Output:
+T1 Disease 20 29 cholesterol

@@ -1,0 +1,17 @@
+BIO Sequence:
+Initially O | there O | were O | no O | side O | effects B-ADR | . O | It O | took O | the O | better O | part O | of O | two O | years O | for O | them O | to O | start O | appearing O | . O | During O | that O | time O | , O | my O | numbers O | were O | doing O | great O | ! O | But O | then O | , O | very O | gradually O | , O | things O | began O | to O | change O | . O | Fatigue B-Symptom | was O | the O | first O | symptom I-Symptom | for O | me O | . O | It O | hit O | hard O | ! O | I O | was O | retireing O | at O | 9PM O | when O | it O | used O | to O | be O | 11:30 O | . O | Then O | the O | muscle B-Symptom | and O | joint B-Symptom | pain I-Symptom | kicked O | in O | . O | I O | felt O | much O | older O | than O | I O | was O | . O | My O | family O | noticed O | the O | short B-Symptom | term I-Symptom | memory I-Symptom | loss I-Symptom | before O | I O | did O | . O | It O | was O | very O | embarrasing O | for O | me O | . O | The O | blisterey B-Symptom | rash I-Symptom | on O | my O | arms O | and O | legs O | had O | me O | concerned O | even O | more O | . O | What O | was O | wrong O | with O | me O | ? O | Is O | this O | what O | old O | age B-Disease | (62) O | should O | normally O | bring O | ? O | When O | my O | vision B-Symptom | became O | blurry O | , O | I O | started O | my O | search O | . O | That O | was O | in O | June O | of O | 2007 O | . O | By O | August O | 07 O | , O | I O | was O | off O | Lipitor B-Drug | for O | good O | . O | My O | cardiologist O | tried O | various O | substitutes O | without O | luck O | until O | we O | got O | to O | Simivastatin B-Drug | which O | seemed O | to O | work O | without O | the O | side O | effects B-ADR | . O
+
+Structured Output:
+T1 ADR 22 33 side effects
+T2 Symptom 105 112 Fatigue
+T3 Symptom 130 137 symptom
+T4 Symptom 162 168 muscle
+T5 Symptom 173 178 joint pain
+T6 Symptom 195 207 short term memory loss
+T7 Symptom 220 226 embarrasing
+T8 Symptom 232 242 blisterey rash
+T9 Disease 269 275 old age
+T10 Symptom 284 290 vision
+T11 Drug 346 353 Lipitor
+T12 Drug 385 397 Simivastatin
+T13 ADR 404 415 side effects

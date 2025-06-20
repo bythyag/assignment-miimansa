@@ -1,0 +1,9 @@
+T1 Symptom 0 6 severe
+T2 Symptom 7 11 pain
+T3 Symptom 18 22 calf
+T4 ADR 78 83 cramps
+T5 Symptom 92 96 calf
+T6 Symptom 103 107 pain
+T7 Symptom 122 126 trouble
+T8 Symptom 140 144 calf
+T9 Disease 168 178 cholesterol

@@ -1,0 +1,7 @@
+T1 Symptom 0 8 Diarrhea
+T2 Symptom 10 22 muscle pain
+T3 Symptom 24 36 joint aches
+T4 Drug 45 51 Lipitor
+T5 Disease 73 82 cholesterol
+T6 Symptom 119 127 strained muscles
+T7 Disease 164 168 type one diabetic

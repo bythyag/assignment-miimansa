@@ -1,0 +1,5 @@
+T1 Symptom 18 24 ocular migranes
+T2 Symptom 30 37 migranes
+T3 Symptom 63 70 migranes
+T4 Symptom 89 96 migranes
+T5 Drug 99 106 lipitor

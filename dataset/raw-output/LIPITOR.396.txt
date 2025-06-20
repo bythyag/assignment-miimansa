@@ -1,0 +1,20 @@
+BIO Sequence:
+Temporary O | constipation B-Symptom | relieved O | by O | fiber B-Drug | supplements I-Drug | , O | gone O | after O | about O | 6 O | weeks O | . O | Possibly O | increased O | hair B-ADR | loss I-ADR | - O | ( O | and O | I O | am O | female O | so O | it O | is O | really O | unfortunate O | ) O | but O | thinning O | hair O | among O | women O | at O | my O | age O | also O | runs O | in O | my O | mothers O | family O | so O | can’t O | really O | blame O | statins B-Drug | . O | I O | have O | a O | lipid B-Disease | problem I-Disease | that O | doesn’t O | respond O | to O | diet O | or O | exercise O | . O | Aggressive O | cholesterol B-Disease | management I-Disease | is O | my O | only O | option O | . O | Lipitor B-Drug | works O | . O | I O | take O | 40mgs/day B-Drug | , O | may O | be O | able O | to O | lower O | it O | since O | my O | total O | cholesterol O | dropped O | from O | 300 O | to O | 120 O | in O | two O | months O | . O | My O | doctor O | put O | me O | on O | CoQ B-Drug | 10 I-Drug | at O | the O | same O | time O | as O | the O | Lipitor B-Drug | , O | and O | explained O | possible O | side B-ADR | effects I-ADR | . O | Lipitor B-Drug | actually O | reversed O | blockages O | in O | one O | of O | my O | brothers O | . O | 4 O | out O | of O | 5 O | of O | us O | are O | on O | statins B-Drug | - O | 3 O | Lipitor I-Drug | . O | No O | serious O | bad O | effects O | . O | Try O | CoQ B-Drug | 10 I-Drug | to O | prevent/reduce O | side B-ADR | effects I-ADR | . O
+
+Structured Output:
+T1 Symptom 15 25 constipation
+T2 Drug 43 57 fiber supplements
+T3 ADR 73 81 hair loss
+T4 Drug 100 106 statins
+T5 Disease 124 129 lipid problem
+T6 Disease 145 155 cholesterol management
+T7 Drug 157 163 Lipitor
+T8 Drug 179 186 40mgs/day
+T9 Drug 191 194 CoQ
+T10 Drug 196 198 10
+T11 Drug 204 210 Lipitor
+T12 ADR 227 235 side effects
+T13 Drug 245 251 Lipitor
+T14 Drug 267 273 statins
+T15 Drug 280 286 Lipitor
+T16 ADR 295 303 side effects

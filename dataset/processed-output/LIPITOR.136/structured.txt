@@ -1,0 +1,10 @@
+T1 Symptom 0 6 Severe
+T2 Symptom 8 15 lethargy
+T3 Symptom 17 22 general
+T4 Symptom 23 27 body
+T5 Symptom 28 32 pain
+T6 Symptom 34 39 severe
+T7 Symptom 41 45 pain
+T8 Disease 47 50 hip
+T9 Disease 51 55 joint
+T10 Symptom 57 64 limping

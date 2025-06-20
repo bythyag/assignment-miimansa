@@ -1,0 +1,8 @@
+T1 Disease 123 135 chloresterol
+T2 Disease 218 230 chloresterol
+T3 Symptom 154 159 tired
+T4 Symptom 172 177 sleep
+T5 Symptom 257 269 non-existent
+T6 Symptom 294 299 aches
+T7 Symptom 315 318 leg
+T8 Symptom 353 364 tiredness

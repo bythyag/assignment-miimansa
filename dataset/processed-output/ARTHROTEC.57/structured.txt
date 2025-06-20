@@ -1,0 +1,2 @@
+T1 Symptom 15 22 spotting
+T2 Symptom 104 111 spotting

@@ -1,0 +1,17 @@
+BIO Sequence:
+Cramping B-Symptom | aching I-Symptom | muscles O | in O | legs B-Symptom | and O | back B-Symptom | . O | Flu-like B-Symptom | symptoms I-Symptom | and O | fatigue B-Symptom | . O | Foggy B-Symptom | , O | out-of-touch B-Symptom | feelings I-Symptom | and O | unable O | to O | concentrate B-Symptom | . O | I O | started O | out O | with O | zocor B-Drug | , O | but O | developed O | these O | adverse B-ADR | symptoms I-ADR | after O | 3 O | months O | . O | I O | stopped O | taking O | it O | and O | they O | went O | away O | . O | The O | doctor O | switched O | me O | to O | lipitor B-Drug | and O | the O | symptoms O | came O | right O | back O | . O | I O | will O | never O | take O | another O | statin B-Drug | type O | drug O | under O | any O | circumstances O | . O 
+
+Structured Output:
+T1 Symptom 0 7 Cramping
+T2 Symptom 8 14 aching
+T3 Symptom 22 26 legs
+T4 Symptom 30 34 back
+T5 Symptom 39 49 Flu-like symptoms
+T6 Symptom 55 61 fatigue
+T7 Symptom 63 68 Foggy
+T8 Symptom 70 84 out-of-touch feelings
+T9 Symptom 89 100 unable to concentrate
+T10 Drug 118 123 zocor
+T11 ADR 138 145 adverse symptoms
+T12 Drug 156 163 lipitor
+T13 Drug 169 175 statin

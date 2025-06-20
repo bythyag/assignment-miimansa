@@ -1,0 +1,11 @@
+BIO Sequence:
+Anxiety B-Disease | , O | depression B-Disease | , O | panic B-Symptom | attacks I-Symptom | , O | muscular B-Symptom | pain I-Symptom | , O | arrhythmia B-Symptom | . O | Disappeared O | a O | few O | days O | after O | I O | stopped O | taking O | Lipitor B-Drug | . O | I O | have O | a O | cholesterol O | number O | of O | 3,9 O | but O | still O | I O | was O | told O | to O | take O | Lipitor B-Drug | 20 O | mg O | . O
+
+Structured Output:
+T1 Disease 0 6 Anxiety
+T2 Disease 8 17 depression
+T3 Symptom 19 31 panic attacks
+T4 Symptom 33 41 muscular pain
+T5 Symptom 43 53 arrhythmia
+T6 Drug 62 68 Lipitor
+T7 Drug 100 106 Lipitor

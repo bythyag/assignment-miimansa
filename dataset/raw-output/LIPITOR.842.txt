@@ -1,0 +1,19 @@
+BIO Sequence:
+Over O | the O | course O | of O | the O | past O | year O | I've O | experienced O | , O | short B-Symptom | term I-Symptom | memory I-Symptom | loss I-Symptom | , O | extreme B-Symptom | fatigue I-Symptom | , O | joint B-Symptom | pain I-Symptom | , O | especially O | in O | my O | knees B-Symptom | . O | I O | also O | had O | reflux B-Symptom | , O | that O | until O | I O | found O | this O | site O | , O | thought O | it O | was O | unrelated O | . O | Doc O | put O | me O | on O | Lipitor B-Drug | , O | when O | I O | complained O | that O | Tricor B-Drug | was O | making O | me O | tired B-ADR | . O | Lipitor B-Drug | was O | 10X O | WORSE O | !!! O | . O | I O | WILL O | NEVER O | TAKE O | ANY O | STATIN B-Drug | EVER O | AGAIN O | !! O | Since O | I O | found O | this O | site O | -- O | I O | thought O | all O | the O | symptoms O | were O | caused O | by O | other O | things O | . O | Now O | I O | know O | that O | Tricor B-Drug | started O | the O | problems O | , O | Lipitor B-Drug | made O | them O | much O | worse O | . O | NATURAL O | SUPPLEMENTS O | ARE O | THE O | WAY O | TO O | GO O | !! O | Just O | Google O | Natural O | Alternatives O | for O | Lipitor B-Drug | . O | I've O | been O | off O | this O | killer O | drug B-Drug | for O | 6 O | weeks O | , O | and O | feel O | great O | !! O | No O | fatigue B-Symptom | , O | memory O | is O | back O | , O | knees O | still O | hurt O | , O | but O | hopefully O | , O | they O | rebound O | too O | . O | Doctor O | is O | PISSED O | ----- O | I O | 'M O | THRILLED O | !!! O | .
+
+Structured Output:
+T1 Symptom 39 59 short term memory loss
+T2 Symptom 62 78 extreme fatigue
+T3 Symptom 80 90 joint pain
+T4 Symptom 93 98 knees
+T5 Symptom 113 119 reflux
+T6 Drug 161 167 Lipitor
+T7 Drug 176 182 Tricor
+T8 ADR 185 190 tired
+T9 Drug 192 198 Lipitor
+T10 Drug 221 226 STATIN
+T11 Drug 246 252 Tricor
+T12 Drug 254 260 Lipitor
+T13 Drug 286 292 Lipitor
+T14 Drug 346 350 drug
+T15 Symptom 359 366 fatigue

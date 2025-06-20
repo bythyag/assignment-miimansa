@@ -1,0 +1,16 @@
+T1 ADR 33 45 side effects
+T2 Disease 75 83 cholestrol
+T3 Disease 107 115 cholestrol
+T4 Drug 134 140 Lipitor
+T5 ADR 173 179 severe
+T6 Symptom 180 185 muscle pain
+T7 ADR 194 211 debillitating
+T8 Disease 238 243 lupus
+T9 Disease 247 259 fibromalgyia
+T10 Symptom 276 279 flu
+T11 Disease 308 313 muscle damage
+T12 ADR 358 373 severe side effects
+T13 ADR 377 386 side effects
+T14 Disease 440 445 muscle damage
+T15 Drug 459 463 drug
+T16 Symptom 484 490 muscles

@@ -1,0 +1,2 @@
+T1 ADR 18 24 slight nausea
+T2 Symptom 56 65 15 minutes

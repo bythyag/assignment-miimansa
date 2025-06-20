@@ -1,0 +1,7 @@
+T1 Symptom 24 30 numbing
+T2 Symptom 36 40 feet
+T3 Drug 58 64 Zocor
+T4 Drug 80 86 Lipitor
+T5 ADR 92 106 side effects
+T6 Drug 113 119 Zocor
+T7 Drug 127 133 Lipitor

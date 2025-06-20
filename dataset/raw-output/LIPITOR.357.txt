@@ -1,0 +1,14 @@
+BIO Sequence:
+STATIN O | DRUG B-Drug | DAMAGE O | CLAIM O | Last O | week O | two O | personal O | injury O | lawsuits O | were O | filed O | against O | Pfizer B-Drug | Inc. O | , O | the O | manufacturer O | of O | the O | cholesterol-lowering O | drug O | , O | Lipitor B-Drug | . O | http://biz.yahoo.com/prnews/060608/nyth079a.html?.v=2 O | If O | you O | have O | taken O | Lipitor B-Drug | or O | any O | other O | cholesterol-lowering O | drug O | ( O | statin B-Drug | ) O | , O | believe O | that O | you O | suffered O | serious O | side O | effects O | as O | a O | result O | and O | feel O | that O | you O | were O | not O | informed O | adequately O | about O | these O | risks O | , O | please O | respond O | promptly O | with O | the O | following O | information O | : O | First O | name O | : O | Last O | name O | : O | Street O | address O | : O | City O | : O | State O | : O | Zip O | Code O | : O | Country O | : O | E-mail O | : O | Telephone O | Day O | / O | Evening O | : O | Age O | : O | Male O | / O | Female O | : O | Name O | of O | statin O | used O | : O | ( O | Lipitor B-Drug | , O | Zocor B-Drug | , O | Crestor B-Drug | , O | Mevacor B-Drug | , O | Pravachol B-Drug | , O | Lescol B-Drug | O | or O | Vytorin B-Drug | ) O | Date O | statin O | started O | : O | Date O | symptoms O | began O | : O | Date O | statin O | stopped O | : O | Describe O | any O | changes O | in O | the O | type O | of O | statin O | taken O | : O | Brief O | description O | of O | your O | symptoms O | ( O | fifty O | words O | or O | less O | ) O | : O | Were O | your O | symptoms O | primarily O | memory O | loss O | / O | confusion O | , O | muscle O | aches O | and O | pain O | , O | loss O | of O | ne O | . O
+
+Structured Output:
+T1 Drug 46 51 Lipitor
+T2 Drug 122 129 Lipitor
+T3 Drug 178 184 statin
+T4 Drug 221 226 Lipitor
+T5 Drug 228 233 Zocor
+T6 Drug 235 242 Crestor
+T7 Drug 244 251 Mevacor
+T8 Drug 254 263 Pravachol
+T9 Drug 265 271 Lescol
+T10 Drug 273 280 Vytorin

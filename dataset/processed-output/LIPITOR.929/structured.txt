@@ -1,0 +1,3 @@
+T1 Symptom 0 9 leg cramps
+T2 Symptom 18 21 ldl
+T3 ADR 52 64 side effects

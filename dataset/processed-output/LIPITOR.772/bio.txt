@@ -1,0 +1,1 @@
+severe B-Symptom | muscle I-Symptom | pain I-Symptom | in O | my O | shoulders B-Symptom | , O | numbness B-Symptom | and O | tingling I-Symptom | in O | my O | hands B-Symptom | , O | wieght B-Symptom | gain I-Symptom | . O

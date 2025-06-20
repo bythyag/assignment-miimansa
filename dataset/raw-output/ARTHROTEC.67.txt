@@ -1,0 +1,11 @@
+BIO Sequence:
+W/ O | prescribed O | dosage O | ( O | 75 B-Drug | mg O | BID O | ) O | crankiness B-ADR | and O | irritability B-ADR | . O | Increased O | BP B-Symptom | . O | Possible O | visual B-Symptom | disturbances I-Symptom | . O | Relieved O | pain B-Symptom | very O | well O | . O | However O | , O | the O | side B-ADR | effects I-ADR | are O | a O | great O | concern O | . O 
+
+Structured Output:
+T1 Drug 22 29 75
+T2 ADR 43 53 crankiness  
+T3 ADR 58 68 irritability  
+T4 Symptom 72 74 BP  
+T5 Symptom 87 102 visual disturbances  
+T6 Symptom 105 109 pain  
+T7 ADR 114 123 side effects  

@@ -1,0 +1,11 @@
+BIO Sequence:
+One O | hour O | after O | taking O | Arthrotec B-Drug | , O | I O | experienced O | the O | sudden O | onset O | of O | severe O | mentrual B-Symptom | cramps I-Symptom | . O | I O | am O | on O | the O | birth O | control O | pill O | and O | should O | not O | have O | my O | period O | for O | another O | 3 O | weeks O | . O | I O | am O | in O | so O | much O | pain B-Symptom | that O | I O | cannot O | sleep O | , O | nor O | can O | I O | take O | Advil B-Drug | for O | the O | pain O | as O | it O | is O | also O | an O | NSAID B-Drug | . O | The O | patient O | warning O | indicates O | that O | this O | drug O | can O | cause O | an O | abortion B-ADR | . O | I O | wish O | I O | 'd O | read O | my O | entire O | monograph O | before O | taking O | the O | tablet O | . O | I O | would O | not O | recommend O | for O | women O | prior O | to O | menopause O | . O | Nor O | sure O | why O | my O | doctor O | thought O | it O | would O | help O | my O | endo B-Disease | pain I-Disease | . O 
+
+Structured Output:
+T1 Drug 21 29 Arthrotec
+T2 Symptom 66 83 mentrual cramps
+T3 Symptom 116 120 pain
+T4 Drug 157 163 Advil
+T5 Drug 171 176 NSAID
+T6 ADR 205 212 abortion
+T7 Disease 275 279 endo pain

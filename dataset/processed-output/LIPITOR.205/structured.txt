@@ -1,0 +1,34 @@
+T1 Disease 0 8 Alopecia
+T2 ADR 10 16 nausea  
+T3 ADR 18 25 vomiting  
+T4 Symptom 31 35 back  
+T5 Symptom 40 43 hip  
+T6 Symptom 44 48 pain  
+T7 Symptom 50 59 depression  
+T8 Symptom 61 66 thoughts  
+T9 Symptom 68 88 exhaustion  
+T10 Symptom 90 95 fatigue  
+T11 Symptom 97 108 sleeplessness  
+T12 Symptom 110 126 paralysis  
+T13 Disease 128 138 Bell's Palsey  
+T14 Symptom 154 157 hip  
+T15 Symptom 162 165 pain  
+T16 Symptom 173 179 thoughts  
+T17 Symptom 186 198 suicide  
+T18 Symptom 201 208 paranoia  
+T19 Symptom 210 223 exhaustion  
+T20 Drug 226 232 Lipitor  
+T21 Disease 243 251 alopecia  
+T22 ADR 257 263 Nausea  
+T23 ADR 271 278 vomiting  
+T24 Drug 290 296 Lipitor  
+T25 ADR 327 333 nausea  
+T26 Drug 341 347 Lipitor  
+T27 Symptom 357 360 hair  
+T28 Symptom 364 368 loss  
+T29 Drug 382 388 Lipitor  
+T30 Symptom 397 401 loss  
+T31 Symptom 553 563 facial paralysis  
+T32 Symptom 641 645 back  
+T33 Symptom 653 656 hip  
+T34 Symptom 671 677 mental wellbein

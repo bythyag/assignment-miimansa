@@ -1,0 +1,1 @@
+tingling B-Symptom | extremities I-Symptom | , O | bruising B-Symptom | , O | insomnia B-Symptom | . O

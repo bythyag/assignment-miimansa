@@ -1,0 +1,4 @@
+T1 Drug 44 48 drug
+T2 Disease 116 126 cholesterol
+T3 Drug 141 152 medications
+T4 ADR 171 180 side effects

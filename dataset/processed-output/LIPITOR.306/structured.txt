@@ -1,0 +1,11 @@
+T1 Drug 8 14 lipitor
+T2 Symptom 66 74 stiffnes
+T3 Symptom 79 83 pain
+T4 Symptom 138 146 difficult
+T5 Symptom 154 160 feel
+T6 Symptom 195 202 symptoms
+T7 Symptom 217 222 tired
+T8 Symptom 228 232 legs
+T9 Symptom 238 246 restless
+T10 Disease 256 258 ms
+T11 Drug 316 322 lipitor

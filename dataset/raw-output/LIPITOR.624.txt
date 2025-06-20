@@ -1,0 +1,5 @@
+BIO Sequence:
+gas O
+
+Structured Output:
+T1 O 0 3 gas

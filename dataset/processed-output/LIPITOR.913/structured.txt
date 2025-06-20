@@ -1,0 +1,12 @@
+T1 Symptom 6 10 pain
+T2 Symptom 12 18 severe
+T3 Symptom 20 25 neck
+T4 Symptom 27 35 shoulder
+T5 Symptom 37 41 back
+T6 Symptom 43 47 pain
+T7 Symptom 50 56 leg
+T8 Symptom 58 62 pain
+T9 Drug 93 99 Lipitor
+T10 ADR 113 127 side effects
+T11 ADR 136 145 cumulative
+T12 ADR 147 153 effect

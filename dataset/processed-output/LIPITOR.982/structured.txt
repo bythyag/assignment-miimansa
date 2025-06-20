@@ -1,0 +1,8 @@
+T1 Symptom 0 7 headache
+T2 Symptom 9 16 insomnia
+T3 Symptom 18 27 sore hip
+T4 Symptom 28 37 tightIT band
+T5 Symptom 39 48 depression
+T6 ADR 70 81 side effects
+T7 Drug 90 102 cholesterol
+T8 ADR 110 118 miserable

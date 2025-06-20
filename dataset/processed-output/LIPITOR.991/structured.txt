@@ -1,0 +1,8 @@
+T1 Symptom 0 9 Brain fog
+T2 Disease 43 56 LDL Cholestrol
+T3 Symptom 58 72 Short term memory
+T4 Symptom 74 82 brain fog
+T5 Disease 93 99 anxiety issues
+T6 Drug 108 115 Lipitor
+T7 ADR 123 135 side effects
+T8 Drug 144 150 liptor

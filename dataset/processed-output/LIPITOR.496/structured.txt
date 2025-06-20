@@ -1,0 +1,31 @@
+T1 Symptom 0 15 Constant aching/pain  
+T2 Symptom 18 26 weakness  
+T3 Symptom 31 35 arms  
+T4 Symptom 37 43 wrists  
+T5 Symptom 46 49 back  
+T6 Symptom 54 59 hands  
+T7 Symptom 63 72 shoulders  
+T8 Symptom 75 79 Pain  
+T9 Symptom 83 92 lower legs  
+T10 Symptom 97 102 lower back  
+T11 Symptom 111 118 severe  
+T12 Symptom 127 132 present  
+T13 Symptom 135 138 Gas  
+T14 Symptom 143 155 frequent diarrhea  
+T15 Symptom 157 165 Difficulty  
+T16 Symptom 171 176 sleep  
+T17 Symptom 182 188 aching muscles  
+T18 ADR 191 204 Severe aggitation  
+T19 ADR 213 220 aggitation  
+T20 Symptom 226 231 tired  
+T21 ADR 234 237 dose  
+T22 Drug 240 244 10mg  
+T23 Drug 247 251 5mg  
+T24 ADR 257 270 side effects  
+T25 Drug 273 277 10mg  
+T26 Drug 280 287 Lipitor  
+T27 Symptom 299 309 cholesterol  
+T28 ADR 322 326 dose  
+T29 Drug 329 332 5  
+T30 Drug 350 353 mg  
+T31 Symptom 360 370 cholesterol

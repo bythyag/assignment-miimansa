@@ -1,0 +1,8 @@
+T1 Symptom 27 41 chest tightness
+T2 Symptom 44 51 numness
+T3 Symptom 52 58 aching
+T4 Symptom 82 86 pain
+T5 Symptom 117 123 shakey
+T6 Symptom 126 134 headache
+T7 Symptom 138 143 tiered
+T8 Disease 155 165 cholesterol

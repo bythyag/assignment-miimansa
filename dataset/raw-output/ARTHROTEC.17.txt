@@ -1,0 +1,15 @@
+BIO Sequence:
+just O | took O | the O | drug O | about O | 30 O | minutes O | ago O | and O | am O | now O | experiencing O | the O | worst O | abdominal B-Symptom | pain I-Symptom | ever O | , O | like O | mentstrual B-Symptom | cramps I-Symptom | / O | diarreah B-Symptom | cramping I-Symptom | combined O | . O | i O | had O | to O | keep O | dropping O | into O | a O | crouched O | position O | due O | to O | the O | severity O | of O | the O | lower B-Symptom | abdominal I-Symptom | pain I-Symptom | . O | i O | was O | put O | on O | this O | medication O | because O | i O | was O | taking O | such O | high O | doses O | of O | Advil B-Drug | to O | quell O | the O | inflammation O | in O | my O | neck O | and O | back O | muscles O | that O | it O | caused O | me O | to O | have O | a O | GI B-Disease | bleed I-Disease | . O | but O | after O | this O | little O | episode O | , O | and O | after O | reading O | that O | it O | can O | cause O | heavy B-ADR | menstrual I-ADR | bleeding I-ADR | , O | i O | highly O | doubt O | this O | drug O | is O | the O | best O | fit O | for O | my O | problem O | !! O | i O | already O | have O | anemia B-Disease | due O | to O | the O | gastric B-Disease | bleed I-Disease | . O | how O | could O | my O | doctor O | not O | think O | of O | this O | ? O | i O | 'm O | also O | starting O | to O | feel O | dizzy B-Symptom | and O | light O | headed O | , O | and O | can O | feel O | acidic B-Symptom | bile I-Symptom | at O | the O | back O | of O | my O | throat O | . O | great O | ! O | : O | | O .
+
+Structured Output:
+T1 Symptom 53 60 abdominal pain
+T2 Symptom 74 90 mentstrual cramps
+T3 Symptom 92 101 diarreah cramping
+T4 Symptom 125 140 lower abdominal pain
+T5 Drug 131 136 Advil
+T6 Disease 166 172 GI bleed
+T7 ADR 207 228 heavy menstrual bleeding
+T8 Disease 238 244 anemia
+T9 Disease 262 274 gastric bleed
+T10 Symptom 287 292 dizzy
+T11 Symptom 306 318 acidic bile

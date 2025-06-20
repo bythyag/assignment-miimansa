@@ -1,0 +1,13 @@
+T1 Symptom 0 8 Dizziness
+T2 Symptom 10 15 falls
+T3 Symptom 17 27 poor memory
+T4 Symptom 29 53 loss of fine motor skills
+T5 Symptom 55 69 stiffness in legs
+T6 Symptom 71 79 sore feet
+T7 Drug 90 96 lipitor
+T8 Disease 100 103 EEG
+T9 Disease 117 123 EEG
+T10 Disease 132 146 Frontal Lobe
+T11 Drug 156 162 Lipitor
+T12 Drug 165 170 20mg
+T13 Drug 175 180 80mg

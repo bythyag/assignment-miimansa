@@ -1,0 +1,38 @@
+BIO Sequence:
+Muscle B-Symptom | Pain I-Symptom | in O | left B-Symptom | arm I-Symptom | and O | upper B-Symptom | back I-Symptom | . O | Hair B-Symptom | dryness I-Symptom | , O | breakage I-Symptom | and O | loss I-Symptom | . O | I O | was O | able O | to O | stop O | the O | muscle B-Symptom | pain I-Symptom | in O | its O | tracks O | by O | taking O | CoQ10 B-Drug | supplements I-Drug | but O | the O | hair B-Symptom | dryness I-Symptom | , O | breakage I-Symptom | and O | loss I-Symptom | is O | not O | good O | . O | Currently O | trying O | to O | find O | a O | supplement O | to O | counter O | hair B-Symptom | loss I-Symptom | . O | If O | I O | can O | find O | something O | , O | I O | will O | stay O | on O | Lipitor B-Drug | . O | It O | has O | lowered O | my O | Cholesterol B-Disease | from O | 11.7 O | to O | 7 O | ! O | My O | doctor O | wanted O | me O | to O | switch O | from O | Lipitor B-Drug | to O | Lipidil B-Drug | Micro I-Drug | as O | I O | was O | so O | upset O | by O | the O | hair B-Symptom | loss I-Symptom | and O | muscle B-Symptom | pain I-Symptom | but O | I O | have O | stopped O | having O | muscle B-Symptom | pain I-Symptom | by O | taking O | CoQ10 B-Drug | and O | before O | I O | switch O | to O | another O | drug O | that O | may O | have O | other O | side B-ADR | effects I-ADR | , O | I O | want O | to O | research O | it O | ( O | Lipidil B-Drug | ) O | further O | . O | If O | anyone O | has O | experienced O | hair B-Symptom | loss I-Symptom | on O | Lipidil B-Drug | please O | let O | me O | know O | . O 
+
+Structured Output:
+T1 Symptom 0 5 Muscle
+T2 Symptom 6 10 Pain
+T3 Symptom 13 17 left
+T4 Symptom 18 21 arm
+T5 Symptom 26 30 upper
+T6 Symptom 31 35 back
+T7 Symptom 38 42 Hair
+T8 Symptom 43 50 dryness
+T9 Symptom 52 60 breakage
+T10 Symptom 62 65 loss
+T11 Symptom 113 117 muscle
+T12 Symptom 118 122 pain
+T13 Drug 141 146 CoQ10
+T14 Symptom 165 169 hair
+T15 Symptom 170 173 dryness
+T16 Symptom 175 182 breakage
+T17 Symptom 184 187 loss
+T18 Symptom 196 200 hair
+T19 Symptom 201 204 loss
+T20 Drug 206 212 Lipitor
+T21 Disease 234 245 Cholesterol
+T22 Drug 261 267 Lipitor
+T23 Drug 269 276 Lipidil
+T24 Drug 277 282 Micro
+T25 Symptom 324 328 hair
+T26 Symptom 329 332 loss
+T27 Symptom 353 357 muscle
+T28 Symptom 358 362 pain
+T29 Drug 388 393 CoQ10
+T30 ADR 410 419 side
+T31 ADR 420 427 effects
+T32 Drug 428 435 Lipidil
+T33 Symptom 452 455 hair
+T34 Drug 459 465 Lipidil

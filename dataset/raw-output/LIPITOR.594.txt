@@ -1,0 +1,8 @@
+BIO Sequence:
+AFTER O | TAKING O | DRUG B-Drug | BECAME O | ILL O | WITH O | STOMACH B-Symptom | PAIN I-Symptom | BACK B-Symptom | PAIN I-Symptom | AND O | DIZZINESS B-Symptom | . O
+
+Structured Output:
+T1 Drug 18 22 DRUG
+T2 Symptom 44 50 STOMACH PAIN
+T3 Symptom 52 56 BACK PAIN
+T4 Symptom 58 66 DIZZINESS

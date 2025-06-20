@@ -1,0 +1,17 @@
+T1 Symptom 0 5 Severe
+T2 Symptom 6 10 pain
+T3 Symptom 17 27 calf muscles
+T4 Disease 31 35 legs
+T5 ADR 69 81 side effect
+T6 Drug 82 89 Crestor
+T7 Drug 103 109 Zochor
+T8 Symptom 115 119 pain
+T9 Symptom 126 132 severe
+T10 Symptom 134 139 cramps
+T11 Disease 151 157 tendon
+T12 Disease 163 168 ankle
+T13 Disease 173 177 knee
+T14 Symptom 189 193 pain
+T15 Drug 195 201 Lipitor
+T16 Drug 220 226 Lipitor
+T17 Disease 227 238 cholesterol

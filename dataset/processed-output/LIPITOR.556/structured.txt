@@ -1,0 +1,10 @@
+T1 ADR 44 55 side effects
+T2 Symptom 93 102 joint pain
+T3 Symptom 108 113 knees
+T4 Symptom 115 119 hips
+T5 Symptom 121 130 lower back
+T6 Symptom 132 140 shoulders
+T7 Symptom 146 150 pain
+T8 Symptom 158 165 left thigh
+T9 Symptom 170 182 cholestoral
+T10 ADR 184 195 side effects

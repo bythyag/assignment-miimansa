@@ -1,0 +1,9 @@
+T1 Symptom 22 29 drowsy
+T2 Symptom 41 56 blurred vision
+T3 Drug 61 68 Arthrotec
+T4 Disease 120 128 arthritis
+T5 Symptom 132 138 agony
+T6 Drug 157 159 75
+T7 Symptom 223 228 pains
+T8 ADR 245 250 weird
+T9 Drug 257 259 50

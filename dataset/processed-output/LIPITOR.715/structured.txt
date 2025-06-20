@@ -1,0 +1,13 @@
+T1 Drug 20 26 Lipitor
+T2 Symptom 74 82 muscular
+T3 Symptom 84 92 headache
+T4 Symptom 94 103 neck pain
+T5 Symptom 105 113 stiffness
+T6 Symptom 115 121 fatigue
+T7 Symptom 123 135 memory loss
+T8 Symptom 137 145 muscles pain
+T9 Symptom 148 155 depression
+T10 Symptom 157 165 sleepless nites
+T11 Symptom 167 178 balance loss
+T12 Disease 201 211 cholesteral
+T13 ADR 255 269 side effects

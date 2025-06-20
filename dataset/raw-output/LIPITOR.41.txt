@@ -1,0 +1,6 @@
+BIO Sequence:
+No O | side B-ADR | effects I-ADR | . O | lowered O | LDL B-Disease | by O | over O | 50 O | % O | . O | itis O | now O | under O | 70 O | . O 
+
+Structured Output:
+T1 ADR 3 16 side effects
+T2 Disease 20 23 LDL

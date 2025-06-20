@@ -1,0 +1,9 @@
+T1 Symptom 25 32 wheezing
+T2 Symptom 98 106 wheezing
+T3 Symptom 122 129 wheezing
+T4 ADR 142 146 severe
+T5 ADR 147 150 skin
+T6 ADR 151 155 rash
+T7 ADR 162 167 allergic
+T8 ADR 168 176 reaction
+T9 Drug 190 194 drug

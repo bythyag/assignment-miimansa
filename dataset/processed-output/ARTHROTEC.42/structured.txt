@@ -1,0 +1,26 @@
+T1 Symptom 0 13 Stomach pains
+T2 Symptom 15 30 chest pains
+T3 Symptom 32 38 anxiety
+T4 Symptom 40 48 fatigue
+T5 Symptom 50 56 headache
+T6 Symptom 58 75 erratic heart beat
+T7 Symptom 77 93 raised blood pressure
+T8 Symptom 95 102 dizziness
+T9 ADR 104 109 nausea
+T10 Symptom 117 129 blurred vision
+T11 Drug 132 140 Arthrotec
+T12 Drug 154 162 Aciphex
+T13 Disease 204 208 acid reflux
+T14 ADR 337 343 dizziness
+T15 ADR 347 352 nausea
+T16 Symptom 383 392 cramps
+T17 Disease 394 418 menstrual cycle
+T18 Symptom 440 452 chest pains
+T19 Symptom 455 469 elevated heart rate
+T20 Symptom 482 492 hot flashes
+T21 Symptom 494 502 dizziness
+T22 Symptom 504 516 sever stomach cramps
+T23 Symptom 521 528 weakness
+T24 Symptom 564 572 ER doc
+T25 Drug 576 583 Aciphex
+T26 Drug 588 596 Arthrotec

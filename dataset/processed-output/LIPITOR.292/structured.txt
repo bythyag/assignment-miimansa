@@ -1,0 +1,12 @@
+T1 Drug 63 71 provachol
+T2 Symptom 56 59 Flu
+T3 ADR 74 81 numbness
+T4 ADR 83 86 gas
+T5 ADR 88 96 headaches
+T6 ADR 98 106 diarhhea
+T7 Symptom 109 114 dark urine
+T8 ADR 118 129 debilitating joint
+T9 ADR 131 137 muscle pain
+T10 Symptom 145 149 walk
+T11 Drug 191 198 lipitor
+T12 Disease 342 353 HEART ATTACK

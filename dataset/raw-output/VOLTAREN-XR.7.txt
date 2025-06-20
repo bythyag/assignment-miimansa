@@ -1,0 +1,5 @@
+BIO Sequence:
+i O | am O | very O | pleased O | with O | the O | results B-Symptom | . O
+
+Structured Output:
+T1 Symptom 40 47 results

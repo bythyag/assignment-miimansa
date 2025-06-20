@@ -1,0 +1,8 @@
+T1 Symptom 28 37 unexplained fatigue
+T2 Drug 97 103 Lipitor
+T3 Disease 125 133 SED rate
+T4 Drug 147 153 Lipitor
+T5 Drug 161 166 statin
+T6 Symptom 178 194 short term memory loss
+T7 Symptom 196 203 unexplained cough
+T8 ADR 232 237 zombie

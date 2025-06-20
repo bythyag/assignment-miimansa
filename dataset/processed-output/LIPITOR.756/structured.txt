@@ -1,0 +1,5 @@
+T1 Symptom 0 5 pains
+T2 Disease 10 13 hip
+T3 Disease 15 23 depresion
+T4 Symptom 26 30 mood
+T5 Symptom 31 36 swings

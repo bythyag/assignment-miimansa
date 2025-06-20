@@ -1,0 +1,12 @@
+BIO Sequence:
+drive O | is O | knocked O | down O | including O | sex B-Symptom | drive I-Symptom | . O | After O | stent B-Disease | ( O | LDL B-Disease | was O | 72 O | ) O | Doc O | increased O | my O | dose O | to O | 40 B-Drug | MG I-Drug | . O | LDL B-Disease | is O | 44 O | and O | it O | lowered O | HDL B-Disease | . O | One O | size O | does O | not O | fit O | all O | , O | if O | you O | are O | 50 O | or O | over O | and O | your O | family O | has O | heart B-Disease | issues I-Disease | , O | this O | may O | help O | . O | CHANGE O | YOUR O | LIFE O | EAT O | LESS O | FAT O | ( O | NO O | RED B-Disease | MEAT I-Disease | ) O | and O | watch O | your O | diet O | , O | exercise O | . O | We O | goofed O | off O | until O | now O | and O | now O | do O | it O | for O | the O | kids O | . O
+
+Structured Output:
+T1 Symptom 38 47 sex drive
+T2 Disease 14 19 stent
+T3 Disease 25 30 LDL
+T4 Disease 37 40 LDL
+T5 Drug 45 50 40 MG
+T6 Disease 54 57 HDL
+T7 Disease 72 77 heart issues
+T8 Disease 80 89 RED MEAT

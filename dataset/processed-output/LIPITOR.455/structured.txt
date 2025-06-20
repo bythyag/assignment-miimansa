@@ -1,0 +1,11 @@
+T1 Drug 43 50 Lipitor
+T2 Symptom 75 79 pain
+T3 Symptom 87 95 shoulder
+T4 Symptom 101 104 arm
+T5 Disease 130 146 mastectomy
+T6 Drug 201 207 steroid
+T7 Drug 220 227 Lipitor
+T8 Symptom 246 250 Pain
+T9 Drug 266 272 Lipitor
+T10 Disease 277 280 MRI
+T11 Disease 312 319 shoulder

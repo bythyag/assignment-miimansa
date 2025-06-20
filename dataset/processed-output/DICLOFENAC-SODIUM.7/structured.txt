@@ -1,0 +1,13 @@
+T1 Symptom 8 13 stomach upset
+T2 Disease 36 51 perforated ulcer
+T3 Disease 52 58 gastrc
+T4 Drug 75 79 drug
+T5 Disease 81 90 arthritis
+T6 ADR 105 117 side effects
+T7 ADR 138 146 bleeding
+T8 ADR 148 160 peritonitis
+T9 ADR 162 174 septicaemia
+T10 ADR 176 181 renal
+T11 ADR 183 193 respiratory failure
+T12 Disease 204 211 stoma
+T13 Disease 218 230 wound dressings

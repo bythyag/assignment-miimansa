@@ -1,0 +1,7 @@
+T1 Drug 69 76 Lipitor
+T2 Disease 83 101 Multiple Sclerosis
+T3 Disease 124 126 MS
+T4 Symptom 167 170 CNS
+T5 Drug 297 303 statins
+T6 Disease 319 321 MS
+T7 Drug 400 407 Lipitor

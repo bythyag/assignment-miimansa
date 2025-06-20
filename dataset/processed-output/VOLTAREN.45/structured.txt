@@ -1,0 +1,10 @@
+T1 ADR 10 17 diarrhea
+T2 ADR 19 26 vomiting
+T3 ADR 28 35 sweating
+T4 ADR 37 44 dizzyness
+T5 Symptom 46 50 weak
+T6 ADR 57 62 chills
+T7 Symptom 64 69 fever
+T8 Symptom 71 79 discharge
+T9 O 81 86 reaction
+T10 O 88 90 body

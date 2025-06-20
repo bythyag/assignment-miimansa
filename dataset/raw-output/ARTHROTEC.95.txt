@@ -1,0 +1,11 @@
+BIO Sequence:
+Terrible O | first O | of O | all O | I O | had O | diarrhoea B-ADR | my O | doseage O | was O | increased O | to O | 75 B-Drug | and O | a O | few O | days O | ago O | my O | feet O | and O | ankles O | started O | swelling B-ADR | up O | . O | I O | went O | to O | my O | GP O | and O | the O | results O | of O | my O | blood O | test O | showed O | there O | was O | something O | wrong O | with O | my O | liver B-Disease | and O | I O | am O | a O | non-drinker O | . O | My O | blood O | pressure O | had O | gone O | sky O | high O | so O | my O | that O | is O | why O | the O | swelling B-Symptom | . O | I O | was O | told O | to O | stop O | taking O | Arthrotec B-Drug | and O | am O | now O | using O | a O | natural O | product O | that O | seems O | to O | work O | it O | is O | called O | Pernamax B-Drug | . O
+
+Structured Output:
+T1 ADR 45 54 diarrhoea
+T2 Drug 76 78 75
+T3 ADR 116 123 swelling
+T4 Disease 139 144 liver
+T5 Symptom 170 177 swelling
+T6 Drug 196 204 Arthrotec
+T7 Drug 232 240 Pernamax

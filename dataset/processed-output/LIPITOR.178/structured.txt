@@ -1,0 +1,6 @@
+T1 Symptom 0 14 Fuzzy thinking
+T2 Symptom 16 31 blurred vision
+T3 Symptom 33 50 muscle/foot pain
+T4 Drug 82 100 Red Yeast Rice
+T5 Drug 108 112 supplements
+T6 Drug 128 132 drug

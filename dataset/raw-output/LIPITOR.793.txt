@@ -1,0 +1,29 @@
+BIO Sequence:
+General O | fatigue B-Symptom | , O | aches B-Symptom | and O | pains I-Symptom | for O | years O | . O | Thought O | it O | was O | menopause B-Disease | . O | But O | recently O | -- O | severe B-ADR | swolen/inflamation B-ADR | of O | the O | fingers/hands B-Symptom | and O | wrist B-Symptom | pain B-Symptom | . O | Have O | suffered O | with O | geneal B-Symptom | aches I-Symptom | and O | pains I-Symptom | for O | years O | thinking O | very O | similar O | to O | alot O | of O | you O | , O | that O | it O | was O | just O | my O | age O | and O | I O | had O | to O | accept O | it O | ! O | I O | have O | been O | suffering O | with O | severe B-ADR | swolen/inflamation I-ADR | of O | the O | fingers/hand B-Symptom | & O | wrist B-Symptom | pain B-Symptom | for O | 8 O | months O | and O | attributed O | it O | to O | new O | blood B-Drug | pressure O | medicine O | or O | arthritis B-Disease | ; O | however O | , O | after O | going O | off O | the O | new O | blood B-Drug | pressure O | meds I-Drug | for O | 5 O | weeks O | , O | I O | have O | noticed O | no O | remarkable O | change O | and O | have O | had O | blood O | work O | and O | x-rays O | indicating O | NO O | arthritis B-Disease | . O | But O | now O | after O | finding O | this O | site O | , O | I O | 'm O | wondering O | if O | it O | has O | been O | the O | Lipitor B-Drug | all O | along O | all O | of O | a O | sudden O | after O | taking O | it O | for O | 7.5 O | years O | . O | I O | am O | discontinuing O | the O | Lipitor I-Drug | immediately O | to O | see O | if O | I O | can O | find O | any O | change O | and O | relief B-Symptom | . O | I O | agree O | with O | so O | many O | of O | you O | in O | saying O | that O | no O | cholesterol B-Drug | lowering O | drug B-Drug | is O | worth O | this O | kind O | of O | result O | ! O | Thank O | you O | everyone O | for O | taking O | the O | time O | to O | write O | so O | we O | aren O | 't O | prisoners O | to O | just O | our O | doctor's O | advice O | ! O
+
+Structured Output:
+T1 Symptom 8 15 fatigue
+T2 Symptom 17 22 aches
+T3 Symptom 24 29 pains
+T4 Disease 44 52 menopause
+T5 ADR 64 70 severe
+T6 ADR 73 93 swolen/inflamation
+T7 Symptom 97 116 fingers/hands
+T8 Symptom 118 123 wrist
+T9 Symptom 125 129 pain
+T10 Symptom 160 166 geneal
+T11 Symptom 168 173 aches
+T12 Symptom 175 180 pains
+T13 ADR 208 214 severe
+T14 ADR 217 236 swolen/inflamation
+T15 Symptom 241 255 fingers/hand
+T16 Symptom 257 261 wrist
+T17 Symptom 263 267 pain
+T18 Drug 287 303 blood pressure medicine
+T19 Disease 310 318 arthritis
+T20 Drug 340 356 blood pressure meds
+T21 Disease 363 371 arthritis
+T22 Drug 422 429 Lipitor
+T23 Drug 454 461 Lipitor
+T24 Symptom 470 476 relief
+T25 Drug 482 492 cholesterol lowering drug

@@ -1,0 +1,5 @@
+BIO Sequence:
+always O | feeling B-Symptom | tired I-Symptom | . O | high O | priced O | . O
+
+Structured Output:
+T1 Symptom 8 13 feeling tired

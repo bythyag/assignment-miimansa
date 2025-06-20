@@ -1,0 +1,18 @@
+BIO Sequence:
+The O | most O | terrible O | muscle B-Symptom | spasms I-Symptom | in O | legs B-Symptom | , O | back B-Symptom | and O | chest B-Symptom | , O | so O | bad O | I O | could O | not O | sit O | or O | stand O | . O | Nausea B-ADR | , O | vomiting B-ADR | , O | chest B-ADR | pain I-ADR | , O | blood B-Symptom | in O | urine B-Symptom | , O | side B-ADR | effects I-ADR | were O | so O | bad O | I O | ended O | up O | in O | the O | emergency O | room O | on O | two O | occasions O | . O | The O | last O | time O | I O | was O | on O | vacation O | and O | was O | brought O | to O | the O | hospital O | where O | the O | Doctor O | took O | a O | blood B-ADR | and O | urine B-Symptom | test O | and O | told O | me O | that O | the O | pain O | was O | from O | the O | lipitor B-Drug | . O | Never O | take O | this O | horrible O | drug O | , O | I O | don’t O | know O | if O | it O | has O | caused O | permanent O | damage O | . O | but O | the O | side B-ADR | effects I-ADR | alone O | will O | make O | you O | get O | off O | the O | drug O | . O
+
+Structured Output:
+T1 Symptom 36 54 muscle spasms  
+T2 Symptom 58 62 legs  
+T3 Symptom 64 68 back  
+T4 Symptom 73 78 chest  
+T5 ADR 84 90 Nausea  
+T6 ADR 92 100 vomiting  
+T7 ADR 102 111 chest pain  
+T8 Symptom 115 119 blood  
+T9 Symptom 124 129 urine  
+T10 ADR 132 145 side effects  
+T11 ADR 145 150 side effects  
+T12 Drug 197 204 lipitor  
+T13 ADR 132 145 side effects  
+T14 Drug 129 133 drug  

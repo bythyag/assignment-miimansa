@@ -1,0 +1,13 @@
+BIO Sequence:
+vomitting B-ADR | - O | I O | have O | to O | fight O | to O | not O | throw O | up O | I O | am O | supposed O | to O | take O | this O | twice O | a O | day O | - O | but O | it O | makes O | me O | soooooo O | sick B-ADR | that O | I O | take O | literally O | as O | I O | a O | going O | to O | bed O | - O | so O | that O | I O | am O | asleep O | before O | the O | sickness B-ADR | kicks O | in O | . O | I O | have O | tried O | and O | tried O | to O | take O | the O | day O | dose O | - O | but O | I O | would O | rather O | live O | without O | the O | sickness B-ADR | - O | its O | just O | too O | awful O | . O | very O | painful O | joints B-Symptom | - O | but O | with O | this O | tablet B-Drug | , O | the O | pain O | is O | much O | much O | reduced O | . O | If O | I O | miss O | a O | couple O | of O | days O | I O | really O | know O | about O | it O | . O | If O | I O | could O | find O | the O | same O | sort O | of O | thing O | without O | the O | EXTREME O | nausea B-ADR | - O | I O | would O | switch O | drugs B-Drug | in O | the O | blink O | of O | an O | eye O | . O
+
+Structured Output:
+T1 ADR 0 8 vomitting
+T2 ADR 25 29 sick
+T3 ADR 64 72 sickness
+T4 ADR 104 112 sickness
+T5 ADR 142 149 sickness
+T6 Symptom 154 171 painful joints
+T7 Drug 184 192 tablet
+T8 ADR 214 220 EXTREME nausea
+T9 Drug 238 243 drugs

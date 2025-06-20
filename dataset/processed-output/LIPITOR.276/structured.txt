@@ -1,0 +1,3 @@
+T1 Symptom 10 13 gas
+T2 Symptom 15 19 wind
+T3 Drug 72 76 drug

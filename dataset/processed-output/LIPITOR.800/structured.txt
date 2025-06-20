@@ -1,0 +1,18 @@
+T1 Symptom 10 15 dizzy
+T2 Symptom 17 34 light-headedness
+T3 Symptom 78 85 headache
+T4 Symptom 94 102 insomnia
+T5 Symptom 106 119 concentration
+T6 Symptom 122 135 noise
+T7 Symptom 137 148 intolerance
+T8 Symptom 158 165 headaches
+T9 Disease 44 52 internist
+T10 Disease 66 77 neurologists
+T11 Drug 93 97 MRI
+T12 Drug 99 102 MRA
+T13 Drug 108 114 Lipitor
+T14 ADR 130 142 side effects
+T15 Drug 160 165 Lipitor
+T16 ADR 174 186 side effects
+T17 ADR 198 207 side effects
+T18 ADR 220 231 build-up effects

@@ -1,0 +1,13 @@
+BIO Sequence:
+uncontrollable B-Symptom | Diarrhea I-Symptom | , O | kidney B-Disease | function I-Disease | . O | This O | product O | is O | the O | best O | medicine O | for O | arthritis B-Disease | pain I-Disease | I O | have O | ever O | taken O | , O | however O | after O | taking O | it O | for O | approx O | . O | 10 B-Duration | years I-Duration | it O | started O | affecting O | my O | kidneys B-Disease | , O | my O | stomach B-Disease | ( O | acid B-Disease | reflux I-Disease | ) O | and O | the O | diarrhea B-ADR | got O | worse O | , O | short B-Duration | - I-Duration | term I-Duration | , O | I O | had O | no O | problems O | , O | this O | would O | be O | a O | great O | product O | if O | the O | manufacturer O | could O | get O | rid O | of O | the O | side B-ADR | effects I-ADR | . O
+
+Structured Output:
+T1 Symptom 0 14 uncontrollable
+T2 Symptom 15 22 Diarrhea
+T3 Disease 28 43 kidney function
+T4 Disease 66 74 arthritis
+T5 Disease 88 95 kidneys
+T6 Disease 102 109 stomach
+T7 Disease 110 117 acid reflux
+T8 ADR 130 137 diarrhea
+T9 ADR 146 159 side effects

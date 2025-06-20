@@ -1,0 +1,6 @@
+BIO Sequence:
+No O | side O | effects B-ADR | but O | greatly O | lowered O | my O | cholesterol B-Disease.
+
+Structured Output:
+T1 ADR 12 18 effects
+T2 Disease 37 47 cholesterol

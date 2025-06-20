@@ -1,0 +1,9 @@
+T1 Symptom 15 33 menstrual cramps
+T2 Symptom 35 43 back ache
+T3 Symptom 45 66 sick to stomach
+T4 Drug 123 129 pill
+T5 Symptom 183 193 menstrual cramps
+T6 Symptom 196 208 lower back pain
+T7 ADR 210 216 nausea
+T8 Symptom 285 302 sick to my stomach
+T9 Drug 392 399 Celebrex

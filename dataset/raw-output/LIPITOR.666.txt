@@ -1,0 +1,11 @@
+BIO Sequence:
+Stomach B-Symptom | cramps I-Symptom | , O | muscle B-Symptom | pain I-Symptom | , O | lower B-Symptom | back I-Symptom | pain I-Symptom | , O | irritability B-Symptom | , O | flu-symptoms B-Symptom | , O | malaise B-Symptom | . O | After O | reading O | in O | several O | sites O | what O | the O | experiences O | were O | of O | other O | patients O | -- O | I O | would O | only O | recommend O | Lipitor B-Drug | as O | a O | last O | resort O | . O
+
+Structured Output:
+T1 Symptom 1 13 Stomach cramps
+T2 Symptom 15 30 muscle pain
+T3 Symptom 32 47 lower back pain
+T4 Symptom 49 61 irritability
+T5 Symptom 63 76 flu-symptoms
+T6 Symptom 78 84 malaise
+T7 Drug 99 105 Lipitor

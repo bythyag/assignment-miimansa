@@ -1,0 +1,14 @@
+T1 Drug 22 28 Lipitor
+T2 Symptom 61 64 leg
+T3 Symptom 65 71 muscle discomfort
+T4 Symptom 167 173 extreme
+T5 Symptom 174 181 muscle discomfort
+T6 Symptom 183 191 achiness
+T7 Symptom 193 199 cramps
+T8 Symptom 306 311 muscle
+T9 Symptom 312 317 aches
+T10 Symptom 323 327 neck
+T11 Symptom 332 340 lower back
+T12 Symptom 375 384 fatigued
+T13 Symptom 404 409 tired
+T14 Symptom 421 424 fog

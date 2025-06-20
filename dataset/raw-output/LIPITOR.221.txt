@@ -1,0 +1,20 @@
+BIO Sequence:
+OK O | for O | 4 O | years O | , O | then O | muscle B-Symptom | cramps I-Symptom | , O | spasms I-Symptom | , O | weakness B-Symptom | in O | legs B-Symptom | and O | right O | hand O | progressed O | to O | atrophy B-Symptom | . O | Foggy B-Symptom | mental I-Symptom | state I-Symptom | , O | falling O | over O | , O | clumsiness B-Symptom | , O | nightmares B-Symptom | , O | dry B-Symptom | mouth I-Symptom | . O | Stopped O | taking O | Lipitor B-Drug | in O | April O | 2006 O | and O | rapidly O | improved O | , O | but O | a O | month O | later O | started O | going O | downhill O | again O | and O | have O | now O | been O | diagnosed O | with O | ALS B-Disease | . O | I O | am O | an O | unlikely O | candidate O | for O | MND B-Disease | . O | I O | know O | the O | Lipitor B-Drug | poisoned O | me O | . O | I O | wish O | I O | had O | stopped O | taking O | this O | poison O | before O | it O | caused O | permanent O | nerve B-ADR | damage I-ADR | . O
+
+Structured Output:
+T1 Symptom 56 61 muscle cramps
+T2 Symptom 63 70 spasms
+T3 Symptom 72 80 weakness
+T4 Symptom 90 96 legs
+T5 Symptom 104 111 atrophy
+T6 Symptom 113 118 Foggy
+T7 Symptom 120 133 mental state
+T8 Symptom 135 141 falling over
+T9 Symptom 144 154 clumsiness
+T10 Symptom 156 164 nightmares
+T11 Symptom 166 174 dry mouth
+T12 Drug 30 37 Lipitor
+T13 Disease 114 117 ALS
+T14 Disease 122 126 MND
+T15 Drug 30 37 Lipitor
+T16 ADR 116 121 nerve damage

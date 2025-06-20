@@ -1,0 +1,14 @@
+T1 Symptom 0 17 Calf muscle strains
+T2 Drug 68 73 20mg
+T3 Symptom 97 106 cholesterol reduction
+T4 Disease 124 126 mos
+T5 Symptom 145 160 muscle strain
+T6 Symptom 168 172 right calf
+T7 ADR 246 260 severe muscle pull/strain
+T8 Symptom 276 281 left calf
+T9 Symptom 299 306 calf pain
+T10 Drug 319 325 lipitor
+T11 Drug 339 345 Lipitor
+T12 Symptom 433 452 pulled/strained calf
+T13 Drug 467 473 Lipitor
+T14 Symptom 476 482 muscle pull

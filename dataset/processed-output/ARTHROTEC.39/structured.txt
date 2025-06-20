@@ -1,0 +1,10 @@
+T1 Drug 37 53 apple cidar vinegar
+T2 Disease 85 93 arthritis
+T3 Symptom 97 105 headaches
+T4 Drug 107 113 vitamin C
+T5 Symptom 122 126 pain
+T6 Drug 128 133 Gerson diet
+T7 Disease 142 150 migrains
+T8 Disease 152 158 Fibro
+T9 Drug 164 169 drugs
+T10 Drug 171 178 Nancy Reagan

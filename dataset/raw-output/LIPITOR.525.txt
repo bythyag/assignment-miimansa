@@ -1,0 +1,7 @@
+BIO Sequence:
+After O | taking O | Lipitor B-Drug | for O | 2 O | 1/2 O | years O | , O | I O | experienced O | problems B-Symptom | pronouncing I-Symptom | . O
+
+Structured Output:
+T1 Drug 22 28 Lipitor  
+T2 Symptom 42 50 problems  
+T3 Symptom 51 61 pronouncing

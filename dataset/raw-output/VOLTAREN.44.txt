@@ -1,0 +1,17 @@
+BIO Sequence:
+I O | was O | taking O | 75mg O | only O | once O | every O | three O | or O | four O | days O | . O | At O | first O | it O | was O | miraculous O | , O | no O | pain B-Symptom | . O | I O | felt O | fabulous O | , O | except O | I O | did O | notice O | mild B-ADR | headache I-ADR | . O | Then O | the O | side O | effects O | kicked O | in O | . O | Now O | , O | if O | I O | take O | only O | one O | pill O | , O | I O | have O | abdominal B-ADR | cramps I-ADR | , O | followed O | by O | diarrhea B-ADR | , O | lots O | of O | it O | ! O | Also O | , O | LOTS O | of O | gas B-ADR | , O | gurgling B-ADR | , O | mild B-ADR | cramping I-ADR | all O | day O | . O | I O | tried O | one O | more O | today O | , O | immediately O | got O | a O | bad B-ADR | headache I-ADR | , O | and O | cramping B-ADR | , O | nausea B-ADR | , O | and O | heartburn B-ADR | . O | That O | does O | it O | . O | I O | ' O | m O | going O | back O | to O | iubrofen B-Drug | ! O | I O | took O | this O | the O | first O | time O | in O | February B-Disease | 2008 O | , O | and O | have O | taken O | it O | occasionally O | since O | . O | Basically O | it O | works O | great O | for O | my O | pain B-Symptom | , O | but O | I O | ca n't O | live O | with O | the O | side O | effects O | . O |
+
+Structured Output:
+T1 Symptom 61 65 pain
+T2 ADR 89 94 mild headache
+T3 ADR 123 132 abdominal cramps
+T4 ADR 140 148 diarrhea
+T5 ADR 154 157 gas
+T6 ADR 159 168 gurgling
+T7 ADR 173 180 mild cramping
+T8 ADR 215 221 bad headache
+T9 ADR 229 237 cramping
+T10 ADR 239 245 nausea
+T11 ADR 249 257 heartburn
+T12 Drug 298 306 iubrofen
+T13 Disease 327 335 February

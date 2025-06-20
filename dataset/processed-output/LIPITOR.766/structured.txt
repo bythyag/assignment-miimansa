@@ -1,0 +1,11 @@
+T1 Symptom 56 63 syncope
+T2 Symptom 70 80 hypertension
+T3 Disease 96 108 labyrinthitis
+T4 Symptom 127 150 irretractable lower back pain
+T5 Drug 173 180 steroids
+T6 ADR 197 201 weight gain
+T7 ADR 204 210 periorbital edema
+T8 ADR 213 220 fatigue
+T9 ADR 225 229 lack of libido
+T10 ADR 234 246 detachment
+T11 Drug 270 277 lipitor

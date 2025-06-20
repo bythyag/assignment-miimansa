@@ -1,0 +1,4 @@
+T1 Drug 27 37 generic
+T2 Drug 38 48 simvastatin
+T3 Drug 66 72 Lipitor
+T4 Drug 87 93 Pfizer

@@ -1,0 +1,8 @@
+BIO Sequence:
+After O | 3 O | doses O | of O | this O | med O | over O | 24 O | hour O | period O | , O | my O | pain B-Symptom | was O | better O | ; O | however O | , O | I O | experienced O | severe B-ADR | stomach I-ADR | cramping I-ADR | and O | diarrhea B-ADR | . O | IBS B-Disease | , O | which O | had O | been O | under O | control O | , O | seems O | to O | have O | returned O | with O | a O | vengeance O | ! O
+
+Structured Output:
+T1 Symptom 65 69 pain  
+T2 ADR 84 99 severe stomach cramping  
+T3 ADR 104 112 diarrhea  
+T4 Disease 114 117 IBS  

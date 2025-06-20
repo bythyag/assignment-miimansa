@@ -1,0 +1,3 @@
+T1 Disease 22 25 LDL
+T2 Disease 72 81 angiogram
+T3 Disease 111 117 Canada

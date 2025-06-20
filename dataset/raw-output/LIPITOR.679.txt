@@ -1,0 +1,7 @@
+BIO Sequence:
+Daily B-Symptom | headaches I-Symptom | . O | Reduced O | cholesterol B-Disease | count O | from O | 295 O | to O | 182 O | in O | one O | month O | . O
+
+Structured Output:
+T1 Symptom 0 5 Daily
+T2 Symptom 6 14 headaches
+T3 Disease 17 27 cholesterol

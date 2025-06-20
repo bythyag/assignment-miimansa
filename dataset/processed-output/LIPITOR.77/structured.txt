@@ -1,0 +1,19 @@
+T1 Symptom 34 40 direar
+T2 Symptom 46 61 muscle aces
+T3 Symptom 62 69 headace
+T4 Symptom 74 84 collapades
+T5 Disease 124 129 liver
+T6 Drug 140 148 medicane
+T7 ADR 167 174 blisters
+T8 Symptom 182 188 finger
+T9 Symptom 194 200 palms
+T10 Symptom 213 217 soles
+T11 Symptom 220 224 feet
+T12 ADR 241 247 bleed
+T13 Drug 261 267 lipitor
+T14 Symptom 346 358 muscle aces
+T15 Symptom 360 372 memory loss
+T16 Disease 387 396 kidney,s
+T17 Symptom 488 497 headaces
+T18 Symptom 609 621 grandaughter name
+T19 Drug 641 648 lipitor

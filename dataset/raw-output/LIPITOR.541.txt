@@ -1,0 +1,10 @@
+BIO Sequence:
+So O | sad O | to O | see O | so O | many O | with O | problems O | like O | mine O | ! O | Progressively O | worsening O | problems O | with O | joint B-Symptom | pain I-Symptom | , O | muscle B-Symptom | pain I-Symptom | , O | depression B-Symptom | and O | tiredness B-Symptom | . O | Doctor O | has O | ran O | all O | sorts O | of O | tests O | and O | oculdn't O | find O | anything O | wrong O | , O | everyone O | was O | pointing O | to O | arthristis B-Disease | . O | I O | stopped O | taking O | Lipitor B-Drug | and O | many O | of O | the O | problems O | went O | away O | after O | 2 O | days O | . O | I'm O | not O | going O | back O | to O | it O | . O 
+
+Structured Output:
+T1 Symptom 58 62 joint pain
+T2 Symptom 64 74 muscle pain
+T3 Symptom 76 85 depression
+T4 Symptom 90 98 tiredness
+T5 Disease 126 136 arthristis
+T6 Drug 142 148 Lipitor

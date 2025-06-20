@@ -1,0 +1,14 @@
+BIO Sequence:
+I O | had O | no O | side B-ADR | effects I-ADR | until O | I O | started O | drinking O | Grapefruit B-Drug | juice I-Drug | . O | Then O | I O | felt O | like O | crap O | and O | stopped O | taking O | the O | Lipitor B-Drug | . O | Now O | I'm O | off O | the O | grapefruit B-Drug | juice I-Drug | and O | back O | on O | the O | Lipitor B-Drug | and O | I O | feel O | great O | again O | . O | Do O | NOT O | drink O | Grapefruit B-Drug | juice I-Drug | while O | taking O | Lipitor B-Drug | ! O | Check O | the O | label O | . O | Grapefruit B-Drug | juice I-Drug | blocks O | the O | action O | of O | an O | enzyme O | that O | clears O | your O | bloodstream O | of O | the O | drug O | . O | Without O | the O | enzyme O | , O | blood O | levels O | of O | Lipitor B-Drug | can O | get O | very O | high O | and O | cause O | toxic B-ADR | reactions I-ADR | . O
+
+Structured Output:
+T1 ADR 25 35 side effects
+T2 Drug 56 72 Grapefruit juice
+T3 Drug 88 94 Lipitor
+T4 Drug 113 129 grapefruit juice
+T5 Drug 134 140 Lipitor
+T6 Drug 161 177 Grapefruit juice
+T7 Drug 182 188 Lipitor
+T8 Drug 192 208 Grapefruit juice
+T9 Drug 213 219 Lipitor
+T10 ADR 216 234 toxic reactions

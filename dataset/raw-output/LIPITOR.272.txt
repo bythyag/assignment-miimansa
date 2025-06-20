@@ -1,0 +1,14 @@
+BIO Sequence:
+Cognitive B-Symptom | disfunction I-Symptom | , O | neuropathy B-Symptom | in O | my O | legs O | and O | hands O | , O | tinnitis B-Symptom | , O | difficulty B-Symptom | with O | speech B-Symptom | , O | neck B-Symptom | pain I-Symptom | , O | extreme B-Symptom | fatigue I-Symptom | , O | muscle B-Symptom | weakness I-Symptom | and O | difficulty B-Symptom | walking I-Symptom | . O | I O | consider O | this O | to O | be O | an O | extremely O | dangerous O | drug B-Drug | . O | I O | can O | only O | hope O | that O | some O | day O | I O | will O | ever O | be O | able O | to O | lead O | a O | normal O | life O | again O | . O
+
+Structured Output:
+T1 Symptom 0 18 Cognitive disfunction
+T2 Symptom 20 29 neuropathy
+T3 Symptom 33 40 tinnitis
+T4 Symptom 45 53 difficulty
+T5 Symptom 61 66 speech
+T6 Symptom 68 77 neck pain
+T7 Symptom 79 92 extreme fatigue
+T8 Symptom 94 110 muscle weakness
+T9 Symptom 114 130 difficulty walking
+T10 Drug 132 136 drug

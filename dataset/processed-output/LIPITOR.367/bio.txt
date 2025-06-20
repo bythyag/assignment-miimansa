@@ -1,0 +1,1 @@
+episode O | of O | intense O | dizziness B-Symptom | lasting O | nearly O | an O | hour O | , O | then O | an O | episode O | of O | intense O | chills B-Symptom | and O | shivers B-Symptom | lasting O | nearly O | an O | hour O | , O | and O | continued O | lassitude B-Symptom | for O | another O | day O | . O | cure O | is O | worse O | than O | the O | problem O | . O

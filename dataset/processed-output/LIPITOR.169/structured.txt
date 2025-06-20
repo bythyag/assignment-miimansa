@@ -1,0 +1,10 @@
+T1 Drug 41 48 lipitor
+T2 Disease 70 78 cholestrol
+T3 ADR 102 105 gas
+T4 ADR 110 115 loose
+T5 ADR 116 122 stools
+T6 Symptom 139 143 heel
+T7 Symptom 144 148 pain
+T8 ADR 160 165 loose
+T9 ADR 166 172 stools
+T10 ADR 177 180 gas

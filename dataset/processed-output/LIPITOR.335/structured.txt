@@ -1,0 +1,10 @@
+T1 Symptom 1 17 Severe muscle pain
+T2 Symptom 19 36 Severe knee and back pain
+T3 Disease 57 61 knee surgery
+T4 Drug 67 73 Lipitor
+T5 Symptom 79 98 muscle pain
+T6 Disease 138 143 liver
+T7 Symptom 172 177 severe pain
+T8 Disease 204 214 cholesterol
+T9 Disease 228 240 heart attack
+T10 Symptom 242 246 pain

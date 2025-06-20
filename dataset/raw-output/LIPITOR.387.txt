@@ -1,0 +1,10 @@
+BIO Sequence:
+Like O | a O | vast O | majority O | of O | those O | contributing O | , O | a O | lightheadedness B-Symptom | , O | tingling B-Symptom | in O | the O | scalp O | , O | visual B-Symptom | deficits I-Symptom | ( O | not O | double O | vision O | or O | blurriness O | but O | a O | sense O | of O | my O | right O | eye O | drooping O | though O | it O | is O | not O | ) O | . O | The O | lightheadedness B-Symptom | and O | . O | Wokred O | great O | at O | lowering O | cholesterol B-Disease | from O | 276 O | to O | 194 O | but O | at O | what O | price O | ? O | It O | is O | a O | bad O | feeling O | walking O | around O | thinking O | you've O | got O | a O | tumor B-Disease | behind O | your O | eye O | ! O |
+
+Structured Output:
+T1 Symptom 51 66 lightheadedness
+T2 Symptom 68 75 tingling
+T3 Symptom 81 97 visual deficits
+T4 Symptom 104 118 lightheadedness
+T5 Disease 121 129 cholesterol
+T6 Disease 144 150 tumor

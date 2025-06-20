@@ -1,0 +1,7 @@
+BIO Sequence:
+tingling B-Symptom | extremities I-Symptom | , O | bruising B-Symptom | , O | insomnia B-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 17 tingling extremities  
+T2 Symptom 19 27 bruising  
+T3 Symptom 29 36 insomnia  

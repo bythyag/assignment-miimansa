@@ -1,0 +1,13 @@
+T1 Drug 15 22 Lipitor
+T2 Drug 50 56 Zocor
+T3 Symptom 68 74 Leg cramps
+T4 Symptom 76 83 fatique
+T5 Symptom 88 92 weak feeling
+T6 Drug 114 120 Statin
+T7 Disease 136 142 American Heart lung ass.
+T8 Disease 156 167 cholesterol
+T9 Drug 186 190 Doctor
+T10 Drug 241 244 FDA
+T11 ADR 266 276 side effects
+T12 ADR 307 317 side effects
+T13 Drug 377 384 Statins

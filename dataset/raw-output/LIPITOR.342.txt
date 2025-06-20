@@ -1,0 +1,20 @@
+BIO Sequence:
+Wow O | So O | Im O | not O | CRAZY O | after O | all O | ! O | My O | Dr B-Disease | can't O | seem O | to O | find O | out O | why O | My O | feet B-Symptom | hurt B-Symptom | in O | the O | morning O | and O | unexplained I-Symptom | Joint I-Symptom | Pain I-Symptom | , O | I O | get O | even O | after O | just O | sitting O | for O | an O | hour O | watching O | TV O | in O | the O | evening O | . O | Man O | I O | get O | up O | and O | I O | can O | hardly O | walk O | . O | Stiffness B-Symptom | in O | my O | feet I-Symptom | , O | and O | Leg B-Symptom | Joint I-Symptom | . O | Dr B-Disease | has O | done O | X-Ray B-Disease | and O | everything O | . O | Im O | think O | he O | is O | thinking O | it O | is O | in O | my O | head O | all O | this O | pain O | . O | Now O | when O | I O | So O | called O | sleep B-Symptom | at O | night O | I O | have O | been O | noticing O | I O | get O | numbness B-Symptom | in O | my O | hands I-Symptom | , O | and O | it O | isnt O | due O | to O | me O | lying O | on O | my O | arms O | or O | anything O | , O | and O | my O | Lt B-Symptom | Wrist I-Symptom | joint O | , O | where O | my O | thumb O | is O | attached O | , O | is O | dislocating B-Symptom | or O | it O | painfully O | sticks O | . O | And O | I O | have O | to O | painfully O | put O | it O | back O | in O | . O | Im O | going O | to O | show O | this O | website O | to O | my O | GP O | ! O |
+
+Structured Output:
+T1 Disease 39 41 Dr
+T2 Symptom 69 73 feet
+T3 Symptom 80 84 hurt
+T4 Symptom 97 104 unexplained Joint Pain
+T5 Symptom 151 159 Stiffness
+T6 Symptom 169 178 feet
+T7 Symptom 183 187 Leg Joint
+T8 Disease 241 243 Dr
+T9 Disease 254 260 X-Ray
+T10 Symptom 359 364 sleep
+T11 Symptom 392 399 numbness
+T12 Symptom 404 409 hands
+T13 Symptom 471 477 Lt Wrist
+T14 Symptom 486 497 dislocating
+T15 Symptom 515 520 painfully
+T16 Symptom 538 546 put it back

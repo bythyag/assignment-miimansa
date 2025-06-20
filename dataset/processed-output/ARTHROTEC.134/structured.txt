@@ -1,0 +1,11 @@
+T1 Symptom 0 7 Fatigue
+T2 Symptom 9 20 Constipation
+T3 Symptom 29 37 diahorea
+T4 ADR 45 50 blood
+T5 ADR 55 60 clots
+T6 ADR 67 73 stoals
+T7 Symptom 75 88 Painful stomach cramps
+T8 Drug 106 110 drug
+T9 ADR 115 124 side affects
+T10 Symptom 132 137 anxiety
+T11 ADR 154 166 side affects

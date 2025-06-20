@@ -1,0 +1,8 @@
+T1 Drug 54 61 12,000
+T2 Drug 66 70 vitamin C
+T3 Disease 116 126 cholesterol
+T4 Disease 128 131 269
+T5 Drug 136 141 Vitamin C
+T6 Drug 144 149 16,000
+T7 Drug 182 188 Lipitor
+T8 Drug 199 204 Vitamin C

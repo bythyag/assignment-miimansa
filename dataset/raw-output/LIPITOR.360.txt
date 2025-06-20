@@ -1,0 +1,20 @@
+BIO Sequence:
+My O | mother O | started O | taking O | 40 B-Drug | mg. O | of O | Lipitor B-Drug | 3 O | months O | ago O | . O | During O | the O | first O | month O | she O | complained O | about O | her O | head B-Symptom | hurting I-Symptom | . O | She O | began O | getting O | very O | confused B-Symptom | . O | She O | was O | always O | exhausted B-Symptom | , O | falling O | asleep O | all O | the O | time O | . O | Complained O | about O | her O | legs O | always O | feeling O | like O | lead B-Symptom | . O | Within O | the O | last O | six O | weeks O | , O | her O | physical O | health O | has O | deteriorated O | to O | the O | point O | of O | her O | being O | confined O | to O | a O | wheelchair B-Disease | , O | in O | constant O | pain B-Symptom | with O | her O | shoulders O | , O | knees O | , O | and O | a O | feeling O | like O | her O | whole O | body O | hurts B-Symptom | . O | She O | shakes O | as O | if O | she O | has O | Parkinsons B-Disease | . O | If O | I O | had O | not O | seen O | the O | news O | recently O | about O | the O | two O | men O | suing O | Pfizer B-Drug | over O | what O | Lipitor B-Drug | had O | done O | to O | their O | lives O | , O | I O | wouldn't O | have O | even O | thought O | about O | that O | being O | the O | cause O | . O | Finding O | this O | website O | confirmed O | it O | . O | I O | have O | taken O | her O | off O | the O | Lipitor B-Drug | , O | and O | am O | hoping O | that O | alot O | of O | her O | pain B-Symptom | and O | fatigue B-Symptom | and O | muscle O | problems O | will O | start O | to O | get O | better O | , O | although O | it O | scares O | me O | that O | alot O | of O | people O | are O | saying O | they O | haven't O | improved O | . O | I O | wish O | I O | had O | know O | about O | this O | a O | week O | after O | she O | started O | with O | the O | symptoms O | . O | I O | would O | NEVER O | recommend O | this O | drug B-Drug | to O | anyone O | ! O | It O | has O | ruined O | whatever O | years O | my O | mother O | had O | left O | to O | enjoy O | life O | - O | she O | was O | very O | active O | for O | her O | age O | - O | now O | she's O | in O | a O | wheelchair B-Disease | . O |
+
+Structured Output:
+T1 Drug 18 25 Lipitor
+T2 Symptom 66 71 hurting
+T3 Symptom 95 102 confused
+T4 Symptom 110 119 exhausted
+T5 Symptom 154 158 lead
+T6 Disease 190 198 wheelchair
+T7 Symptom 204 208 pain
+T8 Symptom 235 242 hurts
+T9 Disease 258 267 Parkinsons
+T10 Drug 300 306 Pfizer
+T11 Drug 311 318 Lipitor
+T12 Drug 348 353 Lipitor
+T13 Symptom 433 437 pain
+T14 Symptom 440 647 fatigue
+T15 Drug 665 669 drug
+T16 Disease 707 715 wheelchair

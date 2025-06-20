@@ -1,0 +1,14 @@
+BIO Sequence:
+Big O | problems O | with O | muscle B-Symptom | cramps I-Symptom | and O | numbness B-Symptom | in O | my O | legs O | progressing O | to O | difficulty B-Symptom | walking I-Symptom | up O | stairs O | and O | swollen B-Symptom | feet I-Symptom | and O | ankles I-Symptom | . O | Some O | of O | this O | could O | be O | other O | meds B-Drug | or O | combinations O | but O | I O | didn't O | have O | these O | problems O | before O | starting O | Lipitor B-Drug | . O | Statins B-Drug | are O | supposed O | to O | be O | the O | new O | miracle O | drug O | to O | keep O | us O | all O | alive O | for O | years O | longer O | . O | What O | a O | joke O | . O | Who O | would O | want O | to O | live O | like O | this O | ? O | I O | have O | been O | off O | all O | my O | meds B-Drug | for O | about O | a O | week O | and O | feeling O | much O | better O | . O | I O | know O | it's O | dangerous O | but O | so O | are O | the O | drugs B-Drug | . O
+
+Structured Output:
+T1 Symptom 22 35 muscle cramps  
+T2 Symptom 37 45 numbness  
+T3 Symptom 70 81 difficulty walking  
+T4 Symptom 91 96 swollen  
+T5 Symptom 98 102 feet  
+T6 Symptom 104 110 ankles  
+T7 Drug 89 93 Lipitor  
+T8 Drug 1 5 meds  
+T9 Drug 80 84 meds  
+T10 Drug 119 124 drugs  

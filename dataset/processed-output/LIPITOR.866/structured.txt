@@ -1,0 +1,16 @@
+T1 Drug 20 26 Lipitor
+T2 Symptom 62 66 pain
+T3 Symptom 71 74 arm
+T4 Symptom 98 102 pain
+T5 Symptom 107 110 arm
+T6 Drug 151 157 Lipitor
+T7 Symptom 167 174 tingling
+T8 Symptom 180 185 arms
+T9 Symptom 199 203 pain
+T10 Symptom 216 220 arm
+T11 Drug 287 293 Lipitor
+T12 Drug 305 315 supplements
+T13 Symptom 363 369 anxious
+T14 Disease 384 392 myopathy
+T15 Disease 398 404 liver
+T16 Disease 406 412 cancer

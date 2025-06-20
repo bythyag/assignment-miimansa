@@ -1,0 +1,7 @@
+BIO Sequence:
+MOVE O | SLOW O | EYE B-Symptom | HEAVY O | . O | NO O | SLEEP B-Symptom | AT O | NIGHT O | AND O | DAY O | TIME O | NO O | SLEEP B-Symptom | IN O | FOUR O | WEEK O | ! O
+
+Structured Output:
+T1 Symptom 13 16 EYE
+T2 Symptom 34 39 SLEEP
+T3 Symptom 62 67 SLEEP

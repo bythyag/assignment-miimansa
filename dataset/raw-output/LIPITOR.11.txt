@@ -1,0 +1,18 @@
+BIO Sequence:
+I O | started O | taking O | Lipitor B-Drug | in O | Dec O | 2009 O | . O | Experienced O | some O | leg B-Symptom | muscle I-Symptom | discomfort I-Symptom | , O | but O | went O | away O | within O | a O | few O | weeks O | . O | In O | June O | , O | I O | ran O | out O | of O | my O | prescription O | , O | was O | busy O | , O | forgetful O | , O | stupid O | and O | didn’t O | request O | a O | refill O | until O | about O | 2 O | weeks O | later O | . O | It O | took O | another O | week O | to O | get O | the O | prescription O | because O | I O | had O | switched O | doctors O | and O | the O | pharmacy O | didn’t O | follow O | up O | . O | Anyway O | , O | after O | 3 O | weeks O | or O | so O | of O | not O | taking O | Lipitor B-Drug | , O | I O | started O | it O | again O | . O | Now O | a O | week O | later O | , O | I O | feel O | like O | I O | 've O | been O | run O | over O | by O | a O | truck O | . O | I O | started O | having O | extreme B-Symptom | muscle I-Symptom | discomfort I-Symptom | , O | achiness B-Symptom | , O | cramps B-Symptom | . O | I O | assumed O | it O | was O | due O | to O | my O | half-marathon O | training O | . O | I O | ran O | five O | miles O | last O | Saturday O | and O | expected O | to O | be O | sore O | for O | a O | day O | . O | But O | it O | has O | continued O | and O | gotten O | worse O | each O | day O | . O | I O | also O | started O | have O | muscle B-Symptom | aches I-Symptom | in O | my O | neck B-Symptom | and O | shoulders O | and O | lower O | back B-Symptom | . O | I O | couldn’t O | figure O | out O | why O | . O | I O | also O | have O | felt O | extremely O | fatigued B-Symptom | and O | people O | are O | telling O | me O | I O | look O | really O | tired B-Symptom | and O | asking O | if O | I O | 'm O | ok O | . O | I O | feel O | like O | I O | 'm O | in O | a O | fog B-Symptom | and O | it O | 's O | a O | chore O | to O | just O | walk O | around O | . O | Last O | night O | right O | . O |
+
+Structured Output:
+T1 Drug 22 28 Lipitor
+T2 Symptom 61 64 leg
+T3 Symptom 65 71 muscle discomfort
+T4 Symptom 167 173 extreme
+T5 Symptom 174 181 muscle discomfort
+T6 Symptom 183 191 achiness
+T7 Symptom 193 199 cramps
+T8 Symptom 306 311 muscle
+T9 Symptom 312 317 aches
+T10 Symptom 323 327 neck
+T11 Symptom 332 340 lower back
+T12 Symptom 375 384 fatigued
+T13 Symptom 404 409 tired
+T14 Symptom 421 424 fog

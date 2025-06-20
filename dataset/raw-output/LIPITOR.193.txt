@@ -1,0 +1,16 @@
+BIO Sequence:
+Was O | on O | LIPITOR B-Drug | for O | 18 O | days O | . O | Developed O | sore B-Symptom | legs I-Symptom | , O | sore B-Symptom | back I-Symptom | , O | general O | tiredness B-Symptom | and O | my O | head O | was O | foggy B-ADR | . O | making O | it O | difficult O | to O | concentrate O | . O | At O | day O | 16 O | , O | developed O | excruciating B-Symptom | toothache I-Symptom | ( O | that O | moved O | from O | day O | to O | day O | ) O | . O | Gave O | up O | on O | day O | 18 O | . O | At O | end O | of O | day O | 19 O | , O | the O | toothache I-Symptom | had O | gone O | . O | I O | would O | not O | recommend O | this O | drug B-Drug | to O | anyone O | . O | My O | father-in-law O | was O | on O | the O | same O | drug B-Drug | to O | defeat O | cholesterol B-Disease | and O | ended O | up O | in O | a O | wheelchair O | with O | symptoms B-Symptom | of O | Parkison's B-Disease | disease I-Disease | . O | He O | died O | of O | a O | massive O | heart O | attack B-Disease | last O | year O | . O |
+
+Structured Output:
+T1 Drug 8 15 LIPITOR
+T2 Symptom 64 68 sore legs
+T3 Symptom 70 74 sore back
+T4 Symptom 85 96 tiredness
+T5 ADR 105 111 foggy
+T6 Symptom 135 145 excruciating toothache
+T7 Symptom 151 163 toothache
+T8 Drug 177 181 drug
+T9 Drug 197 201 drug
+T10 Disease 207 216 cholesterol
+T11 Disease 224 233 Parkison's disease
+T12 Disease 239 254 heart attack

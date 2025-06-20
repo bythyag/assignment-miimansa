@@ -1,0 +1,14 @@
+BIO Sequence:
+I O | have O | been O | taking O | 20mg O | of O | lipitor B-Drug | for O | 1 O | year O | , O | It O | has O | lowered O | my O | cholestrol B-Disease | to O | 225 O | but O | I O | cannot O | deal O | with O | the O | agony O | of O | constant O | gas B-ADR | and O | loose B-ADR | stools I-ADR | . O | I O | am O | also O | experiencing O | heel B-Symptom | pain I-Symptom | . O | The O | loose B-ADR | stools I-ADR | and O | gas I-ADR | are O | more O | than O | I O | can O | bear O | . O | anyone O | switch O | to O | a O | different O | statin B-Drug | drug O | that O | did O | not O | cause O | loose B-ADR | stools I-ADR | and O | constant O | gas I-ADR | ? O
+
+Structured Output:
+T1 Drug 41 48 lipitor
+T2 Disease 70 78 cholestrol
+T3 ADR 102 105 gas
+T4 ADR 110 115 loose
+T5 ADR 116 122 stools
+T6 Symptom 139 143 heel
+T7 Symptom 144 148 pain
+T8 ADR 160 165 loose
+T9 ADR 166 172 stools
+T10 ADR 177 180 gas

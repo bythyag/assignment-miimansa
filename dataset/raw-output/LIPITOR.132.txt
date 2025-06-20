@@ -1,0 +1,10 @@
+BIO Sequence:
+Severe O | and O | prolonged O | leg B-Symptom | , O | ankle B-Symptom | , O | toe B-Symptom | muscle I-Symptom | pain I-Symptom | every O | night O | . O | Doctor O | said O | it O | was O | not O | the O | lipitor B-Drug | . O | went O | off O | it O | myself O | . O | Now O | off O | 6 O | myths O | . O | NO O | more O | muscle B-Symptom | pain I-Symptom | ! O
+
+Structured Output:
+T1 Symptom 29 32 leg
+T2 Symptom 34 39 ankle
+T3 Symptom 41 44 toe
+T4 Symptom 45 50 muscle pain
+T5 Drug 65 71 lipitor
+T6 Symptom 93 98 muscle pain

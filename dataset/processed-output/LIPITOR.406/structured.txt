@@ -1,0 +1,8 @@
+T1 Symptom 1 16 Elevated liver enzymes
+T2 Disease 18 29 fatty liver
+T3 Symptom 31 42 muscle pain
+T4 Symptom 44 51 fatigue
+T5 Symptom 53 66 rapid weight loss
+T6 Symptom 68 86 partial paralysis
+T7 Drug 118 123 drugs
+T8 Drug 139 143 drug

@@ -1,0 +1,13 @@
+T1 ADR 0 15 Side effects  
+T2 ADR 25 34 drowsiness  
+T3 ADR 39 48 dry mouth  
+T4 ADR 84 93 drowsiness  
+T5 Drug 108 112 drug  
+T6 Drug 139 144 NSAID  
+T7 Drug 176 180 drug  
+T8 Symptom 191 195 pain  
+T9 Symptom 219 223 pain  
+T10 Symptom 227 232 aches  
+T11 Symptom 236 241 pains  
+T12 Drug 262 266 Vioxx  
+T13 Drug 271 274 OTC

@@ -1,0 +1,7 @@
+T1 Disease 13 20 sciatica
+T2 Symptom 51 60 buttocks
+T3 Symptom 64 69 toes
+T4 Symptom 71 78 tingling
+T5 Symptom 83 87 numb
+T6 Symptom 98 102 pain
+T7 Symptom 115 119 walk

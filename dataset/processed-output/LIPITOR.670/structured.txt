@@ -1,0 +1,8 @@
+T1 Symptom 22 31 muscle aches  
+T2 Symptom 39 44 calves  
+T3 Symptom 48 58 lower back  
+T4 Symptom 66 70 pain  
+T5 Symptom 83 90 morning  
+T6 Symptom 113 119 morning  
+T7 ADR 81 92 complications  
+T8 Drug 103 107 drug

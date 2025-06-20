@@ -1,0 +1,14 @@
+BIO Sequence:
+Cramps B-Symptom | in O | my O | feet B-Symptom | , O | pain B-Symptom | in O | the O | lower O | part O | of O | my O | knees B-Symptom | , O | fatigue B-Symptom | , O | mental B-Symptom | fog B-Symptom | . O | During O | the O | three O | years O | that O | I O | was O | taking O | Lipitor B-Drug | , O | my O | cholesterol O | averaged O | as O | follows O | ( O | n O | = O | 5 O | ) O | all O | units O | mg/dL O | : O | Total O | Cholesterol O | - O | 140 O | HDL O | - O | 38 O | LDL O | - O | 74 O | Triglycerides O | - O | 139 O | Total/HDL O | Ratio O | - O | 3.67 O | After O | stopping O | Lipitor B-Drug | and O | all O | other O | statins O | in O | 2010 O | : O | Total O | Cholesterol O | - O | 218 O | HDL O | - O | 34 O | LDL O | - O | 184 O | Triglycerides O | - O | 167 O | Total/HDL O | ratio O | - O | 6.4 O | After O | switching O | to O | 10 O | mg O | Simvistatin B-Drug | : O | Total O | Cholesterol O | - O | 136 O | HDL O | - O | 38 O | LDL O | - O | 70 O | Triglycerides O | - O | 138 O | Total/HDL O | ratio O | - O | 3.58 O | I O | take O | 1/2 O | of O | a O | 20 O | mg O | generic O | Simvistatin B-Drug | pill O | daily O | . O | Very O | little O | side O | effects O | , O | cheaper O | , O | and O | does O | the O | same O | job O | as O | Lipitor B-Drug | . O 
+
+Structured Output:
+T1 Symptom 0 6 Cramps
+T2 Symptom 15 19 feet
+T3 Symptom 24 28 pain
+T4 Symptom 31 35 knees
+T5 Symptom 39 46 fatigue
+T6 Symptom 48 58 mental fog
+T7 Drug 135 142 Lipitor
+T8 Drug 232 239 Lipitor
+T9 Drug 252 263 Simvistatin
+T10 Drug 275 288 Simvistatin

@@ -1,0 +1,13 @@
+BIO Sequence:
+aching O | joints B-Symptom | : O | wrists B-Symptom | , O | elbows B-Symptom | , O | shoulders B-Symptom | , O | knees B-Symptom | , O | and O | gas B-Symptom | . O | lowered O | my O | cholesterol B-Symptom | , O | but O | i O | cannot O | sleep B-Symptom | through O | the O | night B-Symptom | . O
+
+Structured Output:
+T1 Symptom 7 12 joints
+T2 Symptom 14 20 wrists
+T3 Symptom 22 27 elbows
+T4 Symptom 29 37 shoulders
+T5 Symptom 39 44 knees
+T6 Symptom 46 49 gas
+T7 Symptom 66 75 cholesterol
+T8 Symptom 82 87 sleep
+T9 Symptom 92 97 night

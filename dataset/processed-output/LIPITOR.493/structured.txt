@@ -1,0 +1,9 @@
+T1 Disease 40 48 parkinson's
+T2 Drug 70 76 Lipitor
+T3 Drug 92 98 coq10
+T4 Drug 104 119 magnesium orotate
+T5 Disease 124 133 parkinson's
+T6 Drug 142 149 Lipitor's
+T7 Drug 153 159 coq10
+T8 Disease 168 176 selenium
+T9 Disease 182 204 Amyotrophic lateral sclerosis

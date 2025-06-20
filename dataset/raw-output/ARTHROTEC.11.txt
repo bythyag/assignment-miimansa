@@ -1,0 +1,10 @@
+BIO Sequence:
+I O | have O | no O | side B-ADR | effects I-ADR | that O | I O | am O | aware O | of O | . O | I O | have O | tried O | various O | pain B-Symptom | meds I-Symptom | for O | the O | shoulder B-Disease | and O | nothing O | worked O | . O | I O | was O | skeptical O | when O | my O | doctor O | asked O | me O | to O | try O | Arthrotec B-Drug | but O | my O | pain B-Symptom | is O | totally O | under O | control O | without O | any O | apparent O | side B-ADR | effects I-ADR | . O 
+
+Structured Output:
+T1 ADR 17 29 side effects
+T2 Symptom 36 40 pain
+T3 Disease 54 62 shoulder
+T4 Drug 78 86 Arthrotec
+T5 Symptom 91 95 pain
+T6 ADR 113 125 side effects

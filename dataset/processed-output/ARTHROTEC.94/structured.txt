@@ -1,0 +1,11 @@
+T1 Symptom 11 29 excruciating unusual abdominal pain
+T2 Disease 31 36 bowel
+T3 Disease 38 45 uterine
+T4 Symptom 49 59 lower back pain
+T5 ADR 75 82 diarrhea
+T6 Symptom 106 123 heart palpitations
+T7 Symptom 129 145 vaginal bleeding
+T8 Drug 160 167 aspirin
+T9 Symptom 184 191 problems
+T10 Symptom 206 210 pain
+T11 Drug 226 233 aspirin

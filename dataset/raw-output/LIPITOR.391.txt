@@ -1,0 +1,11 @@
+BIO Sequence:
+Exhaustion B-Symptom | , O | malaise B-Symptom | , O | upset B-Symptom | stomach I-Symptom | / O | constant B-Symptom | hunger I-Symptom | . O | Tried O | 5mg/day B-Drug | for O | three O | DAYS O | . O | Just O | can't O | imagine O | taking O | this O | drug O | any O | longer O | . O | Tried O | 10mg/day B-Drug | for O | 8 O | days O | one O | year O | ago O | with O | same O | side B-ADR | effects I-ADR | . O
+
+Structured Output:
+T1 Symptom 0 9 Exhaustion
+T2 Symptom 11 17 malaise
+T3 Symptom 19 31 upset stomach
+T4 Symptom 33 41 constant hunger
+T5 Drug 46 54 5mg/day
+T6 Drug 78 86 10mg/day
+T7 ADR 95 109 side effects

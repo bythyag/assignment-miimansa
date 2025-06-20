@@ -1,0 +1,4 @@
+T1 Symptom 0 16 Lower Back Pain
+T2 Disease 44 60 Lower back surgeries
+T3 Symptom 64 68 pain
+T4 Symptom 82 87 rest

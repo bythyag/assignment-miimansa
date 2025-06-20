@@ -1,0 +1,24 @@
+BIO Sequence:
+fatigue B-Symptom | and O | extremely O | high O | sleep B-Symptom | requirement I-Symptom | , O | pain B-Symptom | and O | loss B-Symptom | of O | support O | in O | calf B-Symptom | musells I-Symptom | , O | unable O | to O | walk B-Symptom | , O | vertigo B-Symptom | like O | attacks I-Symptom | at O | night O | while O | in O | bed O | , O | loss B-Symptom | of O | any O | sex B-Symptom | drive I-Symptom | ( O | not O | complaining O | ) O | , O | ability O | to O | think B-Symptom | ahead I-Symptom | improving O | , O | . O | add O | on O | to O | 11/8/2006 O | report O | , O | been O | off O | lipitor B-Drug | for O | about O | 27 O | days O | sleep O | requirement O | went O | from O | 14 O | hrs O | to O | 8 O | , O | still O | some O | fatique B-Symptom | leg O | support O | weak O | but O | able O | to O | walk B-Symptom | general O | mussel O | weakness B-Symptom | persists O | with O | mild O | improvement O | , O | vertigo B-Symptom | decreased O | no O | attacks O | balance O | not O | as O | good O | as O | it O | use O | to O | be O | , O | hope O | some O | more O | of O | my O | energy O | returns O | , O | exercise B-Symptom | sessions I-Symptom | indicate O | a O | recovery O | to O | 29 O | % O | from O | 5 O | % O | relating O | to O | pre O | attack O | exercise O | levels O | . O
+
+Structured Output:
+T1 Symptom 0 6 fatigue
+T2 Symptom 26 31 sleep
+T3 Symptom 60 64 pain
+T4 Symptom 71 75 loss
+T5 Symptom 82 86 calf
+T6 Symptom 93 98 walk
+T7 Symptom 102 108 vertigo
+T8 Symptom 112 129 attacks
+T9 Symptom 134 138 loss
+T10 Symptom 143 152 sex
+T11 Symptom 155 167 think
+T12 Symptom 169 174 lipitor
+T13 Symptom 233 241 fatique
+T14 Symptom 245 248 walk
+T15 Symptom 258 267 weakness
+T16 Symptom 288 295 vertigo
+T17 Symptom 298 306 exercise
+T18 Symptom 311 318 recovery
+T19 Symptom 322 325 % 
+T20 Symptom 329 332 %

@@ -1,0 +1,15 @@
+T1 Symptom 61 66 stomach cramps
+T2 ADR 76 83 diarrhea
+T3 ADR 90 96 nausea
+T4 Symptom 127 135 knee pain
+T5 Disease 177 193 osteoarthritis
+T6 Symptom 224 229 stomach gas
+T7 Symptom 233 237 pain
+T8 Symptom 239 260 gastrointestinal cramping
+T9 ADR 263 269 diarrhea
+T10 Symptom 274 278 pain
+T11 Drug 300 308 arthritis drug
+T12 Symptom 326 331 knee pain
+T13 ADR 346 358 side effects
+T14 Disease 363 377 knee surgeon
+T15 Symptom 394 398 sick

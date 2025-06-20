@@ -1,0 +1,14 @@
+T1 ADR 37 43 adverse  
+T2 Drug 50 59 20mg/day  
+T3 Symptom 78 82 bone  
+T4 Symptom 87 93 muscle  
+T5 Symptom 94 98 pain  
+T6 Drug 103 109 Lipitor  
+T7 ADR 152 158 adverse  
+T8 Disease 166 170 LDL  
+T9 Disease 182 192 infarction  
+T10 Disease 195 205 cholesterol  
+T11 ADR 244 250 adverse  
+T12 Drug 271 276 name  
+T13 Drug 278 284 brand  
+T14 Drug 470 475 20mg

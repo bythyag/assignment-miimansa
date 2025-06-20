@@ -1,0 +1,16 @@
+BIO Sequence:
+severe B-Symptom | headaches I-Symptom | , O | stomach B-Symptom | pain I-Symptom | , O | loose B-Symptom | stool I-Symptom | , O | all O | of O | which O | spontaneously O | ended O | , O | followed O | soon O | after O | by O | agonizing B-Symptom | muscle B-Symptom | spasms I-Symptom | in O | leg O | with O | bad B-Symptom | knee I-Symptom | . O | Now O | beginning O | to O | experience O | spasms B-Symptom | in O | left B-Symptom | arm I-Symptom | . O | immediate O | relief O | from O | full B-Disease | body I-Disease | athritic I-Disease | pain I-Disease | , O | great O | relief O | from O | knee B-Symptom | pain I-Symptom | -- O | relief O | from O | knee B-Symptom | pain I-Symptom | gradually O | diminished O | , O | probably O | because O | I O | became O | more O | active O | . O
+
+Structured Output:
+T1 Symptom 1 7 severe
+T2 Symptom 9 17 headaches
+T3 Symptom 19 30 stomach pain
+T4 Symptom 32 42 loose stool
+T5 Symptom 66 74 agonizing muscle spasms
+T6 Symptom 78 81 leg
+T7 Symptom 85 89 bad knee
+T8 Symptom 104 110 spasms
+T9 Symptom 114 123 left arm
+T10 Disease 135 158 full body athritic pain
+T11 Symptom 162 169 knee pain
+T12 Symptom 182 189 knee pain

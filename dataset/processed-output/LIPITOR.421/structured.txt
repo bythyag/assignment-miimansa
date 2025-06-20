@@ -1,0 +1,14 @@
+T1 Drug 14 21 Lipitor
+T2 Drug 23 28 20mg
+T3 Symptom 44 53 flu-like symptoms
+T4 ADR 56 63 dizziness
+T5 ADR 65 71 nausea
+T6 Symptom 73 85 muscle aches
+T7 Symptom 87 91 loss
+T8 Symptom 93 100 energy
+T9 Symptom 107 118 productivity
+T10 Symptom 120 128 headaches
+T11 Symptom 143 151 symptoms
+T12 ADR 165 176 side effects
+T13 Symptom 210 220 cholesterol
+T14 ADR 236 243 side effects

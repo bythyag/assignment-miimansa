@@ -1,0 +1,9 @@
+BIO Sequence:
+Naseua B-ADR | , O | vomiting B-ADR | , O | cramps B-ADR | , O | dry B-Symptom | eyes I-Symptom | , O | loss B-Symptom | of O | appetite I-Symptom | . O 
+
+Structured Output:
+T1 ADR 0 6 Naseua
+T2 ADR 8 16 vomiting
+T3 ADR 18 24 cramps
+T4 Symptom 26 34 dry eyes
+T5 Symptom 36 50 loss of appetite

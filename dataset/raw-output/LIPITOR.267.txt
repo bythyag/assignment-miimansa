@@ -1,0 +1,6 @@
+BIO Sequence:
+None O | Lipitor B-Drug | dropped O | my O | cholesterol B-Disease | from O | the O | 260-280 O | range O | to O | the O | 160-180 O | range O .
+
+Structured Output:
+T1 Drug 5 11 Lipitor
+T2 Disease 30 40 cholesterol

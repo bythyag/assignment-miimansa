@@ -1,0 +1,17 @@
+BIO Sequence:
+Constipation B-Symptom | right O | from O | the O | start O | and O | in O | ladt O | 4 O | weeks O | extreme B-Symptom | joint B-Symptom | pain I-Symptom | at O | night O | ( O | just O | few O | hours O | after O | taking O | tablets O | ). O | Pain B-Symptom | so O | bad O | it O | disrupted O | my O | sleep B-Symptom | completely O | . O | also O | , O | extreme B-ADR | itching I-ADR | on O | legs O | and O | arms O | , O | so O | bad O | I O | scratched O | myself O | raw O | . O | mobility B-Symptom | has O | DECREASED O | rapidly O | , O | especially O | when O | trying O | to O | go O | down O | stairs O | . O | Was O | warned O | about O | possibility O | of O | constipation B-Symptom | but O | think O | doctor O | underestimated O | how O | severe O | it O | would O | get O | . O | Arthrotec B-Drug | was O | supposed O | to O | ease O | my O | pain I-Symptom | not O | make O | it O | worse O | . O | Have O | stopped O | taking O | and O | immediatedly O | muscle/joint B-Symptom | pain I-Symptom | eased O | and O | sleeping B-Symptom | much O | better O | . O | Have O | reverted O | to O | use O | of O | co-codamol B-Drug | to O | ease O | symptoms B-Symptom | as O | required O | . O 
+
+Structured Output:
+T1 Symptom 0 10 Constipation
+T2 Symptom 42 56 extreme joint pain
+T3 Symptom 85 89 Pain
+T4 Symptom 96 101 sleep
+T5 ADR 138 144 extreme itching
+T6 Symptom 164 171 mobility
+T7 Symptom 188 195 DECREASED
+T8 Symptom 239 252 constipation
+T9 Drug 263 271 Arthrotec
+T10 Symptom 292 296 pain
+T11 Symptom 324 335 muscle/joint pain
+T12 Symptom 344 351 sleeping
+T13 Drug 362 373 co-codamol

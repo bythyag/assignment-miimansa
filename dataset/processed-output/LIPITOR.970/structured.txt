@@ -1,0 +1,7 @@
+T1 Disease 34 57 sever arthritic condition
+T2 Drug 122 129 statins
+T3 ADR 134 144 side effect
+T4 Drug 150 157 crestor
+T5 ADR 164 176 side effect
+T6 ADR 181 185 mild pain
+T7 Drug 199 206 statins

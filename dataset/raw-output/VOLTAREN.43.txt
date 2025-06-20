@@ -1,0 +1,6 @@
+BIO Sequence:
+dizziness B-Symptom | first O | few O | days O | , O | mild O | nausea B-ADR | . O
+
+Structured Output:
+T1 Symptom 0 8 dizziness
+T2 ADR 18 24 nausea

@@ -1,0 +1,8 @@
+T1 Symptom 1 5 Aches  
+T2 Symptom 7 12 pains  
+T3 Symptom 52 64 mental acuity  
+T4 Symptom 69 77 depressed  
+T5 ADR 84 91 Side effects  
+T6 ADR 106 118 Bad side effects  
+T7 Drug 130 136 statin  
+T8 Drug 168 174 statin

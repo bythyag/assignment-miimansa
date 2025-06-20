@@ -1,0 +1,7 @@
+T1 Symptom 8 13 tummy bloating
+T2 Symptom 15 20 Tight chest
+T3 Symptom 22 30 Headache
+T4 Symptom 32 37 Mood swings
+T5 ADR 39 42 gas
+T6 ADR 44 52 tummy pains
+T7 Symptom 54 58 cold shivers

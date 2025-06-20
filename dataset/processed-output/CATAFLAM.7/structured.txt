@@ -1,0 +1,9 @@
+T1 Drug 43 48 150mg
+T2 Drug 67 72 100mg
+T3 Drug 80 85 Vioxx
+T4 Drug 88 95 Celebrx
+T5 Drug 101 107 Bextra
+T6 Drug 156 164 Cataflam
+T7 Drug 179 186 Cataflam
+T8 Symptom 57 63 blood pressure
+T9 Disease 213 218 health risk

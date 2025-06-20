@@ -1,0 +1,10 @@
+T1 Symptom 27 36 chest pain
+T2 Symptom 38 53 muscle weakness
+T3 Symptom 55 62 spasms
+T4 Disease 88 101 Rhabdomyolosis
+T5 Drug 110 114 Cpk
+T6 Drug 116 118 ck
+T7 ADR 146 155 myoglobin
+T8 ADR 159 169 hemoglogin
+T9 Symptom 206 211 heart
+T10 Drug 230 240 cholestorel

@@ -1,0 +1,20 @@
+T1 Drug 26 35 Provachol
+T2 ADR 82 88 bloating
+T3 Drug 115 121 Lipitor
+T4 Drug 123 127 10mg
+T5 ADR 151 157 bloating
+T6 ADR 162 165 gas
+T7 ADR 195 201 bloating
+T8 ADR 292 298 drowsy
+T9 Symptom 439 443 pain
+T10 Disease 462 473 tendonitis
+T11 Drug 509 522 multivitamins
+T12 Drug 524 534 B complex
+T13 Drug 536 541 CoQ10
+T14 Drug 543 547 GasX
+T15 ADR 552 558 bloating
+T16 ADR 574 577 gas
+T17 ADR 584 588 pain
+T18 Drug 616 625 drug
+T19 Drug 635 641 Tums
+T20 Drug 644 650 Lipitor

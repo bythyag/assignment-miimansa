@@ -1,0 +1,22 @@
+BIO Sequence:
+Still O | have O | pain B-Symptom | in O | feet B-Symptom | and O | legs B-Symptom | , O | since O | Dr O | made O | me O | continue O | this O | Lipitor B-Drug | ( O | Crippling O | Medicine O | from O | Hell O | ) O | & O | when O | I O | refused O | to O | take O | it O | the O | 2nd O | time O | , O | even O | though O | they O | continued O | to O | tell O | me O | that O | I O | could O | DIE O | if O | I O | did O | not O | take O | it O | , O | with O | my O | response O | being O | that O | I O | could O | live O | with O | agonizing B-ADR | pain I-ADR | and O | be O | disabled O | on O | this O | medication O | or O | possibly O | NOT O | DIE O | from O | this O | medication O | and O | still O | provide O | for O | my O | family O | by O | working O | . O | That O | was O | Long O | ago O | & O | my O | Feet B-Symptom | still O | hurt O | so O | bad O | by O | the O | end O | of O | my O | work O | day O | , O | because O | they O | decided O | I O | should O | take O | Simcor B-Drug | in O | its O | place O | . O | Now O | I O | had O | no O | ideas O | at O | the O | time O | about O | Statin B-Drug | drugs I-Drug | until O | I O | found O | this O | website O | , O | I O | had O | been O | on O | Simcor B-Drug | for O | 1 O | Month O | & O | stopped O | it O | immediately O | when O | I O | realized O | that O | it O | was O | perpetuating O | my O | Foot/ankle B-Symptom | pain I-Symptom | . O | I O | will O | never O | take O | any O | Statin B-Drug | drugs I-Drug | again O | , O | & O | my O | Cholesterol B-Symptom | is O | lower O | from O | my O | change O | in O | diet O | . O | Do O | NOT O | fall O | for O | the O | Statin B-Drug | Drug I-Drug | Scam O | , O | as O | Big O | Pharma O | runs O | our O | little O | Family O | Dr O | Offices O | with O | Lunches O | & O | boxes O | full O | of O | Sample O | drugs O | , O | to O | either O | give O | to O | patien O | . O | Never O | take O | this O | Drug O | or O | any O | other O | Statin B-Drug | Drug I-Drug | , O | as O | it O | has O | never O | been O | proven O | that O | Cholesterol B-Symptom | will O | Kill O | you O | , O | especially O | when O | I O | know O | people O | who O | are O | not O | over O | weight O | and O | eat O | right O | only O | to O | have O | there O | Hi O | # O | above O | 400 O | and O | it O | is O | Genetic O | , O | with O | no O | one O | dying O | from O | Heart B-Disease | attacks I-Disease | in O | there O | Family's O | . O | So O | many O | books O | out O | today O | about O | the O | Statin B-Drug | Drug I-Drug | Lies O | ! O 
+
+Structured Output:
+T1 Symptom 20 24 pain
+T2 Symptom 29 33 feet
+T3 Symptom 38 42 legs
+T4 Drug 77 83 Lipitor
+T5 ADR 139 157 agonizing pain
+T6 Symptom 178 182 Feet
+T7 Drug 217 223 Simcor
+T8 Drug 244 249 Statin
+T9 Drug 253 258 Simcor
+T10 Symptom 263 270 Foot/ankle pain
+T11 Drug 283 288 Statin
+T12 Symptom 306 318 Cholesterol
+T13 Drug 326 331 Statin
+T14 Drug 335 339 Statin
+T15 Symptom 346 358 Cholesterol
+T16 Disease 411 416 Heart attacks
+T17 Drug 446 451 Statin
+T18 Drug 456 461 Statin

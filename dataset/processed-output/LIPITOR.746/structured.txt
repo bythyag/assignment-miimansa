@@ -1,0 +1,17 @@
+T1 Drug 21 28 Lipitor
+T2 Symptom 56 70 muscle pain
+T3 Symptom 73 77 arms
+T4 Symptom 79 83 legs
+T5 Symptom 88 92 back
+T6 ADR 109 117 cramping
+T7 Symptom 120 124 legs
+T8 Symptom 130 134 back
+T9 Disease 149 158 cholesterol
+T10 Disease 195 200 heart muscle
+T11 Drug 222 226 CPK
+T12 Drug 248 255 Lipitor
+T13 Drug 258 265 Niaspan
+T14 Drug 295 302 vitamin C
+T15 Disease 384 393 cholesterol
+T16 Drug 395 400 vitamin C
+T17 Drug 404 411 statins

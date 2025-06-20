@@ -1,0 +1,1 @@
+stiff B-Symptom | neck I-Symptom | , O | tightness B-Symptom | in O | shoulders I-Symptom | , O | muscle B-Symptom | pain I-Symptom | . O | not O | recommended O | . O

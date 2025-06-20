@@ -1,0 +1,8 @@
+BIO Sequence:
+Extreme O | tiredness B-Symptom | , O | dizziness B-Symptom | , O | memory B-Symptom | loss I-Symptom | , O | moody B-Symptom | . O 
+
+Structured Output:
+T1 Symptom 10 19 tiredness
+T2 Symptom 21 29 dizziness
+T3 Symptom 31 42 memory loss
+T4 Symptom 44 49 moody

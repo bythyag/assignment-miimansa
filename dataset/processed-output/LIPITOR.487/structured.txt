@@ -1,0 +1,3 @@
+T1 Drug 5 8 med
+T2 ADR 30 43 side effects
+T3 Disease 54 64 cholesterol

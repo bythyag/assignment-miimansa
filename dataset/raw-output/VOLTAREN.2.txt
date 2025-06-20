@@ -1,0 +1,9 @@
+BIO Sequence:
+I O | took O | one O | dose O | and O | 15 O | minutes O | later O | i O | felt O | dizzy B-ADR | and O | had O | chest B-Symptom | pain I-Symptom | and O | felt O | like O | my O | life O | was O | gonna O | slip O | away O | and O | die O | . O | i O | called O | my O | Dr B-Drug | and O | he O | is O | an O | idiot O | . O | he O | told O | me O | that O | this O | medicine B-Drug | does O | not O | cause O | these O | symptoms O | i O | hate O | when O | Pharmecitical B-Drug | company O | push O | these O | and O | have O | DR's O | advertise O | and O | experiment O | on O | us O | like O | animals O | they O | jsut O | make O | us O | sicker O | . O
+
+Structured Output:
+T1 ADR 45 50 dizzy
+T2 Symptom 57 63 chest pain
+T3 Drug 92 94 Dr
+T4 Drug 102 109 medicine
+T5 Drug 111 121 Pharmecitical

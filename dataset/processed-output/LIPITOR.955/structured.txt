@@ -1,0 +1,10 @@
+T1 Symptom 50 56 joint pain
+T2 Symptom 64 73 painfull welts
+T3 Drug 104 116 anti-inflam. drugs
+T4 Drug 166 171 Zocor
+T5 ADR 173 180 dizziness
+T6 Drug 182 191 Pravachol
+T7 Drug 197 203 Zetia
+T8 ADR 205 220 mild joint pain
+T9 Drug 225 231 Lipitor
+T10 Drug 253 259 Lipitor

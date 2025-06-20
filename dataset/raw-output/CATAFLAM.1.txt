@@ -1,0 +1,9 @@
+BIO Sequence:
+rectal B-Symptom | bleeding I-Symptom | , O | collapse B-Symptom | . O | Emergency O | admission O | to O | the O | hospital O | . O | I O | would O | never O | recommend O | this O | drug B-Drug | to O | anyone O | . O | It O | is O | not O | worth O | the O | chance O | of O | GI B-Disease | hemorrhage I-Disease | which O | is O | what O | I O | experienced O | . O 
+
+Structured Output:
+T1 Symptom 0 6 rectal
+T2 Symptom 7 14 bleeding
+T3 Symptom 16 23 collapse
+T4 Drug 77 81 drug
+T5 Disease 94 102 GI hemorrhage

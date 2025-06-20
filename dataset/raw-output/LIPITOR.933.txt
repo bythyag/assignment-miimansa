@@ -1,0 +1,7 @@
+BIO Sequence:
+Took O | this O | drug B-Drug | for O | about O | 6 O | months O | . O | Did O | the O | trick O | on O | lowering O | what O | is O | was O | supposed O | to O | , O | but O | I O | suffered O | extreme O | depression B-Symptom | . O | Not O | worth O | the O | suicidal B-Symptom | thoughts I-Symptom | , O | so O | I O | quit O | taking O | it O | . O 
+
+Structured Output:
+T1 Drug 21 25 drug
+T2 Symptom 65 74 depression
+T3 Symptom 82 91 suicidal thoughts

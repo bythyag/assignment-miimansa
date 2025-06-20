@@ -1,0 +1,11 @@
+BIO Sequence:
+tiredness B-Symptom | , O | headaches B-Symptom | , O | blurring B-Symptom | vision I-Symptom | . O | Lipitor B-Drug | 40 I-Drug | brought O | my O | cholesterol B-Disease | down O | from O | 355 O | to O | 170 O | within O | the O | 3 O | months O | that O | I O | have O | been O | taking O | it O | . O | No O | immediate O | side O | effects O | , O | but O | now O | after O | 3 O | months O | I O | am O | noticing O | frequent O | bad O | headaches B-ADR | and O | extreme O | tiredness B-ADR | . O
+
+Structured Output:
+T1 Symptom 1 9 tiredness
+T2 Symptom 11 20 headaches
+T3 Symptom 22 36 blurring vision
+T4 Drug 43 50 Lipitor
+T5 Disease 76 85 cholesterol
+T6 ADR 112 120 headaches
+T7 ADR 129 139 tiredness

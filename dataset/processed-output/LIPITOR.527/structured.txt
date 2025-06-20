@@ -1,0 +1,8 @@
+T1 Symptom 0 6 Vertigo
+T2 Symptom 8 17 room spinning
+T3 Symptom 19 26 dizziness
+T4 Symptom 28 34 nausea
+T5 Symptom 36 51 vision problems
+T6 Symptom 53 58 seeing
+T7 Symptom 60 63 two
+T8 Symptom 65 70 three

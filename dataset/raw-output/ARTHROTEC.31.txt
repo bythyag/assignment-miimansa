@@ -1,0 +1,18 @@
+BIO Sequence:
+headaches B-Symptom | , O | extreme B-Symptom | tiredness I-Symptom | , O | worse B-Symptom | heartburn I-Symptom | in O | back O | of O | throat O | , O | hunger B-Symptom | pangs I-Symptom | , O | dry B-Symptom | mouth I-Symptom | , O | severe B-Symptom | lower I-Symptom | abdominal I-Symptom | pain I-Symptom | / O | cramping I-Symptom | , O | very B-Symptom | irritable I-Symptom | . O | Helped O | with O | pain O | BUT O | side B-ADR | effects I-ADR | outweigh O | benefits O | . O | No O | periods B-Symptom | for O | 10 O | years O | , O | but O | felt O | like O | the O | worst O | PMS B-Symptom | symptoms I-Symptom | ever O | . O | This O | drug B-Drug | should O | not O | be O | taken O | by O | women O | unless O | misoprostol B-Drug | removed O | . O | As O | well O | , O | GERD B-Disease | much O | worse O | . O | Stopped O | taking O | & O | contacted O | doctor O | . O
+
+Structured Output:
+T1 Symptom 0 8 headaches
+T2 Symptom 10 27 extreme tiredness
+T3 Symptom 31 49 worse heartburn
+T4 Symptom 54 68 hunger pangs
+T5 Symptom 70 79 dry mouth
+T6 Symptom 81 107 severe lower abdominal pain
+T7 Symptom 109 120 cramping
+T8 Symptom 122 145 very irritable
+T9 ADR 159 164 side effects
+T10 Symptom 167 173 periods
+T11 Symptom 182 185 PMS
+T12 Drug 188 192 drug
+T13 Drug 196 207 misoprostol
+T14 Disease 209 213 GERD

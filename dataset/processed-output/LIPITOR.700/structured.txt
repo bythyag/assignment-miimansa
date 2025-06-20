@@ -1,0 +1,15 @@
+T1 Symptom 6 10 Neck Cramps
+T2 Symptom 16 25 Ackey leg cramps
+T3 Symptom 30 38 Headaches
+T4 Symptom 52 61 Tiredness
+T5 Symptom 69 75 crabby
+T6 Symptom 82 87 sleep
+T7 Drug 48 53 10mg
+T8 Drug 69 74 20mg
+T9 Drug 81 86 40mg
+T10 ADR 92 100 symptoms
+T11 Drug 113 117 drug
+T12 Drug 127 132 20mg
+T13 ADR 146 151 aches
+T14 ADR 168 183 reactions
+T15 Disease 193 199 HEALTH

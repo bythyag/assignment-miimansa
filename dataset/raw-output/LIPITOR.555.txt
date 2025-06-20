@@ -1,0 +1,7 @@
+BIO Sequence:
+Lower B-Symptom | back I-Symptom | pain I-Symptom | , O | stiffness B-Symptom | in O | joints B-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 15 Lower back pain
+T2 Symptom 17 26 stiffness
+T3 Symptom 30 36 joints

@@ -1,0 +1,12 @@
+BIO Sequence:
+tingling B-Symptom | in O | feet B-Symptom | & O | face/abdominal B-Symptom | & O | muscular B-Symptom | pain B-Symptom | in O | back B-Symptom | of O | neck/ Cramps B-Symptom | in O | calves B-Symptom | , O | This O | stuff O | is O | horrible O | !!! O | . O | You O | have O | to O | fight O | with O | your O | doctor O | not O | to O | take O | this O | stuff O | !! O | Get O | the O | word O | out O | ! O
+
+Structured Output:
+T1 Symptom 1 8 tingling
+T2 Symptom 10 15 feet
+T3 Symptom 17 29 face/abdominal
+T4 Symptom 31 38 muscular
+T5 Symptom 40 44 pain
+T6 Symptom 46 51 back
+T7 Symptom 54 61 neck/ Cramps
+T8 Symptom 63 68 calves

@@ -1,0 +1,17 @@
+BIO Sequence:
+weakness B-Symptom | , O | tired B-Symptom | all O | the O | time O | , O | leg B-Symptom | , O | arm B-Symptom | and O | back B-Symptom | pain I-Symptom | , O | not O | concentrating B-Symptom | well O | , O | flu B-Symptom | symptoms I-Symptom | randomly O | every O | few O | weeks O | , O | bad B-Symptom | dreams I-Symptom | a O | lot O | , O | purple B-Symptom | sploches I-Symptom | around O | waist B-Symptom | . O | I O | know O | that O | it O | works O | but O | I O | would O | rather O | feel O | like O | my O | old O | self O | as O | I O | have O | always O | been O | active O | and O | love O | exercising O | but O | on O | this O | medication O | I O | have O | to O | make O | myself O | get O | out O | and O | walk O | and O | go O | to O | my O | gym O | classes O | . O
+
+Structured Output:
+T1 Symptom 1 8 weakness
+T2 Symptom 10 15 tired
+T3 Symptom 37 40 leg
+T4 Symptom 42 45 arm
+T5 Symptom 49 53 back pain
+T6 Symptom 71 86 not concentrating
+T7 Symptom 88 105 flu symptoms
+T8 Symptom 107 110 randomly
+T9 Symptom 111 115 every
+T10 Symptom 117 120 few
+T11 Symptom 124 128 bad dreams
+T12 Symptom 142 153 purple sploches
+T13 Symptom 155 159 waist

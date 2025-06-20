@@ -1,0 +1,1 @@
+Joint B-Symptom | and O | muscle I-Symptom | pain I-Symptom | ; O | leg B-Symptom | and O | foot I-Symptom | cramping I-Symptom | . O

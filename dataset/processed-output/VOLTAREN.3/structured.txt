@@ -1,0 +1,5 @@
+T1 Symptom 8 13 upset stomach
+T2 Symptom 41 45 pain
+T3 Symptom 66 70 sleep
+T4 ADR 103 108 upset
+T5 ADR 123 130 side effects

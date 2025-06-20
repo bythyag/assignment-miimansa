@@ -1,0 +1,11 @@
+T1 Disease 1 14 Rhabdomyolysis
+T2 Symptom 16 20 CPK
+T3 Symptom 37 41 pain
+T4 Symptom 50 54 thigh
+T5 Symptom 119 123 walk
+T6 Disease 140 145 kidney
+T7 Disease 150 155 liver
+T8 Symptom 164 168 pain
+T9 Symptom 190 195 stiff
+T10 Symptom 200 205 sore
+T11 Drug 218 225 Lipitor

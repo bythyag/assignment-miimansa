@@ -1,0 +1,15 @@
+BIO Sequence:
+A O | few O | years O | after O | the O | dosage O | was O | raised O | to O | 40 O | mg O | , O | I O | began O | to O | have O | a O | sharp O | pain B-Symptom | in O | the O | ball O | of O | my O | right O | foot O | , O | diagnosed O | as O | a O | neuroma B-Disease | . O | ( O | It O | seemed O | more O | like O | metatarsalgia B-Disease | to O | me O | . O | ) O | Then O | the O | left O | foot O | started O | hurting O | also O | . O | I O | nearly O | stopped O | walking O | for O | 6 O | months O | , O | hoping O | to O | get O | better O | to O | avoid O | surgery B-Disease | . O | I O | stopped O | Lipitor B-Drug | as O | an O | experiment O | , O | and O | after O | 3 O | days O | the O | pain O | changed O | completely O | . O | It O | began O | to O | heal O | after O | that O | . O | Every O | week O | since O | has O | been O | a O | marked O | improvement O | . O | After O | 7 O | weeks O | , O | it's O | nearly O | healed O | . O | I O | can O | again O | hike O | for O | miles O | without O | the O | horrible O | pain O | I O | experienced O | for O | over O | 6 O | months O | while O | taking O | this O | drug B-Drug | . O | Lipitor B-Drug | did O | control O | cholesterol O | , O | but O | isn't O | it O | really O | inflamation B-ADR | causing O | heart B-Disease | disease I-Disease | and O | stroke B-Disease | , O | and O | not O | the O | cholesterol O | ? O | Is O | everyone O | barking O | up O | the O | wrong O | tree O | here O | ? O | And O | what O | is O | the O | price O | of O | all O | the O | weird O | side B-ADR | effects I-ADR | no O | one O | can O | recognize O | ? O | . O 
+
+Structured Output:
+T1 Symptom 38 42 pain
+T2 Disease 77 83 neuroma
+T3 Disease 98 113 metatarsalgia
+T4 Disease 137 143 surgery
+T5 Drug 149 155 Lipitor
+T6 Drug 184 190 this drug
+T7 Drug 192 198 Lipitor
+T8 ADR 217 227 inflamation
+T9 Disease 236 251 heart disease
+T10 Disease 256 262 stroke
+T11 ADR 287 293 side effects

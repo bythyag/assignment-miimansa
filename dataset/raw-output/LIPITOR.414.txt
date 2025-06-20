@@ -1,0 +1,29 @@
+BIO Sequence:
+Hip B-Symptom | pain I-Symptom | , O | knee B-Symptom | pain I-Symptom | , O | neuropathy B-Symptom | in O | left B-Disease | foot I-Disease | , O | general B-Symptom | leg I-Symptom | pain I-Symptom | , O | mental B-Symptom | malaise I-Symptom | , O | arm B-Symptom | fatigue I-Symptom | especially O | in O | the O | triceps I-Disease | , O | lack B-Symptom | of O | enthusiasm B-Symptom | for O | familiar O | activities I-Symptom | . O | Almost O | all O | symptoms O | are O | now O | relieved O | after O | 3 O | months O | off O | . O | This O | drug B-Drug | helped O | my O | cholesterol B-Disease | a O | great O | deal O | and O | helped O | to O | lower O | my O | blood B-Disease | sugar I-Disease | which O | was O | border O | line O | . O | I O | will O | help O | myself O | with O | other O | methods O | . O | I O | went O | off O | it O | without O | consulting O | my O | primary B-Disease | care I-Disease | . O | I O | will O | never O | take O | another O | statin B-Drug | . O | There O | were O | never O | studies O | for O | long O | term O | use O | . O 
+
+Structured Output:
+T1 Symptom 0 8 Hip
+T2 Symptom 10 18 pain
+T3 Symptom 20 29 knee
+T4 Symptom 31 39 pain
+T5 Symptom 41 49 neuropathy
+T6 Disease 51 54 left
+T7 Disease 56 60 foot
+T8 Symptom 62 68 general
+T9 Symptom 70 72 leg
+T10 Symptom 74 78 pain
+T11 Symptom 80 92 mental
+T12 Symptom 94 6 malaise
+T13 Symptom 98 102 arm
+T14 Symptom 104 110 fatigue
+T15 Symptom 119 123 lack
+T16 Symptom 125 136 enthusiasm
+T17 Symptom 138 146 for
+T18 Symptom 148 158 familiar
+T19 Symptom 160 169 activities
+T20 Disease 172 183 cholesterol
+T21 Disease 202 207 blood
+T22 Disease 209 214 sugar
+T23 Disease 217 231 primary
+T24 Disease 233 237 care
+T25 Drug 241 247 statin

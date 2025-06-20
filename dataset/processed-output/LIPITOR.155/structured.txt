@@ -1,0 +1,9 @@
+T1 Symptom 0 6 stomach pain
+T2 Symptom 7 12 dizzy spells
+T3 Symptom 13 21 hairloss
+T4 Symptom 22 29 fatigue
+T5 Symptom 30 39 dry eyes
+T6 Symptom 40 49 joint pain
+T7 Drug 73 79 Lipitor
+T8 Symptom 95 110 stomach cramps
+T9 Symptom 111 116 tired

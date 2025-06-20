@@ -1,0 +1,13 @@
+BIO Sequence:
+dizziness B-Symptom | , O | vertigo B-Symptom | , O | altered B-Symptom | taste I-Symptom | , O | gas B-Symptom | , O | little B-Symptom | blisters I-Symptom | in O | my O | mouth O | , O | itchy B-Symptom | scalp I-Symptom | . O | I O | was O | taking O | the O | topical B-Drug | gel I-Drug | . O | It O | worked O | quite O | well O | . O | I O | was O | really O | impressed O | . O | However O | , O | after O | 21/2 O | months O | , O | the O | side B-ADR | effects I-ADR | started O | . O | When O | I O | got O | the O | vertigo B-Symptom | , O | I O | had O | to O | discontinue O | . O 
+
+Structured Output:
+T1 Symptom 0 8 dizziness
+T2 Symptom 10 16 vertigo
+T3 Symptom 18 34 altered taste
+T4 Symptom 36 39 gas
+T5 Symptom 41 58 little blisters in my mouth
+T6 Symptom 60 73 itchy scalp
+T7 Drug 78 83 topical gel
+T8 ADR 96 109 side effects
+T9 Symptom 111 117 vertigo

@@ -1,0 +1,7 @@
+T1 Symptom 0 13 Severe Joint Pain
+T2 Drug 20 26 lipitor
+T3 Disease 36 49 cholestrol
+T4 Disease 53 56 hdl
+T5 Drug 63 69 lipitor
+T6 Drug 83 91 Chlorella
+T7 Drug 92 98 3grams daily

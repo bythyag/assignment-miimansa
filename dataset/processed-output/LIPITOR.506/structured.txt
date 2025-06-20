@@ -1,0 +1,13 @@
+T1 Symptom 39 49 memory loss
+T2 Symptom 51 58 tremors
+T3 Disease 77 91 parkinson's disease
+T4 Drug 10 16 lipitor
+T5 Drug 68 82 coenzyme q10
+T6 Drug 117 129 coenzyme q10
+T7 Disease 131 145 parkinson's disease
+T8 Disease 151 165 parkinson's disease
+T9 Drug 178 184 lipitor
+T10 Disease 188 202 parkinson's disease
+T11 Drug 217 223 lipitor
+T12 Disease 224 238 parkinson's disease
+T13 Drug 239 245 Lipitor

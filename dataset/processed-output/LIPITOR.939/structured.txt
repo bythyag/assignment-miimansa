@@ -1,0 +1,16 @@
+T1 Symptom 6 12 muscles
+T2 Symptom 27 32 Achey
+T3 Symptom 70 75 fever
+T4 Disease 34 49 white blood cell count
+T5 Disease 85 90 liver
+T6 Disease 95 115 emzymes
+T7 Disease 125 128 LDL
+T8 Drug 140 142 MD
+T9 Disease 165 173 diabetic
+T10 Drug 175 182 lipitor
+T11 Drug 184 190 Lipitor
+T12 Drug 195 202 Lipitor
+T13 Drug 206 211 MD
+T14 Drug 215 220 meds
+T15 Drug 222 224 MD
+T16 Symptom 265 270 worse

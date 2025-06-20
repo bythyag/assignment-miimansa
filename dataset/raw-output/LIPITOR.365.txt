@@ -1,0 +1,39 @@
+BIO Sequence:
+this O | was O | the O | last O | shot O | at O | using O | a O | statin B-Drug | to O | reduce O | cholesterol B-Disease | ldl B-Disease | . O | I O | have O | tried O | all O | the O | statin B-Drug | drugs O | , O | you O | know O | the O | very O | expensive O | drug B-Drug | of O | choice O | for O | all O | the O | doc's O | out O | there O | . O | For O | all O | of O | you O | who O | now O | have O | extremely O | low O | LDL B-Disease | and O | a O | bad O | case O | of O | joint B-Symptom | pain B-ADR | to O | the O | extent O | that O | it O | is O | very O | arthritic B-Symptom | or O | having O | bad O | muscle B-Symptom | cramps B-ADR | that O | you O | never O | got O | prior O | to O | the O | drug O | , O | it O | is O | from O | the O | statins B-Drug | . O | The O | drug O | is O | able O | to O | decrease O | LDL B-Disease | through O | a O | mechanism O | which O | also O | destroys O | and O | depletes O | your O | bodies O | ability O | to O | make O | CoQ10 B-Drug | . O | This O | is O | necessary O | for O | they O | health O | of O | muscles B-Disease | and O | joints B-Disease | ( O | that O | 's O | why O | you O | are O | experiencing O | the O | joint B-Symptom | pains B-ADR | and O | numbness B-Symptom | ) O | . O | Remember O | your O | heart B-Disease | is O | a O | muscle O | , O | guess O | what O | is O | happening O | to O | it O | with O | the O | depletion O | of O | the O | CoQ10 B-Drug | ??? O | If O | you O | do O | some O | research O | on O | the O | internet O | , O | you O | will O | find O | that O | all O | these O | statins B-Drug | make O | no O | claims/nor O | have O | studies O | shown O | them O | to O | reduce O | heart B-Disease | attacks B-Disease | , O | but O | they O | cause O | muscle B-Disease | problems i.e. O | your O | heart B-Disease | , O | this O | is O | based O | on O | the O | fact O | that O | they O | put O | younger O | and O | younger O | people O | on O | these O | drugs O | and O | . O | I O | would O | recommend O | that O | you O | do O | your O | own O | research O | versus O | just O | listening O | to O | the O | doctor O | who O | wants O | your O | LDL B-Disease | down O | to O | like O | below O | 130 O | , O | neurosurgeons O | , O | who O | have O | studied O | this O | would O | tell O | you O | not O | to O | get O | it O | all O | too O | low O | . O | And O | just O | because O | your O | test O | come O | back O | and O | show O | your O | liver O | functions O | are O | fine O | and O | don O | 't O | show O | any O | broken O | down O | muscle B-Disease | toxins B-Disease | in O | the O | blood O | doesn O | 't O | mean O | the O | lack O | of O | CoQ10 B-Drug | isn O | 't O | breaking O | down O | and O | damaging O | your O | muscles B-Disease | very O | slowly O | . O | Mine O | always O | showed O | fine O | and O | I O | had O | severe O | arthritis B-Disease | symptoms B-Symptom | in O | knees O | and O | hip O | joints B-Disease | ( O | never O | had O | this O | in O | my O | life O | before O | statins B-Drug | ) O | and O | bad O | muscle B-Symptom | cramps B-ADR | ( O | also O | never O | got O | those O | until O | statins B-Drug | ) O | . O | Granted O | is O | you O | have O | high O | blood O | pressure B-Disease | , O | high O | LDL B-Disease | , O | over O | weight O | and O | maybe O | smoke O | , O | then O | you O | probably O | need O | something O | to O | lower O | the O | LDL B-Disease | , O | if O | you O | only O | have O | high O | LDL B-Disease | , O | you O | don O | 't O | . O | Read O | the O | drug O | company O | studies O | , O | they O | even O | say O | it O | may O | help O | prevent O | a O | heart B-Disease | attack B-Disease | when O | you O | have O | 3 O | of O | the O | aforementioned O | risk O | factors O | . O |
+
+Structured Output:
+T1 Drug 63 68 statin
+T2 Disease 77 86 cholesterol
+T3 Disease 88 91 ldl
+T4 Drug 108 113 statin
+T5 Drug 133 137 drug
+T6 Disease 121 126 LDL
+T7 Symptom 173 177 joint
+T8 ADR 178 182 pain
+T9 Symptom 194 203 arthritic
+T10 Symptom 216 221 muscle
+T11 ADR 222 227 cramps
+T12 Drug 356 360 CoQ10
+T13 Disease 263 270 muscles
+T14 Disease 276 282 joints
+T15 Disease 311 316 heart
+T16 Drug 356 360 CoQ10
+T17 Disease 366 378 heart
+T18 Disease 388 393 muscle
+T19 Disease 398 404 heart
+T20 Disease 467 474 LDL
+T21 Disease 222 227 muscle
+T22 Disease 227 233 toxins
+T23 Disease 281 289 arthritis
+T24 Symptom 317 325 symptoms
+T25 Disease 333 338 knees
+T26 Disease 344 347 hip
+T27 Disease 366 378 heart
+T28 Drug 397 402 statins
+T29 ADR 466 470 cramps
+T30 Drug 395 401 statins
+T31 Disease 482 495 blood pressure
+T32 Disease 497 500 LDL
+T33 Disease 502 505 LDL
+T34 Disease 520 525 heart
+T35 Disease 526 531 attack

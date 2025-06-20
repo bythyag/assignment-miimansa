@@ -1,0 +1,15 @@
+T1 Symptom 39 59 short term memory loss
+T2 Symptom 62 78 extreme fatigue
+T3 Symptom 80 90 joint pain
+T4 Symptom 93 98 knees
+T5 Symptom 113 119 reflux
+T6 Drug 161 167 Lipitor
+T7 Drug 176 182 Tricor
+T8 ADR 185 190 tired
+T9 Drug 192 198 Lipitor
+T10 Drug 221 226 STATIN
+T11 Drug 246 252 Tricor
+T12 Drug 254 260 Lipitor
+T13 Drug 286 292 Lipitor
+T14 Drug 346 350 drug
+T15 Symptom 359 366 fatigue

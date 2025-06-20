@@ -1,0 +1,14 @@
+BIO Sequence:
+The O | lipitor B-Drug | works O | for O | lowering O | cholestrol B-Disease | levels O | . O | However O | , O | I O | wonder O | if O | there O | is O | a O | corolation O | between O | lipitor B-Drug | ( O | statins B-Drug | ) O | and O | restless B-Symptom | legs I-Symptom | syndrome I-Symptom | ( O | rls B-Disease | ) O | . O | I've O | talked O | with O | a O | couple O | others O | that O | have O | rls B-Disease | and O | they O | are O | on O | lipitor B-Drug | too O | . O | Does O | anyone O | taking O | lipitor B-Drug | experience O | rls B-Disease | ? O | I'll O | check O | back O | here O | for O | the O | results O | . O
+
+Structured Output:
+T1 Drug 4 11 lipitor
+T2 Disease 43 52 cholestrol
+T3 Drug 79 86 lipitor
+T4 Drug 88 95 statins
+T5 Symptom 100 122 restless legs syndrome
+T6 Disease 126 130 rls
+T7 Disease 138 141 rls
+T8 Drug 155 162 lipitor
+T9 Drug 164 171 lipitor
+T10 Disease 173 176 rls

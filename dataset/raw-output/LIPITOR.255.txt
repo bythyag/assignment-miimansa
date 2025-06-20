@@ -1,0 +1,13 @@
+BIO Sequence:
+Intermittent O | temperature B-Symptom | elevation I-Symptom | , O | chronic O | diarrhea B-Symptom | , O | and O | severe O | joint B-Symptom | aches I-Symptom | similar O | to O | abdominal B-Disease | flu I-Disease | symptoms O | . O | Lasted O | the O | duration O | of O | my O | Lipitor B-Drug | history O | ( O | 6 B-Duration | weeks I-Duration | ) O | . O | Of O | note O | is O | my O | history O | of O | cholecystectomy B-Disease | ( O | 10 B-Duration | years I-Duration | ago O | ) O | and O | osteoarthritis B-Disease | . O
+
+Structured Output:
+T1 Symptom 12 22 temperature elevation
+T2 Symptom 24 32 chronic diarrhea
+T3 Symptom 35 51 severe joint aches
+T4 Disease 56 70 abdominal flu
+T5 Drug 81 88 Lipitor
+T6 Duration 95 101 6 weeks
+T7 Disease 116 133 cholecystectomy
+T8 Duration 138 145 10 years
+T9 Disease 149 163 osteoarthritis

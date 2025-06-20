@@ -1,0 +1,12 @@
+T1 Disease 3 5 Dr  
+T2 Drug 40 42 10  
+T3 Drug 46 50 20mg  
+T4 Disease 83 88 liver  
+T5 Symptom 94 105 constipated  
+T6 Symptom 111 117 bloated  
+T7 Symptom 123 136 loss of appetite  
+T8 Drug 143 149 Lipitor  
+T9 Drug 159 161 10  
+T10 Symptom 171 177 bloated  
+T11 Symptom 183 192 headaches  
+T12 Symptom 200 207 headache

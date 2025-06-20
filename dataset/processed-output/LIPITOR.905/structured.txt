@@ -1,0 +1,8 @@
+T1 ADR 0 9 flatulence
+T2 Symptom 11 16 mild aches
+T3 Symptom 18 30 occasional indigestion
+T4 Disease 94 106 triglycerides
+T5 Disease 108 112 LDL
+T6 Drug 152 158 Lipitor
+T7 Disease 185 196 blood sugar
+T8 ADR 213 218 fart

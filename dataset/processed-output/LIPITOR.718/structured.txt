@@ -1,0 +1,13 @@
+T1 Symptom 36 42 SEVERE fatigue
+T2 Symptom 82 90 headaches
+T3 Symptom 97 104 Insomnia
+T4 Symptom 138 142 sleep
+T5 Symptom 161 170 Difficulty
+T6 Symptom 172 181 swallowing
+T7 Symptom 186 196 constipation
+T8 Drug 191 197 Lipitor
+T9 Symptom 284 290 Lipitor
+T10 Symptom 301 318 sleep
+T11 Symptom 320 328 Headaches
+T12 Symptom 352 358 extreme fatigue
+T13 Drug 390 396 Lipitor

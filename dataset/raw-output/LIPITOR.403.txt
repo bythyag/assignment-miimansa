@@ -1,0 +1,9 @@
+BIO Sequence:
+I O | have O | been O | on O | this O | medication O | for O | approximately O | two O | years O | and O | it O | has O | been O | very O | affective O | in O | lowering O | my O | cholesterol B-Disease | ; O | however O | , O | I O | did O | notice O | that O | I O | became O | depressed B-Symptom | with O | intermittent O | muscle B-Symptom | pain I-Symptom | . O | I O | recently O | mentioned O | this O | to O | my O | physician O | and O | asked O | if O | he O | knew O | if O | this O | particular O | medication O | causes O | these O | symptoms O | as O | all O | my O | blood O | studies O | for O | liver B-Disease | function I-Disease | , O | etc O | have O | been O | normal O | . O | I O | decided O | to O | stop O | the O | Lipitor B-Drug | and O | within O | a O | few O | days O | I O | felt O | so O | much O | better O | . O | I O | will O | call O | him O | tomorrow O | and O | ask O | if O | I O | can O | be O | switched O | to O | another O | medication O | . O | It O | is O | a O | very O | effective O | medication O | , O | but O | obviously O | has O | its O | problems O | as O | indicated O | by O | those O | patients O | who O | had O | very O | similar O | effects O | . O
+
+Structured Output:
+T1 Disease 51 60 cholesterol
+T2 Symptom 139 147 depressed
+T3 Symptom 156 171 muscle pain
+T4 Disease 217 229 liver function
+T5 Drug 258 265 Lipitor

@@ -1,0 +1,21 @@
+T1 Disease 29 39 cholesterol
+T2 Disease 96 101 aging
+T3 Drug 106 110 drug
+T4 Symptom 136 146 Depression
+T5 ADR 173 182 afterpain
+T6 Drug 188 194 Lipitor
+T7 Disease 199 203 Hips
+T8 ADR 207 211 sore
+T9 Disease 219 224 lower back
+T10 ADR 226 230 pain
+T11 Symptom 237 243 Vision
+T12 Symptom 254 258 Hair loss
+T13 Symptom 264 269 Tired
+T14 Symptom 282 287 sleep
+T15 Symptom 304 311 strength
+T16 Symptom 317 321 Loss
+T17 Symptom 324 329 breath
+T18 Drug 348 352 drug
+T19 Disease 357 367 cholesterol
+T20 Drug 379 385 lipitor
+T21 Disease 390 400 cholesterol

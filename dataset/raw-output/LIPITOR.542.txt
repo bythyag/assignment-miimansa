@@ -1,0 +1,10 @@
+BIO Sequence:
+Not O | sure O | if O | related O | , O | but O | increase B-Symptom | in O | burning B-Symptom | sensations I-Symptom | in O | legs B-Symptom | and O | hands B-Symptom | started O | around O | the O | time O | this O | drug B-Drug | was O | added O | to O | my O | list O | . O 
+
+Structured Output:
+T1 Symptom 43 51 increase
+T2 Symptom 53 60 burning
+T3 Symptom 61 70 sensations
+T4 Symptom 73 77 legs
+T5 Symptom 82 87 hands
+T6 Drug 90 94 drug

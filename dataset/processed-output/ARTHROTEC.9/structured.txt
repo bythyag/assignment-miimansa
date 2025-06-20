@@ -1,0 +1,9 @@
+T1 ADR 0 8 vomitting
+T2 ADR 25 29 sick
+T3 ADR 64 72 sickness
+T4 ADR 104 112 sickness
+T5 ADR 142 149 sickness
+T6 Symptom 154 171 painful joints
+T7 Drug 184 192 tablet
+T8 ADR 214 220 EXTREME nausea
+T9 Drug 238 243 drugs

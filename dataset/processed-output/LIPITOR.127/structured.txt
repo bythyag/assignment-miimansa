@@ -1,0 +1,5 @@
+T1 Drug 52 59 Lipitor
+T2 Symptom 103 113 cholesterol
+T3 Drug 119 121 20
+T4 Drug 123 125 mg
+T5 Drug 127 133 tablets

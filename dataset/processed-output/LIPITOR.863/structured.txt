@@ -1,0 +1,8 @@
+T1 Symptom 41 46 severe  
+T2 Symptom 48 51 leg  
+T3 Symptom 52 58 muscle  
+T4 Symptom 59 64 pains  
+T5 Symptom 86 89 leg  
+T6 Symptom 95 99 pain  
+T7 Symptom 121 126 joint  
+T8 Symptom 127 131 pain

@@ -1,0 +1,8 @@
+T1 ADR 19 33 side effects
+T2 Symptom 37 52 muscle aches
+T3 Symptom 55 59 back
+T4 Drug 86 93 40 mg
+T5 Drug 161 165 drug
+T6 Symptom 207 216 cholesterol
+T7 Symptom 222 225 125
+T8 Symptom 251 254 200

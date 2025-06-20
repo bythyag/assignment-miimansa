@@ -1,0 +1,11 @@
+BIO Sequence:
+Gradual O | numbing B-Symptom | of O | the O | feet B-Symptom | over O | a O | period O | of O | a O | year O | . O | Started O | on O | Zocor B-Drug | and O | Insurance O | recommended O | switch O | to O | Lipitor B-Drug | and O | had O | gradual O | side B-ADR | effects I-ADR | . O | I'm O | back O | on O | Zocor B-Drug | and O | doing O | much O | better O | after O | a O | week O | . O | I O | would O | not O | recommend O | Lipitor B-Drug | . O 
+
+Structured Output:
+T1 Symptom 24 30 numbing
+T2 Symptom 36 40 feet
+T3 Drug 58 64 Zocor
+T4 Drug 80 86 Lipitor
+T5 ADR 92 106 side effects
+T6 Drug 113 119 Zocor
+T7 Drug 127 133 Lipitor

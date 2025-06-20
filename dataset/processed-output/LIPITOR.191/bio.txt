@@ -1,0 +1,1 @@
+Severe B-Symptom | Hip I-Symptom | pain I-Symptom | in O | both O | hips I-Symptom | , O | calves B-Symptom | are O | sore B-ADR | and O | tender I-ADR | to O | the O | touch O | , O | dramatically O | decreased B-Symptom | libdo I-Symptom | , O | eye B-Symptom | sight I-Symptom | changes I-Symptom | . O | It O | did O | lower O | my O | CL O | . O

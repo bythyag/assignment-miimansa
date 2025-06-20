@@ -1,0 +1,4 @@
+T1 Drug 8 14 Lipitor
+T2 Symptom 43 47 pain
+T3 Disease 95 103 arthritis
+T4 Drug 121 127 Lipitor

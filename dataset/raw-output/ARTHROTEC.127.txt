@@ -1,0 +1,13 @@
+BIO Sequence:
+Feels O | like O | menstrual B-Symptom | cramps I-Symptom | , O | back B-Symptom | ache I-Symptom | , O | sick B-Symptom | to O | stomach I-Symptom | for O | 24 O | hours O | + O | . O | Was O | unhappy O | about O | being O | prescribed O | this O | but O | gave O | it O | a O | try O | since O | the O | pharmacy O | couldn't O | take O | it O | back O | ( O | mistake O | -- O | didn't O | read O | about O | it O | until O | after O | I'd O | picked O | up O | the O | prescription O | ) O | . O | After O | taking O | pill B-Drug | with O | food O | , O | feels O | like O | menstrual B-Symptom | cramps I-Symptom | , O | lower B-Symptom | back I-Symptom | pain I-Symptom | & O | nausea B-ADR | within O | 45 O | minutes O | . O | After O | the O | last O | pill O | , O | have O | been O | sick B-Symptom | to O | my O | stomach I-Symptom | for O | over O | 24 O | hours O | . O | Discontinuing O | use O | immediately O | . O | Have O | heard O | great O | things O | about O | Celebrex B-Drug | . O | Maybe O | will O | ask O | for O | that O | . O 
+
+Structured Output:
+T1 Symptom 15 33 menstrual cramps
+T2 Symptom 35 43 back ache
+T3 Symptom 45 66 sick to stomach
+T4 Drug 123 129 pill
+T5 Symptom 183 193 menstrual cramps
+T6 Symptom 196 208 lower back pain
+T7 ADR 210 216 nausea
+T8 Symptom 285 302 sick to my stomach
+T9 Drug 392 399 Celebrex

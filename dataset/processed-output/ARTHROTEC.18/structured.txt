@@ -1,0 +1,11 @@
+T1 Symptom 28 35 menstrual cycle
+T2 Drug 89 93 drug
+T3 Symptom 56 58 immobile
+T4 Symptom 67 71 pain
+T5 Drug 103 111 arthrotec
+T6 Symptom 117 121 relief
+T7 Symptom 144 148 pain
+T8 Symptom 165 169 back
+T9 ADR 171 181 intolerant
+T10 Disease 198 205 chronic
+T11 Disease 206 214 arthritic

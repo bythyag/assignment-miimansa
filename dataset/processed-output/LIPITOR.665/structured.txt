@@ -1,0 +1,15 @@
+T1 Drug 126 133 Lipitor
+T2 Symptom 59 63 pain
+T3 Symptom 74 78 back
+T4 Disease 169 174 blood
+T5 Drug 188 195 Lipitor
+T6 Symptom 204 208 death
+T7 Symptom 221 226 move
+T8 Symptom 241 246 pain
+T9 Symptom 250 255 sleep
+T10 Disease 317 324 miniscus
+T11 Symptom 372 378 painful
+T12 Symptom 388 398 constipation
+T13 Symptom 402 414 stomach pain
+T14 Symptom 416 422 hungry
+T15 Drug 473 484 tiger balm

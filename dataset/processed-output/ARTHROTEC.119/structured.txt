@@ -1,0 +1,5 @@
+T1 Symptom 0 8 Headache
+T2 Symptom 10 18 dizziness
+T3 Drug 24 30 tablet
+T4 ADR 35 47 side-effects
+T5 Symptom 65 73 headache

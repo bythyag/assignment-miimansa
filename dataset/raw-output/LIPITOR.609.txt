@@ -1,0 +1,8 @@
+BIO Sequence:
+No O | side O | effects B-ADR | noted O | while O | taking O | a O | 40 B-Drug | mg I-Drug | dose I-Drug | each O | day O | . O | Good O | Medication B-Drug | - O | Overall O | cholesterol B-Disease | dropped O | from O | 284 O | to O | 174 O | in O | one O | month O | . O
+
+Structured Output:
+T1 ADR 12 19 effects  
+T2 Drug 30 34 40  
+T3 Drug 40 48 Medication  
+T4 Disease 61 70 cholesterol

@@ -1,0 +1,1 @@
+joint B-Symptom | aches I-Symptom | as O | well O | as O | burning B-Symptom | feet I-Symptom

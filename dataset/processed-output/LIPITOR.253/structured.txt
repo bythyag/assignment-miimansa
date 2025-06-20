@@ -1,0 +1,24 @@
+T1 Symptom 8 15 fatigue
+T2 Symptom 17 32 muscle aches
+T3 Symptom 34 40 cramps
+T4 Symptom 42 48 MEMORY problems
+T5 Symptom 50 65 balance problems
+T6 Symptom 67 78 cold toes
+T7 Symptom 81 87 feet
+T8 Disease 93 114 circulatory problems
+T9 Symptom 116 121 cold hands
+T10 Symptom 123 135 dry throat
+T11 Symptom 137 147 hoarseness
+T12 Symptom 149 158 slurred speech
+T13 Drug 161 167 Lipitor
+T14 Symptom 179 186 problems
+T15 Symptom 188 195 Problems
+T16 Disease 220 223 GYN
+T17 Drug 247 253 Lipitor
+T18 Drug 263 272 medication
+T19 Disease 278 287 arthritis
+T20 Disease 293 305 sorgren's syndrome
+T21 Disease 311 320 alzheimers
+T22 Disease 330 339 internest
+T23 Drug 404 410 lipitor
+T24 Drug 413 418 CoQ10

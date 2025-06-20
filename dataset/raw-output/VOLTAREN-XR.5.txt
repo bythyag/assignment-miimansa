@@ -1,0 +1,14 @@
+BIO Sequence:
+Always O | tired B-Symptom | , O | and O | possible O | blood B-Disease | clots I-Disease | . O | I O | was O | on O | Voltaren B-Drug | for O | about O | 4 O | years O | and O | all O | of O | sudden O | had O | a O | minor O | stroke B-Disease | and O | had O | blood B-Disease | clots I-Disease | that O | traveled O | to O | my O | eye O | . O | I O | had O | every O | test O | in O | the O | book O | done O | at O | the O | hospital O | , O | and O | they O | couldnt O | find O | anything O | . O | I O | was O | completley O | healthy B-Symptom | ! O | I O | am O | thinking O | it O | was O | from O | the O | voltaren B-Drug | . O | I O | have O | been O | off O | of O | the O | drug O | for O | 8 O | months O | now O | , O | and O | have O | never O | felt O | better O | . O | I O | started O | eating O | healthy O | and O | working O | out O | and O | that O | has O | help O | alot O | . O | I O | can O | now O | sleep B-Symptom | all O | thru O | the O | night O | . O | I O | wont O | take O | this O | again O | . O | If O | I O | have O | the O | back B-Symptom | pain I-Symptom | , O | I O | will O | pop O | a O | tylonol B-Drug | instead O | . O
+
+Structured Output:
+T1 Symptom 8 13 tired
+T2 Disease 21 32 blood clots
+T3 Drug 67 74 Voltaren
+T4 Disease 86 91 stroke
+T5 Disease 113 124 blood clots
+T6 Symptom 139 146 healthy
+T7 Drug 166 173 voltaren
+T8 Symptom 171 176 sleep
+T9 Symptom 184 193 back pain
+T10 Drug 198 206 tylonol

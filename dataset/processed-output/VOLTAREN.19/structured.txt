@@ -1,0 +1,4 @@
+T1 Drug 21 28 voltaren
+T2 Symptom 52 56 pain
+T3 ADR 85 96 side effects
+T4 Disease 112 120 arthritis pain

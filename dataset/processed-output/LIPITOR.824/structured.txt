@@ -1,0 +1,12 @@
+T1 Symptom 47 63 severe muscle cramping  
+T2 Symptom 98 102 calf  
+T3 Drug 124 129 Zocor  
+T4 Drug 147 153 Lipitor  
+T5 Drug 177 183 statin  
+T6 Symptom 225 234 paralyzed  
+T7 Symptom 237 248 rigor mortis  
+T8 Drug 264 270 Lipitor  
+T9 ADR 324 331 physical  
+T10 ADR 336 348 psychological  
+T11 Drug 402 409 statins  
+T12 Symptom 507 513 weird symptoms

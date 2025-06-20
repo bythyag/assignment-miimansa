@@ -1,0 +1,14 @@
+BIO Sequence:
+Muscle B-Symptom | Pain I-Symptom | , O | esp O | calve B-Symptom | muscles I-Symptom | , O | knee B-Symptom | pain I-Symptom | , O | neck B-Symptom | pain I-Symptom | , O | dizziness B-Symptom | ? O | vagueness B-Symptom | , O | dry B-Symptom | eyes I-Symptom | . O | Works O | well O | at O | lowering O | cholesterol B-Drug | , O | BUT O | , O | at O | the O | expense O | of O | muscle B-ADR | pain I-ADR | , O | & O | general B-ADR | degradation I-ADR | . O
+
+Structured Output:
+T1 Symptom 0 11 Muscle Pain  
+T2 Symptom 15 30 calve muscles  
+T3 Symptom 32 41 knee pain  
+T4 Symptom 43 51 neck pain  
+T5 Symptom 53 61 dizziness  
+T6 Symptom 63 71 vagueness  
+T7 Symptom 73 81 dry eyes  
+T8 Drug 102 111 cholesterol  
+T9 ADR 130 139 muscle pain  
+T10 ADR 142 162 general degradation  

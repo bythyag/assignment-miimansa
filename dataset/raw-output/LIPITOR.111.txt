@@ -1,0 +1,23 @@
+BIO Sequence:
+Mostly O | Pain B-Symptom | , O | Pain I-Symptom | , O | Pain I-Symptom | . O | Deep O | throbbing B-Symptom | pain I-Symptom | in O | my O | joints B-Disease | and O | muscles B-Disease | . O | Hair O | loss B-ADR | , O | insomnia B-ADR | , O | tinnitus B-ADR | , O | dysphagia B-ADR | . O | Neurologist O | diagnosed O | me O | with O | MS B-Disease | . O | Feet O | hurt B-Symptom | so O | badly O | , O | I O | could O | not O | walk B-Symptom | . O | The O | prescribing O | physician O | shrugged O | off O | my O | complaints O | . O | I O | stopped O | taking O | Lipitor B-Drug | when O | I O | went O | into O | a O | coma B-ADR | in O | June O | 2000 O | . O | It O | took O | me O | 12 O | years O | to O | recover O | . O | Lipitor B-Drug | created O | the O | same O | problems O | that O | Zocor B-Drug | had O | caused O | . O | I O | took O | for O | Zocor B-Drug | for O | six O | years O | . O | The O | prescribing O | physician O | ignored O | my O | complaints O | . O | This O | nightmare O | took O | 20 O | years O | out O | of O | my O | life O | . O | I O | kept O | detailed O | records O | . O | You O | can O | see O | a O | summary O | here O | : O | http://morleyevans2.com/Depraved/Depraved.html O | I O | got O | better O | . O | Please O | contact O | me O | at O | //////////// O | if O | you O | need O | help O | . O
+
+Structured Output:
+T1 Symptom 8 12 Pain
+T2 Symptom 14 18 Pain
+T3 Symptom 20 24 Pain
+T4 Symptom 32 39 throbbing pain
+T5 Disease 45 51 joints
+T6 Disease 56 62 muscles
+T7 ADR 64 67 Hair loss
+T8 ADR 69 76 insomnia
+T9 ADR 78 85 tinnitus
+T10 ADR 87 96 dysphagia
+T11 Disease 104 105 MS
+T12 Symptom 110 114 hurt
+T13 Symptom 123 128 walk
+T14 ADR 136 140 coma
+T15 Drug 45 51 Lipitor
+T16 Drug 140 144 Lipitor
+T17 Drug 153 158 Zocor
+T18 Drug 165 169 Zocor
+T19 Disease 207 213 nightmare

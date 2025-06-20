@@ -1,0 +1,12 @@
+BIO Sequence:
+Suffered O | from O | depression B-Disease | after O | taking O | lipitor B-Drug | but O | did O | not O | realize O | connection O | . O 
+Stopped O | taking O | lipitor B-Drug | and O | depression B-Disease | left O | within O | days O | . O 
+I O | wouldn't O | take O | lipitor B-Drug | in O | any O | dose O | at O | any O | time O | . O 
+It O | made O | me O | realize O | the O | dangers O | of O | drugs O | . O 
+
+Structured Output:
+T1 Disease 14 23 depression
+T2 Drug 42 48 lipitor
+T3 Drug 62 68 lipitor
+T4 Disease 74 81 depression
+T5 Drug 86 92 lipitor

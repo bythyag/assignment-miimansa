@@ -1,0 +1,13 @@
+T1 ADR 54 62 diarrhea
+T2 ADR 64 70 nausea
+T3 Symptom 72 86 loss of apetite
+T4 Symptom 88 103 stomach cramps
+T5 ADR 133 143 side effects
+T6 Drug 150 157 arthotec
+T7 Drug 166 174 arthrotec
+T8 Symptom 183 191 back pain
+T9 ADR 245 255 side effects
+T10 ADR 265 274 side effects
+T11 Drug 276 282 NSAIDs
+T12 ADR 284 294 side effects
+T13 ADR 322 332 side effects

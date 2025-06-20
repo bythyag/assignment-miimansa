@@ -1,0 +1,5 @@
+T1 ADR 29 38 side effects
+T2 Drug 40 48 Arthrotec
+T3 ADR 75 84 side effects
+T4 Symptom 91 98 stand
+T5 Symptom 103 108 walk

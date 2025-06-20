@@ -1,0 +1,13 @@
+T1 Drug 7 13 Lipitor
+T2 Drug 36 43 statins
+T3 ADR 98 103 pains
+T4 Symptom 107 111 hips
+T5 Symptom 114 118 legs
+T6 Symptom 121 125 hands
+T7 Symptom 127 135 strength
+T8 ADR 140 150 difficulties
+T9 Symptom 163 170 swallow
+T10 ADR 176 183 problems
+T11 Symptom 189 196 tinnitus
+T12 Symptom 201 207 memory
+T13 Drug 215 221 Lipitor

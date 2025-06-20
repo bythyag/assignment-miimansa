@@ -1,0 +1,5 @@
+T1 Symptom 10 13 CPK
+T2 Symptom 20 25 muscle problems
+T3 Disease 70 75 muscle
+T4 Symptom 89 96 elevated CPK
+T5 Drug 115 119 drug

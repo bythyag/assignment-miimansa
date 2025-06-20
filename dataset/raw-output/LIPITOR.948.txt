@@ -1,0 +1,13 @@
+BIO Sequence:
+painfull B-Symptom | stiff I-Symptom | joints I-Symptom | pins B-Symptom | and O | needles I-Symptom | on O | right B-Symptom | arm I-Symptom | . O | hadnt O | realised O | it O | could O | be O | due O | to O | lipitor B-Drug | untill O | I O | read O | this O | sight O | . O | my O | doctor O | has O | just O | sent O | of O | blood B-Symptom | test I-Symptom | to O | see O | whats O | wrong O | , O | be O | interasting O | to O | see O | what O | comes O | back O | . O
+
+Structured Output:
+T1 Symptom 0 18 painfull  
+T2 Symptom 19 29 stiff joints  
+T3 Symptom 30 48 pins  
+T4 Symptom 49 56 needles  
+T5 Symptom 58 62 right  
+T6 Symptom 63 66 arm  
+T7 Drug 74 80 lipitor  
+T8 Symptom 83 89 blood test  
+T9 Symptom 95 100 wrong  

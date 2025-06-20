@@ -1,0 +1,17 @@
+BIO Sequence:
+Arm B-Symptom | stiffness I-Symptom | . O | Dizziness B-Symptom | . O | Been O | feeling O | horrible O | the O | past O | 2 O | years O | and O | have O | gone O | to O | several O | doctors O | . O | I've O | been O | an O | off O | and O | on O | user O | of O | Lipitor B-Drug | for O | 5 O | years O | -- O | 10 B-Drug | MG I-Drug | dosage O | . O | Cholesterol B-Disease | lowered O | but O | started O | developing O | neurological B-Symptom | problems I-Symptom | about O | 3 O | months O | ago O | after O | restarting O | the O | drug O | leading O | to O | Major B-Symptom | stiffness I-Symptom | in O | right O | shoulder I-Symptom | , O | then O | right O | arm I-Symptom | and O | now O | left O | arm I-Symptom | . O | Stopped O | taking O | Lipitor B-Drug | 10 O | days O | ago O | . O | Hopefully O | arm O | symptoms B-Symptom | will O | subside O | . O 
+
+Structured Output:
+T1 Symptom 0 4 Arm
+T2 Symptom 5 12 stiffness
+T3 Symptom 15 23 Dizziness
+T4 Drug 64 71 Lipitor
+T5 Drug 83 86 10
+T6 Disease 104 113 Cholesterol
+T7 Symptom 125 134 neurological problems
+T8 Symptom 165 171 Major stiffness
+T9 Symptom 187 192 right shoulder
+T10 Symptom 200 204 right arm
+T11 Symptom 210 214 left arm
+T12 Drug 223 230 Lipitor
+T13 Symptom 234 242 arm symptoms

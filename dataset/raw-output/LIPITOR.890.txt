@@ -1,0 +1,25 @@
+BIO Sequence:
+muscle B-Symptom | pain I-Symptom | / O | inability B-Symptom | to O | walk O | with O | left O | foot O | pain I-Symptom | . O | Memory B-Symptom | loss I-Symptom | . O | overall O | loss O | of O | muscle B-Symptom | tone I-Symptom | . O | Unable B-Symptom | to O | control O | weight I-Symptom | . O | Try O | to O | get O | a O | cardiologist B-Disease | to O | listen O | to O | you O | regarding O | symptoms I-Symptom | . O | Called O | Pfizer B-Drug | and O | talked O | with O | nurse O | there O | and O | she O | recommended O | I O | let O | my O | doctor O | know O | about O | symptoms I-Symptom | . O | She O | explained O | that O | drug B-Drug | was O | mfg O | in O | USA B-Drug | . O | My O | concern O | was O | that O | maybe O | some O | of O | the O | drug B-Drug | was O | mfg O | outside O | of O | USA B-Drug | , O | like O | maybe O | China I-Disease | and O | that O | a O | portion O | of O | the O | formula O | was O | causing O | problems O | . O | But O | in O | general O | the O | whole O | formula O | is O | poison O | so O | far O | as O | I O | am O | concerned O | . O | Thank O | God O | for O | this O | website O | . O | Am O | seeing O | new O | GP B-Disease | this O | week O | , O | and O | if O | he O | doesn’t O | take O | me O | off O | Lipitor B-Drug | , O | am O | going O | to O | do O | it O | myself O | . O | Will O | take O | my O | chances O | rather O | than O | live O | this O | hell O | any O | longer O | . O | Have O | been O | on O | Lipitor B-Drug | for O | 6 O | years O | too O | long O | . O |
+
+Structured Output:
+T1 Symptom 0 6 muscle
+T2 Symptom 7 11 pain
+T3 Symptom 17 31 inability to walk
+T4 Symptom 34 43 foot pain
+T5 Symptom 46 57 Memory loss
+T6 Symptom 59 79 overall loss of muscle tone
+T7 Symptom 81 97 Unable to control weight
+T8 Disease 101 113 cardiologist
+T9 Symptom 119 127 symptoms
+T10 Drug 131 137 Pfizer
+T11 Drug 144 145 drug
+T12 Drug 147 150 USA
+T13 Drug 154 157 drug
+T14 Drug 163 166 USA
+T15 Disease 166 171 China
+T16 Disease 173 175 formula
+T17 Symptom 185 193 problems
+T18 Disease 194 198 GP
+T19 Drug 207 213 Lipitor
+T20 Drug 225 231 Lipitor
+T21 Symptom 237 252 years

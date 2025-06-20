@@ -1,0 +1,12 @@
+BIO Sequence:
+headache B-Symptom | , O | insomnia B-Symptom | , O | sore B-Symptom | hip I-Symptom | ( O | tightIT B-Symptom | band I-Symptom | ) O | , O | depression B-Symptom | . O | had O | to O | stop O | taking O | it O | too O | many O | side B-ADR | effects I-ADR | , O | lowerd O | my O | cholesterol B-Drug | nicely O | but O | made O | me O | miserable B-ADR | with O | each O | passing O | month O | . O 
+
+Structured Output:
+T1 Symptom 0 7 headache
+T2 Symptom 9 16 insomnia
+T3 Symptom 18 27 sore hip
+T4 Symptom 28 37 tightIT band
+T5 Symptom 39 48 depression
+T6 ADR 70 81 side effects
+T7 Drug 90 102 cholesterol
+T8 ADR 110 118 miserable

@@ -1,0 +1,4 @@
+T1 Symptom 0 6 joint 
+T2 Symptom 7 12 aches 
+T3 Symptom 25 32 burning 
+T4 Symptom 33 37 feet

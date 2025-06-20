@@ -1,0 +1,10 @@
+BIO Sequence:
+This O | medicine O | helped O | with O | the O | heel B-Disease | spurs I-Disease | , O | however O | the O | side B-ADR | effects I-ADR | were O | far O | worse O | and O | not O | worth O | taking O | the O | medicine O | . O | I O | had O | bad O | gas B-ADR | and O | SEVERE B-ADR | diarrhea I-ADR | along O | with O | stomach B-Symptom | cramps I-Symptom | and O | nausea B-ADR | . O
+
+Structured Output:
+T1 Disease 39 47 heel spurs
+T2 ADR 70 75 side effects
+T3 ADR 90 93 gas
+T4 ADR 104 111 SEVERE diarrhea
+T5 Symptom 118 125 stomach cramps
+T6 ADR 130 135 nausea

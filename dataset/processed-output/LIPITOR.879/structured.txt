@@ -1,0 +1,5 @@
+T1 Symptom 32 49 lower extremeties
+T2 Symptom 67 72 feet
+T3 Symptom 74 90 muscle soreness
+T4 Disease 43 61 rheumatoid arthritis
+T5 Drug 102 105 PCP

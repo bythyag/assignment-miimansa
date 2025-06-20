@@ -1,0 +1,15 @@
+BIO Sequence:
+The O | worst O | gas B-Symptom | I've O | ever O | experienced O | ! O | I O | mean O | smelly B-ADR | and O | painfull B-Symptom | ! O | Diarhea B-ADR | , O | headache B-Symptom | , O | backache B-Symptom | , O | runny B-Symptom | nose B-Symptom | . O | 1 O | week O | on O | 40mg B-Drug | . O | Am O | stopping O | it O | now O | before O | anything O | else O | happens O | ! O | Why O | did O | my O | doctor O | start O | me O | on O | such O | a O | high O | dose O | ? O | No O | warning O | of O | these O | side B-ADR | effects I-ADR | - O | I O | mean O | the O | gas B-Symptom | and O | bloat B-Symptom | is O | so O | bad O | I O | can't O | go O | to O | work O | . O 
+
+Structured Output:
+T1 Symptom 28 31 gas
+T2 ADR 66 72 smelly
+T3 Symptom 75 82 painfull
+T4 ADR 84 91 Diarhea
+T5 Symptom 93 101 headache
+T6 Symptom 103 111 backache
+T7 Symptom 113 122 runny nose
+T8 Drug 36 41 40mg
+T9 ADR 129 139 side effects
+T10 Symptom 144 148 gas
+T11 Symptom 153 158 bloat

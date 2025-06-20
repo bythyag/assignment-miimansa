@@ -1,0 +1,8 @@
+T1 Drug 150 156 Lipitor
+T2 ADR 177 185 severe weaknesses
+T3 Symptom 192 196 thigh
+T4 ADR 213 217 pain
+T5 Drug 229 236 Lipitor
+T6 Drug 245 252 Crestor
+T7 ADR 264 277 worse side effects
+T8 Drug 307 313 Lipitor

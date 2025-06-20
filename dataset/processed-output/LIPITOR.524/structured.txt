@@ -1,0 +1,3 @@
+T1 Symptom 0 8 Diarrhea
+T2 ADR 36 46 Unbearable
+T3 Disease 62 75 chemical sensitivities

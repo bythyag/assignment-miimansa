@@ -1,0 +1,10 @@
+BIO Sequence:
+just O | starting O | to O | feel O | tired B-Symptom | this O | week O | after O | 3 O | weeks O | on O | the O | medication O | and O | that O | is O | the O | only O | bad O | side B-ADR | effect I-ADR | . O | I O | think O | I O | will O | try O | once O | a O | day O | . O | I O | could O | not O | walk B-Symptom | or O | open O | my O | hands B-Symptom | in O | the O | morning O | until O | I O | took O | this O | . O | I O | had O | a O | hysterectomy B-Disease | over O | 10 O | years O | ago O | , O | so O | it O | does O | not O | affect O | my O | period B-Disease | . O
+
+Structured Output:
+T1 Symptom 30 35 tired
+T2 ADR 59 73 side effect
+T3 Symptom 109 113 walk
+T4 Symptom 136 141 hands
+T5 Disease 155 166 hysterectomy
+T6 Disease 178 184 period

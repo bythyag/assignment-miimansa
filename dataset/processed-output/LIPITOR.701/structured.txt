@@ -1,0 +1,15 @@
+T1 Symptom 0 6 severe
+T2 Symptom 7 13 muscle pain
+T3 Symptom 15 17 left
+T4 Symptom 18 21 arm
+T5 Symptom 23 27 neck
+T6 Symptom 29 33 elbow
+T7 ADR 37 46 prickling
+T8 ADR 48 56 numbness
+T9 Symptom 58 62 hand
+T10 ADR 64 80 poisen-ivy-like rash
+T11 Symptom 82 87 chest
+T12 Symptom 92 98 breast
+T13 Drug 113 119 lipitor
+T14 Drug 132 138 Niacin
+T15 Drug 142 148 Lipitor

@@ -1,0 +1,6 @@
+T1 Symptom 0 12 severe muscle pain
+T2 Symptom 55 70 shoulder pain
+T3 ADR 84 94 depression
+T4 ADR 99 107 thoughts
+T5 Drug 23 30 Lipitor
+T6 Drug 117 124 Lipitor

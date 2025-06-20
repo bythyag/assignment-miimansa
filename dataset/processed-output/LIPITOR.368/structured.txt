@@ -1,0 +1,8 @@
+T1 Drug 31 36 20
+T2 Symptom 55 68 calf pains
+T3 Symptom 86 98 calf pains
+T4 Symptom 115 118 hip
+T5 Disease 123 138 hip replacement
+T6 Drug 161 168 Lipitor
+T7 Drug 172 177 5
+T8 Symptom 194 197 hip

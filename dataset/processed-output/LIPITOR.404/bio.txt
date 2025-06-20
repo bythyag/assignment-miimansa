@@ -1,0 +1,1 @@
+No O | known O | side B-ADR | effects I-ADR | . O | Lowered O | cholesterol B-Symptom | to O | 149-175 O | ( O | several O | readings O | ). O | Cholesterol B-Symptom | was O | lowered O | to O | 149 O | within O | 30 O | days O | from O | using O | Lipitor B-Drug | and O | from O | the O | Zone B-Diet | Diet I-Diet | . O

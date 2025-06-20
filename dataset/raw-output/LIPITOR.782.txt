@@ -1,0 +1,19 @@
+BIO Sequence:
+Taking O | Lipitor B-Drug | 20 O | mg O | for O | 4 O | months O | now O | together O | with O | plavix B-Drug | , O | Zestril B-Drug | and O | Lopressor B-Drug | . O | Zestril B-Drug | and O | Lopressor I-Drug | caused O | many O | prblems B-ADR | so O | am O | on O | diovan B-Drug | instaed O | . O | Lipitor B-Drug | has O | recently O | started O | causing O | pain B-Symptom | in O | back B-Symptom | and O | behind O | the O | knee B-Symptom | . O | Also O | developed O | hematuria B-Symptom | . O | all O | urine O | test O | came O | back O | normal O | . O | Did O | anybody O | else O | experienced O | hematuria I-Symptom | as O | a O | result O | of O | Lipitor B-Drug | use O | ? O | am O | quitiing O | this O | medicine O | . O | very O | dangerous O | and O | should O | be O | used O | in O | extreme O | circumstances O | . O 
+
+Structured Output:
+T1 Drug 13 20 Lipitor
+T2 Drug 48 54 plavix
+T3 Drug 56 63 Zestril
+T4 Drug 65 73 Lopressor
+T5 Drug 93 99 Zestril
+T6 Drug 101 109 Lopressor
+T7 ADR 117 126 prblems
+T8 Drug 133 139 diovan
+T9 Drug 141 147 Lipitor
+T10 Symptom 158 162 pain
+T11 Symptom 165 169 back
+T12 Symptom 174 179 knee
+T13 Symptom 182 190 hematuria
+T14 Symptom 198 206 hematuria
+T15 Drug 214 220 Lipitor

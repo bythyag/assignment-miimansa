@@ -1,0 +1,21 @@
+BIO Sequence:
+depression B-Disease | , O | general O | malaise B-Symptom | , O | nausea B-Symptom | , O | taste O | loss B-Symptom | , O | insomnia B-Symptom | , O | hair O | loss I-Symptom | , O | bronchitis B-Disease | and O | / O | or O | flu B-Disease | 3 O | times O | during O | winter O | and O | 1-2 O | times O | during O | summer O | , O | abdominal O | pain B-Symptom | , O | muscle O | spasms I-Symptom | in O | legs B-Symptom | and O | left O | arm B-Symptom | , O | back O | pain B-Symptom | . O | I O | felt O | always O | like O | I O | had O | a O | veil O | over O | my O | head B-Symptom | and O | lead O | in O | my O | legs B-Symptom | . O | This O | drug B-Drug | is O | a O | nightmare O | and O | should O | be O | discontinued O | . O | I O | had O | my O | first O | child O | at O | 34 O | and O | my O | husband O | and O | I O | wanted O | a O | second O | one O | badly O | . O | Because O | of O | all O | the O | medical O | issues O | this O | had O | to O | be O | postponed O | . O | Meanwhile O | my O | husband O | lost O | his O | job O | and O | we O | had O | to O | apply O | for O | insurance O | coverage O | - O | I O | was O | refused O | due O | to O | my O | medical O | history O | even O | I O | had O | been O | an O | extremely O | healthy O | individual O | until O | I O | was O | put O | on O | this O | medication B-Drug | . O |
+
+Structured Output:
+T1 Disease 0 9 depression
+T2 Symptom 11 26 malaise
+T3 Symptom 28 34 nausea
+T4 Symptom 36 44 taste loss
+T5 Symptom 46 53 insomnia
+T6 Symptom 55 62 hair loss
+T7 Disease 64 73 bronchitis
+T8 Disease 78 81 flu
+T9 Symptom 95 110 abdominal pain
+T10 Symptom 112 127 muscle spasms
+T11 Symptom 132 136 legs
+T12 Symptom 141 145 left arm
+T13 Symptom 147 156 back pain
+T14 Symptom 172 181 head
+T15 Symptom 185 192 legs
+T16 Drug 215 219 drug
+T17 Drug 293 302 medication

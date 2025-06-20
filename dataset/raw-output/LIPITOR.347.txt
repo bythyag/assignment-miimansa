@@ -1,0 +1,10 @@
+BIO Sequence:
+Severe B-Symptom | back I-Symptom | and O | neck I-Symptom | pains I-Symptom | that O | led O | to O | severe B-Symptom | headaches I-Symptom | . O | Stopped O | taking O | it O | after O | 3-4 O | weeks O | . O | since O | then O | it O | has O | cleared O | up O | . O
+
+Structured Output:
+T1 Symptom 0 6 Severe  
+T2 Symptom 7 11 back  
+T3 Symptom 12 16 neck  
+T4 Symptom 17 22 pains  
+T5 Symptom 31 37 severe  
+T6 Symptom 38 46 headaches  

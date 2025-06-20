@@ -1,0 +1,10 @@
+T1 Symptom 17 23 problem
+T2 Symptom 65 70 vision
+T3 Symptom 85 100 focus
+T4 Drug 127 145 Voltaren Rapid 50mg
+T5 Symptom 176 179 bad
+T6 ADR 182 186 loss
+T7 Symptom 194 199 colour
+T8 Symptom 206 212 depth
+T9 Symptom 229 236 smaller
+T10 Symptom 265 270 focus

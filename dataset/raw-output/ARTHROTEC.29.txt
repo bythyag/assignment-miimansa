@@ -1,0 +1,19 @@
+BIO Sequence:
+vaginal B-Symptom | bleeding I-Symptom | and O | cramping B-Symptom | 2 O | years O | after O | menopause B-Disease | . O | While O | this O | helped O | some O | with O | the O | joint B-Symptom | pain I-Symptom | , O | I O | was O | unpleasantly O | surprised O | at O | the O | return O | of O | my O | period B-Symptom | after O | 2 O | years O | . O | I O | had O | severe O | endometriosis B-Disease | and O | adenomyosis I-Disease | all O | my O | life O | , O | plus O | the O | impairment O | in O | blood B-Symptom | clotting I-Symptom | due O | to O | EDS B-Disease | , O | so O | my O | doctor O | probably O | should O | not O | have O | prescribed O | this O | drug B-Drug | . O | I O | 'm O | not O | taking O | any O | more O | tablets B-Drug | . O | Cymbalta B-Drug | 120 I-Drug | mg I-Drug | per O | day O | helps O | enough O | with O | the O | pain B-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 15 vaginal bleeding
+T2 Symptom 17 25 cramping
+T3 Disease 43 52 menopause
+T4 Symptom 124 134 joint pain
+T5 Symptom 153 159 period
+T6 Disease 177 190 endometriosis
+T7 Disease 192 203 adenomyosis
+T8 Symptom 218 232 blood clotting
+T9 Disease 236 239 EDS
+T10 Drug 259 263 drug
+T11 Drug 271 278 tablets
+T12 Drug 280 287 Cymbalta
+T13 Drug 288 290 120
+T14 Drug 291 293 mg
+T15 Symptom 310 314 pain

@@ -1,0 +1,11 @@
+T1 Drug 24 32 arthrotec
+T2 Drug 33 35 75
+T3 Symptom 64 68 pain
+T4 Symptom 73 80 stomach cramps
+T5 ADR 88 96 diarrhoa
+T6 ADR 106 130 menstral bleeding
+T7 Symptom 133 144 clots
+T8 Symptom 158 162 urine
+T9 ADR 172 177 blood
+T10 Symptom 190 194 weak
+T11 Symptom 203 209 shaking

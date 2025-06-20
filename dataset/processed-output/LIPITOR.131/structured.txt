@@ -1,0 +1,8 @@
+T1 Symptom 38 47 sex drive
+T2 Disease 14 19 stent
+T3 Disease 25 30 LDL
+T4 Disease 37 40 LDL
+T5 Drug 45 50 40 MG
+T6 Disease 54 57 HDL
+T7 Disease 72 77 heart issues
+T8 Disease 80 89 RED MEAT

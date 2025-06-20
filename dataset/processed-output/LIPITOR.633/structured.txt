@@ -1,0 +1,3 @@
+T1 Symptom 10 18 twitches
+T2 Symptom 27 33 spasms
+T3 Symptom 36 42 cramps

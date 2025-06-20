@@ -1,0 +1,9 @@
+BIO Sequence:
+Leg B-Symptom | pains I-Symptom | , O | loss B-Symptom | of O | memory I-Symptom | , O | E.D. B-ADR | and O | sleep B-Symptom | loss I-Symptom | . O | I O | was O | never O | told O | of O | these O | possible O | side O | effects O | . O
+
+Structured Output:
+T1 Symptom 0 8 Leg pains
+T2 Symptom 10 14 loss
+T3 Symptom 15 21 memory
+T4 ADR 23 27 E.D.
+T5 Symptom 32 40 sleep loss

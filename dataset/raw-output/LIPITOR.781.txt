@@ -1,0 +1,7 @@
+BIO Sequence:
+muscle B-Symptom | aches I-Symptom | in O | arms B-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 6 muscle  
+T2 Symptom 7 12 aches  
+T3 Symptom 15 19 arms  

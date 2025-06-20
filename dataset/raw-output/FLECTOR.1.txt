@@ -1,0 +1,14 @@
+BIO Sequence:
+Started O | experiencing O | pain B-Symptom | in O | my O | right O | heel B-Symptom | when O | walking O | in O | mid-November O | ; O | it O | got O | worse O | over O | time O | so O | I O | went O | to O | see O | my O | orthopedist B-Disease | in O | early O | December O | and O | he O | said O | I O | had O | plantar B-Disease | fasciitis I-Disease | ; O | he O | showed O | me O | stretching O | exercises O | and O | advised O | me O | to O | get O | inserts O | for O | my O | walking O | shoes O | , O | wear O | cushioned O | house O | slippers O | and O | avoid O | walking O | up O | inclines O | . O | The O | pain B-Symptom | lessened O | by O | following O | all O | these O | recommendations O | but O | I O | was O | still O | uncomfortable B-Symptom | a O | lot O | of O | the O | time O | . O | I O | finally O | went O | to O | see O | the O | orthopedist B-Disease | in O | March O | and O | he O | said O | my O | foot O | " O | can O | " O | improve O | if O | I O | continued O | with O | the O | exercises O | , O | etc O | At O | the O | very O | end O | , O | he O | asked O | if O | he O | had O | given O | me O | the O | " O | patch O | " O | at O | my O | first O | appointment O | ; O | so O | I O | left O | with O | a O | sample O | and O | a O | prescription O | for O | the O | Flector B-Drug | patch I-Drug | . O | I O | cut O | a O | patch O | ( O | there O | are O | five O | in O | each O | reclosable O | pouch O | ) O | in O | half O | and O | it O | covers O | the O | heel O | area O | . O | After O | I O | used O | it O | the O | first O | time O | , O | the O | puffiness B-ADR | and O | pain B-Symptom | were O | gone O | ! O | I O | found O | it O | best O | to O | use O | the O | patch O | at O | night O | only O | although O | you O | can O | replace O | it O | every O | 12 O | hours O | . O | I O | put O | the O | patch O | on O | at O | bedtime O | , O | tape O | the O | edges O | down O | and O | wear O | a O | sock O | to O | secure O | it O | . O | Initially O | , O | I O | used O | it O | every O | night O | and O | after O | about O | three O | weeks O | , O | was O | able O | to O | cut O | down O | to O | several O | times O | a O | week O | . O | It O | certainly O | helped O | to O | make O | the O | past O | month O | more O | comfortable B-Symptom | .
+
+Structured Output:
+T1 Symptom 43 47 pain
+T2 Symptom 51 55 heel
+T3 Disease 70 87 plantar fasciitis
+T4 Symptom 137 141 pain
+T5 Symptom 194 204 uncomfortable
+T6 Disease 240 250 orthopedist
+T7 Drug 348 354 Flector
+T8 ADR 458 466 puffiness
+T9 Symptom 470 474 pain
+T10 Symptom 672 682 comfortable

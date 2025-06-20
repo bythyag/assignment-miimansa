@@ -1,0 +1,13 @@
+BIO Sequence:
+Fatigue B-Symptom | , O | toes B-Symptom | acking I-Symptom | , O | depression B-Symptom | , O | moodiness B-Symptom | . O | Lowers O | my O | count O | to O | 240 O | but O | is O | it O | woth O | it O | ? O | I've O | been O | on O | Zorcor B-Drug | and O | Mevacore B-Drug | also O | but O | they O | didn't O | do O | the O | job O | . O | I'm O | thinking O | of O | changing O | to O | Vytorin B-Drug | a O | new O | simvastatin/ezetimbe B-Drug | . O
+
+Structured Output:
+T1 Symptom 0 6 Fatigue
+T2 Symptom 8 13 toes
+T3 Symptom 14 20 acking
+T4 Symptom 22 32 depression
+T5 Symptom 34 43 moodiness
+T6 Drug 83 90 Zorcor
+T7 Drug 93 101 Mevacore
+T8 Drug 113 120 Vytorin
+T9 Drug 122 135 simvastatin/ezetimbe

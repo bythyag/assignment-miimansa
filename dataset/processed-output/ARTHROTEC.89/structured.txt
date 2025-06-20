@@ -1,0 +1,4 @@
+T1 Symptom 43 59 vaginal bleeding
+T2 Drug 74 81 Estrace
+T3 Drug 109 116 Estrace
+T4 Symptom 146 154 feel better

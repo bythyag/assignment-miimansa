@@ -1,0 +1,9 @@
+T1 Symptom 0 4 back
+T2 Symptom 5 9 pain
+T3 Symptom 11 16 aching
+T4 Symptom 17 23 joints
+T5 Symptom 25 31 muscles
+T6 Symptom 34 43 flatulence
+T7 Symptom 45 49 wind
+T8 Symptom 51 55 hair
+T9 Symptom 56 59 loss

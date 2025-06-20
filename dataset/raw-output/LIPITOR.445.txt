@@ -1,0 +1,15 @@
+BIO Sequence:
+Tired O | lower O | arms O | and O | legs O | muscel B-Symptom | hair O | loss B-Symptom | , O | pale/yellow O | complexion B-Symptom | , O | dizzyness B-Symptom | , O | heat B-Symptom | stress I-Symptom | , O | loss B-Symptom | of O | concentration B-Symptom | , O | fell O | asleep O | while O | driving O | . O | only O | took O | medication O | for O | 4 O | months O | then O | 18 O | mnths O | later O | took O | pravachol B-Drug | with O | in O | 4 O | days O | muscel B-Symptom | fatigue I-Symptom | started O | . O | have O | cold B-Symptom | sweats I-Symptom | and O | dizzyness B-Symptom | . O | Seem O | to O | be O | developing O | sever B-Symptom | heat I-Symptom | intolerance I-Symptom | . O
+
+Structured Output:
+T1 Symptom 30 38 muscel
+T2 Symptom 42 45 hair loss
+T3 Symptom 53 71 pale/yellow complexion
+T4 Symptom 73 80 dizzyness
+T5 Symptom 83 91 heat stress
+T6 Symptom 96 115 loss of concentration
+T7 Symptom 132 148 muscel fatigue
+T8 Symptom 178 184 cold sweats
+T9 Symptom 186 193 dizzyness
+T10 Symptom 199 206 sever heat intolerance
+T11 Drug 88 97 pravachol

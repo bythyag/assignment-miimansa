@@ -1,0 +1,12 @@
+T1 ADR 4 14 side effects 
+T2 Symptom 48 52 pain 
+T3 Symptom 60 67 shoulder joint 
+T4 Symptom 76 87 deep muscle pain 
+T5 Symptom 100 104 arm 
+T6 Symptom 117 122 chest 
+T7 Symptom 129 135 aching 
+T8 Symptom 138 145 insomnia 
+T9 Symptom 171 179 symptoms 
+T10 Drug 219 228 medication 
+T11 Drug 242 248 statins 
+T12 ADR 274 280 LDL's

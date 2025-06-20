@@ -1,0 +1,10 @@
+BIO Sequence:
+Mild O | muscle B-Symptom | pain I-Symptom | . O | Tried O | Crestor B-Drug | and O | generic O | Zocor B-Drug | and O | couldn't O | tolerate O | the O | side B-ADR | effects I-ADR | . O | Started O | Lipitor B-Drug | and O | after O | 6 O | weeks O | my O | blood O | work O | showed O | great O | improvement O | . O | Total O | was O | 251- O | now O | 156 O | . O | LDL O | was O | 176- O | now O | 91 O | . O | HDL O | is O | now O | 51 O | . O | Triglycerides O | were O | 96- O | now O | 69 O | . O | Very O | glad O | I O | gave O | Lipitor B-Drug | a O | try O | . O 
+
+Structured Output:
+T1 Symptom 5 11 muscle pain
+T2 Drug 16 23 Crestor
+T3 Drug 32 37 Zocor
+T4 ADR 43 54 side effects
+T5 Drug 64 70 Lipitor
+T6 Drug 168 174 Lipitor

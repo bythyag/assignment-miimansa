@@ -1,0 +1,9 @@
+T1 Symptom 0 18 painfull  
+T2 Symptom 19 29 stiff joints  
+T3 Symptom 30 48 pins  
+T4 Symptom 49 56 needles  
+T5 Symptom 58 62 right  
+T6 Symptom 63 66 arm  
+T7 Drug 74 80 lipitor  
+T8 Symptom 83 89 blood test  
+T9 Symptom 95 100 wrong

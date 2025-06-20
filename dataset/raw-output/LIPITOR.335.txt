@@ -1,0 +1,21 @@
+BIO Sequence:
+Severe B-Symptom | muscle I-Symptom | pain I-Symptom | . O  
+Severe B-Symptom | knee I-Symptom | and O | back B-Symptom | pain I-Symptom | . O  
+Several O | doctors O | suggested O | knee B-Disease | surgery I-Disease | . O  
+I O | went O | off O | Lipitor B-Drug | and O | knees O | are O | fine O | , O | muscle B-Symptom | pain I-Symptom | dissapeared O | . O  
+I O | tried O | it O | again O | because O | my O | doctor O | insisted O | the O | drug B-Drug | did O | not O | cause O | the O | problem O | since O | my O | liver B-Disease | lab O | tests O | were O | good O | . O  
+Tried O | a O | second O | time O | , O | severe B-Symptom | pain I-Symptom | came O | back O | within O | one O | week O | . O  
+lowered O | my O | cholesterol B-Disease | miraculously O | . O  
+I O | 'd O | rather O | have O | a O | heart B-Disease | attack I-Disease | than O | live O | with O | such O | pain I-Symptom | . O  
+
+Structured Output:
+T1 Symptom 1 17 Severe muscle pain
+T2 Symptom 19 36 Severe knee and back pain
+T3 Disease 57 61 knee surgery
+T4 Drug 67 73 Lipitor
+T5 Symptom 79 98 muscle pain
+T6 Disease 138 143 liver
+T7 Symptom 172 177 severe pain
+T8 Disease 204 214 cholesterol
+T9 Disease 228 240 heart attack
+T10 Symptom 242 246 pain

@@ -1,0 +1,4 @@
+T1 Symptom 25 31 itches
+T2 Symptom 38 43 aches
+T3 Symptom 50 56 tingles
+T4 Disease 62 78 iliotial band syndrome

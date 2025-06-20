@@ -1,0 +1,8 @@
+BIO Sequence:
+Stopped O | pain B-Symptom | and O | muscle B-Symptom | spasms I-Symptom | the O | next O | day O | ! O | I O | now O | take O | it O | as O | necessary O | . O | I O | also O | take O | a O | buffer O | with O | this O | . O | It O | is O | misoprostol B-Drug | 200MG I-Drug | . O
+
+Structured Output:
+T1 Symptom 7 11 pain
+T2 Symptom 16 29 muscle spasms
+T3 Drug 95 106 misoprostol
+T4 Drug 107 112 200MG

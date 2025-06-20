@@ -1,0 +1,9 @@
+T1 Symptom 25 30 severe
+T2 Symptom 31 44 hip joint pain
+T3 Symptom 46 60 thigh pain
+T4 Symptom 64 78 severe thigh fatigue
+T5 Drug 89 95 lipitor
+T6 Drug 108 110 20
+T7 Drug 111 113 mg
+T8 Drug 206 212 lipitor
+T9 Drug 317 323 lipitor

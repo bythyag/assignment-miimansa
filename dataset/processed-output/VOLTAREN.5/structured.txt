@@ -1,0 +1,13 @@
+T1 ADR 17 30 effects
+T2 Symptom 46 59 24
+T3 Symptom 69 74 relief
+T4 Symptom 93 99 relief
+T5 Drug 116 124 panadeine
+T6 Drug 129 138 Ibuprofen
+T7 Drug 140 146 Codeine
+T8 ADR 161 168 stomach
+T9 Drug 174 181 voltaren
+T10 Drug 182 187 rapid
+T11 Drug 188 190 25
+T12 Symptom 208 212 back ache
+T13 Symptom 250 258 pain

@@ -1,0 +1,10 @@
+BIO Sequence:
+Haven't O | really O | experienced O | any O | side B-ADR | effects I-ADR | thankfully O | . O | This O | medicine B-Drug | seems O | to O | work O | very O | well O | . O | My O | throat B-Symptom | still O | hurts O | while O | on O | it O | ; O | however O | the O | pain B-Symptom | is O | tolerable O | and O | I O | am O | able O | to O | function O | through O | the O | day O | until O | my O | virus B-Disease | works O | its O | course O | and O | I O | am O | finally O | over O | this O | horrible O | sore B-Symptom | throat I-Symptom | ! O
+
+Structured Output:
+T1 ADR 38 50 side effects
+T2 Drug 68 75 medicine
+T3 Symptom 81 87 throat
+T4 Symptom 119 123 pain
+T5 Disease 139 144 virus
+T6 Symptom 182 188 sore throat

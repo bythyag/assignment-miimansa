@@ -1,0 +1,13 @@
+BIO Sequence:
+Over O | the O | past O | three O | years O | the O | drug O | has O | definately O | worked O | but O | I O | have O | developed O | almost O | a O | dibilitating B-Symptom | problem I-Symptom | with O | both O | of O | my O | arms B-Symptom | . O | I O | am O | unable O | to O | move O | them O | in O | any O | direction O | but O | the O | normal O | motion O | . O | It O | has O | got O | to O | the O | point O | where O | turning O | over O | in O | bed O | wakes O | me O | up O | because O | of O | the O | pain B-Symptom | it O | causes O | . O | I O | have O | had O | a O | blood O | test O | to O | determine O | if O | Lipitor B-Drug | is O | causing O | this O | serious O | problem O | and O | the O | results O | said O | no O | it O | wasn't O | . O | However, O | I O | even O | went O | to O | an O | orthopdetic O | surgeon O | and O | after O | he O | checked O | me O | out O | , O | he O | looked O | at O | the O | drugs O | that O | I O | take O | ( O | i O | am O | also O | a O | type B-Disease | 2 I-Disease | diabetic I-Disease | ) O | and O | he O | said O | ahh, O | Lipitor B-Drug | . O | more O | people O | taking O | this O | drug O | come O | to O | me O | with O | problems I-Symptom | like O | this O | . O | I O | have O | an O | annual O | physical O | on O | 8/27 O | and O | am O | going O | to O | tell O | the O | doctor O | I O | 'm O | stopping O | the O | Lipitor B-Drug | to O | see O | what O | happens O | . O
+
+Structured Output:
+T1 Symptom 57 77 dibilitating problem
+T2 Symptom 139 143 arms
+T3 Symptom 194 198 pain
+T4 Drug 237 244 Lipitor
+T5 Drug 318 325 Lipitor
+T6 Disease 312 314 type 2
+T7 Disease 315 322 diabetic
+T8 Symptom 354 361 problems
+T9 Drug 398 405 Lipitor

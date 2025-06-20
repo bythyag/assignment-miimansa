@@ -1,0 +1,17 @@
+BIO Sequence:
+no O | side O | effects O | . O | Met O | with O | surgon B-Disease | last O | week O | to O | schedule O | hip B-Disease | replacement I-Disease | . O | Could O | not O | tolerate O | pain B-Symptom | . O | Was O | on O | hydrocodine B-Drug | heavy O | aand O | did O | not O | like O | side O | effects O | . O | Almost O | overnight O | was O | 100% O | pain B-Symptom | free O | . O | Sorry O | ladies O | i O | don O | not O | have O | bleeding B-Symptom | or O | stomach B-Symptom | pains I-Symptom | . O | Truly O | wish O | you O | could O | have O | same O | results O | as O | i O | have O | . O | Took O | 5 O | years O | ago O | for O | shoulder B-Symptom | pain I-Symptom | and O | it O | worked O | as O | well O | . O | I O | am O | on O | my O | feet O | all O | day O | requiring O | steps O | and O | was O | ready O | to O | retire O | . O | I O | danced O | at O | a O | wedding O | this O | weekend O | for O | the O | first O | time O | in O | 3 O | years O | . O
+
+Structured Output:
+T1 Disease 32 38 surgon
+T2 Disease 59 62 hip
+T3 Disease 63 73 replacement
+T4 Symptom 92 96 pain
+T5 Drug 110 120 hydrocodine
+T6 Symptom 134 138 pain
+T7 Symptom 140 148 bleeding
+T8 Symptom 151 158 stomach
+T9 Symptom 159 165 pains
+T10 Symptom 185 191 shoulder
+T11 Symptom 192 196 pain
+T12 Symptom 235 239 steps
+T13 Symptom 287 291 years

@@ -1,0 +1,3 @@
+T1 Symptom 39 60 peripheral neuropathy
+T2 ADR 77 82 liver
+T3 Drug 97 103 statin

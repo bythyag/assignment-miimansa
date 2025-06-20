@@ -1,0 +1,36 @@
+T1 Symptom 0 8 insommnia
+T2 Symptom 10 14 loss
+T3 Symptom 15 22 dreaming
+T4 Symptom 34 42 inability
+T5 Symptom 43 53 visualize
+T6 Symptom 55 61 muscle
+T7 Symptom 62 66 pain
+T8 Symptom 68 75 weakness
+T9 Symptom 77 83 atrophy
+T10 Disease 84 95 tendinitis
+T11 Disease 97 108 tendinopathy
+T12 Disease 110 130 tendon contracture
+T13 Disease 132 145 miniscus damage
+T14 Symptom 147 163 working memory
+T15 Symptom 164 179 short-term memory
+T16 Symptom 180 184 loss
+T17 Symptom 186 193 language
+T18 Symptom 194 217 learning ability
+T19 Symptom 218 222 loss
+T20 Symptom 223 230 including
+T21 Symptom 232 237 spoken
+T22 Symptom 239 244 written
+T23 Symptom 246 253 aphasia
+T24 Symptom 255 266 inability
+T25 Symptom 268 272 walk
+T26 Drug 280 284 drug
+T27 Drug 303 308 DRUG
+T28 Drug 310 316 Lipitor
+T29 Drug 324 330 statins
+T30 ADR 332 337 injury
+T31 Disease 351 373 cardiovascular disease
+T32 Drug 407 413 statins
+T33 Drug 415 421 statins
+T34 Drug 439 446 statins
+T35 Disease 449 455 coronary events
+T36 Drug 553 558 statin

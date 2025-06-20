@@ -1,0 +1,7 @@
+T1 Symptom 0 9 Exhaustion
+T2 Symptom 11 17 malaise
+T3 Symptom 19 31 upset stomach
+T4 Symptom 33 41 constant hunger
+T5 Drug 46 54 5mg/day
+T6 Drug 78 86 10mg/day
+T7 ADR 95 109 side effects

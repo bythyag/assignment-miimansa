@@ -1,0 +1,12 @@
+BIO Sequence:
+Pain B-Symptom | in O | shoulders B-Symptom | joints I-Symptom | to O | the O | point O | it O | was O | impossible O | to O | reach O | for O | anything O | above O | my O | shoulders B-Symptom | . O | Quit O | taking O | it O | and O | was O | back O | to O | normal O | in O | two O | months O | . O | My O | doctor O | said O | it O | was O | arthritis B-Disease | or O | bursitis I-Disease | due O | to O | my O | age O | . O | He O | still O | would O | rather O | I O | be O | a O | cripple B-Symptom | and O | go O | back O | on O | Lipitor B-Drug | . O
+
+Structured Output:
+T1 Symptom 0 4 Pain
+T2 Symptom 6 14 shoulders
+T3 Symptom 15 20 joints
+T4 Symptom 59 67 shoulders
+T5 Disease 110 118 arthritis
+T6 Disease 120 128 bursitis
+T7 Symptom 139 146 cripple
+T8 Drug 159 165 Lipitor

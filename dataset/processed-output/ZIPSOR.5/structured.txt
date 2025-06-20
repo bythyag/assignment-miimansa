@@ -1,0 +1,13 @@
+T1 Drug 25 31 Zipsor
+T2 Disease 42 46 bone
+T3 Disease 51 56 joint
+T4 Disease 64 69 Lupus
+T5 Disease 88 98 herniated
+T6 Disease 100 106 discs
+T7 Drug 119 126 Vicodin
+T8 Drug 143 149 Zipsor
+T9 Disease 163 168 Lupus
+T10 Disease 182 188 herniated
+T11 Disease 194 200 discs
+T12 Drug 222 228 Zipsor
+T13 ADR 261 279 recognizable side effects

@@ -1,0 +1,5 @@
+T1 Symptom 0 14 Stomach pains  
+T2 Symptom 16 20 gass  
+T3 ADR 22 30 dry mouth  
+T4 ADR 32 40 drowsiness  
+T5 Drug 86 91 drug

@@ -1,0 +1,5 @@
+T1 Symptom 0 8 Muddled  
+T2 Symptom 9 16 thinking  
+T3 Symptom 18 22 loss  
+T4 Symptom 25 32 strength  
+T5 Symptom 37 43 stamina

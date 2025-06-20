@@ -1,0 +1,11 @@
+BIO Sequence:
+feelings O | of O | fatigue B-Symptom | , O | muscle B-Symptom | and O | joint B-Symptom | pain I-Symptom | , O | insomnia B-Symptom | . O | it O | lowered O | my O | cholesterol B-Disease | but O | not O | sure O | it O | 's O | worth O | the O | pain O | . O | dr O | put O | me O | on O | provacal B-Drug | for O | a O | few O | months O | but O | it O | didn’t O | get O | the O | results O | she O | wanted O | . O
+
+Structured Output:
+T1 Symptom 17 24 fatigue
+T2 Symptom 26 31 muscle
+T3 Symptom 36 41 joint
+T4 Symptom 42 46 pain
+T5 Symptom 48 56 insomnia
+T6 Disease 66 75 cholesterol
+T7 Drug 82 90 provacal

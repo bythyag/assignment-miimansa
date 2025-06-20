@@ -1,0 +1,10 @@
+BIO Sequence:
+Within O | 1 O | month O | time O | developed O | severe B-Disease | depression I-Disease | , O | inability B-Symptom | to O | pull O | myself O | from O | bed O | , O | headaches B-Symptom | everyday I-Symptom | , O | and O | felt O | like O | I O | was O | coming O | down O | with O | flu B-Disease | . O | I O | will O | never O | take O | statins B-Drug | again O | . O | My O | doctor O | referenced O | Lipitor B-Drug | as O | a O | . O |
+
+Structured Output:
+T1 Disease 44 53 severe depression
+T2 Symptom 59 68 inability
+T3 Symptom 74 82 headaches
+T4 Disease 89 92 flu
+T5 Drug 102 109 statins
+T6 Drug 120 126 Lipitor

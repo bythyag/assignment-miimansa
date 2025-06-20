@@ -1,0 +1,23 @@
+T1 Symptom 26 34 fatigued
+T2 Symptom 41 47 sleepy
+T3 ADR 82 98 sleeping pill
+T4 Symptom 119 134 cravings
+T5 Food 135 141 cheese
+T6 Food 143 155 peanut butter
+T7 Food 157 161 mayo
+T8 Food 163 167 eggs
+T9 Food 169 179 hot sauce
+T10 Food 181 185 salt
+T11 Symptom 195 203 overweight
+T12 Symptom 211 219 pregnant
+T13 Symptom 227 231 lower
+T14 Disease 233 242 abdominal
+T15 Symptom 244 252 cramping
+T16 Symptom 254 259 thigh
+T17 Symptom 261 267 soreness
+T18 Disease 283 291 cholesterol
+T19 Disease 300 305 tri's
+T20 Disease 318 324 good
+T21 Disease 325 334 cholesterol
+T22 Drug 361 365 drug
+T23 Disease 367 374 cholesterol

@@ -1,0 +1,17 @@
+T1 Symptom 8 16 FATIGUE
+T2 Symptom 32 42 TIREDNESS
+T3 Symptom 45 56 MUSCLE PAINS
+T4 Drug 142 146 Lipitor
+T5 Disease 138 148 cholesterol
+T6 Disease 163 174 cholesterol
+T7 Drug 185 191 Lipitor
+T8 Drug 220 226 Lipitor
+T9 ADR 486 494 symptoms
+T10 Symptom 598 604 normal
+T11 Drug 669 675 Lipitor
+T12 Drug 702 708 Lipitor
+T13 ADR 741 754 neck pains
+T14 ADR 757 769 side affect
+T15 Drug 827 832 Zetia
+T16 Drug 852 858 Lipitor
+T17 Drug 876 882 Lipitor

@@ -1,0 +1,13 @@
+BIO Sequence:
+It O | helps O | relieve O | chronic B-Disease | pain I-Disease | but O | over O | time O | , O | causes O | intestinal B-ADR | pain I-ADR | and O | bleeding B-ADR | . O | I O | had O | symptoms O | similar O | to O | diverticulitis B-Disease | : O | blood B-Symptom | in O | stool B-Symptom | , O | pain I-Symptom | . O | I O | would O | be O | cautious O | about O | paying O | attention O | to O | cramping B-Symptom | , O | intestinal/stomach B-Symptom | pain I-Symptom | which O | can O | lead O | to O | very O | serious O | conditions O | . O 
+
+Structured Output:
+T1 Disease 21 27 chronic pain
+T2 ADR 43 52 intestinal pain
+T3 ADR 57 64 bleeding
+T4 Disease 81 95 diverticulitis
+T5 Symptom 96 101 blood
+T6 Symptom 104 109 stool
+T7 Symptom 112 116 pain
+T8 Symptom 128 136 cramping
+T9 Symptom 138 156 intestinal/stomach pain

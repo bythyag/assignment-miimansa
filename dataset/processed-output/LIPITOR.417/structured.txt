@@ -1,0 +1,7 @@
+T1 Symptom 0 13 Blurred vision
+T2 Symptom 15 23 dizziness
+T3 Drug 52 58 Lipitor
+T4 Drug 81 83 80
+T5 Drug 84 86 mg
+T6 Drug 122 128 Pfizer
+T7 Drug 133 136 FDA

@@ -1,0 +1,3 @@
+T1 Symptom 21 25 pain  
+T2 Symptom 29 33 back  
+T3 Symptom 36 40 legs

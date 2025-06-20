@@ -1,0 +1,26 @@
+T1 Disease 26 36 cholesterol
+T2 Drug 59 68 medication
+T3 Symptom 86 99 eye problems
+T4 ADR 101 105 rash
+T5 ADR 114 123 forehead
+T6 ADR 126 134 insomnia
+T7 ADR 139 146 big time
+T8 ADR 148 153 sweats
+T9 ADR 158 165 so severe
+T10 Symptom 170 182 difficulty breathing
+T11 Symptom 184 192 weight
+T12 Symptom 195 203 increased
+T13 Symptom 209 216 bloating
+T14 Symptom 220 227 stomach
+T15 Symptom 229 237 difficulty breathing
+T16 ADR 240 246 Rashes
+T17 ADR 251 255 arms
+T18 ADR 261 265 legs
+T19 Symptom 269 276 Tightness
+T20 Symptom 279 285 throat
+T21 ADR 288 294 choking
+T22 Drug 321 329 Pravachol
+T23 Symptom 334 340 worst
+T24 Symptom 362 368 muscles
+T25 Symptom 376 382 aggitated
+T26 Symptom 387 393 excited

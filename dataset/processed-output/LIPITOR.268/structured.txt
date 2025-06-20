@@ -1,0 +1,11 @@
+T1 Symptom 48 53 sleep
+T2 Symptom 66 71 dreams
+T3 ADR 82 96 adverse effects
+T4 Drug 98 105 Niacin
+T5 Drug 113 119 Tricor
+T6 ADR 124 136 side-effects
+T7 ADR 138 143 sore
+T8 ADR 145 151 joints
+T9 ADR 153 166 sleeplessness
+T10 ADR 168 171 gas
+T11 Drug 174 180 Lipitor

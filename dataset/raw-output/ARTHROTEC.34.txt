@@ -1,0 +1,7 @@
+BIO Sequence:
+Bleeding B-Symptom | mini O | periods O | , O | lightheaded B-Symptom | some O | time O | , O | finger B-Symptom | tingling I-Symptom | when O | I O | wake O | up O | . O  
+
+Structured Output:
+T1 Symptom 0 7 Bleeding  
+T2 Symptom 18 29 lightheaded  
+T3 Symptom 34 45 finger tingling  

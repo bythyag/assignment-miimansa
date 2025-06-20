@@ -1,0 +1,17 @@
+T1 Drug 23 30 Lipitor
+T2 Disease 83 92 cholesterol
+T3 ADR 118 132 side effects
+T4 Drug 143 150 Lipitor
+T5 Symptom 155 160 weird
+T6 Symptom 162 182 dizzy/vertigo/un-balanced-type
+T7 Disease 235 242 airport
+T8 Disease 258 265 airports
+T9 Symptom 269 281 frequent
+T10 Symptom 287 293 bowel
+T11 Symptom 294 303 movements
+T12 Disease 308 316 arthritic
+T13 Disease 318 323 knees
+T14 Symptom 335 339 numb
+T15 Symptom 344 352 tingling
+T16 Drug 372 377 drug
+T17 Drug 395 402 Lipitor

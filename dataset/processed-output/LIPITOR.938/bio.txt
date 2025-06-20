@@ -1,0 +1,1 @@
+cut O | high B-Disease | cholestorel I-Disease | from O | 278 O | to O | 134 O

@@ -1,0 +1,6 @@
+BIO Sequence:
+I O | did O | not O | experience O | any O | of O | the O | myriad O | of O | possible O | side B-ADR | effects I-ADR | of O | the O | drug B-Drug | . O
+
+Structured Output:
+T1 ADR 39 50 side effects
+T2 Drug 57 61 drug

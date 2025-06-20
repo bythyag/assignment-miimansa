@@ -1,0 +1,15 @@
+BIO Sequence:
+I O | took O | Lipitor B-Drug | for O | 6 O | weeks O | and O | noticed O | extreme O | dehydration B-ADR | and O | extremely O | dry B-Symptom | eyes I-Symptom | . O | My O | eyes O | are O | so O | dry I-Symptom | that O | they O | stick O | to O | the O | eyelids O | at O | night O | and O | I O | am O | getting O | microabrasions B-ADR | on O | them O | - O | very O | painful B-Symptom | . O | Additionally O | , O | despite O | eating O | a O | pure O | fiber O | diet O | to O | lower O | my O | cholesterol O | , O | the O | medicine O | has O | made O | me O | extremely O | constipated B-ADR | . O | I O | have O | been O | off O | now O | for O | 5 O | days O | . O | The O | constipation B-Symptom | is O | starting O | to O | go O | away O | as O | are O | the O | dry I-Symptom | eyes I-Symptom | although O | they O | are O | still O | quite O | painful I-Symptom | . O | I O | have O | started O | the O | Blood O | Type O | Diet O | for O | my O | blood O | type O | ( O | A B-Disease | ) O | and O | will O | lower O | my O | cholesterol O | naturally O | since O | I O | cannot O | fathom O | being O | on O | Lipitor B-Drug | after O | my O | experience O | with O | it O | . O | I O | would O | not O | recommend O | this O | medicine O | to O | anyone O | . O
+
+Structured Output:
+T1 Drug 8 14 Lipitor
+T2 ADR 54 65 dehydration
+T3 Symptom 71 82 dry eyes
+T4 ADR 126 144 microabrasions
+T5 Symptom 147 154 painful
+T6 ADR 193 207 constipated
+T7 Symptom 218 230 constipation
+T8 Symptom 249 257 dry eyes
+T9 Symptom 263 270 painful
+T10 Disease 293 294 A
+T11 Drug 379 385 Lipitor

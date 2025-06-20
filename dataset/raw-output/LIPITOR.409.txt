@@ -1,0 +1,8 @@
+BIO Sequence:
+I O | feel O | fine O | while O | I O | am O | on O | it O | . O | No O | side B-ADR | effects I-ADR | . O | My O | Cholesterol B-Disease | went O | up O | after O | a O | couple O | day O | without O | it O | . O | I O | had O | my O | blood O | work O | and O | the O | cholesterol O | is O | 291 O | . O | I O | have O | Hypercholesterolemia B-Disease | . O
+
+Structured Output:
+T1 ADR 28 39 side effects
+T2 Disease 47 57 Cholesterol
+T3 Disease 98 115 cholesterol
+T4 Disease 121 141 Hypercholesterolemia

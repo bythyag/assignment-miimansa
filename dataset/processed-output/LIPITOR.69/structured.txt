@@ -1,0 +1,15 @@
+T1 Symptom 4 10 sight
+T2 Symptom 50 53 loss
+T3 Symptom 55 59 hair
+T4 Symptom 61 66 aches
+T5 Symptom 71 76 pains
+T6 Symptom 82 85 back
+T7 Symptom 87 91 cough
+T8 Symptom 93 97 sore
+T9 Symptom 103 108 ankles
+T10 Symptom 127 132 Sore
+T11 Symptom 134 139 joints
+T12 ADR 147 155 depressed
+T13 Drug 27 32 drugs
+T14 Drug 49 54 Omega
+T15 Drug 55 56 3

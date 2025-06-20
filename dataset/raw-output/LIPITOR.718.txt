@@ -1,0 +1,17 @@
+BIO Sequence:
+For O | about O | 15 O | months O | I O | experienced O | SEVERE B-Symptom | fatigue B-Symptom | , O | and O | initially O | for O | about O | three O | months O | very O | bad O | headaches B-Symptom | which O | diminished O | in O | intensity O | but O | never O | completely O | went O | away O | . O | Insomnia B-Symptom | , O | I O | would O | wake O | up O | at O | 3:00 O | am O | and O | be O | unable O | to O | go O | back O | to O | sleep B-Symptom | . O | Difficulty B-Symptom | in O | swallowing B-Symptom | and O | constipation B-Symptom | . O | I O | went O | to O | 3 O | different O | doctors O | for O | these O | symptoms O | . O | All O | of O | them O | dismissed O | my O | view O | that O | maybe O | the O | Lipitor B-Drug | was O | causing O | all O | of O | this O | even O | though O | the O | symptoms O | started O | about O | 3 O | weeks O | after O | uping O | the O | dosage O | from O | 20 O | mg O | . O | to O | 40 O | . O | I O | quit O | taking O | Lipitor B-Drug | about O | a O | week O | ago O | - O | thanks O | in O | part O | to O | this O | web O | site O | . O | Within O | 3 O | days O | I O | was O | no O | longer O | consistently O | waking O | up O | at O | 3:00 O | am O | unable O | to O | go O | back O | to O | sleep B-Symptom | . O | Headaches B-Symptom | seem O | to O | be O | dissipating O | as O | well O | , O | and O | the O | extreme B-Symptom | fatigue B-Symptom | is O | disappearing O | . O | I O | don’t O | expect O | MD's O | to O | be O | knowledgeable O | about O | every O | drug O | and O | I O | recognize O | that O | this O | drug O | has O | probably O | saved O | a O | lot O | of O | lives O | , O | but O | it O | is O | the O | attitude O | that O | I O | find O | irresponsible O | , O | that O | these O | problems O | couldn’t O | possibly O | be O | caused O | by O | Lipitor B-Drug | since O | as O | all O | the O | doctors O | said O | . O 
+
+Structured Output:
+T1 Symptom 36 42 SEVERE fatigue
+T2 Symptom 82 90 headaches
+T3 Symptom 97 104 Insomnia
+T4 Symptom 138 142 sleep
+T5 Symptom 161 170 Difficulty
+T6 Symptom 172 181 swallowing
+T7 Symptom 186 196 constipation
+T8 Drug 191 197 Lipitor
+T9 Symptom 284 290 Lipitor
+T10 Symptom 301 318 sleep
+T11 Symptom 320 328 Headaches
+T12 Symptom 352 358 extreme fatigue
+T13 Drug 390 396 Lipitor

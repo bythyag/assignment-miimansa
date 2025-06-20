@@ -1,0 +1,17 @@
+BIO Sequence:
+I O | have O | done O | very O | well O | with O | Lipitor B-Drug | for O | the O | last O | 2 O | 1/2 O | years O | . O | It O | has O | reduced O | my O | cholesterol B-Disease | significantly O | - O | from O | over O | 300 O | to O | under O | 150 O | . O | Two O | weeks O | ago O | I O | was O | given O | the O | new O | generic B-Drug | . O | This O | week O | I O | noticed O | that O | all O | my O | fingers B-Symptom | and O | toes B-Symptom | were O | tingling B-ADR | , O | a O | pins B-Symptom | and O | needles B-Symptom | feeling O | . O | It O | was O | like O | they O | had O | fallen O | asleep O | . O | I O | immediately O | went O | back O | to O | pharmacy O | and O | got O | brand B-Drug | name O | again O | ( O | luckily O | my O | insurance O | pays O | - O | it O | will O | be O | $15 O | / O | 3 O | month O | supply O | more O | , O | but O | it O | ' O | s O | worth O | it O | ) O | . O | I O | have O | noticed O | just O | within O | the O | last O | two O | days O | the O | tingling B-ADR | is O | gone O | . O | Thank O | goodness O | ! O | I O | read O | that O | generics B-Drug | have O | the O | same O | active O | ingredients O | , O | but O | there O | may O | be O | a O | difference O | in O | how O | the O | medicine B-Drug | is O | released O | . O | It O | ' O | s O | not O | EXACTLY O | the O | same O | . O | High B-Disease | cholesterol I-Disease | runs O | in O | my O | family O | and O | I O | am O | greatful O | that O | Lipitor B-Drug | can O | help O | me O | manage O | this O | . O 
+
+Structured Output:
+T1 Drug 29 35 Lipitor
+T2 Disease 81 91 cholesterol
+T3 Drug 124 131 generic
+T4 Symptom 150 156 fingers
+T5 Symptom 162 167 toes
+T6 ADR 177 184 tingling
+T7 Symptom 188 192 pins
+T8 Symptom 197 203 needles
+T9 ADR 238 245 tingling
+T10 Drug 368 374 generics
+T11 Drug 397 404 medicine
+T12 Disease 414 423 cholesterol
+T13 Drug 457 463 Lipitor

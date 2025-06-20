@@ -1,0 +1,7 @@
+T1 Symptom 102 123 muscle disintegration  
+T2 Symptom 124 137 degeneration  
+T3 Symptom 145 152 fatigue  
+T4 Symptom 160 176 muscle/joint pain  
+T5 Symptom 207 215 symptoms  
+T6 Disease 225 237 muscle tissue  
+T7 Drug 282 289 Lipitor

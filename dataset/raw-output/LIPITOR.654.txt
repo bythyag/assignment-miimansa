@@ -1,0 +1,21 @@
+BIO Sequence:
+Muscle B-Symptom | wasting I-Symptom | ; O | weakness B-Symptom | ; O | fatigue B-Symptom | ; O | diarrhea B-Symptom | ; O | anorexic B-Symptom | ; O | Placed O | on O | 10 B-Drug | mg I-Drug | even O | though O | Cholesterol B-Disease | WNL I-Disease | . O | Symptoms O | progressive O | . O | Was O | on O | it O | 18 O | months O | with O | weight B-Symptom | loss I-Symptom | of O | 20 O | pounds O | and O | all O | muscles B-Disease | wasting I-Disease | . O | Kidney B-Disease | function I-Disease | became O | a O | problem O | and O | significan O | heart B-Disease | muscle I-Disease | weakness I-Disease | . O
+
+Structured Output:
+T1 Symptom 0 6 Muscle
+T2 Symptom 7 13 wasting
+T3 Symptom 15 22 weakness
+T4 Symptom 24 31 fatigue
+T5 Symptom 33 40 diarrhea
+T6 Symptom 42 50 anorexic
+T7 Drug 18 20 10
+T8 Disease 47 57 Cholesterol
+T9 Symptom 78 83 weight
+T10 Symptom 84 88 loss
+T11 Disease 95 101 muscles
+T12 Disease 102 109 wasting
+T13 Disease 111 117 Kidney
+T14 Disease 118 126 function
+T15 Disease 133 138 heart
+T16 Disease 139 145 muscle
+T17 Symptom 146 153 weakness

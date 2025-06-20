@@ -1,0 +1,9 @@
+T1 ADR 41 50 queasiness  
+T2 ADR 75 85 diarrhoea  
+T3 Symptom 100 110 gas pains  
+T4 Symptom 127 132 pain  
+T5 Symptom 142 147 pain  
+T6 Drug 163 171 Arthrotec  
+T7 Symptom 198 203 pain  
+T8 Drug 215 223 Arthrotec  
+T9 Symptom 251 256 sleep

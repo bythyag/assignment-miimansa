@@ -1,0 +1,1 @@
+MUSCLE B-Symptom | PAIN I-Symptom | . O | JOINT B-Symptom | PAIN I-Symptom | . O | VERY O | VERY O | BAD O | . O | COULD O | NOT O | WALK B-Symptom | AFTER O | 60 B-Disease | DAYS I-Disease | . O

@@ -1,0 +1,20 @@
+BIO Sequence:
+Abdominal B-Symptom | distention I-Symptom | - O | feel O | full O | . O | Gained O | about O | 5 O | lbs O | the O | first O | week O | . O | back B-Symptom | pain I-Symptom | in O | the O | am O | , O | leg B-Symptom | cramps I-Symptom | on O | and O | off O | . O | Weird B-Symptom | tight I-Symptom | feeling I-Symptom | in O | my O | head O | . O | Gas B-Symptom | , O | insomnia I-Symptom | , O | loss B-Symptom | of O | muscle B-Symptom | strength I-Symptom | . O | I O | have O | Sores B-Symptom | on O | the O | inner O | cheeks O | . O | Weird B-Symptom | tight I-Symptom | feeling I-Symptom | in O | chest B-Symptom | cavity I-Symptom | at O | times O | , O | when O | exercising O | . O | I O | was O | in O | otherwise O | good O | health O | before O | starting O | , O | although O | it's O | only O | been O | a O | week O | . O | It O | should O | be O | noted O | that O | this O | is O | my O | third O | time O | trying O | this O | med B-Drug | . O | I O | am O | not O | drinking O | the O | koolaid O | on O | this O | miracle O | drug B-Drug | . O | I O | think O | it O | has O | major O | side B-ADR | effects I-ADR | that O | the O | mfgs O | are O | still O | not O | attributing O | to O | the O | drug B-Drug | . O | There O | is O | a O | lot O | of O | good O | reads O | out O | there O | , O | including O | articles O | in O | the O | NY O | times O | - O | do O | some O | research O | - O | it O | seems O | a O | lot O | of O | us O | are O | on O | the O | fence O | . O | I'm O | in O | a O | very O | high O | risk O | category O | , O | with O | levels O | over O | 300 O | , O | a O | horrible O | ratio O | , O | and O | tryc O | through O | the O | roof O | . O
+
+Structured Output:
+T1 Symptom 0 17 Abdominal distention
+T2 Symptom 26 33 feel full
+T3 Symptom 38 46 back pain
+T4 Symptom 48 56 leg cramps
+T5 Symptom 58 70 Weird tight feeling
+T6 Symptom 72 76 Gas
+T7 Symptom 78 86 insomnia
+T8 Symptom 89 104 loss of muscle strength
+T9 Symptom 107 112 Sores
+T10 Symptom 115 127 Weird tight feeling
+T11 Symptom 130 142 chest cavity
+T12 Drug 241 244 med
+T13 Drug 254 258 drug
+T14 ADR 261 270 side effects
+T15 Drug 273 277 drug
+T16 Symptom 343 346 tryc

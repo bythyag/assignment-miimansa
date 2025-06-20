@@ -1,0 +1,6 @@
+BIO Sequence:
+Side O | effects B-ADR | were O | minimal O | , O | affected O | areas O | dryed B-ADR | up O | and O | fell O | off O | . O 
+
+Structured Output:
+T1 ADR 10 16 effects
+T2 ADR 39 44 dryed

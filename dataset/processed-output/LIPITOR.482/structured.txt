@@ -1,0 +1,7 @@
+T1 Drug 51 58 lipitor
+T2 Drug 117 124 lipitor
+T3 ADR 142 146 muscle pain
+T4 ADR 150 157 twitching
+T5 ADR 166 171 twitching
+T6 ADR 177 183 muscle aches
+T7 Drug 223 230 lipitor

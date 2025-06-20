@@ -1,0 +1,13 @@
+BIO Sequence:
+migrane B-Disease | headaches I-Disease | , O | very O | very O | blurry B-Symptom | vision I-Symptom | , O | at O | times O | felt O | like O | i'm O | going O | blind B-Symptom | , O | severe B-Symptom | muscle I-Symptom | pain I-Symptom | and O | dizziness B-Symptom | . O | call O | your O | physician O | to O | change O | medicine O | immediately O | if O | you've O | side O | effects O | like O | mine O | as O | this O | is O | what O | I O | did O | . O
+
+Structured Output:
+T1 Disease 0 8 migrane 
+T2 Disease 9 17 headaches 
+T3 Symptom 27 32 blurry 
+T4 Symptom 33 38 vision 
+T5 Symptom 53 57 blind 
+T6 Symptom 60 66 severe 
+T7 Symptom 67 72 muscle 
+T8 Symptom 73 77 pain 
+T9 Symptom 80 87 dizziness 

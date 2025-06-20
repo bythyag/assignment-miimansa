@@ -1,0 +1,17 @@
+T1 Symptom 9 16 Tingling
+T2 Symptom 18 25 burning
+T3 Symptom 34 38 arms
+T4 Symptom 44 48 legs
+T5 Symptom 56 61 back
+T6 Symptom 70 74 neck
+T7 Symptom 86 100 lightheadedness
+T8 Symptom 102 113 memory loss
+T9 Symptom 116 126 chest pain
+T10 Symptom 131 135 pain
+T11 Symptom 140 147 shoulder
+T12 Symptom 156 158 arm
+T13 ADR 35 38 LDL
+T14 ADR 56 68 triglycerides
+T15 ADR 131 143 side effects
+T16 ADR 158 162 side effects
+T17 Disease 176 190 heart attack

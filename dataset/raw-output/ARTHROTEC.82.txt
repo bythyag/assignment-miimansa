@@ -1,0 +1,19 @@
+BIO Sequence:
+I O | had O | diarrhea B-Symptom | , O | severe B-Symptom | abdominal I-Symptom | pain I-Symptom | which O | was O | constant O | for O | 4 O | hours O | straight O | , O | vomiting B-ADR | , O | trembling B-ADR | , O | dizziness B-ADR | , O | nausea B-ADR | . O | Arthrotec B-Drug | seemed O | to O | induce O | my O | menstrual B-Symptom | cramps I-Symptom | and O | cause O | the O | pain O | to O | be O | severe O | . O | I O | would O | not O | recommend O | this O | drug B-Drug | to O | anyone O | , O | especially O | since O | I O | have O | never O | had O | such O | an O | adverse B-ADR | reaction I-ADR | to O | any O | other O | medication B-Drug | . O | Also O | , O | I O | would O | caution O | women O | not O | to O | take O | this O | medication B-Drug | while O | menstruating O | , O | since O | one O | side B-ADR | effect I-ADR | can O | be O | severe B-ADR | menstual I-Symptom | pain I-Symptom | . O 
+
+Structured Output:
+T1 Symptom 12 20 diarrhea
+T2 Symptom 22 40 severe abdominal pain
+T3 ADR 56 63 vomiting
+T4 ADR 65 73 trembling
+T5 ADR 75 82 dizziness
+T6 ADR 84 90 nausea
+T7 Drug 99 106 Arthrotec
+T8 Symptom 122 139 menstrual cramps
+T9 Drug 154 158 drug
+T10 ADR 192 198 adverse reaction
+T11 Drug 215 224 medication
+T12 Drug 238 247 medication
+T13 ADR 257 262 side effect
+T14 ADR 278 284 severe
+T15 Symptom 285 293 menstual pain

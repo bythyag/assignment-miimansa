@@ -1,0 +1,16 @@
+T1 Disease 39 41 Dr
+T2 Symptom 69 73 feet
+T3 Symptom 80 84 hurt
+T4 Symptom 97 104 unexplained Joint Pain
+T5 Symptom 151 159 Stiffness
+T6 Symptom 169 178 feet
+T7 Symptom 183 187 Leg Joint
+T8 Disease 241 243 Dr
+T9 Disease 254 260 X-Ray
+T10 Symptom 359 364 sleep
+T11 Symptom 392 399 numbness
+T12 Symptom 404 409 hands
+T13 Symptom 471 477 Lt Wrist
+T14 Symptom 486 497 dislocating
+T15 Symptom 515 520 painfully
+T16 Symptom 538 546 put it back

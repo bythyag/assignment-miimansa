@@ -1,0 +1,14 @@
+BIO Sequence:
+Started O | taking O | Lipitor B-Drug | 3 O | months O | ago O | . O | Have O | experiences O | significant O | weight B-Symptom | gain I-Symptom | even O | though O | I O | have O | been O | following O | a O | low O | caloric O | diet O | . O | Also O | have O | experienced O | fatigue B-ADR | , O | sleepless B-ADR | nights I-ADR | , O | bouts O | of O | constipation B-ADR | and O | diarria B-ADR | . O | Have O | also O | had O | muscle B-ADR | pain I-ADR | especially O | in O | the O | leg/calf B-Symptom | area I-Symptom | and O | the O | lower O | back O | . O | Originaly O | thought O | that O | the O | pain O | might O | be O | caused O | from O | a O | slip B-Disease | disc I-Disease | that O | I O | have O | , O | but O | the O | pain O | is O | different O | than O | experienced O | before O | . O | After O | reading O | all O | the O | ratings O | on O | thib O | web O | site O | I'm O | convinced O | that O | the O | new O | pain/weight O | gain I-Symptom | /fatigue O | and O | general O | not O | feeling O | . O
+
+Structured Output:
+T1 Drug 19 25 Lipitor
+T2 Symptom 69 75 weight gain
+T3 ADR 109 116 fatigue
+T4 ADR 118 127 sleepless nights
+T5 ADR 132 142 constipation
+T6 ADR 147 155 diarria
+T7 ADR 157 168 muscle pain
+T8 Symptom 179 184 leg/calf
+T9 Disease 204 212 slip disc
+T10 Symptom 227 235 pain/weight gain

@@ -1,0 +1,1 @@
+I O | experienced O | tighening B-Symptom | of O | the O | chest B-Symptom | and O | leg B-Symptom | cramps I-Symptom | . O | I O | really O | didn't O | have O | a O | bad O | reaction B-ADR | to O | this O | Medicatiion B-Drug | . O | I O | would O | take O | this O | medicine O | over O | Niaspan B-Drug | anyday O | ! O

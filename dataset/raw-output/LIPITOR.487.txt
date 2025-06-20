@@ -1,0 +1,7 @@
+BIO Sequence:
+this O | med B-Drug | works O | like O | a O | dream O | . O | no O | side B-ADR | effects I-ADR | and O | it O | does O | its O | job O | . O | my O | cholesterol B-Disease | has O | been O | lowered O | substantially O | . O
+
+Structured Output:
+T1 Drug 5 8 med
+T2 ADR 30 43 side effects
+T3 Disease 54 64 cholesterol

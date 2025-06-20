@@ -1,0 +1,9 @@
+BIO Sequence:
+I O | took O | my O | first O | pill B-Drug | this O | morning O | , O | with O | food O | as O | noted O | . O | Rode O | my O | bike O | 12 O | minutes O | to O | work O | & O | didn't O | think O | I O | could O | make O | it O | . O | Got O | to O | work O | , O | ran O | to O | the O | bathroom O | with O | SEVERE B-Symptom | abdominal I-Symptom | cramping I-Symptom | , O | had O | massive B-ADR | diarrhea I-ADR | & O | severe B-ADR | cramping I-ADR | continued O | for O | 2 O | hours O | . O | I O | had O | to O | leave O | work O | & O | go O | home O | sick O | . O | I O | would O | much O | rather O | put O | up O | with O | my O | debilitating B-Symptom | chronic I-Symptom | knee I-Symptom | pain I-Symptom | ( O | waiting O | for O | surgery O | ) O | than O | to O | ever O | take O | another O | pill O | . O | I O | spent O | $100 O | on O | the O | stupid O | pills O | - O | what O | an O | utter O | & O | complete O | waste O | of O | money O | . O 
+
+Structured Output:
+T1 Drug 32 36 pill
+T2 Symptom 96 101 SEVERE
+T3 ADR 124 132 massive diarrhea
+T4 ADR 145 155 severe cramping
+T5 Symptom 180 194 debilitating chronic knee pain

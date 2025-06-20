@@ -1,0 +1,8 @@
+BIO Sequence:
+took O | celebrex B-Drug | 8-1/2 O | years O | . O | when O | it O | stopped O | working O | my O | primary O | physician O | put O | me O | on O | arthrotec B-Drug | 75 I-Drug | twice O | a O | day O | . O | less O | convenient O | than O | the O | celebrex B-Drug | as O | twice O | per O | day O | instead O | of O | once O | per O | day O | . O | otherwise O | as O | reported O | by O | other O | comments O | there O | is O | occassional O | joint B-Symptom | pain I-Symptom | from O | increased O | physical O | activity O | . O
+
+Structured Output:
+T1 Drug 8 15 celebrex  
+T2 Drug 23 31 arthrotec  
+T3 Drug 38 45 celebrex  
+T4 Symptom 116 125 joint pain  

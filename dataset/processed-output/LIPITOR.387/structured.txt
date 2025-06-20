@@ -1,0 +1,6 @@
+T1 Symptom 51 66 lightheadedness
+T2 Symptom 68 75 tingling
+T3 Symptom 81 97 visual deficits
+T4 Symptom 104 118 lightheadedness
+T5 Disease 121 129 cholesterol
+T6 Disease 144 150 tumor

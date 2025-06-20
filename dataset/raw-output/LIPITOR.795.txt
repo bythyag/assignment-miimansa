@@ -1,0 +1,24 @@
+BIO Sequence:
+Body B-Symptom | aches I-Symptom | ( O | knees B-Symptom | , O | back B-Symptom | and O | especially O | chest B-Symptom | ) O | which O | increased O | with O | time O | , O | lethargic B-Symptom | , O | short B-Symptom | term I-Symptom | memory B-Symptom | lacking O | , O | concentration B-Symptom | is O | worse O | than O | ever O | . O | Worked O | wonders O | for O | my O | cholesterol B-Disease | but O | ruined O | everything O | else O | . O | I O | kept O | telling O | my O | doctor O | about O | the O | body B-Symptom | aches I-Symptom | but O | he O | always O | blamed O | it O | on O | something O | else O | . O | stress B-Disease | , O | anxiety B-Disease | , O | lack B-Disease | of O | exercise B-Disease | . O | I'm O | still O | on O | the O | lipitor B-Drug | but O | I'm O | contacting O | my O | doctor O | to O | try O | another O | cholesterol B-Disease | med O | . O | I'm O | glad O | I O | came O | across O | this O | site O | . O
+
+Structured Output:
+T1 Symptom 0 4 Body  
+T2 Symptom 5 10 aches  
+T3 Symptom 13 18 knees  
+T4 Symptom 20 24 back  
+T5 Symptom 32 37 chest  
+T6 Symptom 46 55 lethargic  
+T7 Symptom 63 68 short  
+T8 Symptom 69 73 term  
+T9 Symptom 74 80 memory  
+T10 Symptom 81 87 lacking  
+T11 Symptom 89 101 concentration  
+T12 Disease 112 122 cholesterol  
+T13 Symptom 144 149 body  
+T14 Symptom 150 155 aches  
+T15 Disease 157 163 stress  
+T16 Disease 165 171 anxiety  
+T17 Disease 173 177 lack  
+T18 Disease 179 186 exercise  
+T19 Drug 205 212 lipitor  
+T20 Disease 227 237 cholesterol  

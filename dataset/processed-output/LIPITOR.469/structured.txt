@@ -1,0 +1,10 @@
+T1 Symptom 48 56 marathon
+T2 Symptom 60 64 legs
+T3 Symptom 66 71 ached
+T4 Symptom 81 86 weak
+T5 Symptom 90 95 calf
+T6 Symptom 97 104 muscles
+T7 Symptom 106 113 painful
+T8 Symptom 116 123 extreme
+T9 Symptom 124 131 fatigue
+T10 Symptom 133 142 headaches

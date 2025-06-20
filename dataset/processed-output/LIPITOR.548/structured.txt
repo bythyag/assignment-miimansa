@@ -1,0 +1,20 @@
+T1 Symptom 0 4 heavy
+T2 Symptom 6 10 legs
+T3 Symptom 12 23 muscle aches
+T4 Symptom 25 34 confusion
+T5 Symptom 57 64 stomach upset
+T6 Symptom 66 77 indigestion
+T7 Symptom 79 86 insomnia
+T8 Symptom 88 95 sweating
+T9 Symptom 97 103 shaking
+T10 Symptom 105 123 shortness of breath
+T11 Symptom 125 132 twitching
+T12 Symptom 134 144 depression worse
+T13 Disease 146 158 fibromyalgia
+T14 Drug 173 182 cholesterol
+T15 Symptom 184 197 Constipation
+T16 Disease 199 212 diverticulitis
+T17 Drug 226 232 Lipitor
+T18 Disease 236 238 MS
+T19 Disease 241 246 lupus
+T20 ADR 257 270 side effects

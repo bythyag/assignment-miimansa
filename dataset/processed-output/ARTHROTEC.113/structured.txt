@@ -1,0 +1,19 @@
+T1 Symptom 41 48 stomach cramping
+T2 Symptom 78 83 period cramps
+T3 Symptom 127 131 pain
+T4 Disease 139 145 uterus
+T5 Symptom 167 171 spasms
+T6 Symptom 185 189 pain
+T7 ADR 223 229 nausea
+T8 ADR 241 248 bleeding
+T9 Disease 254 256 day
+T10 Disease 257 258 12
+T11 Drug 280 284 drug
+T12 Symptom 290 294 back pain
+T13 Disease 313 319 uterus pain
+T14 Symptom 320 328 cramping
+T15 Drug 342 346 drug
+T16 Drug 354 363 arthrotec
+T17 Drug 388 392 drug
+T18 Disease 436 442 cycle
+T19 Symptom 463 467 pains

@@ -1,0 +1,4 @@
+T1 Disease 34 43 urinary tract infections
+T2 Disease 108 116 infections
+T3 Drug 120 127 Lipitor
+T4 Disease 135 143 infections

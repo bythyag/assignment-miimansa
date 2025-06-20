@@ -1,0 +1,10 @@
+T1 Drug 32 39 Lipitor
+T2 Symptom 66 72 aching
+T3 Symptom 80 87 fingers
+T4 Symptom 90 95 knees
+T5 Symptom 97 102 hips
+T6 Symptom 105 109 toes
+T7 Disease 126 134 arthritis
+T8 Disease 143 151 arthritis
+T9 Drug 162 169 Lipitor
+T10 Disease 173 181 arthritis

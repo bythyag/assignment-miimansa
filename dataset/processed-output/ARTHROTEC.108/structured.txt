@@ -1,0 +1,6 @@
+T1 Symptom 0 17 Abdominal pain
+T2 Symptom 19 29 Dizzieness
+T3 Symptom 34 45 blood clots
+T4 Symptom 49 55 urine
+T5 Symptom 70 76 leaking
+T6 Drug 87 95 Arthrotec

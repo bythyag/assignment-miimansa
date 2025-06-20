@@ -1,0 +1,6 @@
+T1 Symptom 6 14 sedation
+T2 Drug 29 33 drug
+T3 Drug 80 84 meds
+T4 Drug 86 93 Voltaren
+T5 Symptom 101 105 pain
+T6 Symptom 132 139 stomach problems

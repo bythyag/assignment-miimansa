@@ -1,0 +1,7 @@
+T1 Drug 41 46 75mg
+T2 ADR 74 89 severe vaginal cramps
+T3 Drug 148 155 pamprin
+T4 Symptom 168 172 knee
+T5 Drug 130 148 anti-inflammatory
+T6 Disease 175 179 knee pain
+T7 Disease 181 195 inflammation

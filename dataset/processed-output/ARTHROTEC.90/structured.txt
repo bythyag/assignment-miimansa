@@ -1,0 +1,8 @@
+T1 Symptom 46 50 pain
+T2 Disease 54 57 hip
+T3 ADR 73 80 stomach
+T4 Symptom 93 111 vaginal bleeding
+T5 Drug 129 133 drug
+T6 ADR 145 150 adverse
+T7 ADR 151 156 side
+T8 ADR 157 163 effects

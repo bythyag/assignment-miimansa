@@ -1,0 +1,12 @@
+T1 Symptom 0 7 fatigue
+T2 Symptom 9 21 muscle crammps
+T3 Symptom 23 30 bloating
+T4 Symptom 38 54 intense chest pains
+T5 Disease 61 70 depression
+T6 Disease 94 97 flu
+T7 ADR 120 131 side effects
+T8 Drug 136 143 lipitor
+T9 ADR 158 165 symptoms
+T10 Disease 181 190 depression
+T11 Symptom 196 207 mood swings
+T12 Disease 213 223 cholestrol

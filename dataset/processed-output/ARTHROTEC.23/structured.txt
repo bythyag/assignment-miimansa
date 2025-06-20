@@ -1,0 +1,11 @@
+T1 Drug 31 35 drug
+T2 ADR 67 75 cramping
+T3 ADR 98 105 fatigue
+T4 ADR 107 115 shortness
+T5 ADR 117 122 breath
+T6 Symptom 127 131 pain
+T7 ADR 134 139 dizzy
+T8 ADR 141 147 nausea
+T9 ADR 149 160 unconsolable
+T10 Drug 191 195 drug
+T11 Drug 236 241 pills

@@ -1,0 +1,33 @@
+T1 Drug 44 50 Pfizer
+T2 Drug 74 80 Lipitor
+T3 Disease 85 90 liver
+T4 Disease 92 98 Kidney
+T5 Drug 99 105 Lipitor
+T6 Drug 118 128 atorvastatin
+T7 Disease 133 140 liver
+T8 Disease 143 149 kidney
+T9 Drug 155 161 Lipitor
+T10 Drug 169 174 Lipitor
+T11 Drug 182 189 statins
+T12 Disease 205 220 rhabdomyolysis
+T13 Symptom 246 250 pain
+T14 Symptom 252 261 tenderness
+T15 Symptom 266 273 weakness
+T16 Symptom 287 294 calves
+T17 Symptom 306 310 back
+T18 Symptom 319 325 Malaise
+T19 Symptom 327 332 fever
+T20 Symptom 338 347 dark urine
+T21 Symptom 349 356 vomiting
+T22 Symptom 358 364 nausea
+T23 Disease 369 384 rhabdomyolysis
+T24 Disease 387 393 acute
+T25 Disease 395 400 kidney
+T26 Disease 409 415 liver
+T27 Symptom 420 426 nausea
+T28 Symptom 429 436 vomiting
+T29 Symptom 438 453 abdominal pain
+T30 Symptom 455 462 fatigue
+T31 Symptom 465 479 loss of appetite
+T32 Symptom 483 491 dark urine
+T33 Symptom 494 514 generalized skin discoloration

@@ -1,0 +1,9 @@
+T1 Symptom 8 13 muscle problems
+T2 Symptom 22 26 joint pain
+T3 Drug 53 59 lipitor
+T4 Disease 80 82 45
+T5 Drug 95 101 lipitor
+T6 Drug 133 139 lipitor
+T7 Disease 144 149 liver
+T8 Disease 171 179 hospital
+T9 Symptom 182 191 cholestrol

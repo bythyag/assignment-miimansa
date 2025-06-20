@@ -1,0 +1,8 @@
+BIO Sequence:
+I O | have O | not O | been O | takeing O | Lipitor B-Drug | very O | long O | it O | has O | only O | been O | a O | few O | weeks O | and O | my O | Dr O | has O | me O | taking O | it O | twice O | a O | week O | but O | since O | I O | have O | been O | taking O | it O | my O | right O | hand O | has O | been O | getting O | numb B-Symptom | and O | hurting B-Symptom | it O | feels O | like O | there O | is O | no O | circulation O | getting O | to O | it O | and O | after O | reading O | all O | of O | this O | it O | is O | probally O | the O | lipitor B-Drug | I O | am O | very O | worried O | now O | after O | reading O | all O | of O | this O | and O | feel O | I O | should O | quit O | taking O | it O.
+
+Structured Output:
+T1 Drug 30 36 Lipitor
+T2 Symptom 120 124 numb
+T3 Symptom 130 136 hurting
+T4 Drug 200 206 lipitor

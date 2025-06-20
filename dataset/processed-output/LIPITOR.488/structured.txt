@@ -1,0 +1,19 @@
+T1 Symptom 12 20 triedness
+T2 Symptom 22 32 loss of concentration
+T3 Symptom 34 55 uncharacteristical moodiness
+T4 Symptom 57 78 short term memory loss
+T5 Symptom 80 95 light headedness
+T6 Symptom 106 122 unwarranted depression
+T7 Symptom 126 144 thoughts of suicide
+T8 Symptom 146 153 tightness
+T9 Symptom 158 174 annoying stimuly type of feeling in the neck near the base of the skull
+T10 Symptom 176 198 husky vocal chords
+T11 Symptom 232 250 persistent feeling of tiredness
+T12 Symptom 265 278 light headedness
+T13 Symptom 283 295 foggy vision
+T14 Symptom 297 314 short term memory loss
+T15 Symptom 327 340 concentrate
+T16 Drug 360 366 Lipitor
+T17 Drug 368 370 40
+T18 Drug 372 374 mg
+T19 Disease 393 411 highg cholesterol

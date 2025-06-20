@@ -1,0 +1,14 @@
+BIO Sequence:
+occasionally O | some O | leg B-Symptom | cramps I-Symptom | ( O | in O | lower B-Symptom | left O | leg O | only O | ) O | if O | taken O | too O | late O | in O | the O | day O | . O | No O | side B-ADR | effects I-ADR | if O | taken O | before O | noon O | . O | This O | drug B-Drug | has O | helped O | tremendously O | with O | aches B-Symptom | and O | discomfort B-Symptom | from O | the O | arthritis B-Disease | . O | Totally O | cured O | the O | pain B-Symptom | in O | my O | foot O | from O | tendonitis B-Disease | and O | plantar B-Disease | fasciitis I-Disease | . O
+
+Structured Output:
+T1 Symptom 23 30 leg cramps
+T2 Symptom 35 40 lower
+T3 ADR 48 58 side effects
+T4 Drug 90 94 drug
+T5 Symptom 118 123 aches
+T6 Symptom 128 138 discomfort
+T7 Disease 153 161 arthritis
+T8 Symptom 173 177 pain
+T9 Disease 188 197 tendonitis
+T10 Disease 203 216 plantar fasciitis

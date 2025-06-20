@@ -1,0 +1,12 @@
+BIO Sequence:
+headaches O | , O | pain B-Symptom | in O | throat I-Symptom | , O | tingling B-Symptom | in O | side O | of O | face I-Symptom | , O | severe B-Symptom | bouts O | of O | anxiety B-Disease | and O | depression I-Disease | - O | loss O | of O | reason O | to O | live O | ! O | nausea B-ADR | . O | does O | lower O | my O | cholestoral B-Disease | . O 
+
+Structured Output:
+T1 Symptom 0 8 headaches
+T2 Symptom 12 27 pain in throat
+T3 Symptom 29 37 tingling in side of face
+T4 Symptom 39 45 severe bouts
+T5 Disease 47 54 anxiety
+T6 Disease 56 65 depression
+T7 ADR 70 76 nausea
+T8 Disease 82 92 cholestoral

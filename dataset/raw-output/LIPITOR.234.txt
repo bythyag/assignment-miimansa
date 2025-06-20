@@ -1,0 +1,16 @@
+BIO Sequence:
+Muscle B-Symptom | twitching I-Symptom | , O | stiff B-Symptom | neck I-Symptom | , O | constant B-Symptom | lightheadedness I-Symptom | , O | always O | worrying O | about O | a O | brain B-Disease | tumor I-Disease | or O | something O | . O | I O | found O | this O | site O | and O | it O | looks O | like O | my O | problems O | may O | be O | the O | Lipitor B-Drug | . O | Doctor O | refering O | me O | to O | a O | nuerologist B-Disease | for O | twitching I-Symptom | and O | light O | head I-Symptom | . O | will O | ask O | about O | possibility O | of O | Lipitor B-Drug | . O | Lowered O | my O | Cholesterol B-Disease | from O | 255 O | to O | 173 O | . O 
+
+Structured Output:
+T1 Symptom 0 6 Muscle
+T2 Symptom 7 15 twitching
+T3 Symptom 17 21 stiff
+T4 Symptom 22 26 neck
+T5 Symptom 28 45 constant lightheadedness
+T6 Disease 75 84 brain tumor
+T7 Drug 85 91 Lipitor
+T8 Disease 126 138 nuerologist
+T9 Symptom 149 157 twitching
+T10 Symptom 161 170 light head
+T11 Drug 189 195 Lipitor
+T12 Disease 209 219 Cholesterol

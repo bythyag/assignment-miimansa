@@ -1,0 +1,16 @@
+BIO Sequence:
+My O | God O | , O | this O | stuff O | is O | great O | ! O | Used O | on O | my O | extremely B-Symptom | painful I-Symptom | shoulder I-Symptom | and O | within O | minutes O | felt O | relief B-ADR | . O | ( O | I O | thought O | it O | might O | be O | the O | Advil B-Drug | I O | had O | taken O | earlier O | kicking O | in O | ) O | However O | , O | several O | days O | later O | , O | had O | a O | flare B-Symptom | with O | joint B-Symptom | pain I-Symptom | in O | wrist I-Disease | . O | Squeezed O | out O | a O | few O | drops O | and O | rubbed O | it O | in O | and O | pain B-Symptom | relief I-Symptom | was O | almost O | immediate O | . O | I O | read O | that O | this O | is O | prescribed O | for O | knee B-Disease | pain I-Symptom | but O | my O | doctor O | gave O | me O | a O | sample O | because O | the O | voltaren B-Drug | has O | worked O | ok O | for O | me O | and O | I O | can't O | take O | Advil B-Drug | a O | lot O | because O | of O | the O | gastro B-ADR | effects I-ADR | . O | Boy O | , O | I O | love O | this O | stuff O | and O | will O | ask O | for O | a O | script O | next O | time O | I O | see O | the O | Rheumy B-Disease | . O
+
+Structured Output:
+T1 Symptom 13 30 extremely painful shoulder
+T2 ADR 64 69 relief
+T3 Symptom 90 94 flare
+T4 Symptom 106 111 joint pain
+T5 Disease 115 120 wrist
+T6 Symptom 137 140 pain
+T7 Symptom 144 149 relief
+T8 Disease 165 173 knee pain
+T9 Drug 178 185 voltaren
+T10 Drug 194 199 Advil
+T11 ADR 214 220 gastro effects
+T12 Disease 234 240 Rheumy

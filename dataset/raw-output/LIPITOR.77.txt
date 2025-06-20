@@ -1,0 +1,23 @@
+BIO Sequence:
+within O | 24 O | hrs O | i O | was O | having O | direar B-Symptom | severe O | muscle B-Symptom | aces I-Symptom | headace B-Symptom | collapades B-Symptom | in O | the O | floor O | on O | the O | third O | day O | called O | the O | dr O | went O | back O | he O | did O | a O | liver B-Disease | test O | and O | took O | me O | off O | the O | medicane B-Drug | but O | was O | still O | having O | symptoms O | in O | 5 O | days O | i O | had O | blisters B-ADR | on O | my O | finger B-Symptom | and O | palms B-Symptom | of O | my O | hands O | and O | on O | the O | soles B-Symptom | of O | my O | feet O | the O | blisters O | lasted O | 1 O | and O | a O | half O | years O | my O | hands O | and O | feet O | would O | bleed B-ADR | i O | saw O | another O | dr O | and O | he O | did O | tell O | me O | it O | was O | because O | of O | the O | lipitor B-Drug | till O | this O | day O | i O | am O | still O | having O | problems O | i O | still O | have O | muscle B-Symptom | aces I-Symptom | memory B-Symptom | loss I-Symptom | i O | don,t O | think O | my O | kidney,s B-Disease | are O | as O | good O | i O | fell O | like O | my O | body O | is O | being O | attacked O | in O | different O | places O | in O | seems O | to O | come O | and O | go O | about O | every O | three O | weeks O | i O | will O | have O | severe O | headaces I-Symptom | this O | has O | been O | 3 O | years O | ago O | i O | think O | it O | did O | perment O | damage O | to O | me O | some O | times O | i O | wonder O | when O | i O | am O | going O | to O | die O | i O | forget O | things O | all O | the O | time O | and O | even O | forgot O | how O | to O | get O | to O | the O | dr,s O | office O | once O | i O | even O | forget O | my O | grandaughter I-Symptom | name I-Symptom | from O | time O | im O | only O | 52 O | years O | of O | age O | to O | young O | to O | have O | all O | this O | problems O | iam O | so O | always O | find O | a O | alternative O | if O | you O | have O | lipitor B-Drug | trash O | it O | .
+
+Structured Output:
+T1 Symptom 34 40 direar
+T2 Symptom 46 61 muscle aces
+T3 Symptom 62 69 headace
+T4 Symptom 74 84 collapades
+T5 Disease 124 129 liver
+T6 Drug 140 148 medicane
+T7 ADR 167 174 blisters
+T8 Symptom 182 188 finger
+T9 Symptom 194 200 palms
+T10 Symptom 213 217 soles
+T11 Symptom 220 224 feet
+T12 ADR 241 247 bleed
+T13 Drug 261 267 lipitor
+T14 Symptom 346 358 muscle aces
+T15 Symptom 360 372 memory loss
+T16 Disease 387 396 kidney,s
+T17 Symptom 488 497 headaces
+T18 Symptom 609 621 grandaughter name
+T19 Drug 641 648 lipitor

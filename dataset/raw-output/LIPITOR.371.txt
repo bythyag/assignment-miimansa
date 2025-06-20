@@ -1,0 +1,13 @@
+BIO Sequence:
+back B-Symptom | pain I-Symptom | , O | aching B-Symptom | joints I-Symptom | and O | muscles I-Symptom | , O | flatulence B-Symptom | and O | wind I-Symptom | , O | hair B-Symptom | loss I-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 4 back
+T2 Symptom 5 9 pain
+T3 Symptom 11 16 aching
+T4 Symptom 17 23 joints
+T5 Symptom 25 31 muscles
+T6 Symptom 34 43 flatulence
+T7 Symptom 45 49 wind
+T8 Symptom 51 55 hair
+T9 Symptom 56 59 loss

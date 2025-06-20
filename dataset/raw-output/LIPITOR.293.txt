@@ -1,0 +1,7 @@
+BIO Sequence:
+My O | mom O | is O | taking O | lipitor B-Drug | 10mg B-Drug | . O | SHE O | is O | 71 O | years O | old O | was O | a O | active O | lady O | . O | She O | would O | walk O | and O | exercise O | daily O | . O | After O | takeing O | this O | medication O | she O | is O | now O | walking O | with O | a O | cane O | . O | And O | has O | server B-Symptom | pain I-Symptom | all O | over O | her O | body O | . O
+
+Structured Output:
+T1 Drug 18 25 lipitor
+T2 Drug 27 31 10mg
+T3 Symptom 107 112 server pain

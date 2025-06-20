@@ -1,0 +1,16 @@
+BIO Sequence:
+Abdominal B-Symptom | cramps I-Symptom | , O | flatulence B-Symptom | , O | gas B-Symptom | , O | bloating B-Symptom | . O | Cramps B-Symptom | would O | start O | within O | 15 B-Symptom | minutes O | of O | taking O | pill O | , O | even O | during O | meals O | . O | Reduced O | coccyx B-Disease | pain I-Disease | but O | the O | cramps B-Symptom | and O | bloating B-Symptom | were O | very O | uncomfortable O | . O
+
+Structured Output:
+T1 Symptom 0 9 Abdominal
+T2 Symptom 10 16 cramps
+T3 Symptom 18 27 flatulence
+T4 Symptom 29 32 gas
+T5 Symptom 34 41 bloating
+T6 Symptom 45 51 Cramps
+T7 Symptom 60 65 minutes
+T8 Disease 85 92 coccyx
+T9 Disease 93 97 pain
+T10 Symptom 100 106 cramps
+T11 Symptom 109 116 bloating
+T12 Symptom 124 138 uncomfortable

@@ -1,0 +1,14 @@
+T1 Symptom 36 54 muscle spasms  
+T2 Symptom 58 62 legs  
+T3 Symptom 64 68 back  
+T4 Symptom 73 78 chest  
+T5 ADR 84 90 Nausea  
+T6 ADR 92 100 vomiting  
+T7 ADR 102 111 chest pain  
+T8 Symptom 115 119 blood  
+T9 Symptom 124 129 urine  
+T10 ADR 132 145 side effects  
+T11 ADR 145 150 side effects  
+T12 Drug 197 204 lipitor  
+T13 ADR 132 145 side effects  
+T14 Drug 129 133 drug

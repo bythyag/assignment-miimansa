@@ -1,0 +1,8 @@
+BIO Sequence:
+Swelling B-Symptom | & O | weight B-Symptom | increase I-Symptom | . O | No O | relief O | in O | pain B-Symptom | . O | My O | doctor O | advise O | that O | I O | stop O | using O | . O  
+
+Structured Output:
+T1 Symptom 0 7 Swelling
+T2 Symptom 8 13 weight
+T3 Symptom 14 22 increase
+T4 Symptom 28 32 pain

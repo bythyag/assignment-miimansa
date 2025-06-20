@@ -1,0 +1,5 @@
+T1 Symptom 0 8 Leg pains
+T2 Symptom 10 14 loss
+T3 Symptom 15 21 memory
+T4 ADR 23 27 E.D.
+T5 Symptom 32 40 sleep loss

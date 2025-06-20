@@ -1,0 +1,18 @@
+T1 Symptom 0 7 Shoulder
+T2 Symptom 8 13 knee
+T3 Symptom 15 20 elbow
+T4 Symptom 22 31 joint pain
+T5 Symptom 33 43 Memory fog
+T6 Symptom 45 52 Anxiety
+T7 Symptom 54 63 Low Libido
+T8 Drug 65 78 Atorvastatin generic
+T9 ADR 80 89 brain fog
+T10 ADR 94 103 ice pack
+T11 Drug 148 154 alleve
+T12 ADR 158 169 inflamation
+T13 Symptom 171 178 pain
+T14 Symptom 256 263 shoulder
+T15 Symptom 291 296 shoulder
+T16 Drug 353 357 drug
+T17 Drug 369 373 med
+T18 Disease 393 403 cholesterol

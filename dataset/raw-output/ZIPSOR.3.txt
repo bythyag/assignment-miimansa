@@ -1,0 +1,7 @@
+BIO Sequence:
+stiff B-Symptom | neck I-Symptom | , O | tightness B-Symptom | in O | shoulders I-Symptom | , O | muscle B-Symptom | pain I-Symptom | . O | not O | recommended O | . O 
+
+Structured Output:
+T1 Symptom 0 10 stiff neck
+T2 Symptom 12 24 tightness in shoulders
+T3 Symptom 26 36 muscle pain

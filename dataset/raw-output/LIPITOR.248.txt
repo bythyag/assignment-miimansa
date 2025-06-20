@@ -1,0 +1,11 @@
+BIO Sequence:
+muscle B-Symptom | aches I-Symptom | and O | weakness B-Symptom | , O | nearly O | bed O | ridden O | over O | it O | and O | soon O | after O | they O | took O | me O | off O | I O | had O | a O | high B-Symptom | sugar I-Symptom | attack I-Symptom | and O | have O | been O | on O | insalin B-Drug | ever O | since O | . O
+
+Structured Output:
+T1 Symptom 0 6 muscle
+T2 Symptom 7 12 aches
+T3 Symptom 13 20 weakness
+T4 Symptom 36 41 high
+T5 Symptom 42 47 sugar
+T6 Symptom 48 54 attack
+T7 Drug 59 66 insalin

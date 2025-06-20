@@ -1,0 +1,3 @@
+T1 Symptom 10 18 concerns
+T2 Disease 53 61 long term
+T3 Symptom 64 72 cautions

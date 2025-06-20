@@ -1,0 +1,4 @@
+T1 Disease 12 20 cataract
+T2 Symptom 28 33 muscle ache
+T3 Drug 37 41 drug
+T4 Disease 47 56 cholestrol

@@ -1,0 +1,6 @@
+T1 Symptom 0 12 muscle pain
+T2 Symptom 14 22 insomnia
+T3 Symptom 25 59 muscles on the sides of my back were constantly painful
+T4 Drug 73 80 ambien
+T5 Drug 85 93 melatonin
+T6 Symptom 99 107 symptoms

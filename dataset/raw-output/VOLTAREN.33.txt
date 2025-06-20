@@ -1,0 +1,10 @@
+BIO Sequence:
+I O | have O | vaginal B-Symptom | bleeding I-Symptom | and O | cramping B-Symptom | . O | it's O | taken O | me O | almost O | a O | week O | to O | realize O | this O | bleeding B-ADR | is O | due O | to O | the O | medication B-Drug | . O | The O | bleeding O | started O | almost O | immediately O | after O | taking O | the O | first O | dose O | . O | I O | initially O | thought O | I O | was O | having O | my O | period I-Symptom | ( O | even O | though O | it O | was O | not O | time O | ) O | . O | If O | anyone O | can O | give O | me O | info O | regarding O | how O | long O | this O | bleeding O | and O | cramping I-Symptom | lasts O | , O | I O | would O | appreciate O | it O | . O 
+
+Structured Output:
+T1 Symptom 10 19 vaginal bleeding
+T2 Symptom 21 29 cramping
+T3 ADR 76 83 bleeding
+T4 Drug 96 105 medication
+T5 Symptom 132 137 period
+T6 Symptom 168 176 cramping

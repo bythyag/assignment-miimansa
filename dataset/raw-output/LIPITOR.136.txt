@@ -1,0 +1,14 @@
+BIO Sequence:
+Severe B-Symptom | lethargy I-Symptom | , O | general B-Symptom | body I-Symptom | pain I-Symptom | , O | severe B-Symptom | pain I-Symptom | of O | the O | hip B-Disease | joint I-Disease | , O | limping B-Symptom | now O | . O | Should O | be O | discount O | inked O | from O | the O | market O | , O | causing O | more O | evil O | than O | good O | . O 
+
+Structured Output:
+T1 Symptom 0 6 Severe
+T2 Symptom 8 15 lethargy
+T3 Symptom 17 22 general
+T4 Symptom 23 27 body
+T5 Symptom 28 32 pain
+T6 Symptom 34 39 severe
+T7 Symptom 41 45 pain
+T8 Disease 47 50 hip
+T9 Disease 51 55 joint
+T10 Symptom 57 64 limping

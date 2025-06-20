@@ -1,0 +1,23 @@
+BIO Sequence:
+Persistent O | triedness B-Symptom | , O | loss B-Symptom | of O | concentration B-Symptom | , O | uncharacteristical B-Symptom | moodiness B-Symptom | , O | short B-Symptom | term I-Symptom | memory I-Symptom | loss I-Symptom | , O | light B-Symptom | headedness B-Symptom | ( O | in O | a O | daze O | type O | of O | thing O ) | unwarranted B-Symptom | depression B-Symptom | and O | the O | occasional B-Symptom | thoughts B-Symptom | of O | suicide B-Symptom | , O | tightness B-Symptom | and O | annoying B-Symptom | stimuly B-Symptom | type O | of O | feeling O | in O | the O | neck B-Symptom | near O | the O | base O | of O | the O | skull B-Symptom | , O | husky B-Symptom | vocal B-Symptom | chords I-Symptom | . O | I O | am O | so O | glad O | to O | have O | come O | across O | this O | Web O | page O | . O | Thank O | you O | !!! O | I O | was O | reading O | pretty O | much O | all O | of O | the O | ones O | listed O | and O | the O | patterns O | are O | obvious O | to O | my O | problems O | mainly O | being O | the O | persisten B-Symptom | feeling I-Symptom | of O | tiredness B-Symptom | when O | I O | know O | I O | shouldn't O | be O | tired B-Symptom | . O | The O | light B-Symptom | headedness I-Symptom | and O | often O | foggy B-Symptom | vision B-Symptom | , O | short B-Symptom | term I-Symptom | memory I-Symptom | loss I-Symptom | and O | the O | annoying O | thing O | of O | not O | being O | able O | to O | concentrate B-Symptom | very O | well O | . O | Basicaly O | , O | feeling O | way O | out O | of O | myself O | . O | Many O | are O | sharing O | the O | same O | effects O | and O | I O | know O | now O | that O | I O | am O | not O | imagening O | them O | . O | I O | have O | been O | on O | Lipitor B-Drug | 40 B-Drug | mg B-Drug | . O | for O | some O | years O | now O | . O | It O | did O | help O | my O | reduction O | of O | highg B-Disease | cholesterol I-Disease | . O | It O | was O | also O | a O | gradual O | onset O | of O | all O | the O | above O | mentioned O | ; O | This O | is O | . O
+
+Structured Output:
+T1 Symptom 12 20 triedness
+T2 Symptom 22 32 loss of concentration
+T3 Symptom 34 55 uncharacteristical moodiness
+T4 Symptom 57 78 short term memory loss
+T5 Symptom 80 95 light headedness
+T6 Symptom 106 122 unwarranted depression
+T7 Symptom 126 144 thoughts of suicide
+T8 Symptom 146 153 tightness
+T9 Symptom 158 174 annoying stimuly type of feeling in the neck near the base of the skull
+T10 Symptom 176 198 husky vocal chords
+T11 Symptom 232 250 persistent feeling of tiredness
+T12 Symptom 265 278 light headedness
+T13 Symptom 283 295 foggy vision
+T14 Symptom 297 314 short term memory loss
+T15 Symptom 327 340 concentrate
+T16 Drug 360 366 Lipitor
+T17 Drug 368 370 40
+T18 Drug 372 374 mg
+T19 Disease 393 411 highg cholesterol

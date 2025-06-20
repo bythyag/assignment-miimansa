@@ -1,0 +1,17 @@
+BIO Sequence:
+pain B-Symptom | in O | my O | legs B-Symptom | , O | loss B-Symptom | of O | sense B-Symptom | of O | smell B-Symptom | , O | increase B-Symptom | appetite I-Symptom | , O | headaches B-Symptom | , O | extreme O | fatigued B-Symptom | , O | tingling B-Symptom | in O | my O | arms B-Symptom | and O | legs I-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 4 pain
+T2 Symptom 8 12 legs
+T3 Symptom 14 18 loss
+T4 Symptom 21 25 sense
+T5 Symptom 28 33 smell
+T6 Symptom 36 43 increase
+T7 Symptom 44 52 appetite
+T8 Symptom 54 62 headaches
+T9 Symptom 64 71 extreme
+T10 Symptom 73 80 fatigued
+T11 Symptom 82 90 tingling
+T12 Symptom 93 95 arms
+T13 Symptom 99 103 legs

@@ -1,0 +1,1 @@
+muscle B-Symptom | pain I-Symptom | in O | thighs B-Symptom | and O | legs B-Symptom | . O | Off O | for O | 6 B-Disease | weeks I-Disease | with O | no O | improvement O | . O | I'm O | afraid O | it O | may O | be O | permanent O | . O | CPK B-Test | test I-Test | slightly O | elevated O | . O

@@ -1,0 +1,13 @@
+T1 Symptom 0 4 Arm
+T2 Symptom 5 12 stiffness
+T3 Symptom 15 23 Dizziness
+T4 Drug 64 71 Lipitor
+T5 Drug 83 86 10
+T6 Disease 104 113 Cholesterol
+T7 Symptom 125 134 neurological problems
+T8 Symptom 165 171 Major stiffness
+T9 Symptom 187 192 right shoulder
+T10 Symptom 200 204 right arm
+T11 Symptom 210 214 left arm
+T12 Drug 223 230 Lipitor
+T13 Symptom 234 242 arm symptoms

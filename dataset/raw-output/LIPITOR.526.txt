@@ -1,0 +1,12 @@
+BIO Sequence:
+10 O | MG O | a O | day O | of O | lipitor B-Drug | and O | 6 O | months O | later O | I O | have O | extreme O | leg B-Symptom | pain I-Symptom | in O | the O | calves B-Symptom | after O | just O | walking O | a O | few O | blocks O | , O | in O | a O | brain B-ADR | fog I-ADR | with O | memory B-Symptom | loss I-Symptom | , O | Vision B-Symptom | is O | giving O | me O | problems O | and O | feel O | like O | shit O | all O | the O | time O | . O | This O | drug O | should O | have O | a O | pre-qualifier O | before O | prescribed O | or O | better O | yet O | . O | take O | all O | the O | statin B-Drug | drugs I-Drug | off O | the O | market O | . O | This O | drug O | is O | dangerous O | . O | I O | 'm O | almost O | inspired O | to O | start O | my O | own O | web O | site O | to O | warn O | people O | of O | the O | risk O | in O | taking O | any O | statin B-Drug | drug I-Drug | for O | a O | quick O | fix O | . O
+
+Structured Output:
+T1 Drug 22 29 lipitor
+T2 Symptom 75 80 leg pain
+T3 Symptom 86 91 calves
+T4 ADR 103 111 brain fog
+T5 Symptom 116 121 memory loss
+T6 Symptom 127 132 Vision
+T7 Drug 171 177 statin drugs
+T8 Drug 183 188 statin drug

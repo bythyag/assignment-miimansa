@@ -1,0 +1,7 @@
+T1 Symptom 1 15 Severe headaches
+T2 Symptom 17 34 Memory loss
+T3 Symptom 39 63 extreme tiredness
+T4 Drug 67 73 40mg
+T5 Drug 85 90 20
+T6 Drug 96 104 medication
+T7 Drug 138 144 dosage

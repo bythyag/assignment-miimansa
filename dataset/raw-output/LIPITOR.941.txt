@@ -1,0 +1,17 @@
+BIO Sequence:
+Deep B-Symptom | depression I-Symptom | , O | insomnia B-Symptom | , O | joint B-Symptom | stiffness I-Symptom | in O | hands B-Symptom | and O | feet B-Symptom | , O | inability B-Symptom | to O | think B-Symptom | clearly I-Symptom | to O | the O | point O | I O | thought O | I O | would O | have O | to O | quit O | my O | job O | . O | This O | drug B-Drug | dramatically O | lowered O | my O | cholesterol B-Disease | but O | ruined O | my O | quality O | of O | life O | . O | After O | repeated O | visits O | to O | my O | doctor O | complaining O | of O | these O | debilitating B-Symptom | symptoms I-Symptom | he O | finally O | made O | the O | connection O | and O | took O | me O | off O | . O | Within O | 3 O | days O | , O | I O | started O | to O | feel O | like O | myself O | again O | . O | Cholesterol B-Disease | plays O | an O | important O | role O | in O | brain B-Disease | and O | nerve B-Disease | function O | and O | is O | essential O | to O | our O | good O | overall O | health B-Disease | . O | Do O | your O | research O | . O | Stripping O | your O | body O | of O | it O | can O | be O | devastating O | . O | I O | would O | much O | rather O | take O | my O | chances O | with O | a O | slightly O | elevated O | level O | than O | go O | through O | that O | again O | . O | Horrible O | . O | Pfizer B-Drug | should O | be O | ashamed O | of O | themselves O | for O | not O | clearly O | stating O | the O | possibility O | of O | these O | side B-ADR | effects I-ADR | . O
+
+Structured Output:
+T1 Symptom 0 6 Deep depression
+T2 Symptom 8 16 insomnia
+T3 Symptom 18 33 joint stiffness in hands and feet
+T4 Symptom 35 47 inability to think clearly
+T5 Drug 190 194 drug
+T6 Disease 204 213 cholesterol
+T7 Symptom 233 253 debilitating symptoms
+T8 Disease 289 299 Cholesterol
+T9 Disease 305 310 brain
+T10 Disease 316 321 nerve
+T11 Disease 326 332 health
+T12 Drug 394 400 Pfizer
+T13 ADR 446 458 side effects

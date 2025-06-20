@@ -1,0 +1,11 @@
+T1 Symptom 0 5 Aches
+T2 Symptom 10 14 pain
+T3 Symptom 21 25 head
+T4 Symptom 29 32 toe
+T5 Symptom 40 46 grouchy
+T6 Disease 49 59 road racing
+T7 Symptom 70 75 pains
+T8 Drug 83 87 drug
+T9 Drug 113 117 drug
+T10 Drug 136 142 statin
+T11 Drug 148 153 drugs

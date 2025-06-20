@@ -1,0 +1,57 @@
+T1 Symptom 0 3 Leg
+T2 Symptom 4 7 arm
+T3 Symptom 8 16 shoulder
+T4 Symptom 21 25 foot
+T5 Symptom 26 30 pain
+T6 Symptom 32 39 Neuropathy
+T7 Symptom 41 45 feet
+T8 Symptom 47 62 Constant pain
+T9 Symptom 64 68 Loss
+T10 Symptom 69 74 of
+T11 Symptom 75 80 energy
+T12 Symptom 84 93 Difficulty thinking
+T13 Symptom 95 101 and speaking
+T14 Symptom 103 106 in
+T15 Symptom 108 111 a
+T16 Symptom 112 115 glib
+T17 Symptom 117 123 fashion
+T18 Symptom 126 144 Disturbed sleep patterns
+T19 Symptom 146 153 Difficulty urinating
+T20 Symptom 154 169 Increase in blood pressure
+T21 Symptom 171 177 from
+T22 Symptom 179 183 below
+T23 Symptom 185 190 normal
+T24 Symptom 192 200 to
+T25 Symptom 202 215 slightly above normal
+T26 Symptom 216 220 lack
+T27 Symptom 221 223 of
+T28 Symptom 224 230 sexual desire
+T29 Symptom 232 236 Less muscle mass
+T30 Symptom 241 258 although I force myself to work out at least
+T31 Symptom 266 270 four
+T32 Symptom 272 276 times per week
+T33 Symptom 278 282 usually
+T34 Symptom 283 288 five
+T35 Symptom 290 297 Decreased energy
+T36 Symptom 299 317 constant lethargy
+T37 Drug 319 329 lipitor
+T38 ADR 345 359 debilitating side effects
+T39 ADR 397 400 side
+T40 ADR 402 409 effects
+T41 Symptom 426 430 fear stopping
+T42 Drug 433 440 lipitor
+T43 Disease 444 454 heart attack
+T44 ADR 478 481 hate
+T45 ADR 482 486 side
+T46 ADR 488 495 effects
+T47 Drug 497 499 CO Q 10
+T48 Drug 501 505 vitamin
+T49 Drug 512 518 astaxanthan
+T50 Drug 520 523 MSM
+T51 Drug 525 535 alpha lipoid acid
+T52 Drug 537 539 vit B complex
+T53 Drug 542 553 500mg of time release Niacin
+T54 Disease 568 573 grave
+T55 Symptom 582 586 horrible pain
+T56 Symptom 588 592 feet
+T57 Drug 604 613 orthotics

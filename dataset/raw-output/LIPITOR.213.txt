@@ -1,0 +1,12 @@
+BIO Sequence:
+My O | hair B-Symptom | is O | getting O | very O | thin B-Symptom | , O | after O | being O | on O | cholesterol B-Disease | lowering I-Disease | drugs O | for O | 20 O | yrs O | . O | Lipitor B-Drug | , O | for O | the O | last O | 8 O | yrs O | . O | Didn’t O | know O | this O | was O | a O | side B-ADR | effect I-ADR | . O | Do O | all O | cholesterol B-Disease | lowering I-Disease | drugs O | cause O | hair B-Symptom | loss I-Symptom | ? O
+
+Structured Output:
+T1 Symptom 10 14 hair
+T2 Symptom 23 27 thin
+T3 Disease 32 41 cholesterol lowering
+T4 Drug 43 50 Lipitor
+T5 ADR 76 85 side effect
+T6 Disease 97 106 cholesterol lowering
+T7 Symptom 112 116 hair
+T8 Symptom 117 121 loss

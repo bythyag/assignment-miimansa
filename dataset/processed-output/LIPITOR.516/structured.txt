@@ -1,0 +1,4 @@
+T1 Drug 0 7 10 mg
+T2 Disease 27 37 cholesterol
+T3 Symptom 74 81 blood test
+T4 Symptom 95 100 Risk factor

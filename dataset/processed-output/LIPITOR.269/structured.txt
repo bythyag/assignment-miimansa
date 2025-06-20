@@ -1,0 +1,63 @@
+T1 Symptom 0 11 deppression
+T2 Symptom 12 20 weakness
+T3 Symptom 21 28 fatigue
+T4 Symptom 29 40 muscle pain
+T5 Symptom 41 43 stiffness
+T6 Symptom 45 49 neck
+T7 Symptom 51 57 numbness
+T8 Symptom 59 66 tingling
+T9 Symptom 68 88 extremeties
+T10 Symptom 90 93 gas
+T11 Symptom 94 102 bloating
+T12 Symptom 103 112 indegestion
+T13 Symptom 114 120 stuffy nose
+T14 Symptom 122 126 plugged ears
+T15 Symptom 128 135 lack
+T16 Symptom 137 143 balance
+T17 Symptom 145 158 cooridination
+T18 Disease 160 171 kidney stone
+T19 Disease 173 182 bronchitis
+T20 Symptom 183 189 increased cough
+T21 Symptom 191 204 abdominal hematoma
+T22 Symptom 206 213 bleeding
+T23 Symptom 215 220 abdomen
+T24 Symptom 221 227 coughing
+T25 Symptom 229 239 rupturing
+T26 Symptom 241 255 blood vessel
+T27 Symptom 257 274 decreased immune system
+T28 Symptom 276 290 elevated wbc
+T29 Symptom 292 295 s
+T30 Symptom 297 315 trouble swallowing
+T31 Symptom 317 328 hoarse voice
+T32 Symptom 330 339 chest pain
+T33 Symptom 341 358 shortness of breath
+T34 Symptom 360 378 decreased sense of smell and taste
+T35 Symptom 380 398 irregular periods
+T36 Symptom 400 423 abnormal uterine bleeding
+T37 Symptom 425 460 decreased progesterone production
+T38 Symptom 462 473 dark urine
+T39 Symptom 475 486 tooth decay
+T40 Symptom 488 494 anxiety
+T41 Disease 496 501 anemia
+T42 Symptom 503 511 back pain
+T43 ADR 513 521 poisoned
+T44 ADR 523 530 poisoned
+T45 Drug 569 576 lipitor
+T46 ADR 585 594 residual side effects
+T47 ADR 596 610 constant vibrating
+T48 Symptom 612 619 left leg
+T49 Symptom 622 636 muscle and joint pain
+T50 ADR 639 646 devistation
+T51 ADR 649 661 dangerous over perscribed drugs
+T52 Symptom 663 668 increase
+T53 Disease 669 683 kidney failure
+T54 Symptom 685 695 increase
+T55 Symptom 697 707 infections
+T56 Disease 710 724 auto immune diseases
+T57 Symptom 727 731 ill
+T58 Symptom 733 739 increased confusion
+T59 Symptom 741 748 muscle pain
+T60 Symptom 750 757 weakness
+T61 Symptom 759 765 trouble walking
+T62 Symptom 767 775 increased bleeding
+T63 Drug 785 791 statin drugs

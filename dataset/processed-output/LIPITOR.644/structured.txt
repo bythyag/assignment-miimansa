@@ -1,0 +1,5 @@
+T1 Disease 36 43 Total Chol
+T2 Disease 54 66 Triglycerides
+T3 Drug 71 78 Lipitor
+T4 Drug 90 96 Tricor
+T5 Drug 100 107 Lipitor

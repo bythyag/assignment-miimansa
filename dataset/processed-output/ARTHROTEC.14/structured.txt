@@ -1,0 +1,3 @@
+T1 Symptom 45 49 pain
+T2 Symptom 90 97 acid reflux
+T3 Symptom 186 191 acidic bile

@@ -1,0 +1,4 @@
+T1 Symptom 0 7 Constant
+T2 Symptom 8 11 gas
+T3 Symptom 16 26 constipation
+T4 Disease 37 46 cholesterol level

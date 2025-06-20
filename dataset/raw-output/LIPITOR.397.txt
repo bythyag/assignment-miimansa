@@ -1,0 +1,6 @@
+BIO Sequence:
+pain B-Symptom | in O | my O | arms B-Symptom | .
+
+Structured Output:
+T1 Symptom 0 4 pain  
+T2 Symptom 8 12 arms

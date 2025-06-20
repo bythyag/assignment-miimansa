@@ -1,0 +1,19 @@
+T1 Symptom 12 29 shoulder pain
+T2 Symptom 38 54 general weakness
+T3 Symptom 56 62 malaise
+T4 Symptom 64 79 slight memory loss
+T5 Drug 85 88 10 mg
+T6 Drug 99 102 20 mg
+T7 Drug 107 110 40
+T8 Drug 115 118 80
+T9 Symptom 134 151 shoulder pain
+T10 Drug 166 169 Lipitor
+T11 Drug 189 194 Ortho
+T12 Drug 204 211 Steroid
+T13 Drug 276 281 Sinivastatin
+T14 Drug 287 290 40 mg
+T15 Symptom 429 447 shoulder pain
+T16 Symptom 454 469 left side
+T17 Drug 468 475 Cardiologist
+T18 Drug 482 488 Statin
+T19 Drug 499 504 Statin

@@ -1,0 +1,9 @@
+BIO Sequence:
+Taking O | 40mg B-Drug | daily O | for O | several O | years O | . O | Cholesterol B-Symptom | much O | lower O | , O | HDL B-Symptom | higher O | , O | LDL B-Symptom | below O | 100 O | and O | lower O | triglycerides B-Symptom | . O 
+
+Structured Output:
+T1 Drug 8 13 40mg
+T2 Symptom 39 50 Cholesterol
+T3 Symptom 56 60 HDL
+T4 Symptom 66 70 LDL
+T5 Symptom 82 94 triglycerides

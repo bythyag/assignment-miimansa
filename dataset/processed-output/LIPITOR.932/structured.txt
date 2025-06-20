@@ -1,0 +1,14 @@
+T1 Symptom 0 7 Stabbing
+T2 Symptom 8 12 pain
+T3 Symptom 39 46 muscle tone depletion
+T4 Symptom 51 60 strength depletion
+T5 Symptom 62 69 numbness
+T6 Symptom 80 84 pain
+T7 Symptom 100 106 numbness
+T8 Symptom 113 117 left foot
+T9 Symptom 118 127 left foot larger than right now
+T10 Symptom 129 133 pain
+T11 Symptom 137 142 feet
+T12 Symptom 181 184 I feel like I will not be alive
+T13 Drug 204 208 this drug
+T14 Drug 257 264 Crestor

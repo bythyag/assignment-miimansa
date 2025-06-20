@@ -1,0 +1,6 @@
+BIO Sequence:
+gas B-Symptom | , O | constipation B-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 3 gas
+T2 Symptom 5 15 constipation

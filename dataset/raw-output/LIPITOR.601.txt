@@ -1,0 +1,12 @@
+BIO Sequence:
+I've O | really O | had O | no O | side B-ADR | affects I-ADR | what O | so O | ever O | . O | I O | have O | blood O | work O | done O | regualarly O | to O | check O | my O | cholesterol B-Disease | levels I-Disease | . O | I've O | had O | high B-Disease | cholesterol I-Disease | since O | I O | was O | 19 O | , O | now O | I'm O | 38 O | and O | have O | been O | on O | this O | medication B-Drug | since O | 1997 O | . O | My O | cholesterol O | is O | still O | high O | but O | not O | as O | high O | . O | In O | Canada O | the O | rating O | should O | be O | below O | 5.20 O | , O | with O | being O | on O | this O | medication B-Drug | its O | still O | about O | 6.24 O | were O | in O | 1997 O | my O | level O | was O | 8.45 O | . O | Its O | come O | down O | quite O | a O | bit O | , O | but O | I O | do O | exercise O | and O | watch O | what O | I O | eat O | as O | well O | . O 
+
+Structured Output:
+T1 ADR 29 39 side affects
+T2 Disease 95 104 cholesterol levels
+T3 Disease 111 116 high cholesterol
+T4 Drug 140 150 medication
+T5 Drug 182 192 medication
+T6 Disease 198 206 cholesterol
+T7 Disease 219 224 high
+T8 Disease 254 263 cholesterol

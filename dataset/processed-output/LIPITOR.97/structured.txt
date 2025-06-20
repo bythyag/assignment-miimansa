@@ -1,0 +1,22 @@
+T1 Symptom 34 47 forgetfulness
+T2 ADR 64 76 muscle pain
+T3 Symptom 78 85 insomnia
+T4 Symptom 87 94 tremors
+T5 Symptom 96 112 cluster headaches
+T6 Symptom 114 128 kidney pain
+T7 Symptom 130 149 urinary problems
+T8 Symptom 163 171 cane
+T9 Symptom 179 184 sleep
+T10 Disease 186 205 kidney problems
+T11 Symptom 206 223 root beer
+T12 Disease 238 253 stress
+T13 Disease 267 279 SMEE
+T14 Disease 282 301 subject matter expert
+T15 Symptom 347 353 couldn't
+T16 Drug 421 423 Dr
+T17 Drug 442 446 meds
+T18 Drug 454 462 Spacedoc
+T19 ADR 503 511 muscle pain
+T20 Symptom 514 521 fatigue
+T21 Disease 582 588 poison
+T22 Drug 614 620 statans

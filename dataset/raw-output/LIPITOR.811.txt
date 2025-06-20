@@ -1,0 +1,15 @@
+BIO Sequence:
+My O | husband O | was O | on O | 10 B-Drug | mg I-Drug | for O | several O | years O | . O | increasing O | muscle B-Symptom | pain I-Symptom | in O | legs B-Symptom | , O | right O | hip B-Symptom | , O | depression B-Symptom | . O | Went O | to O | 20 B-Drug | mgs I-Drug | and O | had O | heart B-Symptom | palpitations I-Symptom | and O | more O | severe O | pain B-ADR | . O | Thank O | , O | God O | , O | we O | went O | on O | a O | 10 B-Drug | -day O | vacation O | . O | He O | forgot O | his O | Lipitor B-Drug | and O | pain O | decreased O | dramatically O | . O | We O | were O | able O | to O | make O | the O | connection O | . O | I O | want O | to O | shoot O | his O | doctor O | . O | When O | we O | returned O | from O | vaction O | he O | tried O | to O | start O | his O | dose O | and O | experienced O | flu-like B-Symptom | symptoms I-Symptom | and O | all-over O | muscle B-Symptom | pain I-Symptom | . O | Get O | off O | of O | it O | if O | you O | can O | . O |
+
+Structured Output:
+T1 Drug 24 30 10 mg
+T2 Symptom 41 55 increasing muscle pain
+T3 Symptom 56 60 legs
+T4 Symptom 62 65 right hip
+T5 Symptom 67 76 depression
+T6 Drug 91 96 20 mgs
+T7 Symptom 98 103 heart palpitations
+T8 ADR 113 117 pain
+T9 Drug 139 145 Lipitor
+T10 Symptom 176 186 flu-like symptoms
+T11 Symptom 196 207 all-over muscle pain

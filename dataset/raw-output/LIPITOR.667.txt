@@ -1,0 +1,10 @@
+BIO Sequence:
+Muscle B-Symptom | pain I-Symptom | in O | left O | elbow I-Symptom | , O | pain B-Symptom | in O | feet I-Symptom | . O | After O | reading O | all O | these O | comments O | I've O | come O | to O | the O | conclusion O | that O | I O | too O | have O | suffered O | the O | effects O | of O | this O | drug B-Drug | and O | will O | not O | take O | again O | . O | I'm O | very O | curious O | if O | these O | affects O | can O | be O | reversed O | . O | So O | glad O | I O | happened O | upon O | this O | website O | . O
+
+Structured Output:
+T1 Symptom 0 12 Muscle pain  
+T2 Symptom 16 32 pain in elbow  
+T3 Symptom 34 38 left  
+T4 Symptom 39 44 elbow  
+T5 Symptom 46 50 pain in feet  
+T6 Drug 112 116 drug  

@@ -1,0 +1,10 @@
+BIO Sequence:
+Severe B-Symptom | lower O | back O | pain B-Symptom | and O | an O | aching B-Symptom | pain O | across O | my O | shoulders O | . O | Generally O | I O | also O | felt O | weak B-Symptom | . O | The O | symptoms O | first O | started O | after O | about O | 4 O | months O | of O | taking O | this O | drug O | and O | tapered O | down O | for O | a O | couple O | of O | weeks O | after O | stopping O | . O | I O | tried O | 3 O | different O | statins B-Drug | , O | all O | with O | the O | same O | horrid O | side O | effects O | . O | I O | will O | NEVER O | take O | another O | statin I-Drug | drug O | . O 
+
+Structured Output:
+T1 Symptom 1 6 Severe
+T2 Symptom 20 34 back pain
+T3 Symptom 48 66 aching pain
+T4 Symptom 72 77 weak
+T5 Drug 149 156 statins
+T6 Drug 171 177 statin

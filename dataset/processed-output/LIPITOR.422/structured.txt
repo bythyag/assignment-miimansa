@@ -1,0 +1,21 @@
+T1 Drug 123 130 Lipitor
+T2 Disease 139 149 cholesterol
+T3 Symptom 201 206 tired
+T4 Symptom 308 313 tired
+T5 ADR 317 321 sore
+T6 ADR 322 327 weak
+T7 ADR 328 335 muscles
+T8 Symptom 351 363 short term memory loss
+T9 Symptom 366 375 less patience
+T10 Symptom 377 391 loose temper
+T11 Symptom 396 403 hair loss
+T12 Symptom 479 483 pain
+T13 Symptom 492 500 swollen
+T14 Symptom 535 539 sore
+T15 ADR 713 717 harm
+T16 Drug 776 782 lipitor
+T17 Person 800 805 Peter
+T18 Person 807 808 H.
+T19 Person 810 820 Langsjoen
+T20 Symptom 827 834 problems
+T21 Drug 837 843 Lipitor

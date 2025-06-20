@@ -1,0 +1,9 @@
+T1 ADR 12 19 diahrea
+T2 Symptom 56 61 ankle swelling
+T3 Symptom 68 73 tendon pain
+T4 Symptom 88 92 pain
+T5 Symptom 113 117 pain
+T6 Drug 177 182 75mg
+T7 Disease 205 213 condition
+T8 Disease 246 249 ill health
+T9 ADR 273 282 side effects

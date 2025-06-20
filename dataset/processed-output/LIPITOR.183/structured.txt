@@ -1,0 +1,13 @@
+T1 Disease 0 10 Heart attack
+T2 Drug 54 60 Lipitor
+T3 Drug 66 72 Zocor
+T4 Symptom 144 150 diarrhea
+T5 Symptom 182 187 brown water
+T6 Drug 272 278 Lipitor
+T7 Drug 292 298 Lipitor
+T8 Drug 307 313 Crestor
+T9 ADR 332 352 muscle ache/pain
+T10 Drug 358 364 ZOCOR
+T11 Drug 375 382 Lipitor
+T12 Drug 397 403 Lipitor
+T13 ADR 408 415 Diarrehea

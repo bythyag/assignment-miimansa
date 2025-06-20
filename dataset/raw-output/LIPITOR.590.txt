@@ -1,0 +1,21 @@
+BIO Sequence:
+I've O | been O | taking O | Lipitor B-Drug | for O | about O | a O | year O | with O | no O | major O | side O | effects O | , O | but O | recently O | I O | have O | been O | experiencing O | a O | sore B-Symptom | , O | tingly B-Symptom | tongue B-Symptom | ( O | Glossitis B-Disease | ) O | and O | have O | ruled O | out O | everything O | from O | toothpaste O | to O | spicy O | foods O | . O | I O | have O | also O | had O | dizzy B-Symptom | spells I-Symptom | , O | headaches B-Symptom | , O | and O | trouble O | sleeping B-Symptom | . O | Doctor O | told O | me O | to O | discontinue O | Lipitor B-Drug | which O | I O | just O | did O | a O | couple O | days O | ago O | and O | I O | should O | know O | in O | a O | month O | or O | so O | if O | this O | is O | the O | cause O | ( O | glossitis B-ADR | and O | other O | symptoms O | are O | listed O | as O | possible O | side O | effects O | , O | although O | in O | my O | case O | it's O | been O | a O | delayed O | reaction B-ADR | ) O | Lipitor B-Drug | did O | bring O | my O | cholesterol B-Disease | down O | from O | 268 O | to O | 153 O | but O | I O | want O | the O | glossitis B-ADR | , O | headaches B-ADR | and O | dizziness B-ADR | to O | go O | away O | . O | I O | hate O | feeling O | this O | way O | . O | I O | will O | find O | another O | way O | to O | control O | my O | cholesterol B-Disease | if O | Lipitor B-Drug | proves O | to O | be O | the O | culprit O | . O
+
+Structured Output:
+T1 Drug 23 29 Lipitor
+T2 Symptom 73 77 sore
+T3 Symptom 79 85 tingly
+T4 Symptom 86 91 tongue
+T5 Disease 93 101 Glossitis
+T6 Symptom 114 118 dizzy
+T7 Symptom 127 135 headaches
+T8 Symptom 138 155 trouble sleeping
+T9 Drug 185 191 Lipitor
+T10 ADR 213 221 glossitis
+T11 ADR 235 245 delayed reaction
+T12 Disease 249 257 cholesterol
+T13 ADR 278 286 glossitis
+T14 ADR 288 296 headaches
+T15 ADR 301 308 dizziness
+T16 Disease 337 345 cholesterol
+T17 Drug 352 358 Lipitor

@@ -1,0 +1,1 @@
+Extreme O | tummy B-Symptom | bloating I-Symptom | . O | Tight B-Symptom | chest I-Symptom | . O | Headache B-Symptom | . O | Mood B-Symptom | swings I-Symptom | . O | Awful O | gas B-ADR | tummy I-ADR | pains I-ADR | cold B-Symptom | shivers I-Symptom | . O

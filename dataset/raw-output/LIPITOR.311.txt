@@ -1,0 +1,9 @@
+BIO Sequence:
+Severe O | achilles B-Disease | tendonitis I-Disease | in O | both O | legs O | , O | heel B-Symptom | pain I-Symptom | , O | burning B-Symptom | sensations I-Symptom | in O | calves O | - O | maybe O | Lipitor B-Drug | is O | why O | ? O | I O | have O | spent O | almost O | a O | year O | with O | this O | problem O | and O | spent O | 4 O | months O | in O | physical B-Disease | therapy I-Disease | - O | I O | am O | calling O | my O | doctor O | and O | getting O | off O | this O | drug O | immediately O | !!!! O | Even O | if O | it O | is O | not O | the O | culprit O | , O | I O | can O | ' O | t O | take O | the O | chance O | . O |
+
+Structured Output:
+T1 Disease 9 25 achilles tendonitis
+T2 Symptom 28 36 heel pain
+T3 Symptom 38 58 burning sensations
+T4 Drug 70 76 Lipitor
+T5 Disease 103 119 physical therapy

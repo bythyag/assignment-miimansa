@@ -1,0 +1,10 @@
+BIO Sequence:
+Dry B-Symptom | mouth I-Symptom | . O | Go O | buy O | candy O | . O | It's O | cheaper O | and O | have O | the O | same O | effect O | on O | pain B-Symptom | . O | I O | take O | it O | with O | 2 O | propain B-Drug | ( O | 40 O | mg O | each O | ) O | at O | a O | time O | , O | or O | 2 O | mypaid B-Drug | forte I-Drug | ( O | Ibuprofen B-Drug | 400 I-Drug | mg O | Paracetamol B-Drug | 325 I-Drug | mg O | each O | ) O | ( O | Don't O | do O | this O | !!! O | ) O | and O | it O | don't O | work O | for O | more O | than O | an O | hour O | . O
+
+Structured Output:
+T1 Symptom 0 8 Dry mouth
+T2 Symptom 34 38 pain
+T3 Drug 42 49 propain
+T4 Drug 54 61 mypaid forte
+T5 Drug 63 71 Ibuprofen
+T6 Drug 73 83 Paracetamol

@@ -1,0 +1,16 @@
+BIO Sequence:
+The O | drug B-Drug | worked O | well O | to O | lower O | my O | cholestorol B-Disease | from O | 8.5 O | to O | < O | 3 O | . O | Of O | late O | I O | have O | ben O | getting O | pain B-Symptom | on O | the O | sole O | of O | my O | feet I-Symptom | and O | find O | it O | dificult O | to O | stand O | or O | walk O | for O | too O | long O | . O | Hands O | are O | also O | tender B-Symptom | and O | tingle B-Symptom | , O | Often O | forgetful B-Symptom | and O | tired B-Symptom | to O | point O | of O | lacking O | energy O | to O | exercise O | . O | Lack B-Symptom | libido O | . O | I O | also O | feel O | hot B-Symptom | and O | am O | more O | sensitive O | to O | sunlight B-Symptom | . O | After O | reading O | similar O | comments O | , O | I O | am O | off O | to O | see O | my O | doctor O | to O | change O | medication O | . O |
+
+Structured Output:
+T1 Drug 12 16 drug
+T2 Disease 37 48 cholestorol
+T3 Symptom 68 72 pain
+T4 Symptom 80 84 feet
+T5 Symptom 106 112 tender
+T6 Symptom 117 123 tingle
+T7 Symptom 134 142 forgetful
+T8 Symptom 147 152 tired
+T9 Symptom 171 175 Lack
+T10 Symptom 176 182 libido
+T11 Symptom 189 193 hot
+T12 Symptom 207 215 sunlight

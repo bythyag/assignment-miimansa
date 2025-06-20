@@ -1,0 +1,2 @@
+T1 Disease 42 55 Tryglycerides
+T2 Disease 67 78 cholestrol

@@ -1,0 +1,10 @@
+T1 Symptom 13 20 fatigued
+T2 Symptom 37 41 lazy
+T3 Symptom 50 60 unmotivated
+T4 Disease 73 76 May
+T5 Diet 84 94 low carb/paleo
+T6 Drug 100 107 TRIG/HDL
+T7 Drug 109 120 TRIGlyceride
+T8 Disease 137 140 LDL
+T9 Symptom 210 217 Fatigue
+T10 Symptom 225 232 laziness

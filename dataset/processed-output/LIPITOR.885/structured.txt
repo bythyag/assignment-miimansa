@@ -1,0 +1,8 @@
+T1 Symptom 26 30 pain
+T2 Symptom 56 69 fuzzy headed
+T3 Symptom 71 83 muscle loss
+T4 Symptom 86 92 damage
+T5 Disease 113 123 cholesterol
+T6 Disease 132 138 health
+T7 Drug 156 162 Lipitor
+T8 Disease 166 172 angina attacks

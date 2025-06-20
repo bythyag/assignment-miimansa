@@ -1,0 +1,6 @@
+T1 Symptom 29 32 leg
+T2 Symptom 34 39 ankle
+T3 Symptom 41 44 toe
+T4 Symptom 45 50 muscle pain
+T5 Drug 65 71 lipitor
+T6 Symptom 93 98 muscle pain

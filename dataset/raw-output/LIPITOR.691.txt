@@ -1,0 +1,15 @@
+BIO Sequence:
+extreme O | joint B-Symptom | pain I-Symptom | . O | First O | started O | as O | a O | stiff B-Symptom | neck I-Symptom | . O | That O | went O | away O | , O | then O | it O | was O | my O | knee B-Symptom | . O | The O | pain O | has O | since O | radiated O | to O | wrists B-Symptom | and O | hips B-Symptom | . O | I O | felt O | general B-Symptom | malaise I-Symptom | and O | depression B-Symptom | . O | When O | shopping O | , O | I O | needed O | a O | cart O | for O | support O | . O | This O | is O | very O | unlike O | me O | . O | I O | have O | been O | on O | this O | drug B-Drug | for O | almost O | 3 O | years O | . O | I O | have O | a O | very O | high O | tolerance O | to O | pain I-Symptom | , O | so O | I O | hesitated O | to O | call O | my O | doctor O | thinking O | the O | pain O | would O | go O | away O | . O | When O | I O | did O | call O | , O | his O | advice O | , O | get O | off O | the O | Lipitor B-Drug | ! O | I O | was O | glad O | to O | find O | this O | site O | to O | compare O | my O | side B-ADR | effects I-ADR | with O | others O | . O
+
+Structured Output:
+T1 Symptom 10 21 joint pain
+T2 Symptom 42 55 stiff neck
+T3 Symptom 66 70 knee
+T4 Symptom 87 93 wrists
+T5 Symptom 98 102 hips
+T6 Symptom 114 130 malaise
+T7 Symptom 132 141 depression
+T8 Symptom 199 203 pain
+T9 Drug 76 80 drug
+T10 Drug 131 138 Lipitor
+T11 ADR 128 138 side effects

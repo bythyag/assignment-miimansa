@@ -1,0 +1,10 @@
+T1 Symptom 0 14 Muscle tightness
+T2 Symptom 16 36 lower back weakness
+T3 Symptom 38 52 body stiffed
+T4 Disease 62 76 cholesterol level
+T5 ADR 84 88 mild
+T6 ADR 90 101 side effects
+T7 ADR 106 128 general body stiffness
+T8 ADR 130 142 muscle pain
+T9 Drug 152 159 medication
+T10 Drug 173 181 medicine

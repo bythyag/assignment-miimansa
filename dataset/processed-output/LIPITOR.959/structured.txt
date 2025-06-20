@@ -1,0 +1,16 @@
+T1 Symptom 0 9 neck pain
+T2 Symptom 10 18 back spasms
+T3 Symptom 19 33 foggy thinking
+T4 Symptom 34 42 insomnia
+T5 Drug 58 62 drug
+T6 ADR 80 95 side effects
+T7 Symptom 96 101 very negative
+T8 Symptom 104 108 diet
+T9 Symptom 114 123 excercise change
+T10 Symptom 130 135 blood check
+T11 Drug 153 161 options
+T12 Drug 163 171 red rice
+T13 Drug 173 177 omega 3
+T14 Drug 180 187 statins
+T15 Disease 197 203 plaque
+T16 Disease 214 219 plaque count

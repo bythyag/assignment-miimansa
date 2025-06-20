@@ -1,0 +1,15 @@
+T1 Symptom 0 4 Sore
+T2 Symptom 6 12 muscle
+T3 Symptom 21 25 lower
+T4 Symptom 27 31 back
+T5 Symptom 45 49 lower
+T6 Symptom 51 55 back
+T7 Symptom 56 60 pain
+T8 Drug 66 72 Lipitor
+T9 Symptom 76 80 lower
+T10 Symptom 82 86 back
+T11 Symptom 88 92 pain
+T12 Drug 109 115 Lipitor
+T13 Symptom 120 124 lower
+T14 Symptom 126 130 back
+T15 Symptom 132 136 pain

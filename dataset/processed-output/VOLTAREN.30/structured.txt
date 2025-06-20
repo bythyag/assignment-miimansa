@@ -1,0 +1,17 @@
+T1 Symptom 16 31 vaginal bleeding
+T2 Symptom 42 59 vaginal skin
+T3 Symptom 63 67 burns
+T4 Disease 90 98 menopausal
+T5 Symptom 100 110 breast pain
+T6 Symptom 116 123 erithema
+T7 Symptom 131 137 dry
+T8 Symptom 160 165 cuts
+T9 Symptom 174 180 sweating
+T10 Symptom 195 205 pruritus ani
+T11 ADR 198 206 diarrhea
+T12 Symptom 267 283 vaginal bleeding
+T13 Symptom 288 296 pruritus
+T14 Drug 302 311 diclofenac
+T15 Drug 344 349 topical cream
+T16 Symptom 334 347 vaginal test
+T17 ADR 38 56 side effects

@@ -1,0 +1,11 @@
+BIO Sequence:
+Update O | : O | I O | had O | posted O | all O | side B-ADR | effects I-ADR | had O | gone O | when O | I O | stopped O | taking O | lipitor B-Drug | , O | but O | not O | so O | . O | I O | have O | ongoing O | muscle B-Symptom | pain I-Symptom | in O | my O | biceps I-Symptom | , O | worse O | when O | I O | have O | to O | keep O | them O | flexed O | for O | a O | bit O | and O | then O | straighten O | the O | arm O | out O | . O | Oh O | , O | and O | vision B-Symptom | close O | up O | is O | still O | blurry B-Symptom | . O
+
+Structured Output:
+T1 ADR 27 41 side effects
+T2 Drug 70 76 lipitor
+T3 Symptom 91 96 muscle
+T4 Symptom 98 102 pain
+T5 Symptom 105 111 biceps
+T6 Symptom 136 142 vision
+T7 Symptom 145 149 blurry

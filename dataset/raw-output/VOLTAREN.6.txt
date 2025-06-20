@@ -1,0 +1,10 @@
+BIO Sequence:
+I O | had O | no O | side B-ADR | effects I-ADR | the O | first O | two O | days O | . O | The O | doctor O | prescribed O | for O | me O | to O | take O | 2 O | per O | day O | and O | I'm O | very O | glad O | I O | didn't O | . O | I O | took O | one O | per O | day O | and O | this O | is O | the O | third O | day O | . O | My O | face B-Symptom | has O | felt O | numb I-Symptom | most O | of O | the O | day O | and O | I O | feel O | light B-Symptom | headed I-Symptom | . O | I've O | had O | to O | get O | up O | and O | walk O | this O | feeling O | off O | , O | which O | has O | not O | been O | fun O | on O | the O | knee O | . O | I O | wouldn't O | suggest O | voltaren B-Drug | because O | it O | did O | nothing O | for O | the O | inflammation B-Disease | in O | the O | knee O | and O | has O | me O | in O | a O | panic B-ADR | until O | I O | can O | get O | this O | stuff O | out O | of O | my O | system O | . O 
+
+Structured Output:
+T1 ADR 28 37 side effects
+T2 Symptom 51 55 numb
+T3 Symptom 78 90 light headed
+T4 Drug 153 160 voltaren
+T5 Disease 178 192 inflammation
+T6 ADR 194 199 panic

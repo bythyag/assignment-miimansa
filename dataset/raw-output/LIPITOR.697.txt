@@ -1,0 +1,6 @@
+BIO Sequence:
+Constant B-Symptom | leg I-Symptom | pain I-Symptom | . O | Had O | no O | idea O | it O | could O | be O | caused O | by O | Lipitor B-Drug | until O | I O | found O | this O | website O | and O | others O | who O | have O | the O | exact O | same O | symptoms O | . O | Thank O | you O | for O | this O | website O | . O
+
+Structured Output:
+T1 Symptom 0 15 Constant leg pain
+T2 Drug 40 46 Lipitor

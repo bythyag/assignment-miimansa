@@ -1,0 +1,7 @@
+BIO Sequence:
+immediate O | and O | excellent O | reduction O | in O | LDLs B-Disease | . O | on O | 10 B-Drug | mg I-Drug | dropped O | from O | 363 O | to O | 263 O | . O | Increased O | to O | 20 B-Drug | mg I-Drug | and O | dropped O | from O | 263 O | to O | 197 O | in O | two O | months O | . O
+
+Structured Output:
+T1 Disease 31 36 LDLs
+T2 Drug 10 14 10 mg
+T3 Drug 51 55 20 mg

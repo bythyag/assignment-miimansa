@@ -1,0 +1,6 @@
+BIO Sequence:
+very O | bad O | pain B-Symptom | in O | my O | muscles B-Symptom | . O
+
+Structured Output:
+T1 Symptom 12 16 pain
+T2 Symptom 20 27 muscles

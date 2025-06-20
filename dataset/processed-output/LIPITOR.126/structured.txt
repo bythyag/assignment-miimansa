@@ -1,0 +1,7 @@
+T1 Drug 42 46 drug
+T2 Symptom 78 85 burning
+T3 Symptom 93 101 knotting
+T4 Symptom 111 116 hurt
+T5 Symptom 128 133 tight
+T6 Symptom 163 167 pain
+T7 Symptom 195 199 pain

@@ -1,0 +1,5 @@
+T1 Symptom 52 56 Toes
+T2 Symptom 85 89 leg neuropathy
+T3 Drug 101 107 Lipitor
+T4 ADR 165 172 side effects
+T5 Drug 193 199 Lipitor

@@ -1,0 +1,12 @@
+BIO Sequence:
+NONE O | I O | BELIEVE O | THIS O | DRUG B-Drug | IS O | AN O | EXCELLENT O | ONE O | . O | STARTED O | TAKING O | IT O | ABOUT O | SIX O | MONTHS O | AGO O | WHEN O | GIVEN O | TO O | ME O | BY O | MY O | CARDIOLOGIST B-Disease | . O | NO O | IMMEDIATE O | OR O | SIDE B-ADR | EFFECTS I-ADR | NOTED O | SINCE O | STARTING O | . O | HOWEVER O | , O | ON O | MY O | LIPID B-Disease | BLOOD O | TEST O | FOUR O | MONTHS O | LATER O | , O | WOW O | WHAT O | AN O | IMPROVEMENT O | . O | IT O | NOT ONLY O | MARKEDLY O | KNOCKED O | MY O | BAD B-Disease | CHOLESTEROL O | DOWN O | BUT O | I O | WOULD O | SAY O | IT O | WAS O | A O | MONUMENTAL O | ACHIEVEMENT O | . O | WHEREAS O | TOTAL B-Disease | CHOLESTEROL I-Disease | HAD O | BEEN O | OVER O | 200 O | PREVIOUSLY O | , O | NOW O | IT O | WAS O | ONLY O | 151 O | AND O | THE O | BAD O | PORTION O | . O | I O | THINK O | HDL O | . O | WAS O | JUST O | 54 O | . O | I O | AM O | WELL O | SATISFIED O | . O | I O | AM O | AWARE O | OF O | SOME O | COMPLAINTS O | AND O | SPECULATION O | BY O | OTHERS O | BUT O | I O | AM O | GOING O | TO O | KEEP O | TAKING O | IT O | . O 
+
+Structured Output:
+T1 Drug 33 37 Drug
+T2 Disease 73 85 Cardiologist
+T3 ADR 61 66 Side effects
+T4 Disease 109 114 Lipid
+T5 Disease 119 127 Bad cholesterol
+T6 Disease 143 156 Total cholesterol
+T7 Disease 165 180 Bad portion
+T8 Disease 182 185 HDL

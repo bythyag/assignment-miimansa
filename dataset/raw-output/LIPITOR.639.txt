@@ -1,0 +1,12 @@
+BIO Sequence:
+Rash B-Symptom | with O | blisters B-Symptom | , O | severe B-Symptom | muscle I-Symptom | aches I-Symptom | and O | joint B-Symptom | pain I-Symptom | , O | extremely O | tired B-Symptom | feeling O | , O | no O | energy B-Symptom | , O | after O | taking O | medicine B-Drug | for O | two O | weeks O | . O
+
+Structured Output:
+T1 Symptom 0 4 Rash
+T2 Symptom 11 19 blisters
+T3 Symptom 22 27 severe
+T4 Symptom 28 42 muscle aches
+T5 Symptom 44 53 joint pain
+T6 Symptom 55 60 tired
+T7 Symptom 68 73 energy
+T8 Drug 80 87 medicine

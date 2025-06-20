@@ -1,0 +1,4 @@
+T1 Symptom 24 30 cramps
+T2 Disease 34 39 thigh
+T3 ADR 60 64 side
+T4 ADR 65 72 effects

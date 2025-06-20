@@ -1,0 +1,9 @@
+BIO Sequence:
+Got O | shingles B-Disease | , O | and O | was O | told O | by O | a O | doctor O | the O | shingles I-Disease | resulted O | from O | the O | depletion O | of O | CoQ10 B-Symptom | caused O | by O | the O | Lipitor B-Drug | . O | A O | research O | article O | in O | JAMA B-Disease | , O | 2004 O | ; O | 291 O | : O | 2243-2252 O | concludes O | this O | : O | . O
+
+Structured Output:
+T1 Disease 4 11 shingles
+T2 Disease 36 43 shingles
+T3 Symptom 56 61 CoQ10
+T4 Drug 73 80 Lipitor
+T5 Disease 88 93 JAMA

@@ -1,0 +1,21 @@
+BIO Sequence:
+Weight B-Symptom | gain I-Symptom | , O | extreme B-Symptom | muscle I-Symptom | aches I-Symptom | and O | fatigue B-Symptom | , O | alternating B-Symptom | constipation I-Symptom | and O | diarrhea I-Symptom | , O | more O | frequent O | asthma B-Disease | flare-ups I-Disease | , O | insomnia B-Symptom | , O | weird B-ADR | dreams I-ADR | . O | I O | had O | to O | walk O | with O | a O | cane O | because O | I O | was O | so O | weak B-Symptom | and O | ached I-Symptom | all O | over O | , O | especially O | in O | legs B-Symptom | . O | My O | husband O | and O | I O | took O | ourselves O | off O | this O | medication O | 10 O | days O | ago O | . O | I O | can't O | tell O | you O | how O | much O | better O | we O | both O | feel O | off O | Lipitor B-Drug | . O | I O | sleep B-Symptom | better I-Symptom | , O | don't O | need O | to O | use O | my O | cane O | , O | and O | can O | bend O | and O | move O | better O | after O | just O | 10 O | days O | off O | the O | medicine O | . O | DON'T O | TAKE O | LIPITOR B-Drug | -- O | try O | garlique B-Drug | or O | a O | natural O | remedy O | . O | Lipitor B-Drug | hurts O | more O | than O | it O | helps O | . O
+
+Structured Output:
+T1 Symptom 0 9 Weight gain
+T2 Symptom 10 27 extreme muscle aches
+T3 Symptom 29 36 fatigue
+T4 Symptom 38 59 alternating constipation
+T5 Symptom 61 68 diarrhea
+T6 Disease 77 82 asthma
+T7 Symptom 84 92 flare-ups
+T8 Symptom 94 102 insomnia
+T9 ADR 104 114 weird dreams
+T10 Symptom 132 136 weak
+T11 Symptom 146 150 ached
+T12 Symptom 167 171 legs
+T13 Drug 182 188 Lipitor
+T14 Symptom 190 195 sleep
+T15 Drug 217 223 Lipitor
+T16 Drug 225 232 garlique
+T17 Drug 234 241 Lipitor

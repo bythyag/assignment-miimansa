@@ -1,0 +1,7 @@
+T1 Symptom 0 13 blurred vision
+T2 Symptom 15 29 muscle pain
+T3 Symptom 31 39 weakness
+T4 Symptom 41 48 fatigue
+T5 Symptom 50 62 loss of stamina
+T6 Drug 66 72 Lipitor
+T7 ADR 86 100 side effects

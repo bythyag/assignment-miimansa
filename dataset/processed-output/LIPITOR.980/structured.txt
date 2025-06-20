@@ -1,0 +1,13 @@
+T1 Symptom 0 4 pain
+T2 Symptom 8 12 legs
+T3 Symptom 14 18 loss
+T4 Symptom 21 25 sense
+T5 Symptom 28 33 smell
+T6 Symptom 36 43 increase
+T7 Symptom 44 52 appetite
+T8 Symptom 54 62 headaches
+T9 Symptom 64 71 extreme
+T10 Symptom 73 80 fatigued
+T11 Symptom 82 90 tingling
+T12 Symptom 93 95 arms
+T13 Symptom 99 103 legs

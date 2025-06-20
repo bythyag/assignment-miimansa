@@ -1,0 +1,9 @@
+T1 Drug 30 34 low dosage
+T2 Drug 36 42 10 mg
+T3 Symptom 65 73 extreme headaches
+T4 Symptom 93 97 temp changes
+T5 Symptom 116 120 high tems
+T6 Symptom 135 141 80 degrees
+T7 ADR 167 174 sweating
+T8 Disease 191 198 diabetes
+T9 Symptom 205 208 flu like symtoms

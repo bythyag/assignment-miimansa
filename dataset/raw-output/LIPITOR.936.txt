@@ -1,0 +1,20 @@
+BIO Sequence:
+Swollen O | , O | burning O | feet B-Symptom | and O | ankles B-Symptom | . O | The O | ball O | of O | the O | foot O | would O | feel O | as O | if O | it O | was O | inflamed B-Symptom | . O | Constant O | pins B-Symptom | and O | needles I-Symptom | in O | the O | ball O | of O | the O | foot O | and O | the O | toes B-Symptom | and O | occasionally O | would O | get O | very O | painful B-Symptom | pins I-Symptom | and O | needles I-Symptom | over O | entire O | foot O | . O | Had O | to O | remove O | socks O | and O | elevate O | legs O | to O | get O | relief O | from O | swelling B-Symptom | . O | Quit O | taking O | Lipitor B-Drug | and O | within O | three O | days O | swelling B-Symptom | stopped O | , O | foot O | and O | ankle O | skin O | flaked O | off O | like O | dermatitis B-ADR | and O | slowly O | over O | the O | next O | 4 O | weeks O | the O | symptoms B-Symptom | reduced O | except O | for O | an O | occasional O | flareup B-Symptom | . O | Still O | have O | minor O | problems O | after O | 4 O | weeks O | but O | it O | is O | 80% O | back O | to O | normal O | . O 
+
+Structured Output:
+T1 Symptom 9 13 feet
+T2 Symptom 18 24 ankles
+T3 Symptom 70 78 inflamed
+T4 Symptom 86 102 pins
+T5 Symptom 107 114 needles
+T6 Symptom 121 125 toes
+T7 Symptom 145 151 painful
+T8 Symptom 156 162 pins
+T9 Symptom 166 172 needles
+T10 Symptom 174 182 swelling
+T11 Drug 46 52 Lipitor
+T12 Symptom 57 64 swelling
+T13 ADR 83 92 dermatitis
+T14 Symptom 94 103 symptoms
+T15 Symptom 112 120 flareup
+T16 Symptom 140 145 problems

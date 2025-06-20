@@ -1,0 +1,12 @@
+BIO Sequence:
+Some O | stomach B-Symptom | irritation I-Symptom | , O | feels O | a O | bit O | like O | my O | pressure B-Symptom | is O | up O | ( O | in O | my O | head B-Symptom | mostly O | ). O | I O | pulled O | my O | lower B-Disease | back I-Disease | at O | the O | gym O | 2 O | times O | . O | last O | time O | was O | about O | 1 O | 1/2 O | years O | ago O | and O | it O | was O | pretty O | bad O | . O | Since O | then O | my O | back O | has O | really O | gotten O | worse O | . O | I O | still O | exercise O | everyday O | and O | stretch O | , O | but O | it O | really O | is O | not O | helping O | . O | I O | final O | went O | to O | the O | doctor O | and O | i O | am O | getting O | x-rays O | on O | my O | spine B-Disease | tomorrow O | . O | He O | gave O | me O | about O | 25 O | samples O | of O | Arthrotec B-Drug | 75 I-Drug | . O | 3 O | days O | later O | I O | cannot O | believe O | how O | good O | my O | back O | feels O | . O | It O | has O | to O | be O | this O | drug O | , O | because O | this O | is O | the O | first O | day O | i O | can O | comfortably O | bend O | down O | with O | no O | pain B-ADR | and O | even O | touch O | my O | toes O | without O | bending O | my O | knees O | . O | It O | seems O | that O | this O | drug O | , O | like O | many O | drugs O | , O | works O | for O | some O | and O | not O | for O | all O | . O | as O | for O | me O | seems O | to O | be O | really O | good O | . O |
+
+Structured Output:
+T1 Symptom 4 18 stomach irritation
+T2 Symptom 47 54 pressure
+T3 Symptom 67 71 head
+T4 Disease 91 95 lower back
+T5 Disease 139 144 spine
+T6 Drug 68 77 Arthrotec
+T7 Drug 78 80 75
+T8 ADR 233 237 pain

@@ -1,0 +1,34 @@
+BIO Sequence:
+9/20/05 O | I've O | been O | taking O | cholesterol B-Disease | lowering O | meds O | for O | at O | least O | 10 O | years O | including O | Mevacor B-Drug | , O | Zocor B-Drug | , O | Lipitor B-Drug | and O | Zetia B-Drug | . O | My O | cholesterol O | went O | from O | 398 O | to O | 260 O | on O | 40 O | Lipitor B-Drug | . O | This O | year O | I O | was O | given O | 80 O | mgs O | of O | Lipitor B-Drug | and O | Zetia B-Drug | was O | added O | as O | well O | . O | Along O | with O | the O | increased O | dosage O | , O | came O | crippling B-ADR | pain B-Symptom | in O | my O | back B-Symptom | , O | neck B-Symptom | and O | then O | just O | my O | left O | foot B-Symptom | , O | severe B-ADR | pain I-Symptom | in O | my O | neck B-Symptom | to O | the O | point O | where O | I O | couldn't O | hold O | it O | up O | without O | an O | effort O | , O | increased O | sinus B-Symptom | pain I-Symptom | , O | high B-Disease | blood O | pressure O | , O | insomina B-ADR | , O | blurred B-ADR | thinking O | . O | So O | to O | fix O | all O | these O | problems O | , O | I O | was O | given O | lots O | of O | other O | meds O | and O | tons O | of O | physical O | therapy O | and O | exercise O | each O | day O | . O | All O | so O | I O | could O | have O | great O | numbers O | . O | Finally O | , O | I O | realized O | enough O | was O | enough O | , O | I O | called O | the O | nurse B-Profession | practitioner I-Profession | to O | say O | I O | was O | stopping O | Lipitor B-Drug | and O | she O | was O | not O | really O | happy O | to O | put O | it O | mildly O | . O | I O | know O | my O | cholesterol O | will O | always O | be O | high O | , O | but O | after O | 2 O | weeks O | off O | Lipitor B-Drug | , O | I O | feel O | better O | each O | day O | and O | know O | it's O | not O | my O | age O | causing O | the O | pain B-Symptom | , O | high B-Disease | blood O | pressure O | , O | memory B-Symptom | loss O | , O | dizzines B-Symptom | . O
+
+Structured Output:
+T1 Disease 39 48 cholesterol
+T2 Drug 73 80 Mevacor
+T3 Drug 82 88 Zocor
+T4 Drug 90 96 Lipitor
+T5 Drug 101 106 Zetia
+T6 Drug 118 125 Lipitor
+T7 Drug 128 135 Lipitor
+T8 Drug 140 145 Zetia
+T9 ADR 161 169 crippling
+T10 Symptom 176 180 pain
+T11 Symptom 184 188 back
+T12 Symptom 190 194 neck
+T13 Symptom 203 207 foot
+T14 ADR 213 218 severe
+T15 Symptom 223 227 pain
+T16 Symptom 235 239 neck
+T17 Symptom 341 346 increased
+T18 Symptom 348 352 sinus
+T19 ADR 354 362 insomina
+T20 ADR 364 370 blurred
+T21 ADR 372 379 thinking
+T22 Profession 506 528 nurse practitioner
+T23 Drug 554 561 Lipitor
+T24 Disease 690 699 cholesterol
+T25 Disease 710 714 high
+T26 Disease 738 752 pain
+T27 Disease 754 758 high
+T28 Symptom 763 768 memory
+T29 Symptom 770 774 loss
+T30 Symptom 778 785 dizzines

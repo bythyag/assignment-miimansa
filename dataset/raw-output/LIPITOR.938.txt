@@ -1,0 +1,5 @@
+BIO Sequence:  
+cut O | high B-Disease | cholestorel I-Disease | from O | 278 O | to O | 134 O  
+
+Structured Output:  
+T1 Disease 4 17 high cholestorel  

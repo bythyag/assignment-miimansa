@@ -1,0 +1,27 @@
+BIO Sequence:
+went O | from O | very O | active O | to O | severe B-Symptom | leg B-Symptom | muscle I-Symptom | and O | buttocks B-Symptom | cramps I-Symptom | as O | well O | as O | aches B-Symptom | and O | pains I-Symptom | . O | basically O | a O | whole O | body O | feeling O | like O | i O | had O | the O | flu B-Disease | . O | No O | sex B-Symptom | drive I-Symptom | . O | Short O | term O | memory B-Symptom | problems I-Symptom | . O | Could O | not O | walk O | up O | stairs O | with O | anything O | in O | my O | hands O | more O | than O | about O | 5-10 O | lbs O | . O | Bad O | feeling O | of O | dread B-Symptom | and O | depression B-Symptom | . O | Could O | no O | longer O | mow O | my O | yard O | with O | a O | self B-Drug | - O | propelled I-Drug | lawn B-Drug | mower I-Drug | with O | out O | having O | to O | stop O | and O | let O | leg B-Symptom | muscles I-Symptom | recover O | after O | about O | 10 O | steps O | . O | I O | have O | been O | off O | medication B-Drug | for O | over O | 6 O | years O | and O | am O | still O | not O | back O | to O | my O | prior O | self O | . O | Just O | recently O | leg B-Symptom | muscles I-Symptom | have O | come O | back O | to O | about O | 50% O | of O | what O | they O | used O | to O | be O | . O | I O | can O | not O | run O | or O | workout O | any O | longer O | for O | fear O | of O | getting O | hurt O | . O | This O | is O | a O | very O | dangerous B-ADR | and O | horrible B-ADR | drug I-ADR | . O | This O | drugs O | side B-ADR | effects I-ADR | were O | not O | explained O | to O | me O | by O | my O | doctor O | as O | being O | so O | risky O | . O | I O | am O | 5'9 O | and O | 160 O | lbs O | . O | high O | cholesterol B-Disease | is O | a O | family O | trait O | through O | several O | generations O | . O
+
+Structured Output:
+T1 Symptom 26 31 severe
+T2 Symptom 32 35 leg
+T3 Symptom 36 41 muscle
+T4 Symptom 43 50 buttocks
+T5 Symptom 51 57 cramps
+T6 Symptom 70 75 aches
+T7 Symptom 82 87 pains
+T8 Disease 117 120 flu
+T9 Symptom 122 130 sex drive
+T10 Symptom 132 139 memory
+T11 Symptom 140 148 problems
+T12 Symptom 153 166 dread
+T13 Symptom 171 180 depression
+T14 Symptom 207 210 leg
+T15 Symptom 216 222 muscles
+T16 Symptom 294 299 leg
+T17 ADR 330 346 dangerous
+T18 ADR 352 359 horrible
+T19 Drug 361 365 drug
+T20 ADR 374 379 side
+T21 ADR 386 392 effects
+T22 Drug 404 413 medication
+T23 Disease 458 468 cholesterol

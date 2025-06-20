@@ -1,0 +1,5 @@
+T1 Symptom 0 14 muscle aches
+T2 Symptom 34 49 muscle pain
+T3 Drug 58 62 10mg
+T4 Drug 77 81 10mg
+T5 Drug 104 108 drug

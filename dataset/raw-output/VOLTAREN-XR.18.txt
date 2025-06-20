@@ -1,0 +1,9 @@
+BIO Sequence:
+Makes O | me O | dizzy B-ADR | , O | silly O | , O | sleepy B-ADR | and O | feeling O | as O | if O | I O | am O | high B-ADR | . O | No O | weight O | gain O | or O | loss O | . O | Nothing O | else O | really O | . O | Works O | wonderful O | as O | a O | sleep B-Symptom | aid O | . O | I O | still O | have O | the O | pain B-Symptom | , O | I O | believe O | my O | Dr O | has O | misdiagnosed O | me O | . O
+
+Structured Output:
+T1 ADR 27 32 dizzy
+T2 ADR 34 40 sleepy
+T3 ADR 44 48 high
+T4 Symptom 72 77 sleep
+T5 Symptom 86 90 pain

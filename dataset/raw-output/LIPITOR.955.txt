@@ -1,0 +1,14 @@
+BIO Sequence:
+I O | took O | this O | drug O | for O | 2 O | years O | before O | onset O | of O | joint B-Symptom | pain I-Symptom | (knees) O | and O | painfull B-Symptom | welts I-Symptom | on O | bottom O | of O | feet O | (had O | to O | use O | cane O | to O | walk O | ). O | Initially O | , O | my O | quack O | MD O | put O | me O | on O | anti-inflam. B-Drug | drugs I-Drug | . O | Subsequently O | , O | I O | quit O | the O | drug O | and O | the O | MD O | . O | All O | symptoms O | subsided O | completely O | . O | However O | , O | I O | had O | a O | milder O | reaction O | to O | Zocor B-Drug | ; O | dizziness B-ADR | with O | Pravachol B-Drug | ; O | now O | on O | Zetia B-Drug | (mild B-ADR | joint I-ADR | pain I-ADR | ). O | I O | believe O | that O | Lipitor B-Drug | left O | me O | with O | permanent O | joint O | damage O | and O | would O | join O | any O | class-action O | lawsuit O | relating O | to O | this O | crumby O | drug O | Lipitor B-Drug | .
+
+Structured Output:
+T1 Symptom 50 56 joint pain
+T2 Symptom 64 73 painfull welts
+T3 Drug 104 116 anti-inflam. drugs
+T4 Drug 166 171 Zocor
+T5 ADR 173 180 dizziness
+T6 Drug 182 191 Pravachol
+T7 Drug 197 203 Zetia
+T8 ADR 205 220 mild joint pain
+T9 Drug 225 231 Lipitor
+T10 Drug 253 259 Lipitor

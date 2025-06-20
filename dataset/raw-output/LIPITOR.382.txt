@@ -1,0 +1,14 @@
+BIO Sequence:
+I'm O | completing O | this O | on O | behalf O | of O | my O | father O | , O | who O | died O | after O | being O | prescribed O | 20 B-Drug | mg O | Totalip/I B-Drug | atorvastatin I-Drug | , O | despite O | the O | usual O | dose O | being O | 10 B-Drug | mg O | and O | him O | having O | 2 O | risk O | factors O | , O | being O | over O | 70 B-Disease | and O | with O | hypothyroidism B-Disease | . O | The O | inquest O | verdict O | was O | misadventure B-Disease | . O | The O | GMC O | decided O | that O | the O | 20 B-Drug | mg O | dose O | was O | reasonable O | , O | and O | that O | the O | GP O | had O | not O | acted O | in O |appropriately O | by O | prescribing O | this O | dose O | . O | So O | much O | for O | SPCs O | , O | PILs O | , O | and O | the O | CSM's O | Pharmacovigilance O | reports O | , O | all O | of O | which O | state O | that O | the O | usual O | dose O | is O | 10 B-Drug | mg O | a O | day O | , O | and O | that O | statins O | should O | be O | used O | with O | caution O | by O | patients O | over O | 70 B-Disease | and O | with O | hypothyroidism B-Disease | . O | GPs O | will O | continue O | overprescribing O | if O | they O | are O | allowed O | to O | get O | away O | with O | it O | . O | Please O | contact O | me O | if O | you O | can O | advise O | or O | help O | . O | Thanks O | . O | Jay O | .
+
+Structured Output:
+T1 Drug 43 47 20
+T2 Drug 49 58 Totalip/Atorvastatin
+T3 Drug 80 84 10
+T4 Disease 93 95 70
+T5 Disease 100 115 hypothyroidism
+T6 Disease 123 135 misadventure
+T7 Drug 43 47 20
+T8 Drug 80 84 10
+T9 Disease 93 95 70
+T10 Disease 100 115 hypothyroidism

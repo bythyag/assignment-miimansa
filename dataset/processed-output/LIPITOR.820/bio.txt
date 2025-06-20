@@ -1,0 +1,10 @@
+My O | fingers B-Symptom | swelled O | up O | and O | hurt O | . O  
+I O | thought O | I O | had O | gout B-Disease | or O | arthritis B-Disease | . O  
+My O | joints B-Symptom | in O | my O | hands O | hurt O | . O  
+My O | knee B-Symptom | hurt O | . O  
+It O | hurt O | to O | bend O | my O | knee B-Symptom | . O  
+I O | took O | 10 O | mg O | . O | each O | day O | for O | 120 O | days O | . O  
+I O | stopped O | taking O | lipitor B-Drug | now O | for O | 40 O | days O | and O | joint B-Symptom | pain I-Symptom | is O | slowly O | improving O | and O | not O | as O | bad O | . O  
+I O | have O | lost O | trust O | in O | most O | doctors O | . O  
+they O | are O | only O | doing O | what O | they O | know O | , O | which O | is O | very O | little O | . O  
+there O | are O | natural O | remedies O | , O | such O | as O | niacin B-Drug | , O | walnuts B-Drug | , O | flaxseed B-Drug | , O | oat B-Drug | bran I-Drug | , O | just O | to O | name O | a O | few O | . O

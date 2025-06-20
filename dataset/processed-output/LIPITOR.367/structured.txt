@@ -1,0 +1,4 @@
+T1 Symptom 32 39 dizziness  
+T2 Symptom 69 75 chills  
+T3 Symptom 81 87 shivers  
+T4 Symptom 95 103 lassitude

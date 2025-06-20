@@ -1,0 +1,34 @@
+BIO Sequence:
+muscle B-Symptom | aches I-Symptom | in O | calves B-Symptom | and O | thighs B-Symptom | . O | weakness B-Symptom | in O | legs B-Symptom | . O | waking O | felt O | unsteady B-Symptom | biking O | most O | difficult O | . O | Leg B-Symptom | muscles I-Symptom | painful O | to O | light O | pressure O | . O | Muscle B-Symptom | twitching I-Symptom | mostly O | on O | calves B-Symptom | and O | bottom O | of O | feet B-Symptom | . O | Deeper O | muscle B-Symptom | twitches I-Symptom | on O | thighs B-Symptom | and O | occasionally O | arms B-Symptom | sides O | butt B-Symptom | . O | On O | statins B-Drug | 2 O | yrs O | off O | 3.5 O | weeks O | . O | Slight O | leg B-Symptom | strength I-Symptom | improvement O | noticed O | . O | muscle B-Symptom | twitches I-Symptom | about O | the O | same O | . O | Please O | post O | if O | you O | have O | noticed O | muscle B-Symptom | twitches I-Symptom | or O | cramping B-Symptom | feeling O | as O | well O | as O | weakness B-Symptom | . O |
+
+Structured Output:
+T1 Symptom 0 6 muscle 
+T2 Symptom 7 12 aches  
+T3 Symptom 14 19 calves  
+T4 Symptom 21 27 thighs  
+T5 Symptom 30 37 weakness  
+T6 Symptom 39 43 legs  
+T7 Symptom 46 53 unsteady  
+T8 Symptom 59 66 difficult  
+T9 Symptom 70 76 muscles  
+T10 Symptom 79 85 painful  
+T11 Symptom 87 93 Muscle  
+T12 Symptom 94 102 twitching  
+T13 Symptom 107 112 calves  
+T14 Symptom 120 125 feet  
+T15 Symptom 132 137 muscle  
+T16 Symptom 138 145 twitches  
+T17 Symptom 147 153 thighs  
+T18 Symptom 156 161 arms  
+T19 Symptom 163 168 butt  
+T20 Drug 172 178 statins   
+T21 Symptom 180 183 leg  
+T22 Symptom 185 192 strength  
+T23 Symptom 197 206 improvement  
+T24 Symptom 215 221 muscle  
+T25 Symptom 223 230 twitches  
+T26 Symptom 237 243 muscle  
+T27 Symptom 245 251 twitches  
+T28 Symptom 253 261 cramping  
+T29 Symptom 264 271 feeling  
+T30 Symptom 276 283 weakness  

@@ -1,0 +1,3 @@
+T1 Symptom 0 8 lethargy  
+T2 Symptom 13 16 leg  
+T3 Symptom 17 24 soreness

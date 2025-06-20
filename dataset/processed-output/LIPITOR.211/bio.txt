@@ -1,0 +1,1 @@
+insomnia B-Symptom | , O | muscle B-Symptom | aches I-Symptom | . O | It's O | 1:00am O | , O | taking O | 10 O | mg O | , O | haven't O | slept O | in O | over O | a O | week O | . O | Plan O | to O | stop O | taking O | Lipitor B-Drug | tomorrow O | . O | It O | did O | lower O | my O | cholesterol B-Disease | tho O | . O

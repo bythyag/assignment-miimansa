@@ -1,0 +1,8 @@
+T1 Symptom 27 34 fatigue
+T2 Disease 46 51 sinus colds
+T3 Symptom 59 65 pressure pain
+T4 Symptom 83 88 heart attack
+T5 Symptom 90 96 Nausea
+T6 Drug 106 112 Lipitor
+T7 Symptom 141 146 chest pain
+T8 Symptom 159 163 pain

@@ -1,0 +1,4 @@
+T1 Symptom 65 69 pain  
+T2 ADR 84 99 severe stomach cramping  
+T3 ADR 104 112 diarrhea  
+T4 Disease 114 117 IBS

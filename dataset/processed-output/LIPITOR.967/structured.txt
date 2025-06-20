@@ -1,0 +1,8 @@
+T1 Symptom 0 4 Pain
+T2 Symptom 6 14 shoulders
+T3 Symptom 15 20 joints
+T4 Symptom 59 67 shoulders
+T5 Disease 110 118 arthritis
+T6 Disease 120 128 bursitis
+T7 Symptom 139 146 cripple
+T8 Drug 159 165 Lipitor

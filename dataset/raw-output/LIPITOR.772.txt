@@ -1,0 +1,13 @@
+BIO Sequence:
+severe B-Symptom | muscle I-Symptom | pain I-Symptom | in O | my O | shoulders B-Symptom | , O | numbness B-Symptom | and O | tingling I-Symptom | in O | my O | hands B-Symptom | , O | wieght B-Symptom | gain I-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 6 severe
+T2 Symptom 7 12 muscle
+T3 Symptom 13 17 pain
+T4 Symptom 28 36 shoulders
+T5 Symptom 38 46 numbness
+T6 Symptom 51 58 tingling
+T7 Symptom 60 65 hands
+T8 Symptom 67 72 wieght
+T9 Symptom 73 77 gain

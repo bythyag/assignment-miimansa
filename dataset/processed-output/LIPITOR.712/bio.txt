@@ -1,0 +1,1 @@
+Very O | severe B-Symptom | pain I-Symptom | in O | arms B-Symptom | , O | knees B-Symptom | , O | hands I-Symptom | . O | Muscle B-Symptom | weakness I-Symptom | and O | overall B-Symptom | weakness I-Symptom | . O | I O | would O | not O | recommend O | it O | . O

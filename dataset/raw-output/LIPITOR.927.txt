@@ -1,0 +1,28 @@
+BIO Sequence:
+Kidney B-Disease | failure I-Disease | , O | difficulty B-Symptom | swallowing I-Symptom | , O | persistent B-Symptom | pain I-Symptom | in O | calf B-Symptom | and O | knee I-Symptom | , O | short B-Symptom | term I-Symptom | memory B-Symptom | loss I-Symptom | , O | peripheral B-Symptom | neuropathy I-Symptom | , O | constipation I-Symptom | , O | sleep B-Symptom | disturbance I-Symptom | , O | mood B-Symptom | change I-Symptom | , O | rage I-Symptom | . O | I O | took O | 80mg B-Drug | of O | Lipitor B-Drug | for O | 8 O | years O | . O | My O | symptoms O | got O | so O | bad O | that O | I O | had O | to O | stop O | working O | . O | Recently O | I O | was O | diagnosed B-Disease | with O | kidney B-Disease | failure I-Disease | and O | also O | put O | on O | zetia B-Drug | . O | I O | immediately O | started O | to O | feel O | even O | worse O | , O | but O | took O | the O | drug O | for O | a O | year O | until O | my O | symptoms O | got O | to O | be O | unbearable O | . O | My O | doctor O | dismissed O | the O | leg B-Symptom | pain I-Symptom | and O | said O | that O | kidney B-Disease | failure I-Disease | was O | unrelated O | . O | Do O | not O | take O | statins B-Drug | ! O | They O | will O | rob O | you O | of O | your O | mind O | and O | ruin O | your O | health O | . O | The O | medical O | community O | will O | try O | to O | convince O | you O | that O | you O | 'll O | live O | longer O | and O | avoid O | heart B-Disease | attacks I-Disease | by O | taking O | this O | . O | Read O | the O | facts O | . O | I O | stopped O | all O | statins B-Drug | and O | am O | starting O | to O | see O | improvement O | in O | swallowing I-Symptom | . O | Leg B-Symptom | pain I-Symptom | is O | gone O | . O | My O | memory O | is O | getting O | better O | . O | I O | 'll O | never O | recover O | from O | the O | kidney B-Disease | failure I-Disease | , O | will O | need O | dialysis I-Disease | or O | transplant I-Disease | . O | Will O | explore O | alternative O | natural O | remedies O | . O
+
+Structured Output:
+T1 Disease 0 15 Kidney failure
+T2 Symptom 17 36 difficulty swallowing
+T3 Symptom 38 58 persistent pain in calf and knee
+T4 Symptom 60 79 short term memory loss
+T5 Symptom 81 100 peripheral neuropathy
+T6 Symptom 102 114 constipation
+T7 Symptom 116 132 sleep disturbance
+T8 Symptom 134 144 mood change
+T9 Symptom 146 150 rage
+T10 Drug 24 30 80mg
+T11 Drug 33 40 Lipitor
+T12 Disease 163 174 kidney failure
+T13 Drug 185 190 zetia
+T14 Symptom 211 228 feel even worse
+T15 Symptom 259 271 leg pain
+T16 Disease 186 198 kidney failure
+T17 Drug 31 39 statins
+T18 Disease 292 303 heart attacks
+T19 Drug 309 315 statins
+T20 Symptom 326 344 improvement in swallowing
+T21 Symptom 347 356 Leg pain
+T22 Disease 364 379 kidney failure
+T23 Disease 384 392 dialysis
+T24 Disease 396 404 transplant

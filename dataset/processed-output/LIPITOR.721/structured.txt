@@ -1,0 +1,8 @@
+T1 Symptom 37 47 aggravates
+T2 Disease 49 56 Rhinitis
+T3 Symptom 62 67 swells
+T4 Symptom 68 73 nasal
+T5 Drug 82 90 Litpitor
+T6 Drug 95 102 Nasonex
+T7 Symptom 110 118 breathe
+T8 Disease 120 125 CHol

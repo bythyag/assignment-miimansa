@@ -1,0 +1,8 @@
+T1 Drug 22 26 drug
+T2 Symptom 75 80 hair thinning
+T3 Symptom 94 102 depressed
+T4 Symptom 104 109 tired
+T5 Symptom 115 121 nervous
+T6 Drug 146 150 drug
+T7 Drug 168 172 drug
+T8 Disease 182 192 cholesterol

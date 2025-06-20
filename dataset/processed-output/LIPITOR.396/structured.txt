@@ -1,0 +1,16 @@
+T1 Symptom 15 25 constipation
+T2 Drug 43 57 fiber supplements
+T3 ADR 73 81 hair loss
+T4 Drug 100 106 statins
+T5 Disease 124 129 lipid problem
+T6 Disease 145 155 cholesterol management
+T7 Drug 157 163 Lipitor
+T8 Drug 179 186 40mgs/day
+T9 Drug 191 194 CoQ
+T10 Drug 196 198 10
+T11 Drug 204 210 Lipitor
+T12 ADR 227 235 side effects
+T13 Drug 245 251 Lipitor
+T14 Drug 267 273 statins
+T15 Drug 280 286 Lipitor
+T16 ADR 295 303 side effects

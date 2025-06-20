@@ -1,0 +1,10 @@
+T1 Drug 34 38 mri
+T2 Drug 47 50 emg
+T3 Symptom 66 71 muscles
+T4 Symptom 73 78 pains
+T5 Symptom 80 86 lead
+T6 Symptom 87 91 legs
+T7 Drug 114 123 neurontin
+T8 Drug 125 133 oxycotin
+T9 Drug 135 141 zanax
+T10 Drug 143 150 celebrex

@@ -1,0 +1,19 @@
+BIO Sequence:
+I O | did O | not O | experience O | any O | , O | but O | only O | took O | 1 O | tab O | once O | a O | day O | for O | two O | days O | . O | I O | found O | that O | Voltaren B-Drug | took O | away O | all O | my O | pain B-Symptom | , O | i O | rarely O | use O | pain B-Symptom | relief I-Symptom | because O | i O | find O | it O | never O | helps O | or O | takes O | too O | long O | to O | take O | affect O | and O | just O | " O | soldier O | on O | " O | . O | As O | i O | am O | only O | young O | and O | relatively O | healthy O | i O | did O | not O | experience O | any O | side B-ADR | effects I-ADR | . O | HOWEVER O | my O | parents O | both O | have O | had O | bad O | side B-ADR | effects I-ADR | . O | so O | i O | dont O | recommend O | it O | if O | you O | suffer O | from O | High B-Disease | blood I-Disease | pressure I-Disease | , O | IBS B-Disease | , O | are O | prone O | to O | stomache B-Disease | ulcers I-Disease | , O | prone O | to O | reflux B-Disease | , O | heart B-Disease | burn I-Disease | or O | are O | an O | asthmatic B-Disease | . O | Otherwise O | if O | like O | me O | you O | are O | healthy O | and O | just O | need O | pain B-Symptom | relief I-Symptom | when O | nothing O | else O | will O | cut O | it O | just O | take O | one O | a O | day O | , O | and O | dont O | stay O | on O | them O | . O | the O | chances O | of O | getting O | side B-ADR | effects I-ADR | seem O | to O | increase O | according O | to O | the O | length O | of O | time O | you O | continue O | using O | them O | ( O | like O | most O | drugs B-Drug | ) O | and O | the O | effectiveness O | of O | the O | pain B-Symptom | relief I-Symptom | can O | also O | wear O | off O | over O | time O | . O 
+
+Structured Output:
+T1 Drug 100 107 Voltaren  
+T2 Symptom 29 33 pain  
+T3 Symptom 48 58 pain relief  
+T4 ADR 80 92 side effects  
+T5 ADR 106 118 side effects  
+T6 Disease 133 148 High blood pressure  
+T7 Disease 151 154 IBS  
+T8 Disease 172 181 stomache ulcers  
+T9 Disease 187 193 reflux  
+T10 Disease 196 204 heart burn  
+T11 Disease 207 217 asthmatic  
+T12 Symptom 29 33 pain  
+T13 ADR 345 357 side effects  
+T14 Drug 374 379 drugs  
+T15 Symptom 412 416 pain relief  

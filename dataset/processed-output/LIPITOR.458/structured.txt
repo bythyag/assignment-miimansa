@@ -1,0 +1,18 @@
+T1 Symptom 10 16 cramps
+T2 Symptom 37 40 gas
+T3 Symptom 44 48 pains
+T4 Disease 56 63 abdomen
+T5 Disease 68 72 back
+T6 Disease 92 95 LDL
+T7 Disease 112 115 HDL
+T8 Drug 124 130 Lipitor
+T9 Disease 151 154 Dr
+T10 Disease 182 188 Dr
+T11 Disease 226 229 abdomen
+T12 Disease 234 238 back
+T13 Disease 315 318 Dr
+T14 Drug 329 335 Lipitor
+T15 Drug 342 349 Crestor
+T16 Symptom 367 383 heart palipations
+T17 Drug 392 398 STATINS
+T18 Disease 431 434 Dr

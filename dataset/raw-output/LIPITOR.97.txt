@@ -1,0 +1,26 @@
+BIO Sequence:
+Bouts O | of O | extreme O | forgetfulness B-Symptom | , O | extreme O | muscle B-ADR | pain I-ADR | , O | insomnia B-Symptom | , O | tremors B-Symptom | , O | cluster B-Symptom | headaches I-Symptom | , O | kidney B-Symptom | pain I-Symptom | , O | urinary B-Symptom | problems I-Symptom | . O | Became O | unable O | to O | walk O | without O | a O | cane B-Symptom | , O | unable O | to O | sleep B-Symptom | , O | kidney B-Disease | problems I-Disease | ( O | urine O | like O | root B-Symptom | beer I-Symptom | ) O | . O | I O | had O | a O | high O | stress B-Disease | detail O | oriented O | job O | that O | I O | lost O | due O | to O | inability O | to O | think O | fast O | enough O | to O | manage O | . O | I O | went O | from O | being O | a O | SMEE B-Disease | ( O | subject O | matter O | expert I-Disease | ) O | to O | crying O | in O | front O | of O | my O | computer O | unable O | to O | function O | . O | Couldn't O | find O | words O | , O | got O | lost O | on O | way O | to O | grocery O | store O | etc O | Dr B-Drug | kept O | telling O | me O | it O | couldn't O | be O | any O | of O | the O | meds B-Drug | I O | was O | on O | . O | Finally O | Googled O | symptoms O | and O | first O | hit O | was O | Spacedoc B-Drug | and O | there O | was O | my O | answer O | . O | Within O | 2 O | days O | of O | stopping O | I O | had O | noticeable O | mental O | improvement O | . O | I O | stopped O | it O | 8 O | weeks O | ago O | and O | still O | have O | much O | muscle B-ADR | pain I-ADR | and O | fatigue B-Symptom | . O | Kidneys O | have O | cleared O | , O | but O | will O | still O | give O | me O | problems O | if O | I O | fatigue O | myself O | . O | I O | think O | it O | is O | a O | poison B-Disease | , O | some O | people O | do O | need O | statans B-Drug | I O | guess O | , O | but O | not O | me O | ! O 
+
+Structured Output:
+T1 Symptom 34 47 forgetfulness
+T2 ADR 64 76 muscle pain
+T3 Symptom 78 85 insomnia
+T4 Symptom 87 94 tremors
+T5 Symptom 96 112 cluster headaches
+T6 Symptom 114 128 kidney pain
+T7 Symptom 130 149 urinary problems
+T8 Symptom 163 171 cane
+T9 Symptom 179 184 sleep
+T10 Disease 186 205 kidney problems
+T11 Symptom 206 223 root beer
+T12 Disease 238 253 stress
+T13 Disease 267 279 SMEE
+T14 Disease 282 301 subject matter expert
+T15 Symptom 347 353 couldn't
+T16 Drug 421 423 Dr
+T17 Drug 442 446 meds
+T18 Drug 454 462 Spacedoc
+T19 ADR 503 511 muscle pain
+T20 Symptom 514 521 fatigue
+T21 Disease 582 588 poison
+T22 Drug 614 620 statans

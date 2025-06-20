@@ -1,0 +1,5 @@
+T1 Symptom 28 37 deminished
+T2 Symptom 45 51 recall
+T3 Symptom 83 90 thoughts
+T4 Symptom 100 105 smart
+T5 Drug 128 131 20 mg

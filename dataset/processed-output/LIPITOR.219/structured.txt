@@ -1,0 +1,11 @@
+T1 Symptom 43 48 Intense pain  
+T2 Symptom 53 58 calves  
+T3 Symptom 63 68 thighs  
+T4 Symptom 74 78 Pain  
+T5 Symptom 82 87 lower back  
+T6 Symptom 89 97 forearms  
+T7 Symptom 102 109 left shoulder  
+T8 Disease 38 41 PAD  
+T9 Disease 114 127 cardiologist  
+T10 Drug 149 155 Lipitor  
+T11 Symptom 186 191 pain

@@ -1,0 +1,8 @@
+T1 Symptom 28 43 lower back pain
+T2 Drug 69 77 arthrotec
+T3 Drug 78 82 50mg
+T4 Drug 83 95 anti inflammatory
+T5 Symptom 119 125 MAJOR menstrual cramps
+T6 ADR 134 142 sickness
+T7 Drug 187 191 drug
+T8 Drug 239 243 drug

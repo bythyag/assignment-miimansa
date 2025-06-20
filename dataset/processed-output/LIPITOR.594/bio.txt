@@ -1,0 +1,1 @@
+AFTER O | TAKING O | DRUG B-Drug | BECAME O | ILL O | WITH O | STOMACH B-Symptom | PAIN I-Symptom | BACK B-Symptom | PAIN I-Symptom | AND O | DIZZINESS B-Symptom | . O

@@ -1,0 +1,12 @@
+BIO Sequence:
+1 month O | PRN O | . O | Horrible B-Symptom | lower I-Symptom | pelvic I-Symptom | pain I-Symptom | . O | Uterus B-Symptom | contractions I-Symptom | . O | Bloody B-Symptom | vagina I-Symptom | the O | next O | day O | . O | Horrible B-Symptom | gastric I-Symptom | pain I-Symptom | . O | I O | am O | looking O | for O | another O | drug B-Drug | to O | replace O | this O | one O | . O | I O | went O | to O | the O | OB GYN B-Disease | thinking O | there O | was O | something O | wrong O | with O | my O | uterus B-Disease | but O | I O | am O | completely O | ok O | . O | I O | am O | not O | taking O | it O | again O | . O 
+
+Structured Output:
+T1 Symptom 25 31 Horrible  
+T2 Symptom 32 49 lower pelvic pain  
+T3 Symptom 51 68 Uterus contractions  
+T4 Symptom 70 85 Bloody vagina  
+T5 Symptom 99 114 Horrible gastric pain  
+T6 Drug 142 146 drug  
+T7 Disease 162 168 OB GYN  
+T8 Disease 188 194 uterus  

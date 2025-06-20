@@ -1,0 +1,13 @@
+BIO Sequence:
+terrible O | muscle B-Symptom | pain I-Symptom | terrible O | mood B-Symptom | changes I-Symptom | could O | hardly O | walk B-Symptom | or O | lift O | my O | arms B-Symptom | . O | stopped O | taking O | them O | 4 O | years O | ago O | and O | still O | suffer O | terrible O | muscle B-Symptom | pain I-Symptom | and O | wasting B-Symptom | . O | i O | have O | set O | up O | a O | website O | for O | australians O | to O | connect O | who O | have O | been O | afflicted O | by O | this O | medication B-Drug | please O | come O | and O | join O | and O | unite O | in O | effort O | to O | educate O | the O | medical B-Disease | fraterity I-Disease | of O | their O | ignorance O | or O | denial O | http://australianstatinvictims.com/. O
+
+Structured Output:
+T1 Symptom 9 14 muscle pain
+T2 Symptom 34 48 mood changes
+T3 Symptom 60 64 walk
+T4 Symptom 67 71 lift
+T5 Symptom 76 81 arms
+T6 Symptom 109 114 muscle pain
+T7 Symptom 119 126 wasting
+T8 Drug 153 162 medication
+T9 Disease 169 180 medical fraterity

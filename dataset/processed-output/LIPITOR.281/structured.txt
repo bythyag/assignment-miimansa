@@ -1,0 +1,17 @@
+T1 Symptom 0 3 Jaw
+T2 Symptom 5 9 neck
+T3 Symptom 11 14 low
+T4 Symptom 15 19 back
+T5 Symptom 24 27 hip
+T6 Symptom 28 33 pains
+T7 Symptom 37 45 Numbness
+T8 Symptom 48 55 tingling
+T9 Symptom 58 62 legs
+T10 Symptom 67 71 arms
+T11 Drug 41 48 Vytorin
+T12 Drug 54 62 Pravachol
+T13 Drug 113 119 Vytorin
+T14 Drug 126 134 pravachol
+T15 Drug 152 159 statin
+T16 Drug 161 166 drungs
+T17 Drug 197 201 drug

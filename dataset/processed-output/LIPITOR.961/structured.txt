@@ -1,0 +1,16 @@
+T1 Symptom 23 28 blood
+T2 Disease 50 56 liver
+T3 Disease 57 63 disease
+T4 Drug 75 81 Lipitor
+T5 Disease 88 99 liver
+T6 Disease 100 106 damage
+T7 Drug 108 114 Lipitor
+T8 Drug 116 122 Lipitor
+T9 ADR 138 151 side effects
+T10 Drug 162 168 Lipitor
+T11 Symptom 169 172 leg
+T12 Symptom 173 178 cramps
+T13 Symptom 180 186 mental
+T14 Symptom 187 196 confusion
+T15 Symptom 207 212 aging
+T16 Symptom 213 220 process

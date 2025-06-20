@@ -1,0 +1,13 @@
+BIO Sequence:
+Extreme O | muscle B-Symptom | problems I-Symptom | and O | joint B-Symptom | pain I-Symptom | . O | In O | only O | one O | day O | of O | taking O | lipitor B-Drug | I O | nearly O | died O | . O | I O | was O | 45 B-Disease | years I-Disease | old O | when O | I O | took O | lipitor B-Drug | . O | Terrible O | mistake O | . O | My O | son O | almost O | died O | after O | taking O | lipitor B-Drug | for O | two O | months O | . O | His O | liver B-Disease | was O | functioning O | at O | only O | 50% O | and O | he O | was O | saved O | by O | being O | admitted O | into O | the O | hospital B-Disease | for O | 3 O | days O | . O | His O | cholestrol B-Symptom | went O | up O | dramatically O | not O | down O | . O
+
+Structured Output:
+T1 Symptom 8 13 muscle problems
+T2 Symptom 22 26 joint pain
+T3 Drug 53 59 lipitor
+T4 Disease 80 82 45
+T5 Drug 95 101 lipitor
+T6 Drug 133 139 lipitor
+T7 Disease 144 149 liver
+T8 Disease 171 179 hospital
+T9 Symptom 182 191 cholestrol

@@ -1,0 +1,14 @@
+BIO Sequence:
+Memory O | loss B-Symptom | / O | ability O | to O | concentrate B-Symptom | . O | Prescribed O | 20mg B-Drug | for O | the O | past O | 3 O | years O | or O | so O | , O | my O | cholesterol O | levels O | have O | all O | been O | normal O | since O | starting O | this O | medicine O | . O | Originally O | I O | was O | given O | Crestor B-Drug | 10mg B-Drug | , O | but O | experienced O | muscle O | pain B-ADR | , O | and O | was O | given O | Lipitor B-Drug | . O | The O | only O | problem O | is O | I O | feel O | I O | have O | suffered O | memory B-Symptom | loss I-Symptom | and O | the O | ability O | to O | concentrate I-Symptom | since O | taking O | this O | medication O | . O
+
+Structured Output:
+T1 Symptom 0 4 loss
+T2 Symptom 21 31 concentrate
+T3 Drug 72 76 20mg
+T4 Drug 86 93 Crestor
+T5 Drug 95 100 10mg
+T6 ADR 115 126 pain
+T7 Drug 132 138 Lipitor
+T8 Symptom 213 217 memory
+T9 Symptom 223 227 loss
+T10 Symptom 232 242 concentrate

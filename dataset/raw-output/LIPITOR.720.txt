@@ -1,0 +1,12 @@
+BIO Sequence:
+Very O | blurred B-Symptom | vision I-Symptom | and O | lower B-Symptom | back I-Symptom | pain I-Symptom | . O | I O | had O | a O | sudden B-Symptom | loss I-Symptom | of O | vision I-Symptom | and O | attributed O | it O | to O | getting O | older O | . O | After O | reading O | literature O | on O | another O | medication O | a O | light O | bulb O | went O | off O | and O | I O | realized O | the O | blurry B-Symptom | vision I-Symptom | was O | probably O | due O | to O | the O | drug B-Drug | Lipitor I-Drug | and O | am O | stopping O | the O | drop O | today O | . O | My O | vision I-Symptom | is O | so O | blurry B-Symptom | it O | feels O | like O | I O | need O | glasses O | . O 
+
+Structured Output:
+T1 Symptom 5 10 blurred
+T2 Symptom 15 20 vision
+T3 Symptom 29 42 lower back pain
+T4 Symptom 58 63 sudden loss of vision
+T5 Symptom 103 108 blurry vision
+T6 Drug 118 124 Lipitor
+T7 Symptom 128 133 blurry vision
+T8 Symptom 145 150 blurry

@@ -1,0 +1,10 @@
+T1 ADR 23 34 flatulance
+T2 Drug 51 58 Lipitor
+T3 Symptom 78 90 low back pain
+T4 Symptom 100 113 back
+T5 Symptom 117 127 neck pain
+T6 Drug 139 150 Vitamin E
+T7 Drug 154 162 Premarin
+T8 Drug 228 231 meds
+T9 Drug 300 305 Lipitor
+T10 Symptom 389 393 pain

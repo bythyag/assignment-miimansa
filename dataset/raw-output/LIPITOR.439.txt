@@ -1,0 +1,15 @@
+BIO Sequence:
+DEPRESSION B-Disease | , O | INSOMNIA B-Symptom | , O | anxiety B-Symptom | , O | tiredness B-Symptom | , O | decreased B-Symptom | eye O | sight I-Symptom | , O | loss B-Symptom | of O | quality O | of O | life O | . O | Effective O | drug O | for O | lowering O | cholesterol B-Disease | , O | but O | not O | worth O | the O | reduction O | in O | quality O | of O | life O | . O | Please O | be O | careful O | with O | lipitor B-Drug | and O | the O | other O | statins B-Drug | !! O | PS: O | I've O | stopped O | taking O | Lipitor B-Drug | after O | consulting O | my O | physician B-Disease | . O | He O | fully O | agreed O | . O 
+
+Structured Output:
+T1 Disease 0 9 DEPRESSION
+T2 Symptom 11 19 INSOMNIA
+T3 Symptom 21 27 anxiety
+T4 Symptom 29 37 tiredness
+T5 Symptom 39 58 decreased eye sight
+T6 Symptom 60 82 loss of quality of life
+T7 Disease 85 95 cholesterol
+T8 Drug 107 114 lipitor
+T9 Drug 121 127 statins
+T10 Drug 129 135 Lipitor
+T11 Disease 147 156 physician

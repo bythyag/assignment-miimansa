@@ -1,0 +1,4 @@
+T1 Symptom 0 13 Muscle aches  
+T2 Symptom 17 21 arms  
+T3 Symptom 25 30 chest  
+T4 Disease 49 58 cholestrol

@@ -1,0 +1,18 @@
+BIO Sequence:
+Stomach O | queasy B-Symptom | , O | but O | very O | mild O | , O | and O | goes O | away O | . O | Just O | started O | taking O | this O | med O | after O | Celebrex B-Drug | 200mg O | , O | and O | before O | , O | Meloxicam B-Drug | , O | other O | NSAIDs B-Drug | , O | and O | natural O | supplements O | . O | Putting O | off O | hip O | & O | back O | surgery O | for O | life B-Disease | long O | OA B-Disease | . O | Seems O | to O | be O | working O | fine O | , O | pain B-Symptom | is O | limited O | , O | though O | I O | still O | limp O | with O | damage O | in O | hip O | . O | Spine B-Symptom | & O | hip O | pain I-Symptom | is O | greatly O | reduced O | ! O | Menopausal O | , O | so O | waiting O | to O | see O | if O | minor O | period O | bleeding B-Symptom | starts O | like O | it O | did O | with O | Celebrex B-Drug | . O | I O | ' O | m O | on O | no O | dairy O | , O | non-gluten O | , O | natural O | anti-inflammatory O | diet O | , O | no O | refined O | sugar O | . O | RA B-Disease | runs O | in O | my O | family O | , O | so O | this O | is O | lifelong O | commitment O | & O | it O | works O | . O | Limited O | caffeine O | . O | This O | drug B-Drug | works O | so O | far O | , O | and O | is O | giving O | me O | back O | my O | life O | . O | No O | irregular O | bowel O | or O | issues O | so O | far O | , O | and O | I O | ' O | m O | low O | risk O | factor O | for O | liver O | , O | B/P O | , O | & O | cardiac O | issue O | . O | I O | take O | with O | a O | meal O | , O | use O | Tums B-Drug | if O | necessary O | . O | Good O | so O | far O | . O
+
+Structured Output:
+T1 Symptom 7 13 queasy  
+T2 Drug 76 83 Celebrex  
+T3 Drug 95 104 Meloxicam  
+T4 Drug 112 119 NSAIDs  
+T5 Disease 120 125 OA  
+T6 Symptom 49 53 pain  
+T7 Symptom 57 63 limp  
+T8 Symptom 70 75 Spine  
+T9 Symptom 77 81 pain  
+T10 Symptom 101 108 bleeding  
+T11 Drug 110 117 Celebrex  
+T12 Disease 2 4 RA  
+T13 Drug 160 164 drug  
+T14 Drug 174 179 Tums  

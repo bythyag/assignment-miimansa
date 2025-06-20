@@ -1,0 +1,15 @@
+BIO Sequence:
+tingling B-Symptom | and O | aches B-Symptom | in O | hands O | , O | chest B-Symptom | discomfort I-Symptom | , O | difficulty B-Symptom | breathing I-Symptom | , O | stuffy B-Symptom | nose I-Symptom | , O | weakness B-Symptom | in O | legs O | , O | back B-Symptom | pain I-Symptom | . O | This O | drug B-Drug | is O | the O | worst O | . O | I O | stopped O | using O | it O | after O | 17 O | days O | when O | I O | started O | experiencing O | chest B-ADR | pains I-ADR | and O | difficulty B-ADR | breathing I-ADR | . O | Its O | side O | effects O | are O | horrible O | and O | it O | should O | be O | taken O | off O | the O | market O | . O | I O | do O | not O | recommend O | this O | drug B-Drug | to O | anyone O | . O 
+
+Structured Output:
+T1 Symptom 0 7 tingling
+T2 Symptom 8 13 aches
+T3 Symptom 20 25 chest discomfort
+T4 Symptom 27 45 difficulty breathing
+T5 Symptom 47 57 stuffy nose
+T6 Symptom 59 75 weakness in legs
+T7 Symptom 77 86 back pain
+T8 Drug 88 92 drug
+T9 ADR 159 164 chest pains
+T10 ADR 172 189 difficulty breathing
+T11 Drug 281 285 drug

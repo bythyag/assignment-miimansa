@@ -1,0 +1,7 @@
+BIO Sequence:
+Some O | added O | gas B-Symptom | / O | wind B-Symptom | . O | ( O | Cont'd O | - O | Pt.4 O | ) O | , O | but O | don’t O | cut O | your O | life O | short O | by O | raging O | against O | a O | drug B-Drug | that O | may O | be O | saving O | / O | extending O | lives O | of O | thousands O | like O | me O | . O
+
+Structured Output:
+T1 Symptom 10 13 gas
+T2 Symptom 15 19 wind
+T3 Drug 72 76 drug

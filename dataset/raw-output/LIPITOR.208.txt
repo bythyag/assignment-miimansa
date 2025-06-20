@@ -1,0 +1,19 @@
+BIO Sequence:
+Constant O | heel B-Symptom | pain I-Symptom | , O | Possible O | cause O | of O | ulcerative B-Disease | colitis I-Disease | , O | but O | have O | no O | proof O | of O | this O | , O | and O | gastro/ent. O | Dr O | states O | Lipitor B-Drug | not O | likely O | cause O | , O | I O | believe O | otherwise O | . O | was O | on O | 10mg B-Drug | for O | 6 O | months O | , O | increased O | to O | 40mg B-Drug | for O | 6 O | months O | , O | reduced O | back O | to O | 10mg B-Drug | ( O | because O | high O | CPK B-Symptom | level I-Symptom | ) O | for O | rest O | of O | time O | taking O | med. O | Did O | not O | associate O | foot B-Symptom | pain I-Symptom | or O | colitis B-Disease | with O | statin B-Drug | until O | reading O | of O | others O | with O | similar O | problems O | . O | WILL O | NOT O | TAKE O | LIPITOR B-Drug | ( O | OR O | ANY O | OTHER O | STATIN I-Drug | ) O | ANYMORE O | !! O | . O |
+
+Structured Output:
+T1 Symptom 9 13 heel
+T2 Symptom 14 18 pain
+T3 Disease 40 57 ulcerative colitis
+T4 Drug 80 86 Lipitor
+T5 Drug 97 101 10mg
+T6 Drug 121 126 40mg
+T7 Drug 141 145 10mg
+T8 Symptom 164 167 CPK
+T9 Symptom 168 173 level
+T10 Symptom 186 190 foot
+T11 Symptom 191 195 pain
+T12 Disease 197 204 colitis
+T13 Drug 208 214 statin
+T14 Drug 220 227 LIPITOR
+T15 Drug 233 239 STATIN

@@ -1,0 +1,10 @@
+BIO Sequence:
+Muscle B-Symptom | twitches I-Symptom | and O | calf B-Symptom | / O | toe B-Symptom | cramps I-Symptom | - O | also O | the O | 10mg O | taken O | The O | drug B-Drug | does O | lower O | the O | cholesterol B-Disease | reading O | but O | as O | I O | have O | also O | made O | diet O | changes O | and O | lifestyle O | changes O | - O | not O | sure O | if O | all O | due O | to O | drug B-Drug | or O | own O | common O | sense O | . O | I O | was O | not O | as O | aware O | of O | dangers O | as O | I O | am O | now O | and O | would O | not O | have O | taken O | it O | if O | not O | advised O | by O | MD B-Drug | . O | I O | aim O | to O | stop O | taking O | it O | . O 
+
+Structured Output:
+T1 Symptom 0 6 Muscle twitches
+T2 Symptom 17 31 calf/toe cramps
+T3 Drug 42 46 drug
+T4 Disease 57 67 cholesterol
+T5 Drug 102 106 drug
+T6 Drug 114 116 MD

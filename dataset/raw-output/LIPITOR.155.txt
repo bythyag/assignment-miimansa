@@ -1,0 +1,13 @@
+BIO Sequence:
+stomach B-Symptom | pain I-Symptom | , O | dizzy B-Symptom | spells I-Symptom | , O | hairloss B-Symptom | , O | fatigue B-Symptom | , O | dry B-Symptom | eyes I-Symptom | , O | joint B-Symptom | pain I-Symptom | . O | When O | I O | stopped O | taking O | Lipitor B-Drug | , O | I O | was O | amazed O | at O | how O | much O | better O | I O | began O | to O | feel O | . O | While O | taking O | Lipitor B-Drug | I O | had O | stomach B-Symptom | cramps I-Symptom | every O | day O | . O | I O | was O | tired B-Symptom | , O | and O | could O | not O | function O | normal O | . O 
+
+Structured Output:
+T1 Symptom 0 6 stomach pain
+T2 Symptom 7 12 dizzy spells
+T3 Symptom 13 21 hairloss
+T4 Symptom 22 29 fatigue
+T5 Symptom 30 39 dry eyes
+T6 Symptom 40 49 joint pain
+T7 Drug 73 79 Lipitor
+T8 Symptom 95 110 stomach cramps
+T9 Symptom 111 116 tired

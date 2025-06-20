@@ -1,0 +1,6 @@
+T1 Symptom 0 6 Severe  
+T2 Symptom 7 11 back  
+T3 Symptom 12 16 neck  
+T4 Symptom 17 22 pains  
+T5 Symptom 31 37 severe  
+T6 Symptom 38 46 headaches

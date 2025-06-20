@@ -1,0 +1,23 @@
+T1 Symptom 26 31 severe
+T2 Symptom 32 35 leg
+T3 Symptom 36 41 muscle
+T4 Symptom 43 50 buttocks
+T5 Symptom 51 57 cramps
+T6 Symptom 70 75 aches
+T7 Symptom 82 87 pains
+T8 Disease 117 120 flu
+T9 Symptom 122 130 sex drive
+T10 Symptom 132 139 memory
+T11 Symptom 140 148 problems
+T12 Symptom 153 166 dread
+T13 Symptom 171 180 depression
+T14 Symptom 207 210 leg
+T15 Symptom 216 222 muscles
+T16 Symptom 294 299 leg
+T17 ADR 330 346 dangerous
+T18 ADR 352 359 horrible
+T19 Drug 361 365 drug
+T20 ADR 374 379 side
+T21 ADR 386 392 effects
+T22 Drug 404 413 medication
+T23 Disease 458 468 cholesterol

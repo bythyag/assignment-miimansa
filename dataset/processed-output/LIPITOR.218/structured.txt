@@ -1,0 +1,14 @@
+T1 ADR 27 37 side effects  
+T2 Disease 55 64 cholesterol  
+T3 Drug 88 97 Pravachol  
+T4 Disease 108 116 cholesterol  
+T5 Drug 123 130 Lipitor  
+T6 Symptom 172 179 symptoms  
+T7 Drug 195 202 Lipitor  
+T8 Disease 204 212 arthritis  
+T9 Disease 215 226 fibromyalgia  
+T10 Disease 228 246 plantar fasciitis  
+T11 Disease 258 268 liver  
+T12 Drug 275 282 Lipitor  
+T13 Disease 287 299 fatty liver  
+T14 Drug 302 309 Lipitor

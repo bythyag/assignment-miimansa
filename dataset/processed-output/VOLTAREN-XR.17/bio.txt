@@ -1,0 +1,1 @@
+Have O | not O | experienced O | any O | side B-ADR | not O | even O | a O | rise B-ADR | in O | bp B-Symptom | . O | Have O | been O | taking O | off O | and O | on O | for O | over O | three O | years O | . O | Not O | addictive O | . O | Sometimes O | take O | on O | empty O | stomach O | with O | no O | adverse B-ADR | side I-ADR | effects I-ADR | . O

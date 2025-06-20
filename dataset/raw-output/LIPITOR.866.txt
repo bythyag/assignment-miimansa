@@ -1,0 +1,20 @@
+BIO Sequence:
+After O | using O | Lipitor B-Drug | for O | 2.5 O | years O | , O | I O | decided O | to O | stop O | two O | weeks O | ago O | because O | of O | severe B-Symptom | pain I-Symptom | in O | my O | left O | arm B-Symptom | . O | I O | am O | left O | handed O | and O | recently O | couldn't O | normally O | do O | my O | job O | . O | Twice O | I O | told O | my O | doctor O | about O | pain B-Symptom | in O | my O | arm I-Symptom | and O | he O | didn't O | take O | that O | seriously O | , O | ignoring O | my O | complaint O | . O | After O | two O | weeks O | of O | not O | taking O | Lipitor B-Drug | my O | arm O | almost O | recovered O | and O | I O | can O | work O | without O | any O | pain O | or O | any O | problem O | . O | It O | started O | a O | long O | time O | ago O | with O | tingling B-Symptom | in O | my O | arms I-Symptom | , O | they O | were O | often O | fall O | asleep O | , O | usually O | when O | I O | wake O | up O | in O | the O | morning O | . O | From O | month O | to O | month O | pain B-Symptom | was O | worst O | until O | I O | almost O | lost O | all O | strength O | and O | couldn't O | use O | my O | arm I-Symptom | . O | Anyway O | , O | I O | think O | I O | made O | a O | good O | decision O | by O | not O | using O | Lipitor B-Drug | anymore O | ( O | my O | doctor O | will O | be O | mad O | at O | me O | ) O | . O | I O | will O | try O | with O | natural B-Drug | supplements I-Drug | and O | more O | exercising O | . O | I O | am O | very O | " O | anxious B-Symptom | " I-Symptom | about O | medication O | that O | can O | cause O | myopathy B-Disease | , O | liver B-Disease | damage O | or O | cancer B-Disease | . O
+
+Structured Output:
+T1 Drug 20 26 Lipitor
+T2 Symptom 62 66 pain
+T3 Symptom 71 74 arm
+T4 Symptom 98 102 pain
+T5 Symptom 107 110 arm
+T6 Drug 151 157 Lipitor
+T7 Symptom 167 174 tingling
+T8 Symptom 180 185 arms
+T9 Symptom 199 203 pain
+T10 Symptom 216 220 arm
+T11 Drug 287 293 Lipitor
+T12 Drug 305 315 supplements
+T13 Symptom 363 369 anxious
+T14 Disease 384 392 myopathy
+T15 Disease 398 404 liver
+T16 Disease 406 412 cancer

@@ -1,0 +1,1 @@
+diagnosed O | with O | Parkinsons B-Disease | after O | 10 O | months O | on O | drug B-Drug | . O | steady O | weakness B-Symptom | onset O | few O | months O | growing O | on O | right O | side O | of O | body O | with O | tremors B-Symptom | . O

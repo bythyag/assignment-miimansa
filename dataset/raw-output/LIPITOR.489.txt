@@ -1,0 +1,8 @@
+Input: "It should read medication taken for 6 years rather than 6 day's."
+
+BIO Sequence:
+It O | should O | read O | medication B-Drug | taken O | for O | 6 O | years I-Disease | rather O | than O | 6 O | day's O.
+
+Structured Output:
+T1 Drug 23 32 medication
+T2 Disease 36 41 years

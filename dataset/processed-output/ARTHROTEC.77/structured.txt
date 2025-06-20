@@ -1,0 +1,8 @@
+T1 Symptom 0 12 Blurred vision
+T2 Symptom 14 26 Stomach ache
+T3 Symptom 28 42 Water retention
+T4 Symptom 44 63 Throbbing headache
+T5 Symptom 65 81 glucose levels
+T6 Drug 89 96 Vasotec
+T7 Drug 98 106 Glyburide
+T8 Drug 108 115 Avandia

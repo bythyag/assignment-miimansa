@@ -1,0 +1,16 @@
+BIO Sequence:
+I O | did O | not O | link O | my O | problems O | to O | the O | Lipitor B-Drug | until O | my O | husband O | had O | major O | problems O | , O | now O | I O | know O | what O | has O | caused O | 10 O | years O | of O | Neuropathy B-Disease | , O | I O | have O | Burning B-Symptom | feet I-Symptom | always O | in O | bed O | at O | night O | , O | I O | do O | not O | have O | Diabetes B-Disease | ( O | which O | would O | cause O | this O | ) O | and O | was O | tested O | in O | DC O | at O | WRAMC B-Drug | and O | they O | found O | no O | reason O | that O | I O | should O | have O | this O | and O | gave O | me O | a O | tube O | of O | Capsaicin B-Drug | ! O | ! O | I O | still O | live O | with O | this O | . O | Four O | years O | ago O | I O | developed O | Frozen B-Disease | Shoulder I-Disease | in O | my O | left O | arm O | , O | unbelievable O | pain O | , O | within O | weeks O | the O | other O | shoulder O | became O | as O | painful O | as O | the O | first O | , O | could O | not O | raise O | my O | arms O | at O | all O | , O | tested O | at O | Bethesda B-Drug | Naval O | Hosp. O | , O | no O | reason O | found O | , O | I O | was O | told O | it O | would O | last O | about O | 2 O | years O | unless O | I O | took O | therapy O | sessions O | , O | I O | took O | the O | sessions O | and O | begged O | for O | someone O | to O | put O | me O | out O | of O | my O | misery O | each O | time O | , O | it O | eventually O | passed O | in O | about O | a O | year O | but O | I O | still O | have O | shoulder O | pain O | . O | Today O | I O | am O | stopping O | the O | Lipitor B-Drug | , O | maybe O | I O | have O | read O | too O | much O | on O | the O | subject O | but O | the O | one O | that O | really O | scares O | me O | is O | the O | Memory B-Symptom | Loss I-Symptom | , O | All O | the O | drug O | com. O | tests O | were O | done O | to O | see O | how O | well O | the O | Statins B-Drug | did O | for O | Cholesterol B-Disease | and O | the O | heart O | benefits O | , O | but O | no O | testing O | ( O | or O | none O | that O | the O | consumer O | was O | told O | of O | ) O | was O | ever O | done O | to O | see O | how O | it O | effects O | the O | brain O | function O | . O | Memory O | is O | too O | precious O | a O | thing O | to O | lose O | to O | a O | drug O | ! O | . O 
+
+Structured Output:
+T1 Drug 56 62 Lipitor
+T2 Disease 85 94 Neuropathy
+T3 Symptom 103 109 Burning feet
+T4 Disease 130 138 Diabetes
+T5 Drug 144 150 WRAMC
+T6 Drug 158 166 Capsaicin
+T7 Disease 175 191 Frozen Shoulder
+T8 Drug 216 223 Bethesda
+T9 Drug 237 243 Lipitor
+T10 Symptom 261 274 Memory Loss
+T11 Drug 276 283 Statins
+T12 Disease 294 306 Cholesterol

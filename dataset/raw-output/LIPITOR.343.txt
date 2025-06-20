@@ -1,0 +1,13 @@
+BIO Sequence:
+Weak O | muscles B-Symptom | , O | fatigued B-Symptom | , O | high B-Symptom | pck I-Symptom | level I-Symptom | , O | high B-Symptom | liver I-Symptom | enzyme I-Symptom | , O | leg B-Symptom | cramps I-Symptom | , O | flared B-Symptom | up O | tendenitis B-Disease | . O | Doctor O | says O | unrelated O | to O | lipitor B-Drug | . O | he O | obviously O | has O | not O | seen O | this O | web O | site O | . O | It O | is O | poison B-ADR | for O | me O | . O 
+
+Structured Output:
+T1 Symptom 8 15 muscles
+T2 Symptom 17 25 fatigued
+T3 Symptom 28 30 pck
+T4 Symptom 32 43 level
+T5 Symptom 46 60 liver enzyme
+T6 Symptom 62 71 leg cramps
+T7 Symptom 73 92 flared up tendenitis
+T8 Drug 94 100 lipitor
+T9 ADR 118 123 poison

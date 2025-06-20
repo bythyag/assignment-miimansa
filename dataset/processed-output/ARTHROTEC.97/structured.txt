@@ -1,0 +1,7 @@
+T1 Symptom 15 23 symptoms
+T2 Symptom 44 59 fluid retention
+T3 Symptom 62 77 muscle pain
+T4 Symptom 80 86 cramps
+T5 ADR 98 110 side effects
+T6 Drug 147 156 medication
+T7 ADR 168 175 reaction

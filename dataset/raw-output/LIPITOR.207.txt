@@ -1,0 +1,34 @@
+BIO Sequence:
+Terrible O | terrible O | terrible O | charley B-Symptom | horses I-Symptom | in O | feet B-Symptom | , O | calves B-Symptom | , O | abdomen B-Symptom | , O | breasts B-Symptom | , O | shoulders B-Symptom | and O | sides B-Symptom | . O | Although O | my O | cholesterol B-Disease | was O | lowered O | rapidly O | , O | I O | have O | been O | taking O | 10mgs B-Drug | for O | about O | 5 O | year O | . O | I O | am O | so O | glad O | I O | hit O | upon O | this O | site O | because O | my O | doc O | hasn't O | paid O | any O | attention O | to O | my O | complaints O | of O | charley B-Symptom | horses I-Symptom | in O | my O | feet B-Symptom | , O | legs B-Symptom | , O | abdomen B-Symptom | , O | breasts B-Symptom | , O | shoulders B-Symptom | , O | sides B-Symptom | . O | Had O | brain B-Disease | scans O | for O | the O | memory B-Symptom | loss I-Symptom | , O | vertigo B-Symptom | and O | headaches B-Symptom | . O | Found O | some O | indications O | that O | I O | may O | have O | had O | mini-strokes B-Disease | over O | the O | years O | . O | Every O | time O | I O | laugh B-Symptom | hearty O | , O | I O | get O | a O | breath-taking B-Symptom | charley I-Symptom | horse I-Symptom | in O | one O | or O | both O | breasts B-Symptom | . O | If O | I O | tuck O | something O | under O | my O | arm O | , O | I O | get O | a O | charley I-Symptom | horse I-Symptom | in O | my O | side B-Symptom | . O | Charley B-Symptom | horses I-Symptom | in O | the O | abdomen B-Symptom | while O | toileting O | . O | Charley B-Symptom | horses I-Symptom | in O | feet B-Symptom | while O | driving O | . O | I O | am O | printing O | out O | this O | site O | and O | taking O | it O | to O | my O | doc O | . O | He O | has O | to O | pay O | attention O | now O | . O | Thanks O | to O | all O | of O | you O | for O | sharing O | . O
+
+Structured Output:
+T1 Symptom 29 41 charley horses
+T2 Symptom 43 47 feet
+T3 Symptom 49 55 calves
+T4 Symptom 57 64 abdomen
+T5 Symptom 66 73 breasts
+T6 Symptom 75 83 shoulders
+T7 Symptom 85 90 sides
+T8 Disease 118 127 cholesterol
+T9 Drug 140 145 10mgs
+T10 Symptom 173 185 charley horses
+T11 Symptom 190 196 feet
+T12 Symptom 198 202 legs
+T13 Symptom 204 210 abdomen
+T14 Symptom 212 219 breasts
+T15 Symptom 221 229 shoulders
+T16 Symptom 231 236 sides
+T17 Disease 257 263 brain
+T18 Symptom 266 271 memory loss
+T19 Symptom 273 280 vertigo
+T20 Symptom 282 290 headaches
+T21 Disease 315 328 mini-strokes
+T22 Symptom 345 350 laugh
+T23 Symptom 365 379 breath-taking charley horse
+T24 Symptom 386 392 breasts
+T25 Symptom 406 418 charley horse
+T26 Symptom 424 429 side
+T27 Symptom 436 444 charley horses
+T28 Symptom 451 459 abdomen
+T29 Symptom 467 472 charley horses
+T30 Symptom 487 492 feet

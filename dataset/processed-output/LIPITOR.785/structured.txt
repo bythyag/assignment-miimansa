@@ -1,0 +1,16 @@
+T1 BloodPressure 36 49 high blood pressure
+T2 Drug 66 73 Lipitor
+T3 Disease 119 123 LDL
+T4 ADR 154 162 terrible
+T5 ADR 165 174 migratory joint pain
+T6 ADR 177 186 disabling fatigue
+T7 Symptom 191 204 flu-like malaise
+T8 Disease 270 291 rheumatoid arthritis
+T9 Disease 293 299 lupus
+T10 Disease 301 313 Lyme disease
+T11 Disease 315 341 parvovirus infection
+T12 Drug 362 369 Lipitor
+T13 ADR 385 395 liver-toxic
+T14 Disease 421 425 LDL
+T15 Drug 472 479 Lipitor
+T16 Symptom 494 516 nearly killed me

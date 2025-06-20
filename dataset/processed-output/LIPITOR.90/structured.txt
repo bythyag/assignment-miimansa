@@ -1,0 +1,3 @@
+T1 Symptom 4 11 sleeping
+T2 Symptom 17 22 swets
+T3 Drug 64 67 tab

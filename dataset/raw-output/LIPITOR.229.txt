@@ -1,0 +1,19 @@
+BIO Sequence:
+Started O | out O | with O | fatigue B-Symptom | / O | depression B-Disease | and O | was O | diagnosed O | with O | fibromalgia B-Disease | . O | Then O | came O | the O | extreme O | knee B-Symptom | pain I-Symptom | followed O | by O | hip B-Symptom | pain I-Symptom | . O | On O | top O | of O | this O | perpetual O | pain I-Symptom | , O | I O | started O | having O | the O | irritable B-Disease | colon I-Disease | acompanied O | by O | three O | years O | of O | diarrhea B-Symptom | that O | was O | diagnosed O | as O | colitis B-Disease | . O | I O | recently O | was O | totally O | dibilitated O | by O | swelling B-ADR | and O | pain I-ADR | in O | my O | hands O | . O | My O | family O | convince O | me O | to O | stop O | takng O | the O | Lipitor B-Drug | after O | my O | daughter O | found O | this O | site O | and O | after O | 4 O | DAYS O | - O | no O | swelling I-ADR | and O | the O | pain I-ADR | has O | subsided O | ! O | I O | am O | interested O | in O | trying O | some O | of O | the O | natural O | options O | stated O | in O | this O | site O | to O | see O | if O | I O | can O | control O | my O | cholesterol B-Symptom | ( O | 270 O | at O | the O | highest O | . O | Thanks O | to O | everyone O | who O | has O | enlighted O | me O | ! O | . O | Time O | for O | the O | government O | to O | look O | into O | this O | drug O | . O | Don O | ' O | t O | you O | think O | it O | is O | interesting O | that O | the O | medical O | field O | has O | recommended O | that O | your O | cholesterol O | should O | now O | be O | 170 O | when O | just O | a O | few O | years O | ago O | 200 O | was O | good O | enough O | ? O | ! O | Sounds O | as O | though O | the O | phamacuticals B-Drug | companies I-Drug | need O | to O | sell O | more O | statins B-Drug | . O 
+
+Structured Output:
+T1 Symptom 30 37 fatigue
+T2 Disease 39 48 depression
+T3 Disease 56 67 fibromalgia
+T4 Symptom 84 92 knee pain
+T5 Symptom 102 111 hip pain
+T6 Symptom 119 128 pain
+T7 Disease 140 157 irritable colon
+T8 Symptom 159 167 diarrhea
+T9 Disease 173 180 colitis
+T10 ADR 198 205 swelling
+T11 ADR 210 214 pain
+T12 Drug 251 257 Lipitor
+T13 Symptom 279 289 cholesterol
+T14 Drug 315 324 phamacuticals
+T15 Drug 327 334 statins

@@ -1,0 +1,13 @@
+T1 Symptom 50 56 burning
+T2 Symptom 58 62 numb
+T3 Symptom 64 68 feet
+T4 Symptom 104 113 discomfort
+T5 Disease 118 123 right
+T6 Disease 125 129 side
+T7 Disease 130 135 upper
+T8 Disease 141 146 lower
+T9 Disease 150 157 stomach
+T10 Disease 169 178 neurophathy
+T11 Drug 184 191 statins
+T12 Drug 196 202 Lipitor
+T13 Drug 216 221 statin

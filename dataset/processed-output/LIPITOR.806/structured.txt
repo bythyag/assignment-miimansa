@@ -1,0 +1,11 @@
+T1 Drug 34 40 Lipitor
+T2 Symptom 58 63 pains
+T3 Symptom 65 69 arms
+T4 Drug 81 87 Lipitor
+T5 Disease 124 142 statin induced myopathy
+T6 Drug 157 163 Cozaar
+T7 Disease 171 173 BP
+T8 Drug 182 191 Bisoprolol
+T9 Disease 196 201 heart
+T10 Disease 203 209 rythm
+T11 Symptom 211 220 Tiredness

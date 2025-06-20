@@ -1,0 +1,6 @@
+T1 Disease 44 53 severe depression
+T2 Symptom 59 68 inability
+T3 Symptom 74 82 headaches
+T4 Disease 89 92 flu
+T5 Drug 102 109 statins
+T6 Drug 120 126 Lipitor

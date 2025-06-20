@@ -1,0 +1,36 @@
+BIO Sequence:
+imence O | pain B-Symptom | in O | legs B-Symptom | , O | calf B-Symptom | , O | feet B-Symptom | , O | cramping B-Symptom | in O | legs I-Symptom | and O | feet I-Symptom | , O | even O | toes I-Symptom | , O | armpain B-Symptom | , O | swelling B-Symptom | , O | extreme O | heaviness B-Symptom | in O | limbs I-Symptom | , O | backache B-Symptom | , O | bloody B-Symptom | noes B-Symptom | , O | high O | cpk B-Symptom | , O | my O | short O | term O | memory B-Symptom | is O | terrible O | , O | confusion B-Symptom | . O | tingling B-Symptom | , O | buzzing B-Symptom | in O | limbs I-Symptom | , O | big O | time O | depression B-Symptom | . O | The O | list O | is O | endless O | . O | I O | seem O | to O | get O | a O | little O | relief B-ADR | and O | wack O | . O | Right O | back O | again O | . O | I O | have O | been O | off O | it O | approx O | 5 O | weeks O | . O | I O | have O | been O | to O | neurologists B-Disease | and O | had O | emg B-Disease | , O | bone O | Dr. O | for O | xrays O | primary O | Dr O | And O | now O | the O | major O | hospital O | to O | the O | big O | guys O | . O | I O | will O | have O | a O | more O | intense O | emg I-Disease | and O | then O | they O | will O | do O | biopsies B-Disease | on O | my O | limbs I-Disease | and O | thigh B-Disease | . O | not O | one O | Dr O | will O | blame O | Lipitor B-Drug | . O | I O | guess O | it's O | the O | forbidden O | word O | to O | say O | if O | it's O | something O | negetive O | . O | This O | stuff O | is O | definitely O | for O | everybody O | . O | By O | the O | way O | I O | was O | only O | on O | it O | approx O | 4 O | months O | . O | Sad O | to O | read O | so O | many O | people O | are O | suffering O | from O | side O | effects B-ADR | of O | this O | but O | good O | to O | know O | I O | am O | not O | nuts O | and O | I O | am O | not O | alone O | . O | A O | huge O | money O | maker O | so O | I O | doubt O | it O | will O | ever O | be O | taken O | off O | the O | market O | . O | I've O | read O | short O | term O | and O | long O | term O | users O | of O | this O | stuff O | . O | I O | am O | beginnig O | to O | wonder O | if O | it's O | just O | a O | matter O | of O | time O | for O | everyone O | who's O | on O | it O | . O
+
+Structured Output:
+T1 Symptom 12 16 pain
+T2 Symptom 20 24 legs
+T3 Symptom 26 30 calf
+T4 Symptom 33 37 feet
+T5 Symptom 40 47 cramping
+T6 Symptom 51 55 legs
+T7 Symptom 60 64 feet
+T8 Symptom 69 73 toes
+T9 Symptom 75 82 armpain
+T10 Symptom 84 90 swelling
+T11 Symptom 93 101 extreme heaviness
+T12 Symptom 105 110 limbs
+T13 Symptom 112 120 backache
+T14 Symptom 122 128 bloody noes
+T15 Symptom 130 133 high
+T16 Symptom 134 138 cpk
+T17 Symptom 143 153 short term memory
+T18 Symptom 157 164 terrible
+T19 Symptom 166 168 confusion
+T20 Symptom 171 178 tingling
+T21 Symptom 180 186 buzzing
+T22 Symptom 191 196 limbs
+T23 Symptom 209 216 depression
+T24 ADR 260 266 relief
+T25 ADR 269 276 side effects
+T26 Drug 330 336 Lipitor
+T27 Disease 45 49 neurologists
+T28 Disease 54 58 emg
+T29 Disease 103 109 emg
+T30 Disease 118 123 biopsies
+T31 Disease 135 140 limbs
+T32 Disease 145 150 thigh

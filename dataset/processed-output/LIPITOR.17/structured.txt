@@ -1,0 +1,19 @@
+T1 Disease 0 8 Neuronal
+T2 Disease 9 18 Apoptosis
+T3 Disease 27 38 Cell Death
+T4 Drug 50 53 MRI
+T5 Disease 82 109 Mitochondrial DNA
+T6 Disease 119 124 MELAS
+T7 Disease 126 155 Mitochondrial Encephalomyopathy
+T8 Disease 156 174 Lactic Acidosis
+T9 Disease 175 192 Stroke-like episodes
+T10 Disease 206 219 Brain Biopsy
+T11 Disease 227 257 Electron Microscopy
+T12 Disease 261 278 Mitochondrial DNA
+T13 Disease 279 284 Muscle Biopsy
+T14 Degree 301 307 Registered Nurse
+T15 Symptom 317 330 High Cholesterol
+T16 Disease 362 374 heart disease
+T17 Drug 395 401 statins
+T18 Drug 414 421 Lipitor
+T19 Disease 428 439 heart disease

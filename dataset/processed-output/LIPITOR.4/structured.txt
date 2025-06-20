@@ -1,0 +1,2 @@
+T1 ADR 39 50 side effects
+T2 Drug 57 61 drug

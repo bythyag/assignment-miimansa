@@ -1,0 +1,4 @@
+T1 Symptom 25 34 cholestrol
+T2 Disease 39 44 liver
+T3 Drug 55 60 20mg
+T4 Symptom 66 75 cholestrol

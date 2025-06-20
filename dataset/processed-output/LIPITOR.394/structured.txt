@@ -1,0 +1,4 @@
+T1 Symptom 0 15 Stomach irritation
+T2 Symptom 17 32 Abnormal Dreams
+T3 Disease 36 45 DEPRESSION
+T4 Disease 57 65 depressed

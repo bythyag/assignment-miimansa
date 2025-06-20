@@ -1,0 +1,8 @@
+BIO Sequence:
+i O | develop O | cataract B-Disease | some O | time O | muscle B-Symptom | ache I-Symptom | . O | great O | drug B-Drug | to O | control O | cholestrol B-Disease | . O
+
+Structured Output:
+T1 Disease 12 20 cataract
+T2 Symptom 28 33 muscle ache
+T3 Drug 37 41 drug
+T4 Disease 47 56 cholestrol

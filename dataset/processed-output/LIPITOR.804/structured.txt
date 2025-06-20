@@ -1,0 +1,5 @@
+T1 Symptom 0 9 back ache
+T2 Symptom 11 19 dizziness
+T3 Symptom 21 32 leg cramps
+T4 Drug 64 70 Diovan
+T5 Drug 124 130 Diovan

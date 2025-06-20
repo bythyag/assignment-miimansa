@@ -1,0 +1,6 @@
+BIO Sequence:
+It O | has O | taken O | its O | toll O | on O | my O | stomach B-Disease | in O | the O | past O | but O | it O | is O | the O | most O | effective O | med B-Drug | so O | far O | . O | Must O | take O | it O | with O | a O | full O | meal O | . O | I O | really O | made O | a O | difference O | , O | improvement O | of O | quality O | of O | life O | . O 
+
+Structured Output:
+T1 Disease 44 51 stomach
+T2 Drug 65 68 med

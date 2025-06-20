@@ -1,0 +1,10 @@
+BIO Sequence:
+After O | 2 O | months O | being O | on O | Lipitor B-Drug | I O | experienced O | extreme O | pain B-Symptom | and O | loss O | of O | muscle O | in O | left O | leg O | . O | Advice O | from O | Cardiologist B-Disease | was O | to O | immediately O | stop O | taking O | Liptitor I-Drug | . O | It O | was O | too O | late O | , O | resulting O | in O | the O | loss O | of O | being O | able O | to O | work O | and O | ended O | up O | disabitlity B-Disease | and O | would O | like O | to O | join O | a O | class O | action O | lawsuit O | against O | the O | drug O | company O | responsible O | . O | Would O | like O | to O | hear O | from O | others O | who O | have O | had O | problems O | with O | this O | drug O | . O
+
+Structured Output:
+T1 Drug 27 33 Lipitor
+T2 Symptom 62 66 pain
+T3 Disease 82 92 Cardiologist
+T4 Drug 108 116 Liptitor
+T5 Disease 130 142 disabitlity
+T6 Drug 193 197 drug

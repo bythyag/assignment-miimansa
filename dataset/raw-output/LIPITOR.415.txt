@@ -1,0 +1,14 @@
+BIO Sequence:
+experienced O | severe O | muscle B-Symptom | weakness I-Symptom | , O | lost O | 30 O | pounds O | ( O | all O | Muscle O | ) O | I O | had O | relatively O | little O | pain B-Symptom | but O | couldn't O | lift O | my O | arms O | or O | legs B-Symptom | . O | The O | muscles O | just O | deteriorated O | . O | I O | have O | since O | been O | diagnosed O | with O | polymyositis B-Disease | . O | exacerbated O | by O | Lipitor B-Drug | . O | It O | has O | taken O | me O | two O | years O | since O | stopping O | lipitor B-Drug | to O | be O | able O | to O | walk O | again O | . O | Luckily O | after O | being O | admitted O | to O | the O | hospital O | I O | was O | seen O | by O | a O | rheumatologist B-Disease | who O | knew O | what O | she O | was O | seeing O | . O | I O | will O | never O | get O | back O | the O | full O | use O | of O | my O | arms O | or O | legs O | . O | ALL O | STATIN B-Drug | drugs O | are O | dangerous O | . O | I O | have O | heard O | from O | two O | other O | people O | who O | have O | ended O | up O | with O | Polymyositis B-Disease | from O | Lipitor B-Drug | . O 
+
+Structured Output:
+T1 Symptom 16 32 muscle weakness
+T2 Symptom 44 48 pain
+T3 Symptom 79 83 legs
+T4 Disease 103 115 polymyositis
+T5 Drug 124 130 Lipitor
+T6 Drug 186 192 lipitor
+T7 Disease 196 210 rheumatologist
+T8 Drug 213 219 STATIN
+T9 Disease 253 264 Polymyositis
+T10 Drug 270 276 Lipitor

@@ -1,0 +1,22 @@
+BIO Sequence:
+My O | dad O | has O | been O | on O | Lipitor B-Drug | for O | over O | a O | year O | , O | they O | increased O | his O | dose O | by O | doubling O | it O | . O | Within O | a O | month O | he O | started O | to O | experience O | lower O | leg O | weakness B-Symptom | , O | cramping B-ADR | of O | the O | calf O | muscles O | after O | walking O | only O | a O | block O | and O | while O | resting O | . O | He O | read O | an O | article O | about O | Baycor B-Drug | , O | Lipitor I-Drug | , O | etc O | . O | We O | asked O | his O | M.D. O | about O | this O | & O | he O | told O | us O | that O | the O | side O | effects O | of O | Lipitor I-Drug | were O | an O | INFLAMMATORY B-ADR | muscle O | weakness I-ADR | & O | degeneration B-ADR | . O | With O | my O | coaxing O | & O | the O | Dr's O | okay O | my O | day O | stopped O | Lipitor I-Drug | for O | one O | month O | . O | His O | legs O | did O | not O | get O | better O | OR O | worse O | . O | The O | Dr's O | have O | him O | so O | worried O | about O | his O | cholesterol O | that O | he O | started O | taking O | it O | again O | . O | He O | is O | now O | so O | debilitated O | , O | he O | was O | using O | a O | walker O | , O | & O | his O | wheelchair O | is O | being O | delivered O | today O | . O | We O | have O | been O | to O | a O | Neurologist B-Disease | , O | Vascular B-Disease | Surgeon I-Disease | , O | and O | blood B-Disease | Dr O | . O | He O | can O | no O | longer O | drive O | . O | He O | has O | reduced O | feeling O | below O | the O | knees O | , O | he O | has O | fallen O | 4 O | times O | . O | He O | is O | losing O | the O | feeling O | in O | his O | right O | hand O | and O | the O | inability B-Symptom | to O | perform O | fine O | motor O | skills O | . O | With O | all O | the O | tests O | he O | has O | had O | to O | rule O | out O | other O | causes O | , O | it O | seems O | that O | Lipitor I-Drug | is O | the O | culprit O | . O | Until O | the O | dose O | was O | doubled O | my O | dad O | was O | active O | , O | able O | to O | walk O | , O | drive O | , O | and O | enjoy O | life O | . O | If O | Lipitor I-Drug | is O | the O | cause O | of O | all O | these O | problems O | , O | high O | cholesterol O | does O | not O | look O | so O | bad O | . O | I O | would O | never O | take O | or O | recommend O | this O | drug O | to O | anyone O | . O | It O | has O | destroyed O | my O | father's O | life O | . O 
+
+Structured Output:
+T1 Drug 28 34 Lipitor
+T2 Symptom 119 132 weakness
+T3 ADR 134 143 cramping
+T4 Drug 163 169 Baycor
+T5 Drug 171 177 Lipitor
+T6 Drug 205 211 Lipitor
+T7 ADR 236 266 INFLAMMATORY muscle weakness & degeneration
+T8 Drug 298 304 Lipitor
+T9 Disease 388 398 Neurologist
+T10 Disease 400 415 Vascular Surgeon
+T11 Disease 418 426 blood Dr
+T12 Symptom 444 467 debilitated
+T13 Symptom 506 513 inability
+T14 Symptom 515 546 fine motor skills
+T15 Drug 618 624 Lipitor
+T16 Drug 726 732 Lipitor
+T17 Drug 749 753 drug
+T18 Disease 773 779 father's

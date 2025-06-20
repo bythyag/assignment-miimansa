@@ -1,0 +1,24 @@
+BIO Sequence:
+blurr O | vision B-Symptom | . O | slurpy B-Symptom | speach I-Symptom | , O | mussle B-Symptom | spasm I-Symptom | in O | the O | toes B-Symptom | and O | leg B-Symptom | and O | calves B-Symptom | , O | tiredness B-Symptom | . O | head B-Symptom | aches I-Symptom | , O | memory B-Symptom | loss I-Symptom | . O | thining B-Symptom | hair I-Symptom | , O | tingling B-Symptom | and O | pinches I-Symptom | in O | the O | fingers B-Symptom | and O | skin B-Symptom | . O | My O | cholesteral B-Disease | drop O | from O | 11.5 O | to O | 4.1 O | Liptor B-Drug | did O | help O | to O | bring O | my O | cholesteral I-Disease | down O | . O | but O | after O | 1 O | year O | of O | using O | it O | i O | have O | been O | experciencing O | alot O | of O | side B-ADR | effects I-ADR | , O | At O | the O | beginning O | it O | was O | fine O | , O | but O | after O | 1 O | year O | the O | effect O | starts O | . O | i O | started O | off O | with O | 20mg B-Drug | and O | then O | lower O | it O | to O | 20mg I-Drug | . O
+
+Structured Output:
+T1 Symptom 0 11 vision
+T2 Symptom 13 20 slurpy speach
+T3 Symptom 22 36 mussle spasm
+T4 Symptom 41 49 toes
+T5 Symptom 54 57 leg
+T6 Symptom 62 67 calves
+T7 Symptom 69 78 tiredness
+T8 Symptom 80 89 head aches
+T9 Symptom 91 102 memory loss
+T10 Symptom 104 115 thining hair
+T11 Symptom 117 125 tingling
+T12 Symptom 130 136 pinches
+T13 Symptom 139 149 fingers
+T14 Symptom 154 158 skin
+T15 Disease 163 174 cholesteral
+T16 Drug 176 182 Liptor
+T17 Disease 184 194 cholesteral
+T18 ADR 207 218 side effects
+T19 Drug 228 233 20mg
+T20 Drug 239 244 20mg

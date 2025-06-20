@@ -1,0 +1,9 @@
+T1 Symptom 0 18 muscle weariness
+T2 Symptom 22 40 legs
+T3 Symptom 43 50 Soreness
+T4 Symptom 56 73 right shoulder
+T5 Drug 79 86 Lipitor
+T6 Drug 100 106 lipids
+T7 Drug 112 118 lipids
+T8 Disease 126 135 cholesterol
+T9 Disease 146 156 cholesterol

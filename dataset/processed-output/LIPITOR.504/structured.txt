@@ -1,0 +1,23 @@
+T1 Symptom 8 12 back pain
+T2 Disease 14 19 nerve damage
+T3 Symptom 21 29 breathing problems
+T4 Symptom 44 61 hospitalization stiffness all over body
+T5 Disease 64 70 muscle damage
+T6 Symptom 72 104 hugh black and blue marks
+T7 Symptom 106 112 hair loss
+T8 Symptom 114 123 dizzyness
+T9 Symptom 125 138 vision problems
+T10 Symptom 140 154 blackouts
+T11 Disease 156 168 sinus problems
+T12 Symptom 170 180 temperature
+T13 Symptom 182 202 heart palputations
+T14 Disease 204 220 abdominal problems
+T15 ADR 222 230 bleeding
+T16 Disease 232 235 gas
+T17 Disease 246 250 calf
+T18 Disease 252 257 ankle
+T19 Disease 259 263 knee
+T20 Disease 276 281 wrist
+T21 Drug 307 313 Statins
+T22 Drug 325 331 Statins
+T23 Drug 338 344 Statins

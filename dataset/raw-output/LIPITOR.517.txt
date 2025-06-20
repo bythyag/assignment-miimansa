@@ -1,0 +1,13 @@
+BIO Sequence:
+heavy O | aching B-Symptom | legs I-Symptom | , O | especially O | in O | the O | morning O | . O | Never O | considered O | it O | a O | side B-ADR | effect I-ADR | before O | reading O | about O | it O | . O | Certainly O | nothing O | I O | can't O | live O | with O | unless O | it O | worsens O | and O | after O | 10 B-Disease | yrs I-Disease | I O | doubt O | that O | will O | happen O | . O | 4 B-Disease | yrs I-Disease | on O | zocor B-Drug | then O | 6 B-Disease | on O | lipitor B-Drug | ( B-Drug | 40mg I-Drug | ) I-Drug | . O | Cholestrol B-Disease | went O | from O | 300 O | to O | 200 O | . O
+
+Structured Output:
+T1 Symptom 6 12 aching legs
+T2 ADR 46 59 side effect
+T3 Disease 74 76 10 yrs
+T4 Disease 80 84 4 yrs
+T5 Drug 90 95 zocor
+T6 Disease 100 102 6
+T7 Drug 106 112 lipitor
+T8 Drug 115 120 40mg
+T9 Disease 123 132 Cholestrol

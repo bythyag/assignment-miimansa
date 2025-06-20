@@ -1,0 +1,7 @@
+T1 Symptom 8 14 stomach cramps
+T2 Symptom 22 28 diarea
+T3 Symptom 30 37 Headache
+T4 Symptom 42 51 drowsiness
+T5 ADR 72 83 side effects
+T6 Symptom 89 95 Cramps
+T7 Symptom 104 113 intestines

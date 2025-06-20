@@ -1,0 +1,18 @@
+T1 Symptom 34 39 joint
+T2 Symptom 44 48 pain
+T3 Symptom 54 60 muscle weakness
+T4 Symptom 63 73 depression
+T5 Symptom 75 82 fatigue
+T6 Symptom 87 93 cramps
+T7 Drug 106 113 Lipitor
+T8 Drug 146 152 statin drug
+T9 Symptom 249 255 muscle twitching
+T10 Symptom 265 269 loss
+T11 Symptom 272 284 muscle mass
+T12 Symptom 291 295 slurred speech
+T13 Drug 335 342 lipitor
+T14 Symptom 354 358 Joint pain
+T15 Disease 375 378 ALS
+T16 Disease 389 392 ALS
+T17 Disease 394 396 ALS
+T18 Drug 492 498 statin drugs

@@ -1,0 +1,10 @@
+T1 Symptom 10 15 urine
+T2 ADR 24 29 bloody
+T3 Symptom 34 47 canker sores
+T4 Symptom 50 62 golf balls
+T5 Symptom 66 70 face
+T6 Symptom 75 80 falling
+T7 Symptom 100 105 hurts
+T8 Symptom 109 112 arm
+T9 Symptom 130 135 face
+T10 Symptom 140 145 falling

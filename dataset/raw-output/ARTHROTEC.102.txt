@@ -1,0 +1,9 @@
+BIO Sequence:
+I O | have O | had O | no O | side B-ADR | effects I-ADR | been O | taking O | Arthrotec B-Drug | a O | little O | over O | a O | year O | , O | have O | not O | noticed O | any O | side B-ADR | effects I-ADR | . O | It O | does O | help O | alot O | I O | noticed O | that O | when O | there O | are O | times O | when O | I O | forget O | to O | take O | it O | I O | ca n't O | stand O | or O | walk O | for O | any O | lengths O | of O | time O | . O
+
+Structured Output:
+T1 ADR 29 38 side effects
+T2 Drug 40 48 Arthrotec
+T3 ADR 75 84 side effects
+T4 Symptom 91 98 stand
+T5 Symptom 103 108 walk

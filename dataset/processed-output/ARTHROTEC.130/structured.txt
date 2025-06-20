@@ -1,0 +1,19 @@
+T1 Symptom 5 13 swelling
+T2 Symptom 31 35 legs
+T3 Symptom 66 70 pain
+T4 Disease 82 89 bone marrow biopsy
+T5 Disease 93 102 arthritis
+T6 Drug 111 118 tylenol
+T7 Drug 126 135 Tylenol 3
+T8 Symptom 147 152 sleep
+T9 Symptom 163 167 pain
+T10 Symptom 172 183 concentration
+T11 Symptom 197 201 days
+T12 Drug 221 228 arthrotec
+T13 Drug 230 232 50
+T14 Symptom 243 247 pain
+T15 Symptom 270 276 arthritic pain
+T16 Symptom 282 286 knees
+T17 Symptom 293 298 ankle
+T18 Symptom 306 311 sleep
+T19 Symptom 322 327 sleep

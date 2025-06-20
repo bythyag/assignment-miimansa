@@ -1,0 +1,5 @@
+T1 Symptom 43 48 muscle
+T2 Symptom 52 57 joint
+T3 Disease 71 82 cholesterol
+T4 Drug 130 134 drug
+T5 Drug 136 143 statins

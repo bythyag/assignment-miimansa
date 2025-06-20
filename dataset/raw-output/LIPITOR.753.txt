@@ -1,0 +1,15 @@
+BIO Sequence:
+tiredness B-Symptom | , O | foggy B-Symptom | brain I-Symptom | , O | sore B-Symptom | feet I-Symptom | / O | legs I-Symptom | , O | left O | shoulder O | upper O | arm O | pain B-Symptom | , O | occasional O | neck B-Symptom | pain I-Symptom | , O | nose B-Symptom | extremely O | dry O | / O | swollen B-Symptom | nasal I-Symptom | passages I-Symptom | , O | skin O | - O | white B-Symptom | patches I-Symptom | , O | windy B-Symptom | towards O | evening O | / O | night O | . O | Not O | good O | enough O | for O | so O | many O | side B-ADR | effects I-ADR | . O 
+
+Structured Output:
+T1 Symptom 0 9 tiredness
+T2 Symptom 11 22 foggy brain
+T3 Symptom 24 33 sore feet
+T4 Symptom 33 38 legs
+T5 Symptom 43 60 left shoulder upper arm pain
+T6 Symptom 62 77 occasional neck pain
+T7 Symptom 79 100 nose extremely dry
+T8 Symptom 102 124 swollen nasal passages
+T9 Symptom 126 138 skin - white patches
+T10 Symptom 140 154 windy
+T11 ADR 158 170 side effects

@@ -1,0 +1,14 @@
+T1 Symptom 9 14 aches
+T2 Symptom 16 21 pains
+T3 Disease 56 66 orthopedic
+T4 Disease 75 79 knee
+T5 Disease 5 10 Liver
+T6 Disease 21 28 liver
+T7 Symptom 45 50 pains
+T8 Disease 63 75 midsection
+T9 Disease 80 85 Fatty
+T10 Disease 87 92 strands
+T11 Disease 95 100 Liver
+T12 Disease 104 113 Rheumatoid
+T13 Disease 115 123 Arthtitis
+T14 Drug 140 146 Lipitor

@@ -1,0 +1,11 @@
+BIO Sequence:
+unexplained B-Symptom | cough I-Symptom | . O | Doctors O | was O | unaware O | of O | this O | being O | a O | side B-ADR | effect I-ADR | of O | the O | drug O | . O | I O | stopped O | using O | it O | 3 O | days O | ago O | and O | the O | cough B-Symptom | is O | gone O | . O | Last O | week O | , O | also O | stopped O | for O | two O | days O | and O | the O | cough B-Symptom | stopped O | . O | Each O | time O | I O | go O | back O | to O | taking O | Lipitor B-Drug | , O | I O | begin O | to O | cough B-Symptom | heavily I-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 12 unexplained cough
+T2 ADR 27 34 side effect
+T3 Drug 89 95 Lipitor
+T4 Symptom 109 113 cough
+T5 Symptom 132 138 cough
+T6 Symptom 154 159 cough
+T7 Symptom 165 171 heavily

@@ -1,0 +1,21 @@
+BIO Sequence:
+dizzyness O | , O | coninuing O | and O | increasing O | weakness B-Symptom | ( O | especially O | legs B-Symptom | ) O | , O | aches B-Symptom | & O | pains B-Symptom | , O | loss B-Symptom | of O | coherent O | thought B-Symptom | , O | memory B-Symptom | loss B-Symptom | , O | wildly O | varying O | blood B-Symptom | pressure B-Symptom | , O | syptoms B-Symptom | similar O | to O | TIA's B-Disease | . O | After O | 2 O | years O | on O | this O | drug B-Drug | I O | seriously O | felt O | life O | was O | not O | worth O | living O | . O | Started O | Lipitor B-Drug | when O | recovering O | from O | major O | surgery B-Disease | , O | and O | attributed O | effects O | to O | that O | ; O | but O | after O | initial O | uphill O | recovery O | , O | went O | downhill O | at O | an O | expotential O | rate O | . O | Two O | days O | after O | stopping O | , O | myself O | and O | my O | family O | noticed O | the O | difference O | - O | now O | 3 O | weeks O | have O | passed O | and O | have O | not O | had O | any O | of O | the O | above O | symptons B-Symptom | . O | Now O | just O | want O | to O | find O | someway O | to O | help O | recovery O | from O | Lipitor B-Drug | damage B-ADR | . O
+
+Structured Output:
+T1 Symptom 37 45 weakness
+T2 Symptom 66 70 legs
+T3 Symptom 75 80 aches
+T4 Symptom 82 87 pains
+T5 Symptom 90 94 loss
+T6 Symptom 108 114 thought
+T7 Symptom 116 121 memory
+T8 Symptom 128 133 blood
+T9 Symptom 135 143 pressure
+T10 Symptom 145 152 syptoms
+T11 Disease 159 164 TIA's
+T12 Drug 52 56 drug
+T13 Drug 74 80 Lipitor
+T14 Disease 96 102 surgery
+T15 Symptom 168 177 symptons
+T16 Drug 176 182 Lipitor
+T17 ADR 185 191 damage

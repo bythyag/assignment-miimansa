@@ -1,0 +1,3 @@
+T1 Symptom 7 12 flush
+T2 ADR 14 21 sedation
+T3 Symptom 23 34 bed wetting

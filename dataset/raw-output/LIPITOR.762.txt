@@ -1,0 +1,12 @@
+BIO Sequence:
+Nagging O | muscle B-Symptom | pain I-Symptom | between O | and O | just O | below O | my O | shoulder B-Symptom | blades I-Symptom | , O | persistent O | fatigue B-Symptom | , O | moderate O | insomnia B-Symptom | , O | increasingly O | unable O | to O | focus O | or O | stay O | . O | I O | took O | 20mg/day B-Drug | for O | over O | four O | years O | before O | the O | totality O | of O | the O | side B-ADR | effects I-ADR | and O | their O | likely O | root O | cause O | finally O | hit O | me O | over O | the O | head O | . O | The O | adverse B-ADR | effects I-ADR | were O | insidiously O | gradual O | in O | their O | development O | which O | kept O | the O | alarm O | bells O | from O | going O | off O | sooner O | . O | Like O | many O | , O | I O | attributed O | each O | individual O | symptom B-Symptom | to O | . O
+
+Structured Output:
+T1 Symptom 8 13 muscle pain
+T2 Symptom 31 48 shoulder blades
+T3 Symptom 51 58 fatigue
+T4 Symptom 60 67 insomnia
+T5 Drug 75 82 20mg/day
+T6 ADR 100 113 side effects
+T7 ADR 119 135 adverse effects
+T8 Symptom 149 155 symptom

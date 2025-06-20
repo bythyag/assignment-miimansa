@@ -1,0 +1,14 @@
+BIO Sequence:
+Very O | bad O | pain B-Symptom | in O | left B-Side | side I-Side | and O | buttocks B-Symptom | . O | Hurt O | to O | get O | up O | from O | sitting O | position O | ; O | hurt O | to O | walk O | ; O | hurt O | to O | stand O | . O | Back B-Symptom | pain I-Symptom | also O | but O | much O | more O | on O | left B-Side | side I-Side | at O | waist B-Symptom | area O | and O | thigh/butt B-Symptom | muscle I-Symptom | areas O | . O 
+
+Structured Output:
+T1 Symptom 22 26 pain
+T2 Side 31 35 left side
+T3 Symptom 42 50 buttocks
+T4 Symptom 56 60 Hurt
+T5 Symptom 64 68 hurt
+T6 Symptom 77 81 Hurt
+T7 Symptom 85 89 Back pain
+T8 Side 95 99 left side
+T9 Symptom 106 110 waist
+T10 Symptom 115 120 thigh/butt muscle

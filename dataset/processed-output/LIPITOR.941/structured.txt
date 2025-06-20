@@ -1,0 +1,13 @@
+T1 Symptom 0 6 Deep depression
+T2 Symptom 8 16 insomnia
+T3 Symptom 18 33 joint stiffness in hands and feet
+T4 Symptom 35 47 inability to think clearly
+T5 Drug 190 194 drug
+T6 Disease 204 213 cholesterol
+T7 Symptom 233 253 debilitating symptoms
+T8 Disease 289 299 Cholesterol
+T9 Disease 305 310 brain
+T10 Disease 316 321 nerve
+T11 Disease 326 332 health
+T12 Drug 394 400 Pfizer
+T13 ADR 446 458 side effects

@@ -1,0 +1,5 @@
+T1 ADR 26 31 tired
+T2 Symptom 50 55 vomit
+T3 Symptom 90 95 hands
+T4 Symptom 102 105 hip
+T5 Symptom 106 110 pain

@@ -1,0 +1,13 @@
+T1 Symptom 0 12 Forgetfulness
+T2 Symptom 14 32 Lack of Concentration
+T3 Symptom 34 50 excruciating pain in my legs
+T4 Symptom 52 60 insomnia
+T5 Symptom 62 77 terrible headaches
+T6 Symptom 79 86 itching all over
+T7 Symptom 88 96 depression
+T8 Symptom 98 106 moodiness
+T9 Disease 114 123 cholesterol
+T10 ADR 126 137 side effects
+T11 Disease 139 144 Lupus
+T12 Drug 151 158 Lipitor
+T13 Drug 164 171 Lipitor

@@ -1,0 +1,9 @@
+T1 Symptom 0 8 dizziness
+T2 Symptom 10 16 vertigo
+T3 Symptom 18 34 altered taste
+T4 Symptom 36 39 gas
+T5 Symptom 41 58 little blisters in my mouth
+T6 Symptom 60 73 itchy scalp
+T7 Drug 78 83 topical gel
+T8 ADR 96 109 side effects
+T9 Symptom 111 117 vertigo

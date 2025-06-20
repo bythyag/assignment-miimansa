@@ -1,0 +1,25 @@
+BIO Sequence:
+Muscle B-Symptom | pain I-Symptom | . O | Severe B-Symptom | joint I-Symptom | pain I-Symptom | in O | the O | shoulders B-Disease | and O | knees B-Disease | . O | Pain B-Symptom | and O | cramping B-Symptom | in O | my O | hands B-Disease | and O | lower B-Disease | legs I-Disease | . O | Numbness B-Symptom | in O | all O | of O | my O | finger B-Disease | tips I-Disease | and O | toes B-Disease | . O | Wake O | up O | on O | and O | off O | all O | night O | long O | due O | to O | numbness B-Symptom | in O | my O | hands B-Disease | and O | pain B-Symptom | in O | shoulders B-Disease | some O | nights O | worse O | than O | others O | . O | I've O | been O | off O | lipitor B-Drug | since O | 7/1/04 O | and O | the O | muscle B-Symptom | pain I-Symptom | is O | gone O | and O | my O | knees B-Disease | are O | almost O | back O | to O | my O | norm O | . O | Both O | of O | my O | shoulders B-Disease | are O | still O | very O | messed O | up O | . O | Have O | constant B-Symptom | shoulder I-Symptom | pain I-Symptom | more O | in O | the O | left B-Disease | than O | the O | right B-Disease | . O | Still O | have O | finger B-Disease | and O | hand B-Disease | numbness B-Symptom | on O | and O | off O | all O | day O | and O | night O | . O | Worse O | at O | night O | . O | But O | even O | these O | pains B-Symptom | are O | a O | lot O | less O | now O | then O | they O | were O | while O | on O | lipitor B-Drug | . O | I'm O | hoping O | that O | there O | is O | not O | any O | permanent B-Symptom | damage I-Symptom | . O | While O | first O | taking O | lipitor B-Drug | and O | I O | noticed O | these O | changes O | I O | told O | my O | doctor O | and O | he O | told O | me O | that O | this O | had O | nothing O | to O | do O | with O | the O | lipitor B-Drug | . O | It O | was O | just O | age O | . O
+
+Structured Output:
+T1 Symptom 0 12 Muscle pain
+T2 Symptom 15 38 Severe joint pain
+T3 Symptom 41 58 Pain and cramping
+T4 Symptom 60 68 Numbness
+T5 Symptom 102 107 numbness
+T6 Symptom 126 133 pain
+T7 Drug 66 73 lipitor
+T8 Symptom 137 145 muscle pain
+T9 Disease 148 153 knees
+T10 Disease 178 186 shoulders
+T11 Symptom 192 207 constant shoulder pain
+T12 Disease 218 222 left
+T13 Disease 226 230 right
+T14 Disease 225 230 finger 
+T15 Disease 234 238 hand  
+T16 Symptom 240 248 numbness  
+T17 Symptom 265 274 pains
+T18 Drug 318 325 lipitor
+T19 Symptom 329 339 permanent damage
+T20 Drug 348 355 lipitor
+T21 Drug 359 365 lipitor

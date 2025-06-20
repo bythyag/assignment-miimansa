@@ -1,0 +1,27 @@
+T1 Symptom 0 5 Aches 
+T2 Symptom 6 11 pains 
+T3 Symptom 12 31 breathing difficulties 
+T4 Symptom 32 45 panic attacks 
+T5 Symptom 47 63 stength and stamina 
+T6 Symptom 64 76 destroyed 
+T7 Symptom 78 91 palpatations 
+T8 Symptom 93 117 strong tingling 
+T9 Symptom 120 126 hand 
+T10 Symptom 128 136 tinititis 
+T11 Symptom 138 144 occassional ear 
+T12 Symptom 145 151 aches 
+T13 Drug 168 175 zorloft 
+T14 Disease 185 195 depression 
+T15 Disease 202 208 anxiety 
+T16 Drug 210 215 noten 
+T17 Disease 229 242 heart palpatations 
+T18 Disease 248 255 stomach 
+T19 Drug 257 264 Lipitor 
+T20 Disease 273 282 cholesterol 
+T21 Disease 288 300 health 
+T22 Drug 305 312 lipitor 
+T23 Drug 338 343 noten 
+T24 Drug 345 352 zorloft 
+T25 Drug 358 363 VitC 
+T26 Drug 365 370 CoQ10 
+T27 Drug 375 381 omega 3

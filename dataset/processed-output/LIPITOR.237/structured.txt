@@ -1,0 +1,7 @@
+T1 Symptom 0 12 Muscle aches
+T2 Symptom 14 30 Vision severe impairment
+T3 Symptom 38 42 pain
+T4 Symptom 45 53 heaviness
+T5 Symptom 55 59 eyes
+T6 Symptom 91 94 eye
+T7 Symptom 95 99 pain

@@ -1,0 +1,7 @@
+T1 Symptom 0 8 Confusion
+T2 Symptom 21 43 short term memory loss
+T3 Symptom 45 63 lack of motivation
+T4 Drug 66 72 Lipitor
+T5 Disease 80 89 cholesterol
+T6 Symptom 107 119 memory loss
+T7 Disease 133 141 incipient dementia

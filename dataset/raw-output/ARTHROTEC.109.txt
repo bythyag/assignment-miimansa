@@ -1,0 +1,9 @@
+BIO Sequence:
+Upset O | stomach B-Symptom | and O | the O | feeling O | that O | I O | may O | need O | to O | throw O | up O | . O | The O | pain B-Symptom | in O | my O | stomach I-Symptom | is O | in O | the O | middle O | of O | my O | stomach I-Symptom | above O | my O | belly O | button O | and O | its O | a O | deep O | constant O | pain I-Symptom | . O | I O | also O | feel O | like O | I O | may O | need O | to O | go O | to O | the O | restroom O | , O | but O | when O | I O | do O | I O | can’t O | . O | MISERABLE O | !! O
+
+Structured Output:
+T1 Symptom 9 15 stomach
+T2 Symptom 44 48 pain
+T3 Symptom 66 72 stomach
+T4 Symptom 95 100 pain
+T5 Symptom 116 131 MISERABLE

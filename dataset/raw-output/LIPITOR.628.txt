@@ -1,0 +1,7 @@
+BIO Sequence:
+No O | noticeable O | side B-ADR | effects I-ADR | . O | Lowered O | cholesterol B-Symptom | and O | triglycerides I-Symptom | . O 
+
+Structured Output:
+T1 ADR 20 34 side effects
+T2 Symptom 40 49 cholesterol
+T3 Symptom 54 66 triglycerides

@@ -1,0 +1,17 @@
+T1 Disease 0 9 depression
+T2 Symptom 11 26 malaise
+T3 Symptom 28 34 nausea
+T4 Symptom 36 44 taste loss
+T5 Symptom 46 53 insomnia
+T6 Symptom 55 62 hair loss
+T7 Disease 64 73 bronchitis
+T8 Disease 78 81 flu
+T9 Symptom 95 110 abdominal pain
+T10 Symptom 112 127 muscle spasms
+T11 Symptom 132 136 legs
+T12 Symptom 141 145 left arm
+T13 Symptom 147 156 back pain
+T14 Symptom 172 181 head
+T15 Symptom 185 192 legs
+T16 Drug 215 219 drug
+T17 Drug 293 302 medication

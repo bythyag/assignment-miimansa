@@ -1,0 +1,10 @@
+T1 Symptom 61 65 pain
+T2 Symptom 85 90 crotch
+T3 Symptom 109 116 painful
+T4 Symptom 237 242 pain
+T5 Symptom 259 265 muscles
+T6 Disease 89 94 Enlarged liver
+T7 Drug 48 55 Lipitor
+T8 Drug 215 222 Lipitor
+T9 Drug 269 275 statins
+T10 Drug 291 297 Zetia

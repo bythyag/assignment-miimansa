@@ -1,0 +1,1 @@
+Severe B-Symptom | stomach I-Symptom | cramps I-Symptom | and O | diarrhea B-ADR | . O | I O | will O | never O | use O | it O | again O | , O | worst O | drug B-Drug | ever O | . O

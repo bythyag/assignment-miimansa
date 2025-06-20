@@ -1,0 +1,8 @@
+T1 ADR 62 66 rash
+T2 ADR 133 140 dizziness
+T3 ADR 143 151 bloated stomach
+T4 ADR 153 156 gas
+T5 ADR 158 164 muscle weakness
+T6 Symptom 174 179 kidney pain
+T7 ADR 185 192 weakness
+T8 ADR 215 219 rash

@@ -1,0 +1,5 @@
+T1 Symptom 0 14 severe back pain
+T2 Symptom 16 26 Extreme fatigue
+T3 Symptom 28 38 Mentally in a daze
+T4 Drug 71 77 Lipitor
+T5 Disease 96 100 LDL

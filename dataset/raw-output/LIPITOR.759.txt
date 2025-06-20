@@ -1,0 +1,12 @@
+BIO Sequence:
+As O | posted O | previously O | ( O | search O | on O | 269 O | ) O | I O | have O | been O | on O | a O | program O | of O | 12,000 B-Drug | mg./ O | day O | of O | vitamin B-Drug | C I-Drug | for O | three O | months O | in O | an O | effort O | to O | lower O | my O | cholesterol B-Disease | , O | and O | it O | is O | having O | a O | positive O | effect O | . O | My O | cholesterol O | has O | dropped O | from O | 269 B-Disease | to O | 240 O | . O | I O | now O | have O | increased O | my O | intake O | of O | Vitamin B-Drug | C I-Drug | to O | 16,000 B-Drug | mg O | / O | day O | , O | and O | we O | 'll O | see O | how O | this O | works O | out O | . O | ALL O | of O | the O | negative O | side O | effects O | of O | Lipitor B-Drug | have O | disappeared O | ( O | only O | took O | 5 O | months O | ) O | , O | and O | I O | 'm O | optimistic O | about O | the O | Vitamin B-Drug | C I-Drug | . O | Be O | afraid O | , O | be O | very O | afraid O | . O 
+
+Structured Output:
+T1 Drug 54 61 12,000
+T2 Drug 66 70 vitamin C
+T3 Disease 116 126 cholesterol
+T4 Disease 128 131 269
+T5 Drug 136 141 Vitamin C
+T6 Drug 144 149 16,000
+T7 Drug 182 188 Lipitor
+T8 Drug 199 204 Vitamin C

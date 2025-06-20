@@ -1,0 +1,10 @@
+T1 Symptom 37 44 burning
+T2 Symptom 55 64 esophagus
+T3 Symptom 85 95 dry heaves
+T4 Symptom 105 112 stomach
+T5 ADR 126 132 vomit
+T6 Symptom 144 151 burning
+T7 Drug 174 180 Cambia
+T8 Drug 193 199 Maxalt
+T9 Drug 209 216 triptans
+T10 Disease 239 248 migraines

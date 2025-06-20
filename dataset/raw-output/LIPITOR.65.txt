@@ -1,0 +1,10 @@
+BIO Sequence:
+nausea B-ADR | , O | no O | sleep B-Symptom | , O | bad B-Symptom | dreams I-Symptom | , O | muscle B-Symptom | and O | joint B-Symptom | pain I-Symptom | , O | tiredness B-Symptom | . O | There O | must O | be O | something O | better O | than O | this O | . O | I O | am O | going O | to O | try O | POLICOSANOL B-Drug | . O
+
+Structured Output:
+T1 ADR 1 6 nausea
+T2 Symptom 10 14 sleep
+T3 Symptom 16 25 bad dreams
+T4 Symptom 27 44 muscle and joint pain
+T5 Symptom 46 55 tiredness
+T6 Drug 61 73 POLICOSANOL

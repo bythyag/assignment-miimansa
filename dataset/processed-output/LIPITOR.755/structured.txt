@@ -1,0 +1,9 @@
+T1 Symptom 9 16 stomach discomfort
+T2 Symptom 21 25 pain
+T3 Symptom 27 36 distension
+T4 Symptom 38 40 gas
+T5 Symptom 42 47 muscle aches
+T6 Symptom 49 54 leg cramps
+T7 Symptom 80 86 relief
+T8 Symptom 93 101 symptons
+T9 Drug 113 122 alternative

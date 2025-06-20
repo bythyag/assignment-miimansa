@@ -1,0 +1,11 @@
+T1 Symptom 0 6 Muscle weakness
+T2 Symptom 8 30 lack of concentration
+T3 Symptom 32 42 joint pain
+T4 Symptom 44 64 abnormal liver function
+T5 Disease 66 85 unknown skin condition
+T6 ADR 97 110 side effects
+T7 ADR 125 131 puffy
+T8 ADR 136 141 scaly
+T9 Drug 158 165 lipitor
+T10 Drug 172 179 lipitor
+T11 Drug 184 191 statin

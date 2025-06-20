@@ -1,0 +1,24 @@
+T1 Disease 12 20 diabetic 
+T2 Drug 61 66 insulin 
+T3 Drug 8 15 Lipitor
+T4 Drug 18 23 mg/day
+T5 Symptom 63 67 200
+T6 Symptom 114 129 unsteadiness
+T7 Symptom 144 150 balance
+T8 Symptom 157 160 pain
+T9 Drug 169 178 Neurontin
+T10 Symptom 191 198 weakness
+T11 Symptom 205 211 limping
+T12 Symptom 215 222 numbness
+T13 Symptom 232 247 weakness
+T14 Drug 265 271 Lipitor
+T15 Symptom 275 282 improvement
+T16 Symptom 389 394 balance
+T17 Symptom 411 423 glucose
+T18 Drug 431 438 Lipitor
+T19 Drug 448 455 Neurontin
+T20 Drug 460 470 coenzyme Q10
+T21 Drug 471 479 mg/day
+T22 Drug 481 486 Lipitor
+T23 Drug 493 499 statin
+T24 Drug 510 516 statin

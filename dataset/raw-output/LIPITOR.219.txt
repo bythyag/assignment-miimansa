@@ -1,0 +1,15 @@
+BIO Sequence:
+I O | was O | taking O | this O | medication O | for O | 2 O | months O | . O | Intense B-Symptom | pain I-Symptom | in O | both O | calves B-Symptom | and O | thighs B-Symptom | when O | walking O | only O | a O | few O | blocks O | . O | Pain B-Symptom | in O | lower B-Symptom | back I-Symptom | , O | forearms B-Symptom | and O | left B-Symptom | shoulder I-Symptom | . O | I O | thought O | I O | was O | getting O | PAD B-Disease | . O | I O | couldn't O | climb O | stairs O | or O | walk O | while O | shopping O | with O | my O | wife O | . O | I O | needed O | to O | rest O | every O | few O | minutes O | . O | I O | don't O | even O | have O | high O | cholesterol O | , O | but O | my O | cardiologist B-Disease | suggested O | I O | take O | Lipitor B-Drug | as O | a O | preventitive O | treatment O | . O | I'm O | glad O | I O | found O | this O | site O | . O | I O | have O | stopped O | taking O | it O | for O | 3 O | days O | now O | , O | but O | pain B-Symptom | persists O | . O
+
+Structured Output:
+T1 Symptom 43 48 Intense pain  
+T2 Symptom 53 58 calves  
+T3 Symptom 63 68 thighs  
+T4 Symptom 74 78 Pain  
+T5 Symptom 82 87 lower back  
+T6 Symptom 89 97 forearms  
+T7 Symptom 102 109 left shoulder  
+T8 Disease 38 41 PAD  
+T9 Disease 114 127 cardiologist  
+T10 Drug 149 155 Lipitor  
+T11 Symptom 186 191 pain  

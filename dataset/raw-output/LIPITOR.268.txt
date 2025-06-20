@@ -1,0 +1,15 @@
+BIO Sequence:
+Oddly O | , O | only O | positive O | . O | I O | seem O | to O | sleep B-Symptom | better O | and O | have O | lots O | of O | interesting O | dreams B-Symptom | . O | No O | adverse B-ADR | effects I-ADR | . O | Was O | on O | Niacin B-Drug | ( O | 500mg O | ) O | for O | 90 O | days O | , O | but O | showed O | no O | improvement O | . O | Tried O | Tricor B-Drug | for O | about O | 8 O | days O | , O | but O | couldn't O | deal O | with O | the O | side-effects B-ADR | ( O | sore B-ADR | joints I-ADR | , O | sleeplessness B-ADR | , O | gas B-ADR | ) O | . O | Been O | on O | 20mg O | Lipitor B-Drug | for O | 30 O | days O | now O | , O | but O | won't O | know O | any O | benefit O | for O | another O | 60 O | days O | . O |
+
+Structured Output:
+T1 Symptom 48 53 sleep
+T2 Symptom 66 71 dreams
+T3 ADR 82 96 adverse effects
+T4 Drug 98 105 Niacin
+T5 Drug 113 119 Tricor
+T6 ADR 124 136 side-effects
+T7 ADR 138 143 sore
+T8 ADR 145 151 joints
+T9 ADR 153 166 sleeplessness
+T10 ADR 168 171 gas
+T11 Drug 174 180 Lipitor

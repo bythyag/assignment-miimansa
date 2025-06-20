@@ -1,0 +1,10 @@
+T1 Symptom 0 17 Severe back pain
+T2 Symptom 18 33 muscles pain
+T3 Symptom 34 49 loss of energy
+T4 Disease 51 60 depression
+T5 Symptom 68 73 pains
+T6 Drug 79 86 thyroid
+T7 Drug 88 98 testonrone
+T8 Drug 100 109 trazadone
+T9 Drug 113 120 Lipitor
+T10 Drug 122 128 lipitor

@@ -1,0 +1,16 @@
+BIO Sequence:
+Muscle B-Symptom | and O | joint B-Symptom | pain I-Symptom | developed O | after O | approx O | 12 O | months O | . O | Began O | to O | spread O | to O | legs B-Symptom | , O | buttocks B-Symptom | , O | elbow B-Symptom | . O | Stopped O | taking O | 10mg B-Drug | / O | day O | dosage O | on O | march O | 17th O | , O | will O | hope O | I O | start O | to O | feel O | positive O | results O | . O | Doctor O | had O | my O | on O | Lipitor B-Drug | and O | Tricor B-Drug | which O | seems O | to O | increase O | the O | chances O | of O | side B-ADR | effects I-ADR | . O | This O | is O | very O | scary O | , O | thought O | I O | had O | some O | type O | of O | bone B-Disease | cancer I-Disease | . O | Will O | never O | take O | this O | drug B-Drug | again O | . O 
+
+Structured Output:
+T1 Symptom 0 6 Muscle
+T2 Symptom 10 15 joint
+T3 Symptom 16 20 pain
+T4 Symptom 54 58 legs
+T5 Symptom 60 69 buttocks
+T6 Symptom 71 76 elbow
+T7 Drug 83 87 10mg
+T8 Drug 102 108 Lipitor
+T9 Drug 114 120 Tricor
+T10 ADR 132 145 side effects
+T11 Disease 157 162 bone cancer
+T12 Drug 169 173 drug

@@ -1,0 +1,8 @@
+T1 Drug 79 84 Miracle drug
+T2 Symptom 120 133 vibrating sensation
+T3 Symptom 150 155 ached
+T4 Symptom 162 171 arthritic
+T5 Symptom 178 184 memory
+T6 Symptom 195 205 coordination
+T7 Drug 233 240 Statins
+T8 Drug 248 255 lipitor

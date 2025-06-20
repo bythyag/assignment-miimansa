@@ -1,0 +1,22 @@
+T1 Symptom 0 7 extreme fatigue
+T2 Symptom 9 30 short term memory loss
+T3 Symptom 32 47 muscle weakness
+T4 Symptom 49 56 hip pain
+T5 Symptom 58 73 cramping in toes
+T6 Drug 36 43 lipitor
+T7 Disease 60 70 cholesterol
+T8 Drug 75 83 magnesium
+T9 Drug 85 91 omega 3
+T10 Drug 93 104 olive oil
+T11 Disease 124 134 cholesterol
+T12 Disease 136 145 cholesterol
+T13 Disease 162 172 Heart doctor
+T14 Drug 224 231 lipitor
+T15 Disease 243 259 arterial walls
+T16 Disease 261 266 heart
+T17 ADR 282 295 side effects
+T18 ADR 313 331 extreme tiredness
+T19 ADR 342 347 malais
+T20 Drug 366 372 Lipitor
+T21 Disease 376 386 cholesterol
+T22 ADR 418 430 side effects

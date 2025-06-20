@@ -1,0 +1,1 @@
+Possible O | body B-Symptom | stiffness I-Symptom | and O | joint B-Symptom | pain I-Symptom

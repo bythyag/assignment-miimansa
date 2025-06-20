@@ -1,0 +1,11 @@
+BIO Sequence:
+fuzzy B-Symptom | vision I-Symptom | , O | bad O | because O | I O | only O | have O | vision I-Symptom | in O | one O | eye O | . O | A O | month O | after O | quiting O | , O | it O | has O | NOT O | gone O | away O | . O | migraine B-Symptom | almost O | daily O | , O | tintinitus B-Symptom | , O | . O | Since O | I O | found O | later O | that O | vision I-Symptom | problems O | were O | listed O | as O | a O | side O | effect O | , O | I O | have O | great O | concern O | that O | my O | doctor O | , O | who O | was O | aware O | of O | my O | vision I-Symptom | problems O | , O | prescribed O | this O | drug B-Drug | . O 
+
+Structured Output:
+T1 Symptom 0 11 fuzzy vision
+T2 Symptom 17 26 vision
+T3 Symptom 82 89 migraine
+T4 Symptom 98 107 tintinitus
+T5 Symptom 114 125 vision problems
+T6 Symptom 151 158 vision problems
+T7 Drug 206 210 this drug

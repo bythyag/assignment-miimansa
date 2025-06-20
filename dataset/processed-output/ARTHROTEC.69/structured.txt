@@ -1,0 +1,4 @@
+T1 Symptom 5 8 gas  
+T2 Symptom 10 18 diarrhea  
+T3 Drug 42 60 anti-inflammatories  
+T4 Symptom 83 87 pain

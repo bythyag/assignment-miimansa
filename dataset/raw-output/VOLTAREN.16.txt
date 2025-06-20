@@ -1,0 +1,12 @@
+BIO Sequence:
+Taken O | for O | excruciating O | disc B-Disease | related O | shooting O | pains B-Symptom | through O | my O | hips B-Disease | and O | down O | both O | legs B-Disease | . O | Was O | fine O | for O | the O | first O | 2 O | days O | , O | didn't O | feel O | much O | change O | in O | the O | pain B-Symptom | but O | started O | feeling O | nauseous B-ADR | all O | the O | time O | which O | makes O | it O | hard O | to O | take O | because O | I O | need O | to O | take O | them O | with O | food O | . O | Havent O | had O | any O | for O | 2 O | days O | and O | still O | feel O | sick B-ADR | all O | the O | time O | , O | I'm O | supposed O | to O | take O | them O | for O | 3 O | weeks O | but O | I O | think O | I'll O | just O | go O | back O | to O | the O | dr O | and O | ask O | for O | the O | cortisone B-Drug | injection O | . O
+
+Structured Output:
+T1 Disease 39 43 disc
+T2 Symptom 49 54 pains
+T3 Disease 60 64 hips
+T4 Disease 73 77 legs
+T5 Symptom 92 96 pain
+T6 ADR 114 122 nauseous
+T7 ADR 139 143 sick
+T8 Drug 196 204 cortisone

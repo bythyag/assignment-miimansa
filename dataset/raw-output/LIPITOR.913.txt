@@ -1,0 +1,16 @@
+BIO Sequence:
+Muscle O | pain B-Symptom | ( O | severe B-Symptom | neck I-Symptom | , O | shoulder I-Symptom | , O | back I-Symptom | pain I-Symptom | . O | leg B-Symptom | pain I-Symptom | ) O | has O | become O | increasingly O | pronounced O | in O | the O | past O | few O | months O | ( O | have O | taken O | Lipitor B-Drug | for O | 3+ O | years O | ) O | . O | Dr O | suggests O | side O | effects B-ADR | may O | be O | due O | to O | cumulative B-ADR | effect I-ADR | - O | will O | cease O | taking O | for O | approx O | 2 O | weeks O | to O | determine O | if O | there O | is O | any O | improvement O | . O
+
+Structured Output:
+T1 Symptom 6 10 pain
+T2 Symptom 12 18 severe
+T3 Symptom 20 25 neck
+T4 Symptom 27 35 shoulder
+T5 Symptom 37 41 back
+T6 Symptom 43 47 pain
+T7 Symptom 50 56 leg
+T8 Symptom 58 62 pain
+T9 Drug 93 99 Lipitor
+T10 ADR 113 127 side effects
+T11 ADR 136 145 cumulative
+T12 ADR 147 153 effect

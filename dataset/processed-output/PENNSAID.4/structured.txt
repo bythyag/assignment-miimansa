@@ -1,0 +1,8 @@
+T1 Drug 5 9 drug
+T2 Symptom 76 81 pain
+T3 Symptom 84 88 relievers
+T4 Disease 109 113 knee
+T5 Disease 122 130 surgeries
+T6 Disease 141 150 replacements
+T7 Symptom 158 162 pain
+T8 Drug 166 171 meds

@@ -1,0 +1,19 @@
+BIO Sequence:
+incredible O | depression B-Symptom | almost O | immediately O | after O | I O | started O | taking O | it O | . O | crying B-ADR | all O | the O | time O | , O | not O | sleeping B-Symptom | , O | reliving B-Symptom | of O | past O | terrible O | events O | that O | had O | occurred O | in O | my O | life O | , O | like O | someone O | pushing O | a O | doorbell O | and O | holding O | it O | to O | keep O | ringing O | and O | reliving O | all O | the O | terrible O | negative O | things O | in O | my O | life O | over O | and O | over O | again O | . O | I O | kept O | asking O | my O | doctor O | if O | there O | were O | any O | side B-ADR | effects I-ADR | like O | mine O | and O | he O | said O | no O | . O | I O | had O | been O | taking O | zocor B-Drug | with O | no O | problem O | but O | insurance O | company O | wouldn't O | pay O | for O | it O | anymore O | and O | made O | me O | go O | on O | lipitor B-Drug | . O | After O | about O | six O | months O | I O | had O | my O | docteor O | write O | a O | letter O | to O | ins. O | co. O | saying O | I O | couldn't O | take O | lipitor B-Drug | and O | they O | agreed O | to O | put O | me O | back O | on O | zocor B-Drug | . O | But O | the O | long O | term O | effect O | of O | those O | six O | months O | sent O | me O | into O | a O | psyhcological B-Disease | tailspin I-Disease | that O | I O | never O | recovered O | from O | . O | I O | went O | to O | three O | psychiatrist O | and O | they O | finally O | came O | up O | with O | a O | diagnoses B-Disease | of O | bipolar I-Disease | disorder I-Disease | . O | Cause O | unknown O | . O | This O | was O | three O | years O | ago O | . O | The O | drug O | ruined O | my O | life O | , O | I O | am O | now O | seperated O | after O | this O | all O | occurred O | and O | before O | the O | lipitor B-Drug | I O | was O | an O | energtic O | happy O | family O | man O | with O | a O | great O | wife O | and O | two O | kids O | . O | I O | know O | it O | was O | the O | lipitor B-Drug | because O | the O | only O | other O | medication O | I O | take O | is O | an O | aspirin B-Drug | once O | a O | day O | . O
+
+Structured Output:
+T1 Symptom 12 21 depression
+T2 ADR 87 93 crying
+T3 Symptom 109 116 sleeping
+T4 Symptom 126 134 reliving
+T5 ADR 198 210 side effects
+T6 Drug 174 179 zocor
+T7 Drug 200 207 lipitor
+T8 Drug 229 234 lipitor
+T9 Drug 247 252 zocor
+T10 Disease 280 293 psyhcological tailspin
+T11 Disease 309 318 diagnoses
+T12 Disease 322 329 bipolar disorder
+T13 Drug 350 357 lipitor
+T14 Drug 365 372 lipitor
+T15 Drug 431 438 aspirin

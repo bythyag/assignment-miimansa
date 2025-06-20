@@ -1,0 +1,30 @@
+BIO Sequence:
+jointaches O | , O | pains B-Symptom | in O | legs B-Symptom | , O | musclesoreness B-Symptom | . O | feet B-Symptom | pains I-Symptom | , O | hips B-Symptom | neck B-Symptom | , O | backpain B-Symptom | , O | fingers B-Symptom | , O | toes B-Symptom | , O | head B-Symptom | , O | chest B-Symptom | , O | ribs B-Symptom | hurt O | . O | rashes B-ADR | , O | itches B-ADR | . O | have O | been O | on O | lipitor B-Drug | for O | 4 O | + O | yrs O | . O | i O | have O | type2 B-Disease | diabetes I-Disease | . O | had O | 2 O | knee B-Disease | surguries I-Disease | . O | things O | have O | got O | worse O | instead O | of O | better O | . O | i O | am O | 54 B-Disease | yrs O | old O | female O | and O | feel O | much O | older O | . O | ww O | . O | ihave O | stopped O | taking O | this O | drug B-Drug | . O | i O | havent O | took O | it O | for O | 2 B-ADR | days I-ADR | and O | am O | feeling O | better O | hope O | i O | continue O | too O | . O | also O | on O | capiten B-Drug | , O | glcotrol B-Drug | , O | toprol B-Drug | , O | lasix B-Drug | , O | & O | ultram B-Drug | . O 
+
+Structured Output:
+T1 Symptom 10 15 pains
+T2 Symptom 19 23 legs
+T3 Symptom 26 41 musclesoreness
+T4 Symptom 43 53 feet pains
+T5 Symptom 55 59 hips
+T6 Symptom 61 65 neck
+T7 Symptom 67 75 backpain
+T8 Symptom 77 83 fingers
+T9 Symptom 85 89 toes
+T10 Symptom 91 95 head
+T11 Symptom 97 102 chest
+T12 Symptom 104 108 ribs
+T13 ADR 110 115 rashes
+T14 ADR 117 123 itches
+T15 Drug 64 70 lipitor
+T16 Disease 125 136 type2 diabetes
+T17 Disease 139 143 knee
+T18 Disease 146 159 surguries
+T19 Disease 163 165 54
+T20 Drug 182 186 drug
+T21 ADR 205 210 2
+T22 Drug 218 225 capiten
+T23 Drug 227 235 glcotrol
+T24 Drug 237 244 toprol
+T25 Drug 246 252 lasix
+T26 Drug 254 260 ultram

@@ -1,0 +1,14 @@
+BIO Sequence:
+Taking O | 10 O | mg. O | and O | experiencing O | pain B-Symptom | in O | feet B-Symptom | and O | legs B-Symptom | , O | including O | terrible O | leg B-ADR | cramps I-ADR | . O | Also O | have O | difficulty B-Symptom | sleeping I-Symptom | , O | occasional O | headaches B-Symptom | and O | fatigue B-Symptom | . O | Sex O | drive O | has O | decreased B-ADR | too O | . O | Wondering O | if O | the O | benefits O | are O | worth O | putting O | up O | with O | all O | of O | this O | . O | Cholesterol B-Disease | dropped O | from O | 225 O | to O | 145 O | , O | but O | will O | ask O | doctor O | for O | an O | alternative B-Drug | . O | 
+
+Structured Output:
+T1 Symptom 49 53 pain
+T2 Symptom 58 62 feet
+T3 Symptom 67 71 legs
+T4 ADR 88 96 leg cramps
+T5 Symptom 109 118 difficulty sleeping
+T6 Symptom 120 129 headaches
+T7 Symptom 133 140 fatigue
+T8 ADR 151 158 decreased
+T9 Disease 3 12 Cholesterol
+T10 Drug 163 172 alternative

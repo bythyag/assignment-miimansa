@@ -1,0 +1,20 @@
+BIO Sequence:
+Will O | not O | continue O | taking O | Lipitor B-Drug | ! O | After O | taking O | for O | only O | 3 O | days O | I O | experienced O | general O | overal O | weakness B-Symptom | . O | fatigue B-Symptom | . O | nausea B-ADR | . O | diziness B-ADR | . O | trembling B-ADR | . O | trouble B-Symptom | concentrating I-Symptom | . O | sadness B-Symptom | . O | moodiness B-Symptom | . O | insomia B-Symptom | . O | neck B-Symptom | pain I-Symptom | . O | dull B-Symptom | headaches I-Symptom | . O | feverish B-Symptom | . O | clamy B-Symptom | feeling I-Symptom | . O | tingly B-Symptom | feeling I-Symptom | in O | hands B-Symptom | and O | scalp B-Symptom | . O | basically O | felt O | rotton B-Symptom | all O | day O | long O | . O | Would O | wake O | up O | feeling O | good O | , O | but O | about O | an O | hour O | or O | so O | after O | taking O | Lipitor B-Drug | all O | the O | above O | symptoms B-Symptom | returned O | . O | Others O | swear O | by O | this O | drug B-Drug | , O | but O | they O | can O | have O | it O | . O | Doctor O | took O | me O | off O | of O | it O | , O | but O | I O | would O | have O | done O | so O | myself O | anyway O | . O | Felt O | like O | I O | was O | being O | poisened B-ADR | quite O | honestly O | ! O | Thank O | GOD O | I O | found O | this O | website O | , O | as O | all O | I O | could O | find O | on O | the O | web O | was O | how O | WONDERFUL O | Lipitor B-Drug | is O | ! O | Maybe O | for O | some O | , O | but O | not O | for O | all O | of O | us O | obviously O | . O |
+
+Structured Output:
+T1 Drug 26 32 Lipitor
+T2 ADR 75 81 nausea
+T3 ADR 84 90 diziness
+T4 ADR 94 102 trembling
+T5 Symptom 113 130 trouble concentrating
+T6 Symptom 133 139 sadness
+T7 Symptom 142 150 moodiness
+T8 Symptom 153 160 insomia
+T9 Symptom 169 177 neck pain
+T10 Symptom 180 194 dull headaches
+T11 Symptom 196 203 feverish
+T12 Symptom 206 218 clamy feeling
+T13 Symptom 220 234 tingly feeling
+T14 Symptom 249 255 rotton
+T15 ADR 289 298 poisened
+T16 Drug 331 337 Lipitor

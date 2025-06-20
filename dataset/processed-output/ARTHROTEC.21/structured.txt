@@ -1,0 +1,5 @@
+T1 Symptom 32 44 pain relief
+T2 Symptom 72 78 cramps
+T3 Symptom 83 108 heavy vaginal bleeding
+T4 Disease 118 124 period
+T5 Drug 126 130 med

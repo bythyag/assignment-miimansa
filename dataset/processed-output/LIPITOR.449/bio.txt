@@ -1,0 +1,1 @@
+Extreme O | tiredness B-Symptom | and O | flatulence B-Symptom | . O | Not O | sure O | whether O | it O | is O | the O | Lipitor B-Drug | but O | I O | am O | now O | tired B-Symptom | to O | the O | point O | of O | exhaustion B-Symptom | . O | Is O | it O | work O | , O | is O | it O | me O | getting O | older O | or O | is O | it O | the O | Lipitor B-Drug | ?? O | . O

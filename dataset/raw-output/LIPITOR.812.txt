@@ -1,0 +1,16 @@
+BIO Sequence:
+Abdominal B-Symptom | pain I-Symptom | , O | headaches B-Symptom | , O | diarrea B-Symptom | , O | nausea B-Symptom | , O | heartburn B-Symptom | , O | weakness B-Symptom | , O | muscle B-Symptom | pain I-Symptom | , O | flu B-Symptom | symptoms I-Symptom | , O | bad B-Symptom | taste I-Symptom | in O | mouth O | to O | the O | point O | I O | could O | not O | eat O | , O | Where O | do O | I O | stop O | , O | there O | were O | so O | many O | . O | For O | me O | I O | believe O | that O | this O | drug B-Drug | is O | a O | poison O | . O | My O | doctor O | gave O | me O | a O | low O | 10mg B-Drug | . O | dose O | so O | it O | took O | several O | months O | of O | slowly O | getting O | sick O | to O | be O | almost O | incapacitated O | . O | Do O | yourself O | a O | favor O | , O | its O | called O | diet B-Disease | . O 
+
+Structured Output:
+T1 Symptom 0 10 Abdominal pain
+T2 Symptom 12 20 headaches
+T3 Symptom 22 29 diarrea
+T4 Symptom 31 37 nausea
+T5 Symptom 39 47 heartburn
+T6 Symptom 49 56 weakness
+T7 Symptom 58 68 muscle pain
+T8 Symptom 70 82 flu symptoms
+T9 Symptom 84 95 bad taste in mouth
+T10 Drug 191 195 drug
+T11 Drug 205 209 10mg
+T12 Disease 210 214 diet

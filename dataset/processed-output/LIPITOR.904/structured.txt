@@ -1,0 +1,16 @@
+T1 Symptom 0 17 Abdominal distention
+T2 Symptom 26 33 feel full
+T3 Symptom 38 46 back pain
+T4 Symptom 48 56 leg cramps
+T5 Symptom 58 70 Weird tight feeling
+T6 Symptom 72 76 Gas
+T7 Symptom 78 86 insomnia
+T8 Symptom 89 104 loss of muscle strength
+T9 Symptom 107 112 Sores
+T10 Symptom 115 127 Weird tight feeling
+T11 Symptom 130 142 chest cavity
+T12 Drug 241 244 med
+T13 Drug 254 258 drug
+T14 ADR 261 270 side effects
+T15 Drug 273 277 drug
+T16 Symptom 343 346 tryc

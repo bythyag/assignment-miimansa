@@ -1,0 +1,2 @@
+T1 Symptom 0 8 leg pain
+T2 Disease 19 27 condition

@@ -1,0 +1,1 @@
+extreme B-Symptom | moodiness I-Symptom | , O | constipation B-Symptom | , O | irritibility B-Symptom | , O | anger B-Symptom | . O

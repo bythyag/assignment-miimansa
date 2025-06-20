@@ -1,0 +1,10 @@
+T1 Symptom 0 4 loss
+T2 Symptom 21 31 concentrate
+T3 Drug 72 76 20mg
+T4 Drug 86 93 Crestor
+T5 Drug 95 100 10mg
+T6 ADR 115 126 pain
+T7 Drug 132 138 Lipitor
+T8 Symptom 213 217 memory
+T9 Symptom 223 227 loss
+T10 Symptom 232 242 concentrate

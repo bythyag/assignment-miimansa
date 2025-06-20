@@ -1,0 +1,8 @@
+T1 Drug 30 39 Pravachol
+T2 Drug 53 60 Lipitor
+T3 Drug 61 65 40mg
+T4 Drug 78 82 80mg
+T5 Symptom 129 133 HDL
+T6 Symptom 135 139 LDL
+T7 Drug 164 169 Pzier
+T8 Drug 177 184 generic

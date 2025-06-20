@@ -1,0 +1,5 @@
+T1 Symptom 0 5 weight gain  
+T2 Symptom 7 16 confusion  
+T3 Symptom 18 26 depression  
+T4 Drug 36 43 LIPITOR  
+T5 Drug 51 57 Pfizer

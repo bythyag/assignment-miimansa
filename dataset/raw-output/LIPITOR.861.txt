@@ -1,0 +1,20 @@
+BIO Sequence:
+feeling O | in O | a O | fog B-Symptom | , O | memory B-Symptom | problems I-Symptom | ; O | muscle B-Symptom | weakness I-Symptom | in O | mouth B-Disease | area I-Disease | causing O | speech B-Symptom | difficulties I-Symptom | like O | pronunciation B-Symptom | , O | and O | chewing/swallowing B-Symptom | difficulties I-Symptom | like O | biting B-Symptom | my O | tongue B-Symptom | and O | inside O | my O | cheek B-Symptom | ; O | muscle B-Symptom | weakness I-Symptom | in O | my O | right B-Disease | hand I-Disease | causing O | me O | to O | lose O | grip B-Symptom | and O | drop O | things O | ; O | balance B-Symptom | problems I-Symptom | when O | turning O | around O | or O | standing O | to O | walking O | movements O | . O | I O | was O | not O | informed O | by O | my O | doctor O | to O | look O | out O | for O | these O | symptoms O | , O | in O | fact O | she O | did O | not O | feel O | they O | were O | connected O | to O | the O | Lipitor B-Drug | . O | I O | know O | my O | body O | and O | this O | is O | not O | me O | . O | I O | am O | going O | to O | stop O | and O | see O | what O | happens O | . O 
+
+Structured Output:
+T1 Symptom 23 26 fog
+T2 Symptom 40 53 memory problems
+T3 Symptom 55 60 muscle weakness
+T4 Disease 62 66 mouth
+T5 Symptom 67 81 speech difficulties
+T6 Symptom 90 102 pronunciation
+T7 Symptom 104 126 chewing/swallowing difficulties
+T8 Symptom 131 138 biting
+T9 Symptom 143 148 tongue
+T10 Symptom 153 158 cheek
+T11 Symptom 164 177 muscle weakness
+T12 Disease 179 182 right
+T13 Disease 184 188 hand
+T14 Symptom 196 200 grip
+T15 Symptom 213 220 balance problems
+T16 Drug 237 244 Lipitor

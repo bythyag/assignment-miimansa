@@ -1,0 +1,17 @@
+BIO Sequence:
+Heart B-Disease | attack I-Disease | Nov O | 2001 O | , O | no O | surgery O | . O | Quit O | smoking O | , O | retired O | June O | 2002 O | . O | Dec O | 2003 O | , O | started O | 1/day O | 10 B-Drug | mg I-Drug | Lipitor B-Drug | after O | Zocor B-Drug | CRIPPLED O | me O | and O | Powder O | stuff O | did O | nothing O | . O | Best O | blood O | tests O | ever O | , O | low O | dosage O | , O | felt O | great O | ! O | Dec O | 2006 O | , O | started O | mild B-Symptom | diarrhea I-Symptom | , O | maybe O | once O | every O | three O | weeks O | for O | a O | day O | or O | so O | . O | Thought O | it O | was O | previous O | nites O | dinner O | . O | Became O | more O | frequent O | . O | Started O | taking O | surface O | streets O | to O | work O | , O | so O | I O | could O | find O | bathrooms O | . O | Had O | 2 O | step O | trots O | , O | if O | I O | could O | not O | get O | to O | the O | pot O | in O | two O | steps O | , O | it O | was O | in O | my O | pants O | ! O | Could O | NOT O | HOLD O | IT O | ! O | Lots O | of O | brown B-Symptom | water I-Symptom | . O | Got O | more O | explosive O | . O | Just O | terrible O | . O | I'd O | get O | to O | work O | , O | then O | crap O | my O | pants O | walking O | across O | the O | parking O | lot O | . O | Was O | as O | often O | as O | every O | other O | day O | . O | Would O | crap O | on O | and O | off O | for O | 2 O | , O | 3 O | , O | 4 O | hours O | ! O | Started O | carrying O | big O | wad O | of O | toilet O | paper O | in O | my O | back O | pocket O | . O | April O | 2006 O | , O | quit O | Lipitor B-Drug | . O | 5 O | days O | - O | regular O | bowel O | movements O | ! O | Quit O | Lipitor B-Drug | ! O | Tried O | Crestor B-Drug | , O | but O | had O | muscle B-ADR | ache/pain I-ADR | , O | not O | as O | bad O | as O | ZOCOR B-Drug | ! O | On O | Aug O | 8-06 O | took O | 1 O | , O | 10 B-Drug | mg I-Drug | , O | Lipitor B-Drug | for O | 5 O | succesive O | days O | . O | Aug O | 12-06 O | , O | practically O | b. O | Worked O | great O | on O | my O | cholesterol O | . O | Diarrehea B-ADR | prevents O | continued O | use O | . O 
+
+Structured Output:
+T1 Disease 0 10 Heart attack
+T2 Drug 54 60 Lipitor
+T3 Drug 66 72 Zocor
+T4 Symptom 144 150 diarrhea
+T5 Symptom 182 187 brown water
+T6 Drug 272 278 Lipitor
+T7 Drug 292 298 Lipitor
+T8 Drug 307 313 Crestor
+T9 ADR 332 352 muscle ache/pain
+T10 Drug 358 364 ZOCOR
+T11 Drug 375 382 Lipitor
+T12 Drug 397 403 Lipitor
+T13 ADR 408 415 Diarrehea

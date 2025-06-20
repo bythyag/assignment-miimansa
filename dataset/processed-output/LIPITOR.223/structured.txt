@@ -1,0 +1,9 @@
+T1 Drug 8 14 Lipitor
+T2 ADR 79 83 joint pain
+T3 Symptom 96 100 hips
+T4 ADR 124 128 joint pain
+T5 Symptom 145 150 sleep
+T6 Symptom 153 161 shoulder
+T7 Symptom 165 168 hip pain
+T8 Symptom 171 179 range of motion
+T9 ADR 198 203 pains

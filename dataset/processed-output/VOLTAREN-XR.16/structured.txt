@@ -1,0 +1,7 @@
+T1 Symptom 34 51 stomach discomfort
+T2 Drug 92 100 voltaren
+T3 Disease 106 111 gout
+T4 Disease 126 130 gout
+T5 Symptom 145 150 blood test
+T6 Symptom 166 171 liver
+T7 Symptom 176 182 kidneys

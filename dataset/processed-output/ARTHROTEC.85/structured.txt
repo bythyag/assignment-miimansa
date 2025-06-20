@@ -1,0 +1,11 @@
+T1 ADR 29 43 side effects
+T2 ADR 45 52 Dizziness
+T3 ADR 63 72 faintness
+T4 ADR 74 86 disorientation
+T5 Symptom 91 106 Major stomach pain
+T6 Symptom 107 130 massive gas cramps
+T7 Symptom 135 143 bloating
+T8 Symptom 157 164 runs
+T9 Symptom 166 177 heart attack
+T10 Symptom 180 186 stroke
+T11 Symptom 200 204 sick

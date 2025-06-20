@@ -1,0 +1,1 @@
+None O | identified O | . O | Currently O | taking O | 20 B-Drug | mg I-Drug | / O | day O | . O | Has O | reduced O | LDL B-Disease | and O | total O | cholesterol B-Disease | effectively O | ( O | latter O | to O | ca. O | 100 O | ) O | , O | but O | HDL B-Disease | is O | still O | low O | . O

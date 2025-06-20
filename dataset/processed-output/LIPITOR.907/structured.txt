@@ -1,0 +1,6 @@
+T1 Symptom 1 6 Severe
+T2 Symptom 20 34 back pain
+T3 Symptom 48 66 aching pain
+T4 Symptom 72 77 weak
+T5 Drug 149 156 statins
+T6 Drug 171 177 statin

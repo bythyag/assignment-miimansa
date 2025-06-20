@@ -1,0 +1,1 @@
+and O | a O | doctor O | told O | me O | to O | stop O | taking O | it O | I O | would O | not O | recomend O | anyone O | to O | take O | the O | drug B-Drug | .

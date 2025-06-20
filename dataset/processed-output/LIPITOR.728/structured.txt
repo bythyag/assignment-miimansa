@@ -1,0 +1,8 @@
+T1 Symptom 50 55 stabbing pain
+T2 Symptom 100 105 stabbing pain
+T3 Symptom 161 165 odd sensation
+T4 Symptom 227 233 ringing
+T5 Symptom 244 250 painful
+T6 Drug 318 325 Lipitor
+T7 Symptom 370 375 pain
+T8 Symptom 387 392 contorted

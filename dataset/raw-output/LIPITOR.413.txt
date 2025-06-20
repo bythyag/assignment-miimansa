@@ -1,0 +1,16 @@
+BIO Sequence:
+fatigue B-Symptom | , O | muscle B-Symptom | crammps I-Symptom | , O | bloating B-Symptom | , O | and O | intense B-Symptom | chest I-Symptom | pains I-Symptom | . O | Also O | depression B-Disease | ( O | on O | second O | try O | ) O | . O | After O | one O | week O | , O | realized O | that O | I O | could O | not O | handle O | this O | ! O | I O | ' O | d O | rather O | live O | off O | rice B-Food | cakes I-Food | and O | water B-Food | . O | I O | Went O | on O | a O | bike B-Activity | ride I-Activity | and O | felt O | like O | I O | had O | the O | flu B-Disease | . O | Went O | home O | , O | got O | on O | the O | ' O | net O | and O | searched O | for O | side B-ADR | effects I-ADR | and O | was O | amazed O | at O | what O | I O | found O | . O | Went O | off O | lipitor B-Drug | , O | but O | my O | doc O | convinced O | me O | to O | try O | again O | . O | After O | 3 O | days O | , O | same O | symptoms B-ADR | plus O | depression I-Disease | and O | mood B-Symptom | swings I-Symptom | . O | Stopped O | again O | , O | started O | watching O | my O | diet B-Activity | more O | closely O | and O | have O | dropped O | my O | cholestrol B-Disease | by O | 30 O | pts O | w/in O | a O | couple O | of O | months O | . O
+
+Structured Output:
+T1 Symptom 0 7 fatigue
+T2 Symptom 9 21 muscle crammps
+T3 Symptom 23 30 bloating
+T4 Symptom 38 54 intense chest pains
+T5 Disease 61 70 depression
+T6 Disease 94 97 flu
+T7 ADR 120 131 side effects
+T8 Drug 136 143 lipitor
+T9 ADR 158 165 symptoms
+T10 Disease 181 190 depression
+T11 Symptom 196 207 mood swings
+T12 Disease 213 223 cholestrol

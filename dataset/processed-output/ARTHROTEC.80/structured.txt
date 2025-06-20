@@ -1,0 +1,10 @@
+T1 Symptom 0 8 abdominal pain
+T2 Symptom 9 27 constant soreness in abdomen
+T3 Symptom 29 36 headache
+T4 Symptom 38 79 general stomach upset feeling that won't go away before or after eating
+T5 Drug 56 63 Celebrex
+T6 Drug 75 81 Vioxx
+T7 Drug 86 92 Lodine
+T8 Drug 98 106 Arthrotec
+T9 Disease 108 123 knee replacement
+T10 Symptom 133 140 stomach pains

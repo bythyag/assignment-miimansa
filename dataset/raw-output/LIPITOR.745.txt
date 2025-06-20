@@ -1,0 +1,9 @@
+BIO Sequence:
+Absolutely O | none O | . O | No O | muscle B-Symptom | or O | joint B-Symptom | problems O | through O | 1 O | year O | . O | Worked O | great O | to O | reduce O | my O | cholesterol B-Disease | by O | about O | 20 O | % O | within O | just O | a O | few O | weeks O | . O | There's O | a O | lot O | of O | long-term O | safety O | data O | with O | this O | class O | of O | drug B-Drug | ( O | statins B-Drug | ) O | and O | I O | think O | I'll O | keep O | taking O | it O | for O | the O | long-term O | benefits O | . O 
+
+Structured Output:
+T1 Symptom 43 48 muscle
+T2 Symptom 52 57 joint
+T3 Disease 71 82 cholesterol
+T4 Drug 130 134 drug
+T5 Drug 136 143 statins

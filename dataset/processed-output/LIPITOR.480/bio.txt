@@ -1,0 +1,1 @@
+Periphiral B-Disease | neuropathy I-Disease | . O | Tingling B-Symptom | in O | hands B-Symptom | , O | face B-Symptom | , O | back B-Symptom | and O | Ulnar B-Symptom | nerve I-Symptom | sensitivity I-Symptom | . O | Effects O | reversed O | over O | 2 O | months O | after O | terminating O | the O | 10mg/day B-Drug | dose I-Drug | . O

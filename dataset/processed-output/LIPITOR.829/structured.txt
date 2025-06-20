@@ -1,0 +1,2 @@
+T1 Drug 20 27 advicor
+T2 Drug 32 39 navicor

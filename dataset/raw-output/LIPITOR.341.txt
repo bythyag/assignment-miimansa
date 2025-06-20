@@ -1,0 +1,13 @@
+BIO Sequence:
+For O | the O | most O | part O | , O | no O | side B-ADR | effects I-ADR | . O | Some O | gas B-ADR | early O | on O | , O | which O | has O | subsided O | . O | I O | do O | have O | some O | weight O | around O | the O | middle O | which O | I O | wasn't O | noticing O | so O | much O | before O | , O | but O | this O | may O | be O | due O | to O | fact O | I O | 'm O | now O | in O | my O | early O | 40 O | 's O | . O | I O | 've O | started O | exercising/dieting O | more O | and O | lost O | 15 O | pounds O | in O | last O | month O | , O | but O | not O | around O | the O | middle O | much O | . O | Some O | darkness B-Symptom | in O | urine O | , O | but O | I O | think O | it's O | due O | to O | not O | enough O | fluids O | . O | Nonetheless O | , O | I O | 'm O | very O | happy O | with O | the O | drug B-Drug | . O | Went O | from O | 341 O | to O | 220 O | using O | 20mgs B-Drug | despite O | the O | fact O | I O | wasn't O | dieting O | as O | much O | as O | I O | should O | have O | been O | . O | Now O | on O | 40mg B-Drug | but O | am O | eating O | more O | healthy O | and O | will O | have O | blood O | checked O | soon O | . O | Am O | hoping O | to O | go O | back O | to O | 20mg B-Drug | , O | though O | I O | have O | not O | seen O | any O | difference O | symptom-wise B-Symptom | between O | 20 O | and O | 40 O | . O | I O | lost O | an O | older O | brother O | to O | a O | heart B-Disease | attack I-Disease | last O | year O | and O | everyone O | at O | the O | funeral O | said O | he O | had O | STOPPED O | taking O | his O | Lipitor B-Drug | ! O | I O | wo O | n't O | make O | same O | mistake O | . O
+
+Structured Output:
+T1 ADR 30 41 side effects
+T2 ADR 47 50 gas
+T3 ADR 189 197 darkness
+T4 Drug 133 137 drug
+T5 Drug 157 163 20mgs
+T6 Drug 166 171 40mg
+T7 Drug 175 180 20mg
+T8 Disease 117 128 heart attack
+T9 Drug 140 147 Lipitor

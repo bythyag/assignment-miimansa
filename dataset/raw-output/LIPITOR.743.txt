@@ -1,0 +1,10 @@
+BIO Sequence:
+Exhaustion B-Symptom | after O | exercise O | such O | as O | skiing B-Symptom | or O | hiking B-Symptom | . O | Heavy O | limbs B-Symptom | . O | It O | works O | for O | reducing O | cholesterol B-Disease | levels O | , O | but O | after O | 6 O | years O | I O | 'm O | increasingly O | wondering O | about O | the O | side B-ADR | effects I-ADR | and O | looking O | for O | alternatives O | . O 
+
+Structured Output:
+T1 Symptom 1 10 Exhaustion
+T2 Symptom 42 47 skiing
+T3 Symptom 51 57 hiking
+T4 Symptom 59 64 limbs
+T5 Disease 81 90 cholesterol
+T6 ADR 97 107 side effects

@@ -1,0 +1,7 @@
+T1 ADR 3 15 side effects
+T2 Drug 38 53 acidophilous
+T3 Drug 66 85 anti-inflammatories
+T4 Drug 87 97 antibiotics
+T5 Drug 100 107 75 mg
+T6 Symptom 118 123 aches
+T7 Symptom 128 133 pains

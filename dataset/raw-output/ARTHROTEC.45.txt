@@ -1,0 +1,11 @@
+BIO Sequence:
+Has O | been O | all O | OK O | until O | recently O | when O | I O | started O | to O | get O | " O | fluey B-Symptom | " O | feelings I-Symptom | in O | upper O | arms O | , O | legs O | etc O | As O | I O | had O | just O | recently O | had O | flu B-Vaccine | jab I-Vaccine | thought O | this O | was O | the O | cause O | However O | the O | symptoms B-Symptom | persisted O | , O | GP O | said O | " O | just O | flu B-Vaccine | jab I-Vaccine | " O | - O | but O | after O | 4 O | weeks O | ! O | Noticed O | today O | after O | leaving O | Artrotec B-Drug | off O | for O | a O | day O | or O | so O | , O | that O | things O | were O | much O | better O | until O | I O | took O | one O | dose O | . O | fluey B-Symptom | feelings I-Symptom | returned O | within O | a O | hour O | . O | Draw O | your O | own O | conclusions O | . O
+
+Structured Output:
+T1 Symptom 68 74 fluey
+T2 Vaccine 107 114 flu jab
+T3 Symptom 154 160 symptoms
+T4 Vaccine 166 173 flu jab
+T5 Drug 202 209 Artrotec
+T6 Symptom 218 224 fluey
+T7 Symptom 225 232 feelings

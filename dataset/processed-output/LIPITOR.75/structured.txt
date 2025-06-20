@@ -1,0 +1,17 @@
+T1 Drug 37 43 lipitor
+T2 Symptom 54 60 ankles
+T3 Symptom 68 73 soles
+T4 Symptom 80 84 feet
+T5 ADR 148 152 pain
+T6 Symptom 182 188 memory
+T7 Symptom 203 208 muscle
+T8 Symptom 214 218 pain
+T9 Symptom 222 226 neck
+T10 Symptom 229 239 shoulders
+T11 Symptom 242 246 lower back
+T12 Drug 308 314 lipitor
+T13 ADR 363 369 effects
+T14 Drug 387 393 Ezetrol
+T15 Symptom 440 445 pains
+T16 Symptom 449 453 back
+T17 ADR 472 485 side affects

@@ -1,0 +1,7 @@
+BIO Sequence:
+did O | you O | know O | that O | these O | . O | ALL O | side B-ADR | effects I-ADR | noted O | on O | the O | pharma B-Drug | labels I-Drug | happen O | , O | but O | taking O | one O | 's O | appetite B-Symptom | for O | sex O | away O | is O | VERY O | scary O | ! O | . O
+
+Structured Output:
+T1 ADR 29 35 side effects  
+T2 Drug 47 52 pharma  
+T3 Symptom 75 83 appetite

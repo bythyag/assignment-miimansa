@@ -1,0 +1,7 @@
+T1 Symptom 0 6 muscle weakness  
+T2 Disease 22 26 nerve damage  
+T3 Symptom 34 43 imbalance  
+T4 Symptom 45 53 stiffness  
+T5 Disease 62 70 arthritis  
+T6 Symptom 72 79 walking  
+T7 Symptom 84 91 numbness

@@ -1,0 +1,4 @@
+T1 ADR 35 41 side effect  
+T2 Symptom 63 69 hungry  
+T3 Symptom 76 83 feeling  
+T4 Symptom 88 94 stomach

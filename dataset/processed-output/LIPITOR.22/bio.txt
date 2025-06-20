@@ -1,0 +1,1 @@
+abdominal B-Symptom | cramping I-Symptom | , O | gas B-Symptom | . O | My O | cholestrol B-Disease | was O | lowered O | from O | 267 O | to O | 175 O | . O | I O | went O | from O | 20mg B-Drug | to O | 10 mg B-Drug | and O | it O | is O | still O | low O | . O

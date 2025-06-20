@@ -1,0 +1,48 @@
+BIO Sequence:
+Chest O | muscle B-Symptom | pains I-Symptom | . O |
+Pins O | and O | needles B-Symptom | in O | legs B-Symptom | and O | arms I-Symptom | . O |
+Numbness B-Symptom | in O | fingers B-Symptom | , O | reduced O | hand B-Symptom | grip I-Symptom | power I-Symptom | . O |
+Numbness B-Symptom | / O | pain I-Symptom | in O | back B-Symptom | . O |
+Numbness B-Symptom | / O | headache B-Symptom | in O | forehead B-Symptom | . O |
+Numbness B-Symptom | in O | mouth B-Symptom | . O |
+Headache B-Symptom | that O | lasts O | for O | days B-Symptom | . O |
+My O | sight O | also O | gets O | tired O | from O | computer O | a O | lot O | easier O | than O | before O | . O |
+The O | week O | I O | started O | to O | take O | I O | had O | the O | chest B-Symptom | ache I-Symptom | , O | confirmed O | to O | be O | muscular O | by O | doctors B-Disease | . O |
+At O | the O | start O | of O | the O | second O | week O | , O | I O | accidentally O | took O | a O | dose O | in O | the O | morning O | instead O | of O | the O | night O | because O | I O | took O | the O | wrong O | pill O | ( O | skipped O | the O | night O | dose O | ) O | . O |
+The O | day O | after O | I O | started O | to O | have O | the O | other O | symptons B-Symptom | . O |
+The O | worst O | one O | - O | the O | mouth B-Symptom | one I-Symptom | has O | faded O | , O | but O | the O | others B-Symptom | remain I-Symptom | . O |
+I O | found O | out O | too O | late O | grapefruit O | juice O | can O | make O | this O | drug B-Drug | stronger I-Drug | . O |
+I O | drank O | it O | some O | days O | during O | the O | first O | 2 O | weeks O | . O |
+Stopped O | drinking O | it O | . O |
+At O | the O | beginning O | of O | third O | week O | I O | took O | 50mg B-Drug | of O | CoQ10 B-Drug | per O | day O | for O | 3 O | days O | . O |
+I O | couldn't O | sense O | an O | improvement O | , O | but O | after O | stopping O | for O | other O | three O | days O | I O | will O | try O | again O | . O |
+( O | I O | need O | better O | evidence O | before O | buying O | a O | can O | of O | CoQ10 B-Drug | , O | it O | is O | very O | expensive O | and O | hard O | to O | find O | around O | here O | ) O | . O |
+Will O | beg O | my O | cardiologist B-Disease | to O | let O | me O | try O | natural O | exercise B-Disease | before O | continuing O | statins B-Drug | . O |
+Giving O | it O | a O | 3 O | , O | because O | it O | was O | effective , O | in O | a O | single O | month O | and O | with O | ezetimibe B-Drug | and O | exercise O | all O | my O | numbers O | are O | in O | very O | safe O | ranges O | . O |
+Please O | be O | careful O | about O | natural O | supplements B-Drug | . O |
+Homeopathy B-Disease | simply O | does O | not O | work O | - O | it O | is O | just O | water O | - O | The O | supplements O | that O | do O | work O | may O | also O | have O | side O | effects B-ADR | , O | just O | like O | the O | drugs B-Drug | . O |
+Red O | Yeast O | Rice O | , O | for O | example O | , O | actually O | contains O | a O | statin B-Drug | ( O | lovastatin B-Drug | ) O | , O | so O | it O | will O | most O | likely O | have O | all O | the O | set O | of O | side O | effects I-ADR | as O | the O | other O | statins B-Drug | . O |
+
+Structured Output:
+T1 Symptom 1 18 muscle pains
+T2 Symptom 20 32 pins and needles
+T3 Symptom 34 47 legs
+T4 Symptom 49 65 arms
+T5 Symptom 67 75 numbness
+T6 Symptom 77 83 fingers
+T7 Symptom 85 99 reduced hand grip power
+T8 Symptom 101 118 numbness/pain in back
+T9 Symptom 120 132 numbness/headache in forehead
+T10 Symptom 134 144 numbness in mouth
+T11 Symptom 146 160 headache
+T12 Symptom 162 167 days
+T13 Disease 195 201 doctors
+T14 Drug 296 300 drug
+T15 Drug 305 311 CoQ10
+T16 Drug 316 321 ezetimibe
+T17 Drug 325 332 statins
+T18 Drug 341 357 lovastatin
+T19 ADR 232 239 side effects
+T20 ADR 281 287 side effects
+T21 Drug 359 377 Red Yeast Rice
+T22 ADR 385 402 side effects

@@ -1,0 +1,9 @@
+T1 Drug 25 29 drug
+T2 Symptom 57 62 taste
+T3 Symptom 67 72 salt
+T4 Symptom 77 83 sugars
+T5 Symptom 101 106 taste
+T6 Symptom 110 116 Taste
+T7 Symptom 128 138 perversion
+T8 Symptom 151 156 sweet
+T9 Symptom 181 186 taste

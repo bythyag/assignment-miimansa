@@ -1,0 +1,20 @@
+BIO Sequence:
+2 O | years O | with O | no O | problems O | , O | then O | toe B-Symptom | neuropathy I-Symptom | for O | two O | years O | now O | and O | other O | foot O | problems O | because O | of O | this O | I O | assume O | . O | I O | stopped O | Lipitor B-Drug | after O | taking O | it O | for O | 2 O | years O | and O | toe B-Symptom | neuropathy I-Symptom | started O | . O | I O | also O | had O | stomach B-Symptom | problems I-Symptom | and O | pain B-Symptom | . O | After O | stopping O | Lipitor B-Drug | , O | I O | thought O | my O | heart B-Symptom | would O | jump O | out O | of O | my O | chest O | , O | but O | now O | stomach I-Symptom | and O | heart I-Symptom | are O | both O | OK O | - O | Feet B-Symptom | are O | terrible O | thanks O | to O | Lipitor B-Drug | . O | I O | know O | many O | others O | that O | have O | had O | problems O | with O | Lipitor B-Drug | - O | feet I-Symptom | and O | legs I-Symptom | - O | and O | had O | to O | stop O | . O | All O | my O | blood O | test O | were O | normal O | . O | I O | weigh O | 114 O | and O | 5'2 O | . O | Hike O | , O | play O | golf O | and O | keep O | busy O | . O | It O | is O | a O | terrible O | drug O | and O | should O | be O | off O | the O | market O | . O 
+
+Structured Output:
+T1 Symptom 33 37 toe  
+T2 Symptom 38 47 neuropathy  
+T3 Symptom 64 68 toe  
+T4 Symptom 69 78 neuropathy  
+T5 Symptom 83 90 stomach  
+T6 Symptom 91 98 problems  
+T7 Symptom 99 103 pain  
+T8 Symptom 117 122 heart  
+T9 Symptom 144 149 stomach  
+T10 Symptom 154 159 heart  
+T11 Symptom 165 170 Feet  
+T12 Symptom 173 181 terrible  
+T13 Drug 22 28 Lipitor  
+T14 Drug 178 184 Lipitor  
+T15 Drug 192 198 Lipitor  
+T16 Drug 207 213 Lipitor  

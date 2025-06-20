@@ -1,0 +1,13 @@
+BIO Sequence:
+I O | had O | diarrhea B-Symptom | for O | a O | whole O | week O | ; O | bad O | uterine B-Symptom | cramps I-Symptom | followed O | by O | heavy B-Symptom | menstrual I-Symptom | bleeding I-Symptom | two O | weeks O | after O | my O | period O | . O | Alot O | of O | gas B-Symptom | and O | nausea B-Symptom | . O | This O | pill B-Drug | stopped O | my O | pain B-Symptom | , O | but O | cause O | me O | more O | pain I-Symptom | . O | The O | side B-ADR | effects I-ADR | are O | much O | worst O | than O | the O | pain O | itself O | . O 
+
+Structured Output:
+T1 Symptom 10 17 diarrhea
+T2 Symptom 37 52 uterine cramps
+T3 Symptom 54 68 heavy menstrual bleeding
+T4 Symptom 77 80 gas
+T5 Symptom 85 91 nausea
+T6 Drug 99 103 pill
+T7 Symptom 115 119 pain
+T8 Symptom 128 132 pain
+T9 ADR 136 145 side effects

@@ -1,0 +1,6 @@
+BIO Sequence:
+i O | want O | to O | know O | does O | it O | helps O | for O | reducing O | Tryglycerides B-Disease | as O | well O | other O | than O | the O | cholestrol B-Disease | . O
+
+Structured Output:
+T1 Disease 42 55 Tryglycerides
+T2 Disease 67 78 cholestrol

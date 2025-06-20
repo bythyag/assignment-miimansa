@@ -1,0 +1,8 @@
+BIO Sequence:
+Because O | of O | aspartame B-Drug | component O | I O | experienced O | worse O | migraines B-Symptom | . O | If O | aspartame B-Drug | is O | a O | trigger O | for O | your O | migraines B-Symptom | , O | do O | NOT O | take O | this O | . O | Most O | doctors O | will O | say O | it O | is O | such O | a O | small O | amount O | that O | it O | will O | not O | matter O | . O | It O | does O | ! O 
+
+Structured Output:
+T1 Drug 25 33 aspartame
+T2 Symptom 49 57 migraines
+T3 Drug 67 75 aspartame
+T4 Symptom 81 89 migraines

@@ -1,0 +1,12 @@
+T1 Symptom 0 13 Severe myalgia
+T2 Drug 65 71 Lipitor
+T3 Symptom 88 94 muscle inflammation
+T4 Symptom 107 126 connective tissue pain
+T5 Disease 134 153 rheumatoid arthritis
+T6 Disease 158 171 fibromyalgia
+T7 Disease 188 205 rheumatoid arthritis
+T8 Drug 226 232 Lipitor
+T9 Drug 245 253 Pravochol
+T10 Drug 262 268 statins
+T11 Drug 283 295 time-release naicin
+T12 Drug 301 309 fish oil

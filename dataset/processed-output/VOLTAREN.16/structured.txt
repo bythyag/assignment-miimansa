@@ -1,0 +1,8 @@
+T1 Disease 39 43 disc
+T2 Symptom 49 54 pains
+T3 Disease 60 64 hips
+T4 Disease 73 77 legs
+T5 Symptom 92 96 pain
+T6 ADR 114 122 nauseous
+T7 ADR 139 143 sick
+T8 Drug 196 204 cortisone

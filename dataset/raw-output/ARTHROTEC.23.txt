@@ -1,0 +1,15 @@
+BIO Sequence:
+Within O | half O | hour O | of O | taking O | this O | drug B-Drug | I O | suffered O | from O | excessive O | cramping B-ADR | . O | lasted O | 1/2 O | hour O | and O | continued O | sporadically O | over O | course O | of O | several O | hours O | . O | Became O | tired O | , O | fatigue B-ADR | , O | shortness B-ADR | of O | breath B-ADR | from O | pain B-Symptom | , O | dizzy B-ADR | , O | nausea B-ADR | , O | unconsolable B-ADR | . O | went O | hospital O | , O | but O | sat O | 5 O | hours O | never O | seen O | by O | doctor O | . O | drug B-Drug | wore O | off O | on O | its O | own O | and O | went O | home O | to O | rest O | . O | Threw O | away O | the O | remaining O | pills B-Drug | . O | Should O | be O | removed O | from O | market O | . O |
+
+Structured Output:
+T1 Drug 31 35 drug
+T2 ADR 67 75 cramping
+T3 ADR 98 105 fatigue
+T4 ADR 107 115 shortness
+T5 ADR 117 122 breath
+T6 Symptom 127 131 pain
+T7 ADR 134 139 dizzy
+T8 ADR 141 147 nausea
+T9 ADR 149 160 unconsolable
+T10 Drug 191 195 drug
+T11 Drug 236 241 pills

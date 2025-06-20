@@ -1,0 +1,14 @@
+T1 Drug 32 39 10 mg/day
+T2 Symptom 67 74 muscle pain
+T3 Symptom 80 92 restlessness
+T4 Symptom 96 103 sleep
+T5 Symptom 118 141 fever-like sensations
+T6 Symptom 146 151 fever
+T7 Symptom 169 180 sleepiness
+T8 Disease 200 220 chronic fatigue syndrome
+T9 Disease 225 243 restless leg syndrome
+T10 Drug 293 300 Lipitor
+T11 Disease 304 314 cholesterol
+T12 Drug 318 324 statin
+T13 Disease 343 352 cognitive impairments
+T14 Drug 360 366 statin

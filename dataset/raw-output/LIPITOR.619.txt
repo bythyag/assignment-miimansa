@@ -1,0 +1,24 @@
+BIO Sequence:
+Terrible O | pain B-Symptom | in O | hips B-Symptom | and O | shoulders B-Symptom | . O | After O | taking O | Lipitor B-Drug | for O | a O | year O | , O | I O | started O | having O | pain B-Symptom | in O | my O | hip B-Symptom | . O | Told O | Dr O | about O | it O | , O | he O | didn't O | seem O | to O | concerned O | . O | After O | about O | 1 1/2 O | years O | I O | started O | having O | pain B-Symptom | in O | my O | shoulders B-Symptom | . O | The O | pain B-Symptom | is O | so O | bad O | at O | this O | point O | that O | it O | wakes O | me O | up O | at O | night O | and O | extremely O | limits O | the O | use O | of O | my O | arms B-Symptom | . O | Dr O | sent O | me O | for O | x-rays O | , O | MRI O | , O | to O | see O | an O | orthopedic O | surgeon O | . O | All O | results O | negative O | . O | They O | suggested O | it O | could O | be O | tendonitis B-Disease | or O | avascular B-Disease | necrosis I-Disease | and O | recommended O | anti-inflammatories B-Drug | . O | Nobody O | ever O | suggested O | it O | could O | be O | the O | drug B-Drug | until O | I O | found O | this O | site O | doing O | research O | on O | my O | pain B-Symptom | . O | It O | makes O | me O | wonder O | how O | powerful O | these O | drug B-Drug | companies O | are O | that O | doctors O | won't O | even O | suggest O | that O | the O | drug B-Drug | could O | be O | the O | problem O | . O | I'm O | stopping O | this O | drug B-Drug | today O | in O | the O | hopes O | that O | the O | pain B-Symptom | goes O | away O | . O | Hopefully O | I'll O | be O | able O | to O | play O | catch O | with O | my O | boys O | and O | swing O | a O | golf O | club O | again O | some O | day O | . O | If O | I O | die O | of O | a O | heart B-Disease | attack I-Disease | from O | high O | cholesteral B-Disease | in O | 20 O | years O | , O | so O | be O | it O | . O | I'd O | rather O | have O | a O | shorter O | life O | that O | I O | enjoy O | than O | a O | long O | life O | of O | pain B-Symptom | . O 
+
+Structured Output:
+T1 Symptom 10 14 pain
+T2 Symptom 18 22 hips
+T3 Symptom 27 35 shoulders
+T4 Drug 38 45 Lipitor
+T5 Symptom 72 76 pain
+T6 Symptom 82 85 hip
+T7 Symptom 107 111 pain
+T8 Symptom 116 124 shoulders
+T9 Symptom 128 132 pain
+T10 Symptom 136 139 arms
+T11 Disease 165 176 tendonitis
+T12 Disease 180 197 avascular necrosis
+T13 Drug 213 233 anti-inflammatories
+T14 Drug 246 250 drug
+T15 Drug 260 264 drug
+T16 Drug 285 289 drug
+T17 Symptom 313 317 pain
+T18 Disease 352 365 heart attack
+T19 Disease 377 388 cholesteral
+T20 Symptom 412 416 pain

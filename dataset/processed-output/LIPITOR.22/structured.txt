@@ -1,0 +1,5 @@
+T1 Symptom 0 21 abdominal cramping
+T2 Symptom 23 26 gas
+T3 Disease 35 44 cholestrol
+T4 Drug 63 67 20mg
+T5 Drug 73 78 10 mg

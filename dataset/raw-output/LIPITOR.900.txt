@@ -1,0 +1,7 @@
+BIO Sequence:
+Caused O | extreme O | pain B-Symptom | in O | back B-Symptom | an O | legs I-Symptom | . O
+
+Structured Output:
+T1 Symptom 21 25 pain  
+T2 Symptom 29 33 back  
+T3 Symptom 36 40 legs  

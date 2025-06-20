@@ -1,0 +1,13 @@
+BIO Sequence:
+Paranoia B-Symptom | , O | anxiety B-Symptom | . O | It O | sure O | reduced O | my O | LDL B-Drug | cholesterol I-Drug | as O | well O | as O | triglycerides B-Drug | - O | but O | the O | psychiatric B-ADR | side I-ADR | effects I-ADR | were O | harsh B-ADR | . O
+
+Structured Output:
+T1 Symptom 0 8 Paranoia
+T2 Symptom 10 16 anxiety
+T3 Drug 30 33 LDL
+T4 Drug 37 48 cholesterol
+T5 Drug 54 66 triglycerides
+T6 ADR 69 79 psychiatric
+T7 ADR 81 84 side
+T8 ADR 86 92 effects
+T9 ADR 98 103 harsh

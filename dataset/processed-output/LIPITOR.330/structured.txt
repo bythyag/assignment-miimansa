@@ -1,0 +1,10 @@
+T1 Symptom 0 11 Muscle Pain  
+T2 Symptom 15 30 calve muscles  
+T3 Symptom 32 41 knee pain  
+T4 Symptom 43 51 neck pain  
+T5 Symptom 53 61 dizziness  
+T6 Symptom 63 71 vagueness  
+T7 Symptom 73 81 dry eyes  
+T8 Drug 102 111 cholesterol  
+T9 ADR 130 139 muscle pain  
+T10 ADR 142 162 general degradation

@@ -1,0 +1,5 @@
+T1 Drug 107 113 Lipitor
+T2 Disease 139 148 depression
+T3 ADR 155 161 balanced
+T4 Disease 168 177 cholesterol
+T5 Drug 284 289 Pfizer

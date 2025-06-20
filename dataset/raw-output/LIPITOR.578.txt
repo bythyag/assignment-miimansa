@@ -1,0 +1,18 @@
+BIO Sequence:
+In O | decreasing O | order O | of O | severity O | : O | Extreme B-Symptom | vertigo I-Symptom | , O | short B-Symptom | term I-Symptom | memory I-Symptom | loss I-Symptom | , O | tendonitis B-Disease | in O | heels O | , O | calf B-Symptom | leg I-Symptom | cramps I-Symptom | , O | muscle B-Symptom | loss I-Symptom | , O | severe B-ADR | tinnitus I-ADR | ( O | ringing O | in O | ears O | ) O | . O | On O | Lipitor B-Drug | for O | 4 O | months O | . O | Switched O | to O | Vytorin B-Drug | for O | six O | months O | with O | decreased O | side O | effects O | , O | Cholesterol B-Disease | dropped O | from O | 220 O | to O | 90 O | but O | now O | side O | effects O | are O | worsening O | , O | particularly O | heel B-Symptom | tendon I-Symptom | bruising I-Symptom | and O | muscle O | loss I-Symptom | . O | See O | http://www.spacedoc.net/rest_of_my_story.html O | for O | articles O | on O | side O | effects O | . O | Be O | aware O | and O | monitor O | side O | effects O | . O | Red O | Yeast B-Drug | is O | a O | statin O | . O | My O | allopathic O | docs O | are O | both O | taking O | most O | folks O | off O | statins O | and O | recommending O | slo-naicin B-Drug | and O | coenzyme B-Drug | Q10 I-Drug | with O | blood O | tests O | every O | three O | to O | six O | months O | to O | see O | if O | cholesterol O | remains O | down O | . O |
+
+Structured Output:
+T1 Symptom 26 32 Extreme vertigo  
+T2 Symptom 34 49 short term memory loss  
+T3 Disease 51 61 tendonitis  
+T4 Symptom 66 75 calf leg cramps  
+T5 Symptom 77 88 muscle loss  
+T6 ADR 90 104 severe tinnitus  
+T7 Drug 110 116 Lipitor  
+T8 Drug 122 129 Vytorin  
+T9 Disease 140 149 Cholesterol  
+T10 Symptom 153 157 heel tendon bruising  
+T11 Symptom 165 175 muscle loss  
+T12 Drug 207 218 Red Yeast  
+T13 Drug 233 243 slo-naicin  
+T14 Drug 257 268 coenzyme Q10  

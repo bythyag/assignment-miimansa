@@ -1,0 +1,10 @@
+BIO Sequence:
+Peripheral B-Disease | Neuropathy I-Disease | . O | This O | side O | effect O | makes O | you O | feel O | like O | you O | are O | constantly O | wearing O | heavy B-Symptom | socks I-Symptom | and O | gloves I-Symptom | . O | It O | also O | causes O | problems O | with O | balance B-Symptom | - O | especially O | tring O | to O | walk O | heel B-Symptom | to I-Symptom | toe I-Symptom | . O 
+
+Structured Output:
+T1 Disease 0 18 Peripheral Neuropathy
+T2 Symptom 65 70 heavy socks
+T3 Symptom 75 80 gloves
+T4 Symptom 107 113 balance
+T5 Symptom 130 134 heel
+T6 Symptom 138 141 toe

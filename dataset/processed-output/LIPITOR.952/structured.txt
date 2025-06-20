@@ -1,0 +1,8 @@
+T1 Drug 17 24 Lipitor
+T2 Disease 93 99 Insurance co.
+T3 Drug 119 128 Pravachol
+T4 ADR 51 56 achy
+T5 Symptom 58 64 muscle fatigue
+T6 Symptom 66 71 memory
+T7 Symptom 73 77 loss
+T8 Disease 134 140 insurance co.

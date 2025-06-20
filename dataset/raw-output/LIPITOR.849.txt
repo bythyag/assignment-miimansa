@@ -1,0 +1,12 @@
+BIO Sequence:
+After O | three O | months O | on O | Lipitor B-Drug | , O | I O | started O | to O | feel O | like O | an O | airhead O | -- O | slightly O | dizzy B-ADR | virtually O | all O | the O | time O | and O | frequently O | unable O | to O | think O | clearly O | . O | I O | actually O | started O | to O | wonder O | if O | I O | were O | developing O | early O | Alzheimer’s B-Disease | ( O | I O | ' O | m O | 58 O | ) O | . O | After O | five O | months O | , O | I O | developed O | severe O | pain B-Symptom | in O | my O | thighs B-Symptom | and O | knees B-Symptom | and O | I O | ' O | m O | exhausted B-Symptom | all O | the O | time O | . O | So O | far O | my O | blood O | tests O | have O | been O | normal O | , O | but O | now O | that O | I O | ' O | ve O | read O | these O | posts O | , O | I O | ' O | m O | going O | to O | stop O | taking O | Lipitor B-Drug | . O | It O | did O | lower O | my O | total O | cholesterol O | from O | 235 O | to O | 200 O | . O |
+
+Structured Output:
+T1 Drug 27 34 Lipitor
+T2 ADR 70 75 dizzy
+T3 Disease 108 117 Alzheimer’s
+T4 Symptom 146 150 pain
+T5 Symptom 156 162 thighs
+T6 Symptom 167 172 knees
+T7 Symptom 177 185 exhausted
+T8 Drug 223 230 Lipitor

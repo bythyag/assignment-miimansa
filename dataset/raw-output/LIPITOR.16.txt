@@ -1,0 +1,7 @@
+BIO Sequence:
+none O | that O | I'm O | aware O | of O | . O | My O | total O | cholesterol O | was O | 300 O | prior O | to O | taking O | Lipitor B-Drug | . O | The O | Lipitor B-Drug | ( O | along O | with O | healthy O | eating O | ) O | has O | brought O | that O | number O | down O | to O | 165 O | , O | so O | I O | am O | very O | happy O | . O | I O | have O | had O | none O | of O | the O | side B-ADR | effects I-ADR | that O | others O | talk O | about O | . O
+
+Structured Output:
+T1 Drug 49 56 Lipitor
+T2 Drug 69 76 Lipitor
+T3 ADR 90 104 side effects

@@ -1,0 +1,22 @@
+T1 Symptom 0 4 hair loss
+T2 Symptom 6 15 weight gain
+T3 Symptom 17 27 muscle pain
+T4 ADR 50 63 side effects
+T5 ADR 66 74 hair loss
+T6 ADR 76 85 weight gain
+T7 ADR 87 99 blurred vision
+T8 ADR 99 106 side effects
+T9 Symptom 130 134 hair
+T10 Symptom 139 145 weight
+T11 Drug 150 157 Lipitor
+T12 Symptom 162 167 hair
+T13 Symptom 175 180 lost
+T14 Symptom 187 192 metabolism
+T15 Drug 268 277 acupuncture
+T16 Drug 279 288 homeopathy
+T17 Drug 292 309 natural supplements
+T18 Drug 320 343 Apple Cider Vinegar
+T19 Drug 351 354 raw honey
+T20 Symptom 358 373 blood pressure
+T21 Symptom 375 377 down
+T22 Drug 423 436 pharmaceutical companies

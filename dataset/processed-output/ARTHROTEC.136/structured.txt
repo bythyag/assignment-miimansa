@@ -1,0 +1,4 @@
+T1 Drug 8 15 celebrex  
+T2 Drug 23 31 arthrotec  
+T3 Drug 38 45 celebrex  
+T4 Symptom 116 125 joint pain

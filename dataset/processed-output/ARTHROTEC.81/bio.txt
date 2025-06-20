@@ -1,0 +1,1 @@
+frequent O | heartburn B-Symptom | . O | take O | it O | once O | a O | day O | and O | it O | works O | very O | well O | on O | the O | pain B-Symptom | . O

@@ -1,0 +1,1 @@
+severe B-Symptom | muscle I-Symptom | pain I-Symptom | . O | It O | has O | been O | about O | seven O | years O | since O | I've O | been O | off O | this O | but O | I O | still O | have O | muscle B-Symptom | pains I-Symptom | . O

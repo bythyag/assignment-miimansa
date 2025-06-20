@@ -1,0 +1,6 @@
+T1 Drug 23 25 80
+T2 ADR 60 72 side effects
+T3 Disease 76 79 LDL
+T4 Symptom 92 94 40
+T5 Symptom 97 100 45
+T6 Symptom 106 115 lifestyle changes

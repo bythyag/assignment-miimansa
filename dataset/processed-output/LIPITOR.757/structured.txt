@@ -1,0 +1,22 @@
+T1 Symptom 38 44 cramps
+T2 Symptom 59 65 fingers
+T3 Symptom 86 92 eyesight
+T4 Symptom 109 115 blurry
+T5 Symptom 138 141 back pain
+T6 Symptom 161 171 shoulders
+T7 Symptom 187 196 neck
+T8 Symptom 209 220 shoulder blade
+T9 Symptom 238 247 sensitive
+T10 Symptom 266 273 painful
+T11 Symptom 284 288 pain
+T12 Symptom 319 327 depressed
+T13 Symptom 346 354 headaches
+T14 Symptom 366 378 concentration
+T15 Symptom 397 405 heartburn
+T16 Symptom 411 421 indigestion
+T17 Drug 45 56 pain relievers
+T18 Drug 59 69 anti-acids
+T19 Drug 2 8 Lipitor
+T20 Disease 103 113 cholesterol
+T21 Disease 132 142 cholestoerol
+T22 Drug 275 282 lipitor

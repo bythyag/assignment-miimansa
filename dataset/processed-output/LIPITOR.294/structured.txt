@@ -1,0 +1,11 @@
+T1 Symptom 12 18 muscle pains
+T2 Symptom 27 34 back spasms
+T3 Symptom 40 56 spasms in leg muscles
+T4 ADR 58 64 nausea
+T5 ADR 66 73 vomiting
+T6 Symptom 79 83 pain
+T7 Symptom 95 105 chest pains
+T8 Symptom 118 134 emergency room
+T9 Drug 146 150 blood
+T10 Drug 164 170 lipitor
+T11 Drug 175 178 DRUG

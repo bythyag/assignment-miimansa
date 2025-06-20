@@ -1,0 +1,11 @@
+BIO Sequence:
+none O | I O | can O | attribute O | directly O | to O | the O | medication O | . O | One O | must O | follow O | liver B-Disease | function I-Disease | tests I-Disease | ( O | e.g. O | SGOT B-Drug | , O | SGPT B-Drug | ) O | to O | insure O | no O | significant O | injury O | to O | liver B-Disease | cells I-Disease | . O
+
+Structured Output:
+T1 Disease 20 25 liver
+T2 Disease 26 33 function
+T3 Disease 34 39 tests
+T4 Drug 43 48 SGOT
+T5 Drug 50 55 SGPT
+T6 Disease 64 69 liver
+T7 Disease 70 75 cells

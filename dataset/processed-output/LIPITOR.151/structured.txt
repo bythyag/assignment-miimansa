@@ -1,0 +1,8 @@
+T1 Symptom 0 12 mindendness
+T2 Symptom 14 26 concentrating
+T3 Symptom 28 42 blurred vision
+T4 Symptom 44 53 headaches
+T5 Drug 76 80 drug
+T6 Disease 95 104 Cholesterol
+T7 ADR 113 127 side effects
+T8 Drug 135 139 drug

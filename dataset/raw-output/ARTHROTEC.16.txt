@@ -1,0 +1,22 @@
+BIO Sequence:
+I O | was O | prescribed O | this O | drug O | because O | I O | had O | spent O | a O | whole O | night O | in O | complete O | agony O | ; O | abdominal B-Symptom | pain I-Symptom | , O | lower B-Symptom | back I-Symptom | pain I-Symptom | , O | all O | that O | I O | imagine O | labor B-Symptom | pain I-Symptom | to O | be O | , O | except O | I O | was O | not O | in O | labor O | . O | Though O | the O | cause O | of O | my O | pain O | remains O | undetermined O | , O | the O | Arthrotec B-Drug | combined O | with O | Paracetamol B-Drug | pretty O | much O | eliminated O | the O | pain O | . O | This O | was O | a O | big O | relief O | , O | as O | the O | 1200 B-Drug | MG I-Drug | of O | Ibuprofen B-Drug | I O | had O | taken O | throughout O | the O | night O | had O | done O | nothing O | . O | I O | only O | took O | 1 O | Arthrotec B-Drug | and O | 1 O | Paracetamol B-Drug | and O | that O | did O | the O | trick O | . O | HOWEVER O | : O | I O | had O | a O | very O | bad O | headache B-Symptom | yesterday O | and O | Ibuprofen B-Drug | again O | didn’t O | work O | . O | I O | still O | had O | the O | other O | Arthrotec B-Drug | pills O | left O | , O | so O | I O | took O | one O | . O | Although O | it O | alleviated O | the O | pain O | , O | I O | got O | up O | this O | morning O | with O | heavy B-Symptom | vaginal I-Symptom | bleeding I-Symptom | even O | though O | my O | period O | ended O | last O | week O | . O | I O | was O | relieved O | to O | read O | that O | this O | could O | be O | a O | side O | effect O | , O | as O | it O | means O | I O | probably O | don’t O | have O | something O | serious O | , O | but O | I O | will O | have O | to O | be O | in O | some O | serious O | pain O | to O | risk O | bleeding O | from O | the O | vagina O | again O | . O | Next O | time O | I O | 'll O | try O | my O | luck O | with O | Paracetamol B-Drug | . O | The O | pill O | I O | took O | consisted O | of O | 50 B-Drug | MG I-Drug | Diclofenac B-Drug | and O | 200 B-Drug | MG I-Drug | Misoprostol B-Drug | . O
+
+Structured Output:
+T1 Symptom 81 88 abdominal pain
+T2 Symptom 94 108 lower back pain
+T3 Symptom 127 132 labor pain
+T4 Drug 196 204 Arthrotec
+T5 Drug 212 224 Paracetamol
+T6 Drug 254 257 1200
+T7 Drug 259 267 Ibuprofen
+T8 Drug 297 306 Arthrotec
+T9 Drug 314 324 Paracetamol
+T10 Symptom 367 375 headache
+T11 Drug 395 403 Ibuprofen
+T12 Drug 427 435 Arthrotec
+T13 Symptom 481 486 heavy vaginal bleeding
+T14 Drug 550 553 Paracetamol
+T15 Drug 613 621 Diclofenac
+T16 Drug 629 634 MG
+T17 Drug 636 648 Misoprostol
+T18 Drug 641 644 200

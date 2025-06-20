@@ -1,0 +1,9 @@
+T1 Symptom 0 6 Aching
+T2 Symptom 7 14 weakness
+T3 Symptom 17 21 legs
+T4 Symptom 22 26 back
+T5 Symptom 27 36 shoulders
+T6 ADR 43 50 effects
+T7 Drug 54 61 lipitor
+T8 ADR 65 70 toxic
+T9 Disease 75 86 cholesterol

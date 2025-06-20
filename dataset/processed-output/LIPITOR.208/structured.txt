@@ -1,0 +1,15 @@
+T1 Symptom 9 13 heel
+T2 Symptom 14 18 pain
+T3 Disease 40 57 ulcerative colitis
+T4 Drug 80 86 Lipitor
+T5 Drug 97 101 10mg
+T6 Drug 121 126 40mg
+T7 Drug 141 145 10mg
+T8 Symptom 164 167 CPK
+T9 Symptom 168 173 level
+T10 Symptom 186 190 foot
+T11 Symptom 191 195 pain
+T12 Disease 197 204 colitis
+T13 Drug 208 214 statin
+T14 Drug 220 227 LIPITOR
+T15 Drug 233 239 STATIN

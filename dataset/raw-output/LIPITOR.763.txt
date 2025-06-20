@@ -1,0 +1,12 @@
+BIO Sequence:
+I O | am O | amazed O | to O | find O | all O | the O | people O | who O | have O | experienced O | hip B-Symptom | / O | knee B-Symptom | / O | ankle B-Symptom | pain I-Symptom | , O | and O | back B-Symptom | pain I-Symptom | , O | after O | taking O | Lipitor B-Drug | . O | It O | never O | occurred O | to O | me O | that O | the O | pain O | began O | around O | the O | time O | I O | started O | taking O | Lipitor B-Drug | , O | when O | I O | was O | 36 O | . O | I O | started O | to O | feel O | 40 O | years O | older O | with O | all O | the O | pain O | I O | experienced O | . O | Stopped O | taking O | 2 O | days O | ago O | , O | hopefully O | will O | see O | improvement O | . O
+
+Structured Output:
+T1 Symptom 49 52 hip
+T2 Symptom 55 59 knee
+T3 Symptom 62 67 ankle
+T4 Symptom 68 72 pain
+T5 Symptom 78 82 back
+T6 Symptom 87 91 pain
+T7 Drug 42 48 Lipitor
+T8 Drug 155 161 Lipitor

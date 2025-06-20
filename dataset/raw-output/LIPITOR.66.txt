@@ -1,0 +1,15 @@
+BIO Sequence:
+muscle B-Symptom | spasms I-Symptom | and O | pain I-Symptom | , O | joint B-Symptom | pain I-Symptom | , O | headaches B-Symptom | , O | memory B-Symptom | loss I-Symptom | , O | skin B-Symptom | rash I-Symptom | , O | depression B-Symptom | , O | insomnia B-Symptom | . O | Although O | I O | complained O | to O | my O | doctor O | about O | the O | muscle B-Symptom | and O | joint B-Symptom | pain I-Symptom | she O | insisted O | that O | I O | needed O | to O | take O | it O | so O | the O | fat O | would O | get O | out O | of O | my O | liver B-Organ | since O | my O | liver B-Organ | enzymes I-Organ | were O | elevated O | . O
+
+Structured Output:
+T1 Symptom 0 13 muscle spasms  
+T2 Symptom 18 22 pain  
+T3 Symptom 24 29 joint pain  
+T4 Symptom 31 39 headaches  
+T5 Symptom 41 53 memory loss  
+T6 Symptom 55 63 skin rash  
+T7 Symptom 65 74 depression  
+T8 Symptom 76 83 insomnia  
+T9 Symptom 102 106 muscle pain  
+T10 Organ 115 120 liver  
+T11 Organ 126 131 liver enzymes

@@ -1,0 +1,7 @@
+T1 Drug 18 23 mg.
+T2 Drug 25 31 lipitor
+T3 ADR 85 95 side effects
+T4 Disease 96 112 liver functions
+T5 Drug 128 135 statins
+T6 Drug 144 150 lipitor
+T7 Drug 160 166 lipitor

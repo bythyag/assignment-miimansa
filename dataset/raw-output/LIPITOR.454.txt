@@ -1,0 +1,15 @@
+BIO Sequence:
+Constant O | lightheadedness B-Symptom | . O | Numbness B-Symptom | in O | toes B-Symptom | . O | Severe B-Symptom | back I-Symptom | pain I-Symptom | . O | Neck B-Symptom | , O | shoulder I-Symptom | and O | elbow I-Symptom | pain I-Symptom | . O | Absentminded B-Symptom | . O | I'm O | stopping O | the O | dose O | . O | As O | a O | police O | officer O | on O | the O | street O | , O | I O | can't O | afford O | these O | side B-ADR | effects I-ADR | . O | I'll O | try O | some O | other O | treatment O | before O | the O | lipitor B-Drug | gets O | me O | killed O | . O
+
+Structured Output:
+T1 Symptom 13 30 lightheadedness
+T2 Symptom 39 48 Numbness
+T3 Symptom 50 54 toes
+T4 Symptom 56 69 Severe back pain
+T5 Symptom 71 80 Neck
+T6 Symptom 82 90 shoulder
+T7 Symptom 92 98 elbow
+T8 Symptom 100 104 pain
+T9 Symptom 106 119 Absentminded
+T10 ADR 149 161 side effects
+T11 Drug 186 192 lipitor

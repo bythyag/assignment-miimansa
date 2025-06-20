@@ -1,0 +1,15 @@
+BIO Sequence:
+Some O | addedd O | gas/wind B-Symptom | . O | (Cont'd O | - O | Pt.2 O | ) O | According O | to O | my O | 'GP' B-Drug | (Dr) O | , O | the O | UK O | male O | 'desireable O | target' O | is O | 5.1 O | mmol/litre O | or O | 196 O | mg/decilitre O | . O | Docs O | now O | actually O | like O | you O | to O | be O | lower O | than O | that O | if O | possible O | . O | In O | 1977 O | (at O | age O | 28 O | ) O | with O | a O | 'count' O | of O | 10mmol/L B-Disease | (385mg/dL) O | , O | a O | VERY O | careful O | low-chol O | . O | diet O | made O | virtually O | NO O | difference O | to O | my O | count O | . O | So O | I O | went O | onto O | Zocor B-Drug | (new-ish O | then) O | and O | remained O | on O | it O | for O | 21 O | years O | , O | finally O | on O | a O | dose O | of O | 40mg/day B-Drug | with O | no O | real O | side O | effects B-ADR | - it O | lowered O | my O | count O | to O | 5.6mmol/L O | . O | As O | my O | count O | started O | to O | rise O | again O | to O | 7.8 O | in O | 1997 O | (at O | age O | 48 O | ) O | , O | I O | switched O | to O | Lipitor B-Drug | , O | starting O | with O | 20mg/day B-Drug | and O | then O | 40mg/day B-Drug | which O | dropped O | my O | count O | A O | LOT O | to O | just O | 5.1mmol/L O | and O | with O | an O | HDL O | 'good O | cholesterol' O | count O | of O | 1.6 O | . O | After O | a O | 3-week O | holiday O | without O | pills O | , O | my O | count O | rose O | to O | 10.4 O | , O | so O | I O | went O | back O | onto O | 40mg/day B-Drug | of O | Lipitor B-Drug | - but O | my O | count O | was O | still O | only O | 6.7 O | , O | so O | I O | put O | myself O | onto O | 80mg/day B-Drug | Lipitor B-Drug | and O | my O | count O | went O | down O | to O | 5.5 O | - this O | is O | the O | highest O | dose O | recommended O | . O | I've O | been O | on O | this O | . O 
+
+Structured Output:
+T1 Symptom 19 27 gas/wind
+T2 Drug 39 43 Zocor
+T3 Drug 139 146 40mg/day
+T4 ADR 148 162 side effects
+T5 Drug 196 203 Lipitor
+T6 Drug 215 221 20mg/day
+T7 Drug 227 233 40mg/day
+T8 Drug 271 277 40mg/day
+T9 Drug 282 288 Lipitor
+T10 Drug 309 315 80mg/day
+T11 Drug 317 323 Lipitor

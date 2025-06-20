@@ -1,0 +1,34 @@
+BIO Sequence:
+Have O | been O | on O | lipitor B-Drug | over O | 5 O | yrs O | . O | As O | time O | has O | passed O | , O | I O | have O | developed O | foot B-Symptom | , O | shin B-Symptom | , O | knee B-Symptom | , O | thigh B-Symptom | and O | hip B-Symptom | pain I-Symptom | . O | shoulder B-Symptom | , O | arm B-Symptom | and O | hand B-Symptom | pain I-Symptom | - O | am O | having O | balance B-Symptom | problems I-Symptom | , O | clumsiness B-Symptom | and O | some O | memory B-ADR | loss I-ADR | . O | I O | have O | had O | problem O | with O | bloating B-ADR | and O | flatulence I-ADR | big O | time O | . O | Dr O | just O | took O | me O | off O | Lipitor B-Drug | and O | Effexor B-Drug | for O | depression B-Disease | . O | only O | 2 O | weeks O | off O | . O | so O | no O | noticeable O | change O | as O | yet O | . O | Had O | an O | MRI B-Procedure | last O | week O | to O | rule O | out O | Multiple B-Disease | Sclerosis I-Disease | or O | any O | brain B-Disease | problems I-Disease | I O | HOPE O | - O | have O | not O | gotten O | results O | as O | yet O | . O | Lipitor B-Drug | reduced O | my O | cholesterol B-Disease | total O | greatly O | from O | 274 O | to O | 160 O | . O | HDL O | went O | up O | and O | LDL O | and O | triglicerides B-Disease | went O | down O | . O | but O | looks O | like O | the O | side B-ADR | effects I-ADR | are O | going O | to O | cause O | me O | to O | change O | meds O | or O | quit O | taking O | them O | . O | Do O | the O | gym O | 3 O | x O | a O | week O | and O | walk O | . O | am O | not O | totally O | sedentary O | and O | watch O | what O | I O | eat O | . O | but O | I O | am O | a O | cholesterol B-Disease | mfg O | . O | ( O | so O | is O | my O | sister O | ) O | . O | right O | now O | , O | I O | am O | just O | HURTING B-ADR | . O | and O | want O | to O | find O | out O | WHY O | . O | stay O | tuned O | . O
+
+Structured Output:
+T1 Drug 23 30 lipitor
+T2 Symptom 115 119 foot
+T3 Symptom 121 125 shin
+T4 Symptom 127 131 knee
+T5 Symptom 133 137 thigh
+T6 Symptom 139 142 hip
+T7 Symptom 144 148 pain 149 153
+T8 Symptom 158 165 shoulder
+T9 Symptom 167 170 arm
+T10 Symptom 172 176 hand
+T11 Symptom 178 182 pain 183 187
+T12 Symptom 191 198 balance
+T13 Symptom 200 209 problems
+T14 Symptom 211 221 clumsiness
+T15 ADR 228 233 memory
+T16 ADR 235 239 loss
+T17 ADR 257 265 bloating
+T18 ADR 271 282 flatulence
+T19 Drug 302 309 Lipitor
+T20 Drug 315 322 Effexor
+T21 Disease 335 345 depression
+T22 Disease 392 410 Multiple Sclerosis
+T23 Disease 412 417 brain
+T24 Disease 420 431 problems
+T25 Drug 473 480 Lipitor
+T26 Disease 487 496 cholesterol
+T27 Disease 516 520 triglicerides
+T28 ADR 528 533 side
+T29 ADR 535 542 effects
+T30 ADR 552 557 HURTING

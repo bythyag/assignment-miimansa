@@ -1,0 +1,25 @@
+BIO Sequence:
+vision B-Symptom | problems I-Symptom | , O | stiff B-Symptom | neck I-Symptom | symtoms O | , O | nerve B-Symptom | pain I-Symptom | and O | weakness B-Symptom | in O | forearms B-Symptom | from O | the O | elbows B-Symptom | to O | the O | wrists B-Symptom | in O | both O | arms O | with O | pain B-Symptom | . O | took O | it O | with O | co O | q O | 10 B-Drug | , O | vitamins B-Drug | , O | and O | bp O | med O | prinivil B-Drug | , O | estratest B-Drug | , O | actose B-Drug | , O | and O | flaxseed B-Drug | daily O | high O | fiber O | diet O | ; O | lowered O | choles. B-Symptom | from O | 228 O | to O | 123 O | , O | triglycerides B-Symptom | from O | 180 O | to O | 79 O | , O | hdl B-Symptom | from O | 53 O | to O | 58 O | , O | and O | ldl B-Symptom | chols. O | from O | 138 O | to O | 38 O | . O | after O | only O | six O | weeks O | with O | very O | moderate O | exercise O | . O 
+
+Structured Output:
+T1 Symptom 0 6 vision
+T2 Symptom 7 14 problems
+T3 Symptom 16 20 stiff
+T4 Symptom 21 25 neck
+T5 Symptom 34 38 nerve
+T6 Symptom 39 43 pain
+T7 Symptom 44 51 weakness
+T8 Symptom 60 68 forearms
+T9 Symptom 76 82 elbows
+T10 Symptom 91 97 wrists
+T11 Symptom 104 108 pain
+T12 Drug 36 39 co q 10
+T13 Drug 61 68 vitamins
+T14 Drug 69 76 prinivil
+T15 Drug 77 86 estratest
+T16 Drug 87 94 actose
+T17 Drug 95 103 flaxseed
+T18 Symptom 111 118 choles.
+T19 Symptom 129 141 triglycerides
+T20 Symptom 144 147 hdl
+T21 Symptom 151 163 ldl

@@ -1,0 +1,6 @@
+T1 ADR 22 32 effects
+T2 Disease 42 52 cholesterol
+T3 Disease 73 86 triglycerides
+T4 Disease 99 109 cholesterol
+T5 Disease 114 126 triglyceride
+T6 Disease 139 153 thyroidectomy

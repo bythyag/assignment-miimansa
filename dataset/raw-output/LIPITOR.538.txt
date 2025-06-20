@@ -1,0 +1,12 @@
+BIO Sequence:
+after O | one O | week O | i O | started O | with O | chest B-Symptom | tightness I-Symptom | and O | numness B-Symptom | aching I-Symptom | feeling O | to O | my O | left O | arm O | also O | pain B-Symptom | inbetween O | both O | shoulder O | blades O | . O | also O | would O | wake O | up O | feeling O | shakey B-Symptom | headache I-Symptom | and O | just O | more O | tiered B-Symptom | . O | called O | my O | dr O | . O | he O | said O | to O | stop O | takeing O | it O | . O | so O | now O | i O | must O | lower O | my O | cholesterol B-Disease | with O | diet O | and O | exercise O | . O | not O | for O | all O | . O 
+
+Structured Output:
+T1 Symptom 27 41 chest tightness
+T2 Symptom 44 51 numness
+T3 Symptom 52 58 aching
+T4 Symptom 82 86 pain
+T5 Symptom 117 123 shakey
+T6 Symptom 126 134 headache
+T7 Symptom 138 143 tiered
+T8 Disease 155 165 cholesterol

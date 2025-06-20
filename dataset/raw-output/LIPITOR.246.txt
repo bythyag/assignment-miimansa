@@ -1,0 +1,25 @@
+BIO Sequence:
+Having O | been O | on O | Lipitor B-Drug | for O | over O | one O | year O | , O | with O | a O | modest O | reduction O | in O | cholesterol B-Disease | levels O | , O | I O | developed O | a O | severe O | reaction B-ADR | following O | shoulder B-Disease | surgery I-Disease | . O | Approximately O | 4 O | months O | following O | my O | surgery O | , O | I O | developed O | an O | abrupt O | and O | chronic O | pain B-Symptom | in O | my O | arms B-Symptom | , O | hands B-Symptom | and O | the O | back O | of O | my O | upper O | legs B-Symptom | ( O | from O | buttocks B-Symptom | to O | knees B-Symptom | ) O | . O | After O | two O | MRI's B-Disease | and O | EMG B-Disease | and O | blood O | and O | urine O | analyisis O | reviewed O | by O | a O | Neurologist B-Drug | with O | negative O | and/or O | normal O | results O | , O | I O | self-diagnosed O | having O | read O | numerous O | patient O | complaints O | mirroring O | my O | symptoms O | and O | reading O | a O | cautionary O | warning O | to O | physicians O | to O | consider O | taking O | their O | patients O | off O | Lipitor B-Drug | when O | the O | patient O | was O | scheduled O | for O | major O | surgery O | ( O | www.drug.com O | ) O | . O | My O | Neurologist B-Drug | has O | prescribed O | Prednisone B-Drug | 10mg O | to O | help O | with O | the O | symptoms O | . O | I O | am O | trying O | to O | limit O | my O | use O | of O | the O | Predisone O | but O | cannot O | take O | care O | of O | basic O | functions O | without O | a O | minimum O | of O | 10mg O | daily O | . O | As O | a O | CEO O | of O | a O | large O | sales O | company O | and O | a O | physically O | active O | person O | , O | I'm O | extremely O | concerned O | about O | this O | chronic O | condition O | . O | I O | have O | been O | off O | Lipitor B-Drug | f O | . O |
+
+Structured Output:
+T1 Drug 22 29 Lipitor
+T2 Disease 70 79 cholesterol
+T3 ADR 116 123 reaction
+T4 Disease 134 143 shoulder surgery
+T5 Symptom 207 211 pain
+T6 Symptom 216 220 arms
+T7 Symptom 226 231 hands
+T8 Symptom 240 244 back
+T9 Symptom 258 266 upper legs
+T10 Symptom 275 284 buttocks
+T11 Symptom 289 294 knees
+T12 Disease 311 316 MRI's
+T13 Disease 320 323 EMG
+T14 Drug 347 358 Neurologist
+T15 Drug 377 384 Lipitor
+T16 Drug 399 407 Neurologist
+T17 Drug 414 423 Prednisone
+T18 Drug 425 431 10mg
+T19 Drug 440 461 Predisone
+T20 Disease 466 473 condition
+T21 Drug 496 503 Lipitor

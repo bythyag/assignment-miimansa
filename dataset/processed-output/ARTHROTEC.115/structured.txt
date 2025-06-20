@@ -1,0 +1,6 @@
+T1 Symptom 0 14 Stomach cramps
+T2 Symptom 16 21 gassy
+T3 Symptom 36 51 empty stomach
+T4 Symptom 64 69 pain
+T5 Symptom 79 84 sleep
+T6 Symptom 90 94 pain

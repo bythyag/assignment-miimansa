@@ -1,0 +1,7 @@
+T1 Drug 22 29 75
+T2 ADR 43 53 crankiness  
+T3 ADR 58 68 irritability  
+T4 Symptom 72 74 BP  
+T5 Symptom 87 102 visual disturbances  
+T6 Symptom 105 109 pain  
+T7 ADR 114 123 side effects

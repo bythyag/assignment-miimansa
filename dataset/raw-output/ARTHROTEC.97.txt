@@ -1,0 +1,11 @@
+BIO Sequence:
+The O | symptoms B-Symptom | got O | progressively O | worse O | with O | time O | . O | They O | included O | fluid B-Symptom | retention I-Symptom | , O | all O | over O | muscle B-Symptom | pain I-Symptom | , O | cramps B-Symptom | . O | I O | stopped O | taking O | them O | a O | week O | ago O | and O | felt O | much O | better O | the O | next O | day O | . O | Some O | of O | the O | side B-ADR | effects I-ADR | haven't O | totally O | disappeared O | but O | I'm O | improving O | with O | each O | day O | . O | My O | doctor O | doesn't O | believe O | that O | this O | medication B-Drug | could O | cause O | this O | reaction B-ADR | . O
+
+Structured Output:
+T1 Symptom 15 23 symptoms
+T2 Symptom 44 59 fluid retention
+T3 Symptom 62 77 muscle pain
+T4 Symptom 80 86 cramps
+T5 ADR 98 110 side effects
+T6 Drug 147 156 medication
+T7 ADR 168 175 reaction

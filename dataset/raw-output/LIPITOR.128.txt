@@ -1,0 +1,20 @@
+BIO Sequence:
+stiff B-Symptom | neck I-Symptom | , O | sore B-Symptom | left O | testicle I-Symptom | , O | arm B-Symptom | muscles I-Symptom | melting O | , O | legs B-Symptom | feel O | like O | they O | don't O | belong O | to O | me O | . O
+
+Structured Output:
+T1 Symptom 0 5 stiff
+T2 Symptom 6 10 neck
+T3 Symptom 12 16 sore
+T4 Symptom 17 21 left
+T5 Symptom 22 30 testicle
+T6 Symptom 32 36 arm
+T7 Symptom 37 43 muscles
+T8 Symptom 44 51 melting
+T9 Symptom 53 57 legs
+T10 Symptom 58 62 feel
+T11 Symptom 63 67 like
+T12 Symptom 68 72 they
+T13 Symptom 73 78 don't
+T14 Symptom 79 86 belong
+T15 Symptom 87 89 to
+T16 Symptom 90 92 me

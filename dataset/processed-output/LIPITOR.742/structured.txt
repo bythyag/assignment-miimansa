@@ -1,0 +1,14 @@
+T1 Symptom 0 10 Joint pain  
+T2 Symptom 11 16 shoulder  
+T3 Symptom 20 25 Extreme pain  
+T4 Symptom 31 38 upper back  
+T5 Symptom 40 45 area  
+T6 Symptom 47 51 Pain  
+T7 Symptom 55 60 knees  
+T8 Symptom 62 81 short term memory loss  
+T9 Disease 95 104 TC  
+T10 ADR 129 143 side effects  
+T11 ADR 145 157 pain killers  
+T12 ADR 165 169 pain  
+T13 Disease 171 181 cholesterol  
+T14 Drug 189 197 Pravachol

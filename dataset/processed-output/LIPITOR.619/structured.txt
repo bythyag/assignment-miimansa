@@ -1,0 +1,20 @@
+T1 Symptom 10 14 pain
+T2 Symptom 18 22 hips
+T3 Symptom 27 35 shoulders
+T4 Drug 38 45 Lipitor
+T5 Symptom 72 76 pain
+T6 Symptom 82 85 hip
+T7 Symptom 107 111 pain
+T8 Symptom 116 124 shoulders
+T9 Symptom 128 132 pain
+T10 Symptom 136 139 arms
+T11 Disease 165 176 tendonitis
+T12 Disease 180 197 avascular necrosis
+T13 Drug 213 233 anti-inflammatories
+T14 Drug 246 250 drug
+T15 Drug 260 264 drug
+T16 Drug 285 289 drug
+T17 Symptom 313 317 pain
+T18 Disease 352 365 heart attack
+T19 Disease 377 388 cholesteral
+T20 Symptom 412 416 pain

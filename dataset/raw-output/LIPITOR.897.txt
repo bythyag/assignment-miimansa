@@ -1,0 +1,14 @@
+BIO Sequence:
+Terrible O | charlie B-Symptom | horses I-Symptom | , O | cramping B-Symptom | , O | my O | neck B-Symptom | glands I-Symptom | hurt O | . O | My O | mother O | was O | began O | to O | have O | symptoms O | of O | als B-Disease | shortly O | after O | her O | lipitor B-Drug | dose O | was O | increased O | . O | She O | wasn't O | formally O | diagnosed O | for O | a O | year O | and O | a O | half O | after O | that O | . O | I O | lost O | my O | mother O | on O | January O | 12 O | , O | 2008 O | . O | I O | want O | to O | know O | if O | lipitor B-Drug | is O | connected O | to O | als B-Disease | . O | My O | husband O | was O | on O | it O | for O | less O | than O | 6 O | months O | and O | he O | noticed O | leg B-Symptom | pains I-Symptom | , O | neck B-Symptom | glands I-Symptom | hurt O | , O | trouble B-Symptom | swallowing I-Symptom | and O | more O | . O 
+
+Structured Output:
+T1 Symptom 0 14 charlie horses
+T2 Symptom 16 24 cramping
+T3 Symptom 30 45 neck glands
+T4 Disease 70 73 als
+T5 Drug 84 90 lipitor
+T6 Disease 114 117 als
+T7 Drug 136 142 lipitor
+T8 Symptom 144 147 leg pains
+T9 Symptom 153 160 neck glands
+T10 Symptom 162 169 trouble swallowing

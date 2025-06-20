@@ -1,0 +1,6 @@
+BIO Sequence:
+My O | mother O | developed O | dementia B-Disease | while O | taking O | this O | terrible O | drug B-Drug | . O | Since O | stopping O | she O | has O | not O | improved O | and O | now O | needs O | 24/7 O | care O | . O
+
+Structured Output:
+T1 Disease 21 28 dementia  
+T2 Drug 67 71 drug

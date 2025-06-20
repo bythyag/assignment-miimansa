@@ -1,0 +1,7 @@
+T1 Drug 15 21 Lipitor
+T2 ADR 35 38 sore
+T3 ADR 43 50 muscle pain
+T4 ADR 55 66 heart palpatations
+T5 ADR 70 74 sore
+T6 ADR 79 84 knees
+T7 ADR 107 113 muscle pain

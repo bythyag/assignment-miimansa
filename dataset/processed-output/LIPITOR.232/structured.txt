@@ -1,0 +1,11 @@
+T1 Symptom 28 31 gas
+T2 ADR 66 72 smelly
+T3 Symptom 75 82 painfull
+T4 ADR 84 91 Diarhea
+T5 Symptom 93 101 headache
+T6 Symptom 103 111 backache
+T7 Symptom 113 122 runny nose
+T8 Drug 36 41 40mg
+T9 ADR 129 139 side effects
+T10 Symptom 144 148 gas
+T11 Symptom 153 158 bloat

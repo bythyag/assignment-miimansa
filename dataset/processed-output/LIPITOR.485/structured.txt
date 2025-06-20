@@ -1,0 +1,4 @@
+T1 Symptom 0 9 terrible nightmares
+T2 Symptom 13 21 insomnia
+T3 Symptom 23 32 leg cramps
+T4 Symptom 34 41 fatigue

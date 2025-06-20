@@ -1,0 +1,1 @@
+Very O | very O | severe O | abdonimal B-Symptom | pain I-Symptom | , O | next O | day O | my O | stool O | was O | black B-Symptom | which O | could O | indicate O | blood B-Symptom | in O | my O | stool I-Symptom | , O | going O | to O | doctor O | today O | . O | I O | will O | never O | take O | it O | again O | . O

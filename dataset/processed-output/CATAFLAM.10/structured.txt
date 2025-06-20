@@ -1,0 +1,10 @@
+T1 Symptom 0 6 rectal
+T2 Symptom 7 14 bleeding
+T3 Disease 16 24 collitis
+T4 Disease 34 36 GI
+T5 Disease 37 44 distress
+T6 Drug 50 57 Cataflam
+T7 Disease 66 68 ER
+T8 Drug 80 87 Cataflam
+T9 Drug 89 7 NSAIDS
+T10 Symptom 97 105 allergies

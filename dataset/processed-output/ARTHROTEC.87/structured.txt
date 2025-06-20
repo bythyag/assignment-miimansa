@@ -1,0 +1,12 @@
+T1 Symptom 0 9 Abdominal
+T2 Symptom 10 16 cramps
+T3 Symptom 18 27 flatulence
+T4 Symptom 29 32 gas
+T5 Symptom 34 41 bloating
+T6 Symptom 45 51 Cramps
+T7 Symptom 60 65 minutes
+T8 Disease 85 92 coccyx
+T9 Disease 93 97 pain
+T10 Symptom 100 106 cramps
+T11 Symptom 109 116 bloating
+T12 Symptom 124 138 uncomfortable

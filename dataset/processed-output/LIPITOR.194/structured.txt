@@ -1,0 +1,20 @@
+T1 Symptom 0 15 distress
+T2 Symptom 17 29 trouble
+T3 Symptom 31 39 ache
+T4 Symptom 41 52 trouble
+T5 Drug 75 83 10 milligram
+T6 Symptom 94 109 pains
+T7 Symptom 111 125 bloating
+T8 Symptom 137 141 aches
+T9 Symptom 146 154 stiffness
+T10 Symptom 157 161 hips
+T11 Symptom 164 169 knees
+T12 Drug 208 211 40 mg
+T13 Disease 217 227 blood sugar
+T14 Symptom 242 258 pain
+T15 Symptom 261 266 pain
+T16 ADR 272 284 constipated
+T17 ADR 297 302 pains
+T18 Symptom 306 311 aches
+T19 Symptom 317 325 stiffness
+T20 Symptom 329 334 aging

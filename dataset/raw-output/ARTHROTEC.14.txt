@@ -1,0 +1,7 @@
+BIO Sequence:
+Initially O | I O | experienced O | a O | slight O | , O | but O | noticeable O | difference O | in O | pain B-Symptom | level O | : O | the O | pain O | was O | less O | severe O | . O | Within O | a O | few O | days O | , O | I O | noticed O | acid B-Symptom | reflux I-Symptom | shortly O | after O | taking O | , O | and O | it O | got O | progressively O | worse O | . O | It O | got O | to O | the O | point O | that O | I O | was O | apprehensive O | about O | going O | to O | bed O | ; O | I O | consistently O | found O | myself O | waking O | up O | with O | acidic B-Symptom | bile I-Symptom | in O | my O | mouth O | , O | tasting O | like O | I O | had O | thrown O | up O | . O 
+
+Structured Output:
+T1 Symptom 45 49 pain
+T2 Symptom 90 97 acid reflux
+T3 Symptom 186 191 acidic bile

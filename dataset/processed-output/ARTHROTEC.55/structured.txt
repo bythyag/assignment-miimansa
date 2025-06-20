@@ -1,0 +1,5 @@
+T1 Drug 27 37 occupycet
+T2 Drug 38 48 5/325Nguyen
+T3 Symptom 52 56 back
+T4 Symptom 62 66 pain
+T5 ADR 76 80 tied

@@ -1,0 +1,9 @@
+T1 Symptom 11 15 arm
+T2 Symptom 20 24 neck
+T3 Disease 38 44 chronic pain
+T4 Symptom 80 84 pain
+T5 ADR 131 137 socked
+T6 ADR 142 145 arm
+T7 Symptom 148 155 unbearable
+T8 Symptom 63 65 4
+T9 Symptom 70 72 10

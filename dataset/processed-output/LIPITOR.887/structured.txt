@@ -1,0 +1,37 @@
+T1 Symptom 16 19 knee
+T2 Symptom 23 27 pain
+T3 Symptom 56 60 pain
+T4 Disease 66 71 knees
+T5 Symptom 97 115 swelling
+T6 Disease 119 123 feet
+T7 Symptom 131 136 pain
+T8 Disease 142 147 ankle
+T9 ADR 149 152 gas
+T10 ADR 154 164 indigestion
+T11 ADR 166 178 reflux
+T12 Symptom 180 182 energy
+T13 Symptom 184 194 confusion
+T14 Symptom 196 205 stumbeling
+T15 Symptom 207 214 vertigo
+T16 Symptom 216 226 memory loss
+T17 Symptom 239 263 urges to go pee
+T18 Symptom 293 298 pain
+T19 Disease 323 328 shoulder
+T20 Disease 330 337 arthritis
+T21 Disease 340 351 tendonitis
+T22 Disease 355 364 burscitis
+T23 Symptom 379 383 pain
+T24 Disease 391 396 ankle
+T25 Symptom 398 402 pain
+T26 Symptom 451 460 confusion
+T27 Disease 482 489 polyups
+T28 Drug 531 537 Lipitor
+T29 ADR 561 566 medicine
+T30 ADR 588 593 damage
+T31 ADR 615 623 permenant
+T32 Symptom 634 641 ailmant
+T33 Drug 683 688 drugs
+T34 Drug 697 701 drugs
+T35 ADR 724 730 faith
+T36 Drug 756 759 drugs
+T37 Disease 764 768 FDA

@@ -1,0 +1,24 @@
+BIO Sequence:
+heavy B-Symptom | legs I-Symptom | , O | muscle B-Symptom | aches I-Symptom | , O | confusion B-Symptom | , O | not O | able O | to O | remember O | things O | like O | whether O | I O | had O | done O | something O | or O | where O | I O | had O | placed O | something O | , O | stomach B-Symptom | upset I-Symptom | , O | indigestion B-Symptom | , O | insomnia B-Symptom | , O | sweating B-Symptom | , O | shaking B-Symptom | , O | shortness B-Symptom | of O | breath I-Symptom | , O | twitching B-Symptom | , O | depression B-Symptom | worse I-Symptom | , O | fibromyalgia B-Disease | much O | worse O | . O | Did O | help O | lower O | my O | bad O | cholesterol B-Drug | but O | caused O | me O | to O | crave O | sweets O | and O | carbohydrates O | . O | Constipation B-Symptom | to O | the O | point O | I O | suffered O | bouts O | of O | diverticulitis B-Disease | . O | It O | happened O | gradually O | and O | I O | didn't O | realize O | it O | was O | Lipitor B-Drug | , O | neither O | did O | my O | MD O | , O | said O | perhaps O | beginning O | of O | MS B-Disease | or O | lupus B-Disease | . O | I O | hope O | these O | side B-ADR | effects I-ADR | all O | go O | away O | eventually O | .
+
+Structured Output:
+T1 Symptom 0 4 heavy
+T2 Symptom 6 10 legs
+T3 Symptom 12 23 muscle aches
+T4 Symptom 25 34 confusion
+T5 Symptom 57 64 stomach upset
+T6 Symptom 66 77 indigestion
+T7 Symptom 79 86 insomnia
+T8 Symptom 88 95 sweating
+T9 Symptom 97 103 shaking
+T10 Symptom 105 123 shortness of breath
+T11 Symptom 125 132 twitching
+T12 Symptom 134 144 depression worse
+T13 Disease 146 158 fibromyalgia
+T14 Drug 173 182 cholesterol
+T15 Symptom 184 197 Constipation
+T16 Disease 199 212 diverticulitis
+T17 Drug 226 232 Lipitor
+T18 Disease 236 238 MS
+T19 Disease 241 246 lupus
+T20 ADR 257 270 side effects

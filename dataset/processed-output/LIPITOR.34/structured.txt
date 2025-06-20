@@ -1,0 +1,9 @@
+T1 Symptom 57 77 dibilitating problem
+T2 Symptom 139 143 arms
+T3 Symptom 194 198 pain
+T4 Drug 237 244 Lipitor
+T5 Drug 318 325 Lipitor
+T6 Disease 312 314 type 2
+T7 Disease 315 322 diabetic
+T8 Symptom 354 361 problems
+T9 Drug 398 405 Lipitor

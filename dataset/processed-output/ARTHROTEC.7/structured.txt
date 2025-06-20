@@ -1,0 +1,13 @@
+T1 Symptom 30 37 severe
+T2 Symptom 38 43 sudden
+T3 Symptom 44 50 onset
+T4 Symptom 51 58 headache
+T5 Symptom 69 71 BP
+T6 Symptom 85 90 pulse
+T7 Drug 124 132 clonidine
+T8 Drug 137 139 ER
+T9 Symptom 144 147 high
+T10 Symptom 149 151 BP
+T11 Symptom 215 220 pulse
+T12 Drug 227 234 medicine
+T13 Symptom 295 306 tachycardia

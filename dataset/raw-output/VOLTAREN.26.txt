@@ -1,0 +1,14 @@
+BIO Sequence:
+no O | side B-ADR | effects I-ADR | whatsoever O | . O | after O | 12 B-Symptom | days I-Symptom | on O | voltaren B-Drug | ( O | 75 B-Drug | mg I-Drug | twice O | daily O | ) O | i O | am O | still O | bruising B-ADR | and O | having O | inflammation B-ADR | especially O | around O | my O | elbow O | where O | the O | ulner B-Disease | nerve I-Disease | is O | compressed O | . O | haven't O | noticed O | any O | difference O | / O | relief B-Symptom | from O | this O | drug O | . O | i O | don't O | have O | anything O | bad O | to O | say O | about O | this O | drug O | . O | it O | just O | didn't O | work O | for O | me O | . O
+
+Structured Output:
+T1 ADR 9 19 side effects
+T2 Symptom 47 50 12
+T3 Drug 27 34 voltaren
+T4 Drug 36 40 75
+T5 ADR 59 66 bruising
+T6 ADR 71 83 inflammation
+T7 Disease 104 110 ulner nerve
+T8 Symptom 135 141 relief
+T9 Drug 158 162 drug
+T10 Drug 172 176 drug

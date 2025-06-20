@@ -1,0 +1,10 @@
+T1 Symptom 0 7 Deafness
+T2 Symptom 9 21 muscle pain
+T3 Disease 22 36 chronic rhinitus
+T4 Disease 38 57 upper respiratory infections
+T5 Symptom 59 77 short term memory loss
+T6 Symptom 81 90 tendonitis
+T7 Symptom 92 98 fatigue
+T8 Symptom 100 110 flatulance
+T9 Symptom 112 126 stomach discomfort
+T10 Symptom 128 138 abdominal cramps

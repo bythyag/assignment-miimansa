@@ -1,0 +1,20 @@
+BIO Sequence:
+SEVERE O | AND O | UNCHARACTERISTIC O | DEPRESSION B-Symptom | , O | ANXIETY B-Symptom | , O | AGGRESSION B-Symptom | , O | AND O | MOOD B-Symptom | SWINGS I-Symptom | . O | I O | cannot O | stress O | this O | enough O | - O | my O | personality O | comepletely O | changed O | after O | beginning O | this O | medication O | . O | I O | am O | typically O | an O | easy O | going O | , O | positively O | thinking O | , O | emotionally O | stable O | , O | and O | motivated O | person O | . O | But O | after O | starting B-Drug | Lipitor I-Drug | I've O | gradually O | descended O | into O | a O | world O | of O | extreme O | anxiety B-ADR | , O | hopelessness B-Symptom | , O | lonliness B-Symptom | , O | and O | self O | loathing B-Symptom | . O | I've O | never O | in O | my O | life O | been O | so O | depressed B-ADR | , O | so O | obsessively O | focused O | on O | morbid O | , O | terrifying O | thoughts O | , O | or O | so O | negative O | about O | everything O | in O | my O | life O | . O | After O | being O | off O | of O | this O | medication O | for O | only O | 48 O | hours O | , O | I O | am O | already O | beginning O | to O | see O | an O | improvement O | in O | my O | moods O | , O | but O | this O | will O | be O | a O | long O | journey O | back O | to O | my O | old O | self O | , O | I O | feel O | . O | Oh O | yes O | , O | and O | I O | also O | suffered O | from O | : O | Gas B-ADR | , O | Constipation B-ADR | , O | EXTREME B-ADR | FATIGUE I-ADR | , O | weight O | gain O | and O | bloating B-ADR | , O | and O | occassional O | bouts O | of O | diaharrea B-ADR | . O | It O | lowered O | my O | cholesterol O | , O | to O | be O | sure O | . O | But O | it O | also O | significantly O | lowered O | my O | quality O | of O | life O | . O | This O | website O | has O | been O | an O | absolute O | lifeline O | for O | me O | . O | My O | doctor O | had O | seemed O | so O | completely O | unwilling O | to O | accept O | that O | my O | symptoms O | could've O | possibly O | been O | related O | to O | my O | taking B-Drug | Lipitor I-Drug | . O | However O | , O | I O | know O | my O | body O | and O | know O | when O | things O | are O | not O | as O | they O | should O | be O | . O | I O | have O | been O | feeling O | this O | way O | since O | almost O | immediately O | after O | I O | took O | my O | first O | dose O | . O | Hearing O | that O | so O | many O | other O | people O | have O | experienced O | the O | same O | exact O | symptoms O | as O | me O | has O | given O | me O | the O | courage O | needed O | to O | STOP O | this O | medication O | . O | So O | many O | of O | my O | family O | members O | and O | friends O | have O | had O | bad O | reactions O | to O | this O | stuff O | - O | I O | can O | not O | trust O | it O | , O | and O | will O | be O | looking O | for O | another O | way O | to O | get O | my O | cholesterol O | under O | control O | , O | if O | possible O | . O | Be O | very O | careful O | and O | very O | informed O | before O | you O | start O | any O | new O | medication O | . O | Don't O | always O | trust O | the O | word O | of O | your O | doctor O | as O | the O | only O | word O | and O | take O | it O | at O | its O | face O | value O | . O | When O | it O | comes O | to O | your O | body O | , O | you O | have O | every O | right O | to O | dictate O | , O | understand O | , O | and O | call O | the O | shots O | about O | what O | does O | and O | does O | not O | go O | in O | to O | it O | . O |
+
+Structured Output:
+T1 Symptom 36 45 DEPRESSION
+T2 Symptom 47 54 ANXIETY
+T3 Symptom 56 66 AGGRESSION
+T4 Symptom 68 77 MOOD SWINGS
+T5 Drug 157 163 Lipitor
+T6 ADR 99 115 anxiety
+T7 ADR 117 129 hopelessness
+T8 ADR 131 140 lonliness
+T9 ADR 142 155 self loathing
+T10 ADR 171 179 depressed
+T11 ADR 209 223 Gas
+T12 ADR 225 238 Constipation
+T13 ADR 240 257 EXTREME FATIGUE
+T14 ADR 261 267 bloating
+T15 ADR 288 298 diaharrea
+T16 Drug 358 364 Lipitor

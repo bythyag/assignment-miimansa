@@ -1,0 +1,12 @@
+BIO Sequence:  
+Severe B-Symptom | back I-Symptom | pain I-Symptom | , O | flank B-Symptom | pain I-Symptom | , O | hematuria B-Symptom | , O | kidney B-Disease | failure I-Disease | . O | This O | was O | the O | worst O | drugs O | I O | could O | ever O | have O | taken O | and O | could O | not O | possibly O | recommend O | that O | anyone O | take O | it O | . O | Lipitor B-Drug | caused O | permanent O | liver B-Disease | and O | kidney B-Disease | damage I-Disease | to O | me O | and O | is O | a O | killer O | . O  
+
+Structured Output:  
+T1 Symptom 0 13 Severe back pain  
+T2 Symptom 15 25 flank pain  
+T3 Symptom 27 36 hematuria  
+T4 Disease 38 53 kidney failure  
+T5 Drug 55 61 Lipitor  
+T6 Disease 73 78 liver  
+T7 Disease 83 89 kidney  
+T8 Disease 91 97 damage  

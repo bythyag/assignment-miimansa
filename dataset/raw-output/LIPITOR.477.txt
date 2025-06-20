@@ -1,0 +1,8 @@
+BIO Sequence:
+Fatigue B-Symptom | , O | very O | tired B-Symptom | after O | working O | hours O | ( O | and O | I O | ' O | m O | not O | doing O | much O | physical O | work O | ). O | Also O | rush B-Symptom | all O | over O | my O | face O | . O | It O | helps O | lower O | the O | cholesterol B-Disease | , O | but O | I O | think O | it O | ' O | s O | not O | worth O | . O
+
+Structured Output:
+T1 Symptom 0 6 Fatigue
+T2 Symptom 16 21 tired
+T3 Symptom 88 92 rush
+T4 Disease 102 113 cholesterol

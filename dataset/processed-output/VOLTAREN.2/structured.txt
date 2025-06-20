@@ -1,0 +1,5 @@
+T1 ADR 45 50 dizzy
+T2 Symptom 57 63 chest pain
+T3 Drug 92 94 Dr
+T4 Drug 102 109 medicine
+T5 Drug 111 121 Pharmecitical

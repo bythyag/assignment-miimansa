@@ -1,0 +1,6 @@
+T1 Symptom 0 13 Hospitalization
+T2 Symptom 15 21 extreme
+T3 Symptom 22 27 rectal
+T4 Symptom 28 33 bleed
+T5 Drug 43 57 blood transfusion
+T6 Symptom 68 73 sick

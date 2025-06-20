@@ -1,0 +1,24 @@
+T1 Disease 29 31 18
+T2 Symptom 51 56 muscle cramps
+T3 Symptom 61 75 tendon pain
+T4 Symptom 81 89 feet
+T5 Symptom 91 96 knees
+T6 Symptom 98 103 shins
+T7 Symptom 105 109 thigh
+T8 Symptom 111 115 hips
+T9 Symptom 122 130 upper arms
+T10 Symptom 132 140 shoulders
+T11 Symptom 142 148 elbows
+T12 Symptom 150 156 wrists
+T13 Symptom 158 163 hands
+T14 Symptom 165 173 tightened muscles
+T15 Symptom 176 180 neck
+T16 Disease 199 204 spinal disc
+T17 Disease 206 214 symptoms
+T18 Symptom 238 242 great
+T19 Symptom 250 255 acute pain
+T20 Drug 294 300 Lipitor
+T21 ADR 327 333 severe cramps
+T22 ADR 338 343 pains
+T23 ADR 355 363 severe reaction
+T24 O 0 0 culprit

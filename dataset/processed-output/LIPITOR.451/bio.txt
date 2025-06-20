@@ -1,0 +1,1 @@
+Sterted O | with O | swelling B-Symptom | in O | one O | ankle I-Symptom | then O | a O | knee I-Symptom | then O | the O | other O | knee I-Symptom | . O | Also O | lots O | of O | soreness B-Symptom | in O | shoulders I-Symptom | and O | some O | general O | lowering B-Symptom | of O | energy I-Symptom | . O

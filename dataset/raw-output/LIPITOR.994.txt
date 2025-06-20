@@ -1,0 +1,19 @@
+BIO Sequence:
+dosage O | was O | increased O | from O | 10 O | to O | 20 O | mg O | and O | the O | tingling B-Symptom | and O | numbness B-Symptom | in O | my O | feet B-Symptom | and O | shins B-Symptom | escalated O | . O | I O | even O | went O | to O | a O | podiatrist O | because O | my O | toes B-Symptom | ached O | and O | my O | feet B-Symptom | hurt O | . O | I've O | tried O | simvastatin B-Drug | , O | provastatin B-Drug | , O | and O | lovastatin B-Drug | . O | Each O | time O | the O | side B-ADR | effects I-ADR | return O | . O | I O | can't O | even O | sleep O | at O | night O | because O | of O | the O | sensations B-Symptom | of O | tingling I-Symptom | in O | my O | legs B-Symptom | and O | feet B-Symptom | . O | No O | more O | statins B-Drug | for O | me O | . O | Does O | anyone O | else O | have O | the O | pain B-Symptom | in O | their O | toes B-Symptom | , O | feet B-Symptom | and O | shins B-Symptom | ? O
+
+Structured Output:
+T1 Symptom 46 56 tingling
+T2 Symptom 62 69 numbness
+T3 Symptom 73 78 feet
+T4 Symptom 83 88 shins
+T5 Symptom 115 119 toes
+T6 Symptom 134 138 feet
+T7 ADR 92 103 side effects
+T8 Symptom 151 160 sensations
+T9 Symptom 165 172 tingling
+T10 Symptom 177 181 legs
+T11 Symptom 186 191 feet
+T12 Drug 40 50 simvastatin
+T13 Drug 52 63 provastatin
+T14 Drug 65 75 lovastatin
+T15 Drug 133 140 statins

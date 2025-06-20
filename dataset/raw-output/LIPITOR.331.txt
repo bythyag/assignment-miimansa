@@ -1,0 +1,17 @@
+BIO Sequence:
+I O | have O | Rhuematoid B-Disease | Arthritis I-Disease | for O | 35 O | yrs O | and O | have O | been O | on O | many O | arthritis O | meds O | . O | I O | currently O | am O | on O | Relefen B-Drug | for O | inflamation O | , O | Prednisone B-Drug | 5mg O | , O | every O | other O | day O | and O | Enbrel B-Drug | injections O | once O | a O | week O | . O | I O | have O | no O | problems O | from O | these O | drugs O | . O | Eight O | mos O | . O | ago O | another O | doctor O | put O | me O | on O | Lipitor B-Drug | 10mg O | daily O | because O | my O | chol O | was O | 240 O | . O | Over O | a O | period O | of O | 6 O | mos O | . O | , O | it O | went O | down O | to O | 159 O | , O | which O | was O | great O | , O | BUT O | I O | started O | having O | terrible B-ADR | aching I-ADR | pain I-ADR | in O | my O | arms O | about O | that O | time O | which O | was O | radiating O | down O | my O | arms O | from O | my O | shoulder O | to O | my O | hands O | and O | I O | could O | not O | sleep O | well O | at O | all O | . O | I O | lost O | all O | the O | strength O | in O | my O | muscles O | and O | was O | fatigued B-Symptom | all O | the O | time O | . O | I O | was O | blaming O | my O | arthritis O | for O | my O | pain O | for O | months O | and O | months O | . O | I O | started O | taking O | extra O | Relefen B-Drug | and O | Prednisone B-Drug | which O | helped O | only O | temporarly O | . O | I O | could O | hardly O | lift O | a O | glass O | of O | milk O | without O | using O | both O | hands O | , O | I O | was O | so O | weak O | in O | my O | arms O | and O | hands O | . O | One O | day O | it O | just O | hit O | me O | . O | Maybe O | it's O | the O | Lipitor B-Drug | . O | It O | was O | the O | newest O | drug O | I O | was O | taking O | . O | So O | , O | I O | just O | quit O | taking O | it O | and O | within O | 3 O | days O | my O | arm O | . O | I O | suggest O | anyone O | who O | develops O | a O | bad O | symption B-Symptom | within O | a O | week O | or O | month O | of O | going O | on O | Lipitor B-Drug | , O | or O | any O | other O | statin B-Drug | drug O | , O | quit O | taking O | it O | and O | call O | your O | doctor O | . O | There O | are O | some O | important O | reasons O | why O | some O | people O | HAVE O | to O | be O | on O | a O | statin B-Drug | in O | some O | cases O | . O |
+
+Structured Output:
+T1 Disease 11 30 Rhuematoid Arthritis
+T2 Drug 66 72 Relefen
+T3 Drug 89 98 Prednisone
+T4 Drug 111 117 Enbrel
+T5 Drug 133 140 Lipitor
+T6 Drug 141 147 10mg
+T7 ADR 242 246 terrible aching pain
+T8 Symptom 318 324 fatigued
+T9 Drug 394 400 Relefen
+T10 Drug 403 411 Prednisone
+T11 Drug 475 481 Lipitor
+T12 Drug 487 493 statin
+T13 Drug 596 602 statin

@@ -1,0 +1,25 @@
+BIO Sequence:
+Immediatly O | reduced O | my O | cholesterol B-Disease | . O | Over O | the O | 12 O | years O | my O | health O | has O | weakened O | in O | many O | ways O | that O | I O | noticed O | some O | of O | you O | other O | posters O | have O | mentioned O | . O | Is O | it O | because O | we O | are O | aging B-Disease | ? O | Or O | the O | drug B-Drug | ? O | Symptoms O | . O | here O | goes O | . O | Depression B-Symptom | . O | Back B-Disease | surgery O | but O | the O | afterpain B-ADR | was O | unexplained O | ? O | Maybe O | Lipitor B-Drug | ? O | Hips B-Disease | are O | sore B-ADR | and O | lower B-Disease | back I-Disease | pain B-ADR | . O | Vision B-Symptom | reduced O | greatly O | . O | Hair B-Symptom | loss B-Symptom | . O | Tired B-Symptom | most O | of O | the O | time O | . O | Can't O | get O | to O | sleep B-Symptom | and O | then O | can't O | get O | out O | of O | bed O | till O | late O | morning O | or O | midday O | . O | No O | strength B-Symptom | . O | Loss B-Symptom | of O | breath B-Symptom | . O | So O | if O | a O | person O | goes O | off O | this O | , O | what O | is O | the O | drug B-Drug | alternative O | to O | keeping O | the O | cholesterol B-Disease | down O | ? O | I O | am O | thinking O | of O | stopping O | the O | lipitor B-Drug | and O | going O | on O | a O | diet O | to O | prevent O | the O | cholesterol B-Disease | from O | rising O | . O | Any O | other O | suggestions O | would O | be O | greatly O | appreciated O | . O | Good O | luck O | to O | you O | all O | . O
+
+Structured Output:
+T1 Disease 29 39 cholesterol
+T2 Disease 96 101 aging
+T3 Drug 106 110 drug
+T4 Symptom 136 146 Depression
+T5 ADR 173 182 afterpain
+T6 Drug 188 194 Lipitor
+T7 Disease 199 203 Hips
+T8 ADR 207 211 sore
+T9 Disease 219 224 lower back
+T10 ADR 226 230 pain
+T11 Symptom 237 243 Vision
+T12 Symptom 254 258 Hair loss
+T13 Symptom 264 269 Tired
+T14 Symptom 282 287 sleep
+T15 Symptom 304 311 strength
+T16 Symptom 317 321 Loss
+T17 Symptom 324 329 breath
+T18 Drug 348 352 drug
+T19 Disease 357 367 cholesterol
+T20 Drug 379 385 lipitor
+T21 Disease 390 400 cholesterol

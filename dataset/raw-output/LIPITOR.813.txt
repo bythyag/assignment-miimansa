@@ -1,0 +1,7 @@
+BIO Sequence:
+Cholesterol B-Symptom | way O | down O | . O | No O | problems B-Symptom | that O | I O | can O | associate O | with O | the O | drug B-Drug | . O
+
+Structured Output:
+T1 Symptom 0 10 Cholesterol  
+T2 Symptom 11 19 problems  
+T3 Drug 45 49 drug

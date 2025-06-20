@@ -1,0 +1,13 @@
+T1 Symptom 0 15 Left shoulder pain
+T2 Symptom 19 34 right hip
+T3 Symptom 36 50 muscle pain
+T4 Disease 52 63 3 weeks
+T5 Disease 73 79 sports
+T6 Disease 81 87 related
+T7 Disease 93 96 right
+T8 Symptom 103 107 unilateral left shoulder pain
+T9 Symptom 112 116 limp
+T10 Drug 118 125 Lipitor
+T11 Disease 142 152 cholesterol
+T12 Disease 158 164 3 weeks
+T13 Disease 171 176 months

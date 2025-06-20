@@ -1,0 +1,4 @@
+T1 Symptom 10 19 tiredness
+T2 Symptom 21 29 dizziness
+T3 Symptom 31 42 memory loss
+T4 Symptom 44 49 moody

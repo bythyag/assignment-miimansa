@@ -1,0 +1,24 @@
+BIO Sequence:
+The O | same O | as O | many O | people O | reported O | muscle B-Symptom | aches I-Symptom | as O | well O | as O | tingling B-Symptom | in O | arm B-Symptom | and O | hand I-Symptom | sore B-Symptom | shoulder I-Symptom | fatigue B-Symptom | poor O | sleep O | although O | it O | did O | lower O | my O | cholesterol B-Drug | I O | was O | not O | warned O | of O | the O | symptoms O | Surprisingly O | when O | I O | told O | my O | doctor O | I O | was O | having O | these O | problems O | he O | did O | not O | suggest O | stopping O | the O | lipitor B-Drug | nor O | did O | any O | of O | the O | other O | specialists O | I O | went O | to O | see O | for O | these O | symptoms O | a O | friend O | told O | me O | about O | the O | side B-ADR | affects I-ADR | after O | I O | told O | her O | my O | symptoms O | she O | said O | they O | were O | the O | same O | as O | statins B-Drug | and O | what O | was O | I O | taking O | ? O | Lipitor B-Drug | ! O | I O | have O | since O | changed O | doctors O | because O | my O | doctor O | told O | me O | he O | did O | not O | believe O | it O | was O | the O | lipitor B-Drug | since O | it O | should O | have O | affected O | me O | on O | both O | arms B-Symptom | and O | hands I-Symptom | but O | as O | soon O | as O | I O | stopped O | the O | lipitor B-Drug | I O | stated O | to O | feel O | better O | it O | has O | been O | three O | weeks O | now O | I O | still O | have O | some O | pain B-Symptom | in O | muscles I-Symptom | but O | severe B-Symptom | fatigue I-Symptom | is O | gone O | Problem O | now O | is O | my O | new O | doctor O | is O | suggesting O | Pravachol B-Drug | ! O | I O | would O | rather O | live O | a O | shorter O | life O | than O | suffer O | the O | pains I-Symptom | and O | fatigue I-Symptom | for O | many O | years O | . O
+
+Structured Output:
+T1 Symptom 40 54 muscle aches
+T2 Symptom 56 63 tingling
+T3 Symptom 68 71 arm
+T4 Symptom 76 80 hand
+T5 Symptom 82 86 sore shoulder
+T6 Symptom 88 95 fatigue
+T7 Symptom 97 101 poor sleep
+T8 Drug 126 135 cholesterol
+T9 Drug 161 168 lipitor
+T10 ADR 195 200 side affects
+T11 Drug 208 215 statins
+T12 Drug 218 225 Lipitor
+T13 Drug 232 239 lipitor
+T14 Symptom 276 280 arms
+T15 Symptom 283 288 hands
+T16 Drug 305 312 lipitor
+T17 Symptom 364 368 pain
+T18 Symptom 373 379 muscles
+T19 Symptom 391 398 fatigue
+T20 Drug 414 422 Pravachol

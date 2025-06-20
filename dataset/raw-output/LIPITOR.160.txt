@@ -1,0 +1,13 @@
+BIO Sequence:
+I O | am O | experiencing O | severe B-Symptom | hip B-Symptom | joint I-Symptom | pain I-Symptom | , O | thigh B-Symptom | pain I-Symptom | , O | severe B-Symptom | thigh I-Symptom | fatigue I-Symptom | upon O | minimal O | exertion O | which O | is O | drastically O | impairing O | the O | ability O | to O | walk O | anything O | beyond O | a O | relatively O | short O | distance O | . O | The O | question O | is O | . O | is O | lipitor B-Drug | causing O | this O | ? O | I O | am O | taking O | 20 B-Drug | mg I-Drug | a O | day O | and O | have O | been O | taking O | this O | for O | 6 O | years O | . O | This O | has O | been O | a O | huge O | problem O | for O | the O | last O | 2.5 O | years O | . O | I O | read O | this O | website O | and O | feel O | that O | lipitor B-Drug | is O | causing O | my O | pain O | . O | I O | have O | been O | to O | numberous O | orthopods O | , O | rheumetoligists O | , O | neouroligist O | , O | and O | others O | who O | cannot O | find O | any O | problems O | . O | So O | , O | when O | I O | read O | about O | all O | these O | people O | who O | seem O | to O | have O | figured O | this O | out O | . O | I O | have O | hope O | . O | But O | are O | they O | correct O | in O | thier O | assumptions O | ? O | We O | are O | all O | desperate O | to O | find O | an O | answer O | ( O | the O | cause O | ) O | and O | ultimately O | a O | cure O | . O | But O | is O | lipitor B-Drug | the O | answer O | ? O | That O | is O | the O | question O | ( O | DP O | 2/02/06 O | . O
+
+Structured Output:
+T1 Symptom 25 30 severe
+T2 Symptom 31 44 hip joint pain
+T3 Symptom 46 60 thigh pain
+T4 Symptom 64 78 severe thigh fatigue
+T5 Drug 89 95 lipitor
+T6 Drug 108 110 20
+T7 Drug 111 113 mg
+T8 Drug 206 212 lipitor
+T9 Drug 317 323 lipitor

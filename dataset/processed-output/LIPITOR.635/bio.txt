@@ -1,0 +1,1 @@
+I O | had O | muscle B-Symptom | cramps I-Symptom | and O | muscle B-Symptom | pain I-Symptom | . O | I O | had O | muscle B-Symptom | pain I-Symptom | in O | my O | chest B-Symptom | . O | After O | I O | quit O | taking O | Lipitor B-Drug | for O | 3 O | days O | the O | pain O | was O | almost O | gone O | . O

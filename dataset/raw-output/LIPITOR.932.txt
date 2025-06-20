@@ -1,0 +1,18 @@
+BIO Sequence:
+Stabbing B-Symptom | pain I-Symptom | between O | shoulder O | blades O | , O | I O | am O | 52 O | and O | feel O | 82 O | , O | no O | energy O | , O | muscle B-Symptom | tone I-Symptom | depletion I-Symptom | , O | strength B-Symptom | depletion I-Symptom | , O | numbness B-Symptom | in O | upper O | legs O | from O | knee O | to O | thigh O | , O | pain B-Symptom | and O | numbness I-Symptom | in O | left O | foot O | , O | left O | foot O | larger O | than O | right O | now O | by O | one O | size O | , O | pain B-Symptom | in O | feet O | , O | need O | special O | shoes O | just O | to O | walk O | now O | , O | I O | feel O | like O | I O | will O | not O | be O | alive O | next O | year O | . O | I've O | been O | on O | this O | for O | 5 O | years O | , O | and O | am O | going O | to O | quit O | after O | finding O | this O | website O | . O | Doctors O | did O | nothing O | for O | me O | . O | They O | have O | no O | idea O | what O | this O | drug B-Drug | does O | to O | people O | ! O | Time O | to O | exercise O | , O | eat O | healthy O | food O | , O | and O | get O | OFF O | this O | stuff O | . O | Thank O | you O | everyone O | for O | taking O | the O | time O | to O | post O | , O | and O | helping O | me O | understand O | what O | was O | happening O | . O | Hate O | this O | stuff O | . O | Crestor B-Drug | just O | as O | bad O | . O |
+
+Structured Output:
+T1 Symptom 0 7 Stabbing
+T2 Symptom 8 12 pain
+T3 Symptom 39 46 muscle tone depletion
+T4 Symptom 51 60 strength depletion
+T5 Symptom 62 69 numbness
+T6 Symptom 80 84 pain
+T7 Symptom 100 106 numbness
+T8 Symptom 113 117 left foot
+T9 Symptom 118 127 left foot larger than right now
+T10 Symptom 129 133 pain
+T11 Symptom 137 142 feet
+T12 Symptom 181 184 I feel like I will not be alive
+T13 Drug 204 208 this drug
+T14 Drug 257 264 Crestor

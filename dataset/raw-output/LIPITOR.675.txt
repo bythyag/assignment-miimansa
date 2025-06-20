@@ -1,0 +1,12 @@
+BIO Sequence:
+Extreme O | muscle B-Symptom | fatigue I-Symptom | (suspect O | Rhabdomyolosis B-Disease |) | leading O | to O | tendonitis B-Disease | as O | a O | result O | of O | trying O | to O | perform O | normal O | physical O | work O | related O | duties O | . O | Just O | starting O | to O | regain O | strength B-Symptom | after O | 16 O | months O | . O | Very O | upset O | that O | Doctor O | prescribed O | Lipitor B-Drug | after O | being O | informed O | about O | eye B-Symptom | muscle I-Symptom | problems O | with O | Zocor B-Drug | . O | No O | discussion O | of O | diet O | or O | possible O | side-effects B-ADR | , O | just O | here O | take O | these O | pills O | . O 
+
+Structured Output:
+T1 Symptom 6 11 muscle fatigue
+T2 Disease 30 45 Rhabdomyolosis
+T3 Disease 58 68 tendonitis
+T4 Symptom 78 85 strength
+T5 Drug 105 111 Lipitor
+T6 Symptom 117 121 eye muscle
+T7 Drug 127 132 Zocor
+T8 ADR 134 149 side-effects

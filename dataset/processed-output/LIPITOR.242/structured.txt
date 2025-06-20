@@ -1,0 +1,16 @@
+T1 Symptom 36 45 DEPRESSION
+T2 Symptom 47 54 ANXIETY
+T3 Symptom 56 66 AGGRESSION
+T4 Symptom 68 77 MOOD SWINGS
+T5 Drug 157 163 Lipitor
+T6 ADR 99 115 anxiety
+T7 ADR 117 129 hopelessness
+T8 ADR 131 140 lonliness
+T9 ADR 142 155 self loathing
+T10 ADR 171 179 depressed
+T11 ADR 209 223 Gas
+T12 ADR 225 238 Constipation
+T13 ADR 240 257 EXTREME FATIGUE
+T14 ADR 261 267 bloating
+T15 ADR 288 298 diaharrea
+T16 Drug 358 364 Lipitor

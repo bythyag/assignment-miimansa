@@ -1,0 +1,13 @@
+T1 Disease 32 38 surgon
+T2 Disease 59 62 hip
+T3 Disease 63 73 replacement
+T4 Symptom 92 96 pain
+T5 Drug 110 120 hydrocodine
+T6 Symptom 134 138 pain
+T7 Symptom 140 148 bleeding
+T8 Symptom 151 158 stomach
+T9 Symptom 159 165 pains
+T10 Symptom 185 191 shoulder
+T11 Symptom 192 196 pain
+T12 Symptom 235 239 steps
+T13 Symptom 287 291 years

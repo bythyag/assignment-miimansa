@@ -1,0 +1,27 @@
+T1 Symptom 0 11 Joint pain
+T2 Symptom 24 30 knees
+T3 Symptom 35 40 hips
+T4 Symptom 43 48 Pain
+T5 Symptom 54 64 shoulders
+T6 Symptom 68 77 tingling sensation
+T7 Symptom 82 86 neck
+T8 Symptom 88 95 Tinnitus
+T9 Symptom 96 101 Weak muscles
+T10 Drug 104 110 Lipitor
+T11 Disease 113 123 cholesterol
+T12 ADR 133 145 side effects
+T13 Symptom 158 162 legs
+T14 Symptom 167 175 shoulders
+T15 Symptom 177 181 ache
+T16 Symptom 186 190 pain
+T17 Symptom 201 209 legs
+T18 Symptom 211 220 Stiffness
+T19 Symptom 222 228 painful
+T20 ADR 252 264 side effects
+T21 Disease 292 303 cholesterol
+T22 Symptom 322 327 tingling
+T23 Symptom 332 336 neck
+T24 Symptom 355 359 legs
+T25 Symptom 363 370 shoulder
+T26 Symptom 372 376 pain
+T27 Symptom 381 387 muscle damage

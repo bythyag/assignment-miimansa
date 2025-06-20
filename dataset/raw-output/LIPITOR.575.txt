@@ -1,0 +1,17 @@
+BIO Sequence:
+Stroke O | like O | symptoms B-Symptom | . O | Numbness B-Symptom | and O | tingling B-Symptom | on O | left B-Symptom | side O | of O | face O | and O | left B-Symptom | arm O | . O | Also O | effected O | my O | equilibrium B-Symptom | . O | My O | cholesterol B-Disease | was O | at O | 190 O | just O | before O | a O | heart B-Disease | attack I-Disease | . O | I O | was O | put O | on O | 80mg O | of O | Lipitor B-Drug | and O | within O | 1 O | week O | of O | leaving O | the O | hospital O | I O | had O | stroke like symptoms B-Symptom | and O | my O | doctor O | immediately O | stopped O | the O | Lipitor B-Drug | . O | Within O | a O | few O | days O | of O | stopping O | Lipitor B-Drug | , O | my O | equilibrium B-Symptom | returned O | to O | normal O | and O | stroke like symptoms B-Symptom | cleared O | up O | . O
+
+Structured Output:
+T1 Symptom 23 41 symptoms
+T2 Symptom 43 51 Numbness
+T3 Symptom 54 62 tingling
+T4 Symptom 66 71 left
+T5 Symptom 78 85 equilibrium
+T6 Disease 92 101 cholesterol
+T7 Disease 117 128 heart attack
+T8 Drug 133 140 Lipitor
+T9 Symptom 148 167 symptoms
+T10 Drug 186 193 Lipitor
+T11 Drug 198 205 Lipitor
+T12 Symptom 221 241 equilibrium
+T13 Symptom 246 263 symptoms

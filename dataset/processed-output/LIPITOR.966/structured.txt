@@ -1,0 +1,19 @@
+T1 Symptom 10 15 pains
+T2 Symptom 21 27 balance
+T3 Symptom 34 43 back pain
+T4 Symptom 44 49 Lower
+T5 Symptom 54 58 upper
+T6 Symptom 60 68 finger
+T7 Symptom 69 75 pins
+T8 Symptom 76 83 needles
+T9 Symptom 85 90 brain
+T10 Symptom 91 96 vague
+T11 Symptom 98 109 stomach pain
+T12 Symptom 111 121 palpitations
+T13 Symptom 127 135 feeling
+T14 Symptom 136 146 desperately miserable
+T15 Drug 155 166 medication
+T16 Symptom 184 187 leg
+T17 Symptom 194 198 back pain
+T18 Symptom 124 139 symptoms
+T19 ADR 230 236 poison

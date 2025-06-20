@@ -1,0 +1,1 @@
+i O | develop O | cataract B-Disease | some O | time O | muscle B-Symptom | ache I-Symptom | . O | great O | drug B-Drug | to O | control O | cholestrol B-Disease | . O

@@ -1,0 +1,14 @@
+BIO Sequence:
+Muscle B-Symptom | weakness I-Symptom | in O | arms B-Symptom | and O | legs B-Symptom | , O | blurry B-Symptom | eyesight I-Symptom | , O | hair B-Symptom | loss I-Symptom | , O | but O | worst O | of O | all O | , O | burning B-ADR | feet I-ADR | and O | painful B-ADR | heels I-ADR | . O | Taking O | the O | drug O | did O | lower O | my O | cholesterol B-Disease | and O | after O | 9 O | years O | my O | liver B-Disease | enzyme I-Disease | tests O | suddenly O | were O | in O | a O | good O | range O | . O | I O | believe O | a O | good O | diet O | can O | do O | more O | for O | me O | than O | Lipitor B-Drug | . O
+
+Structured Output:
+T1 Symptom 0 16 Muscle weakness
+T2 Symptom 18 22 arms
+T3 Symptom 27 31 legs
+T4 Symptom 33 48 blurry eyesight
+T5 Symptom 50 57 hair loss
+T6 ADR 59 66 burning feet
+T7 ADR 71 76 painful heels
+T8 Disease 86 96 cholesterol
+T9 Disease 112 117 liver enzyme
+T10 Drug 131 137 Lipitor

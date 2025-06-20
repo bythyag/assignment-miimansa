@@ -1,0 +1,5 @@
+T1 Disease 0 6 Anxiety
+T2 Symptom 34 41 feelings
+T3 Symptom 46 51 cramp
+T4 Symptom 79 85 'scared'
+T5 Symptom 96 100 pain

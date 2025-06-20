@@ -1,0 +1,9 @@
+T1 Symptom 18 20 3
+T2 Symptom 46 52 throat pain
+T3 Disease 61 65 3
+T4 Disease 70 78 esofogual ulcers
+T5 Symptom 84 87 eat
+T6 Symptom 93 98 drink
+T7 Time 108 109 3
+T8 Symptom 137 140 eat
+T9 Symptom 146 150 sick

@@ -1,0 +1,10 @@
+T1 Symptom 22 35 muscle cramps  
+T2 Symptom 37 45 numbness  
+T3 Symptom 70 81 difficulty walking  
+T4 Symptom 91 96 swollen  
+T5 Symptom 98 102 feet  
+T6 Symptom 104 110 ankles  
+T7 Drug 89 93 Lipitor  
+T8 Drug 1 5 meds  
+T9 Drug 80 84 meds  
+T10 Drug 119 124 drugs

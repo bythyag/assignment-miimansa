@@ -1,0 +1,8 @@
+BIO Sequence:
+Heavy O | , O | extended O | bleeding B-Symptom | during O | menstruation B-Symptom | . O | works O | good O | on O | back B-Symptom | pain I-Symptom | . O
+
+Structured Output:
+T1 Symptom 24 32 bleeding
+T2 Symptom 41 51 menstruation
+T3 Symptom 62 66 back
+T4 Symptom 67 71 pain

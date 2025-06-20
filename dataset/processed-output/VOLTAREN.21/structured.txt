@@ -1,0 +1,12 @@
+T1 Drug 8 15 Voltaren
+T2 Disease 52 60 infection
+T3 Symptom 73 94 excruciating pain in my stomach
+T4 Disease 99 106 gastric
+T5 Symptom 111 116 sharp pain
+T6 Symptom 121 128 shoulder
+T7 Drug 157 165 MORPHINE
+T8 Drug 175 182 Voltaren
+T9 Disease 187 198 acute gastritis
+T10 ADR 200 216 adverse reaction
+T11 Drug 245 254 non-NSAIDs
+T12 Drug 256 262 aspirin

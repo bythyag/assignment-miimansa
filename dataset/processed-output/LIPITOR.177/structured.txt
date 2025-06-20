@@ -1,0 +1,8 @@
+T1 Drug 36 43 lipitor  
+T2 Symptom 78 86 paralysis  
+T3 Disease 90 101 peripheral neuropathy  
+T4 Drug 124 134 neurologist  
+T5 Drug 137 139 GP  
+T6 Drug 144 147 ENT  
+T7 Symptom 223 230 symptom  
+T8 Symptom 293 302 cholestrol

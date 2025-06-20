@@ -1,0 +1,13 @@
+T1 Drug 21 27 Lipitor
+T2 Drug 73 79 Lipitor
+T3 Drug 130 135 Zocor
+T4 Drug 151 157 Lipitor
+T5 ADR 37 45 tingling
+T6 ADR 51 58 numbness
+T7 ADR 75 83 achiness
+T8 Disease 94 97 flu
+T9 ADR 109 115 swollen
+T10 ADR 132 140 twitching
+T11 Symptom 178 183 hurt
+T12 ADR 224 229 pain
+T13 Drug 254 260 Lipitor

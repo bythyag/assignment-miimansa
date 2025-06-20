@@ -1,0 +1,18 @@
+T1 Disease 0 9 Depression
+T2 Disease 11 19 bursitis
+T3 Drug 68 76 cortisone
+T4 Symptom 97 104 toes
+T5 Symptom 124 133 MEMORY LOSS
+T6 Symptom 136 145 dizzyness
+T7 Symptom 152 154 FOG
+T8 Symptom 162 167 bottoms
+T9 Symptom 182 187 shin splints
+T10 Symptom 189 198 tingling
+T11 Disease 237 249 nerve damage
+T12 Disease 268 278 Depression
+T13 Drug 344 351 LIPITOR
+T14 Disease 354 365 MMDepression
+T15 Drug 430 444 cardiologist
+T16 Drug 483 493 Neurologist
+T17 Drug 560 566 statin
+T18 Symptom 614 618 pain

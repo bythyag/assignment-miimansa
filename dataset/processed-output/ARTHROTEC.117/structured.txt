@@ -1,0 +1,9 @@
+T1 Symptom 0 14 uncontrollable
+T2 Symptom 15 22 Diarrhea
+T3 Disease 28 43 kidney function
+T4 Disease 66 74 arthritis
+T5 Disease 88 95 kidneys
+T6 Disease 102 109 stomach
+T7 Disease 110 117 acid reflux
+T8 ADR 130 137 diarrhea
+T9 ADR 146 159 side effects

@@ -1,0 +1,15 @@
+BIO Sequence:
+taking O | lipitor B-Drug | for O | 1 O | year O | . O | four O | months O | ago O | I O | noticed O | it O | was O | difficult O | for O | me O | to O | get O | out O | of O | bed O | . O | the O | stiffnes B-Symptom | and O | pain B-Symptom | in O | my O | right O | hip O | got O | worse O | . O | difficult O | for O | me O | to O | walk O | down O | the O | stairs O | when O | I O | first O | get O | up O | . O | i O | feel O | like O | something O | in O | my O | body O | is O | going O | to O | crack O | if O | I O | move O | the O | wrong O | way O | . O | last O | 3 O | weeks O | symptoms B-Symptom | are O | getting O | worse O | . O | after O | sitting O | fo O | a O | while O | , O | it O | is O | difficult O | to O | stand O | up O | . O | very O | tired B-Symptom | and O | sometimes O | legs B-Symptom | are O | restless B-Symptom | during O | the O | night O | . O | I O | thought O | I O | was O | going O | crazy O | or O | had O | ms B-Disease | or O | worse O | . O | Bless O | you O | for O | this O | web O | site O | . O | I O | stopped O | taking O | lipitor B-Drug | on O | my O | own O | but O | did O | let O | my O | doctor O | know O | . O | I O | will O | seek O | alternative O | treatment O | . O | I O | wouldn't O | recommend O | it O | to O | anyone O | . O
+
+Structured Output:
+T1 Drug 8 14 lipitor
+T2 Symptom 66 74 stiffnes
+T3 Symptom 79 83 pain
+T4 Symptom 138 146 difficult
+T5 Symptom 154 160 feel
+T6 Symptom 195 202 symptoms
+T7 Symptom 217 222 tired
+T8 Symptom 228 232 legs
+T9 Symptom 238 246 restless
+T10 Disease 256 258 ms
+T11 Drug 316 322 lipitor

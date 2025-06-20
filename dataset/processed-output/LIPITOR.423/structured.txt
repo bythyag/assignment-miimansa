@@ -1,0 +1,6 @@
+T1 ADR 32 36 loss
+T2 Symptom 37 43 libido
+T3 Symptom 46 64 sexual desires
+T4 Symptom 66 72 thoughts
+T5 Drug 91 97 Lipitor
+T6 Drug 121 125 drug

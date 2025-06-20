@@ -1,0 +1,8 @@
+BIO Sequence:
+Muscle B-Symptom | cramping I-Symptom | , O | fatigue B-Symptom | and O | depression B-Symptom | . O | Wondering O | if O | anyone O | else O | has O | experienced O | depression B-Symptom | ? O
+
+Structured Output:
+T1 Symptom 0 15 Muscle cramping  
+T2 Symptom 17 24 fatigue  
+T3 Symptom 27 35 depression  
+T4 Symptom 61 68 depression

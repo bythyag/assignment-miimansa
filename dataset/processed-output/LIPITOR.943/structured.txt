@@ -1,0 +1,9 @@
+T1 Symptom 19 24 pains
+T2 Symptom 35 41 groggy
+T3 Symptom 43 54 light headed
+T4 Drug 65 71 statin
+T5 ADR 91 104 pain killers
+T6 Drug 114 120 statins
+T7 Drug 139 142 FDA
+T8 Drug 144 147 food
+T9 Drug 152 156 drug

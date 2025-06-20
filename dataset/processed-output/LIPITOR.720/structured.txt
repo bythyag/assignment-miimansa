@@ -1,0 +1,8 @@
+T1 Symptom 5 10 blurred
+T2 Symptom 15 20 vision
+T3 Symptom 29 42 lower back pain
+T4 Symptom 58 63 sudden loss of vision
+T5 Symptom 103 108 blurry vision
+T6 Drug 118 124 Lipitor
+T7 Symptom 128 133 blurry vision
+T8 Symptom 145 150 blurry

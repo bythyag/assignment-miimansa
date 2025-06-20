@@ -1,0 +1,6 @@
+T1 Symptom 0 12 Muscle pain  
+T2 Symptom 16 32 pain in elbow  
+T3 Symptom 34 38 left  
+T4 Symptom 39 44 elbow  
+T5 Symptom 46 50 pain in feet  
+T6 Drug 112 116 drug

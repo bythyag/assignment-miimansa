@@ -1,0 +1,5 @@
+BIO Sequence:
+Memory B-Symptom | Loss I-Symptom
+
+Structured Output:
+T1 Symptom 0 12 Memory Loss

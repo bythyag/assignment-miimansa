@@ -1,0 +1,12 @@
+BIO Sequence:
+Awful O | muscle B-Symptom | pain I-Symptom | / O | weakness I-Symptom | in O | legs B-Symptom | and O | arms B-Symptom | , O | memory B-Symptom | loss I-Symptom | and O | more O | . O | For O | some O | this O | drugs O | works O | wonders O | , O | for O | me O | it O | caused O | permanent O | muscle B-ADR | damage I-ADR | and O | some O | memory B-ADR | loss I-ADR | . O | It O | is O | hard O | to O | find O | doctors O | that O | agree O | with O | this O | drug B-Drug | doing O | so O | much O | harm O | to O | many O | of O | us O | . O
+
+Structured Output:
+T1 Symptom 8 13 muscle pain
+T2 Symptom 15 23 weakness
+T3 Symptom 30 34 legs
+T4 Symptom 39 43 arms
+T5 Symptom 45 51 memory loss
+T6 ADR 75 80 muscle damage
+T7 ADR 85 94 memory loss
+T8 Drug 120 124 drug

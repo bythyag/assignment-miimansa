@@ -1,0 +1,12 @@
+T1 Disease 11 30 parkinson's disease
+T2 Drug 51 57 23andme
+T3 Drug 74 82 SLCO1B1
+T4 Drug 91 97 statins
+T5 Drug 144 150 statin
+T6 Drug 166 172 lipitor
+T7 Drug 187 197 coenzyme Q10
+T8 Drug 200 207 slco1b1
+T9 Symptom 277 284 myalgias
+T10 Disease 290 300 myopathies
+T11 Disease 315 330 neurodegeneration
+T12 Drug 377 383 statin

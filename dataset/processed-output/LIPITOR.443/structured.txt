@@ -1,0 +1,10 @@
+T1 Symptom 13 18 aches
+T2 Symptom 28 32 back
+T3 Symptom 34 38 legs
+T4 Symptom 44 50 memory
+T5 Symptom 52 59 weakened
+T6 Symptom 61 67 fatigue
+T7 Symptom 71 76 sexual drive  # Note: "sexual drive" is treated as a single entity in this context.
+T8 Symptom 95 100 inflamation
+T9 Symptom 103 111 shoulder
+T10 Symptom 117 122 upper arm

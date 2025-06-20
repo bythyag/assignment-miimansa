@@ -1,0 +1,7 @@
+T1 Drug 36 43 Lipitor
+T2 Drug 47 52 20mg
+T3 Disease 129 143 trigeminal neuralgis
+T4 Drug 151 158 statins
+T5 Drug 168 173 Zocor
+T6 Drug 189 195 Lipitor
+T7 Drug 218 224 Lipitor

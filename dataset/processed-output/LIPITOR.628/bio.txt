@@ -1,0 +1,1 @@
+No O | noticeable O | side B-ADR | effects I-ADR | . O | Lowered O | cholesterol B-Symptom | and O | triglycerides I-Symptom | . O

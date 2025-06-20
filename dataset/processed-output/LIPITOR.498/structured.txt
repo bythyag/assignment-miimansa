@@ -1,0 +1,17 @@
+T1 Symptom 1 4 Leg  
+T2 Symptom 7 10 toe  
+T3 Symptom 11 19 cramping  
+T4 Symptom 21 24 leg  
+T5 Symptom 26 30 pain  
+T6 Symptom 32 42 fasciculations  
+T7 Symptom 45 56 muscle twitches  
+T8 Symptom 58 63 muscle  
+T9 Symptom 65 72 atrophy  
+T10 Symptom 74 83 memory problems  
+T11 Symptom 85 100 peripheral neuropathy  
+T12 Drug 115 121 Lipitor  
+T13 Drug 184 191 statins  
+T14 Drug 207 213 CoQ-10  
+T15 Drug 219 225 statin  
+T16 ADR 77 84 muscle problems  
+T17 Drug 124 130 Lipitor

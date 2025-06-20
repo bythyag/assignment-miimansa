@@ -1,0 +1,19 @@
+BIO Sequence:
+I O | HAVE O | BEEN O | ON O | LIPITOR B-Drug | , O | 10 B-Drug | MG I-Drug | FOR O | 1 O | 1/2 O | YEARS O | NOW O | AND O | AM O | NOW O | EXPERIENCING O | ANKLE B-Symptom | , O | CALF B-Symptom | , O | THIGH B-Symptom | PAIN I-Symptom | . O | SOMETIMES O | IT O | FEELS O | LIKE O | EVERYTHING O | ON O | MY O | BODY O | HURTS O | . O | SHOLDERS B-Symptom | , O | HANDS B-Symptom | , O | I O | CHALKED O | IT O | UP O | TO O | BEING O | 58 O | AND O | MAYBE O | ARTHRITIS B-Disease | BUT O | AFTER O | READING O | ALL O | OF O | THE O | VIEWS O | FROM O | OTHERS O | ON O | LIPITOR B-Drug | I O | AM O | CONSIDERING O | STOPPING O | IT O | TO O | SEE O | IF O | I O | GET O | MY O | OLD O | SELF O | BACK O | AGAIN O | . O | I O | TOO O | , O | AM O | VERY O | TIRED B-Symptom | LATELY O | AND O | NEVER O | FEEL O | RESTED B-Symptom | UPON O | AWAKINENING I-Symptom | . O | MY O | CHOLESTEROL B-Disease | ALSO O | CAME O | DOWN O | FROM O | 250 O | TO O | 150 O | BUT O | I O | DID O | FEEL O | BETTER O | AND O | HAD O | A O | LOT O | MORE O | ENERGY O | A O | 1 O | 1/2 O | AGO O | . O | I O | WILL O | MENTION O | THIS O | TO O | MY O | DOCTOR B-Disease | TO O | SEE O | WHAT O | HE O | HAS O | TO O | SAY O | . O
+
+Structured Output:
+T1 Drug 19 25 LIPITOR
+T2 Drug 28 30 10
+T3 Drug 31 33 MG
+T4 Symptom 82 87 ANKLE
+T5 Symptom 89 94 CALF
+T6 Symptom 96 101 THIGH
+T7 Symptom 102 106 PAIN
+T8 Symptom 162 169 SHOLDERS
+T9 Symptom 171 176 HANDS
+T10 Disease 182 192 ARTHRITIS
+T11 Drug 232 238 LIPITOR
+T12 Symptom 245 250 TIRED
+T13 Symptom 263 269 RESTED
+T14 Disease 275 287 CHOLESTEROL
+T15 Disease 295 302 DOCTOR

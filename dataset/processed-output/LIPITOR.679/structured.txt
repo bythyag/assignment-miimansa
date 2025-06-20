@@ -1,0 +1,3 @@
+T1 Symptom 0 5 Daily
+T2 Symptom 6 14 headaches
+T3 Disease 17 27 cholesterol

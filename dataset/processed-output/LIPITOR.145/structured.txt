@@ -1,0 +1,5 @@
+T1 Disease 14 23 depression
+T2 Drug 42 48 lipitor
+T3 Drug 62 68 lipitor
+T4 Disease 74 81 depression
+T5 Drug 86 92 lipitor

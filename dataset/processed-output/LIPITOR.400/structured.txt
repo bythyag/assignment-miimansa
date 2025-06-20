@@ -1,0 +1,16 @@
+T1 Symptom 1 7 Severe
+T2 Symptom 8 14 muscle cramps
+T3 Symptom 16 28 charlie horse
+T4 Symptom 31 37 calves
+T5 Symptom 42 46 feet
+T6 Symptom 78 82 Severe
+T7 Symptom 83 86 hip
+T8 Symptom 87 91 feet pain
+T9 Symptom 93 102 stiffness
+T10 Symptom 113 120 Shoulder pain
+T11 Disease 123 132 tendonitis
+T12 Symptom 136 144 shoulders
+T13 Symptom 149 155 elbows
+T14 Disease 164 173 cholesterol
+T15 ADR 187 199 side effects
+T16 Disease 221 229 cholesterol

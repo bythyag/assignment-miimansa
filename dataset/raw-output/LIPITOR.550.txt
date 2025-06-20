@@ -1,0 +1,9 @@
+BIO Sequence:
+Absolutly O | none O | . O | This O | drug B-Drug | is O | amazing O | . O | I O | started O | taking O | 10 B-Drug | mg I-Drug | a O | day O | around O | 9 O | months O | ago O | . O | My O | cholesteral B-Disease | level O | was O | 288 O | . O | Today O | I O | got O | my O | test O | results O | back O | of O | a O | new O | blood B-Disease | test O | , O | and O | my O | level O | has O | gone O | down O | to O | 181 O | !! O | I O | am O | thrilled O | . O | I O | have O | also O | experienced O | zero O | side B-ADR | effects I-ADR | . O | Thank O | you O | . O 
+
+Structured Output:
+T1 Drug 24 28 drug
+T2 Drug 45 50 10 mg
+T3 Disease 56 67 cholesteral
+T4 Disease 88 93 blood
+T5 ADR 111 124 side effects

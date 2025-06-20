@@ -1,0 +1,9 @@
+T1 Drug 37 42 tablet
+T2 Symptom 52 59 leg cramps
+T3 Symptom 75 81 cramps
+T4 Drug 116 121 tablet
+T5 Disease 140 150 cholesterol
+T6 Drug 177 181 drug
+T7 Disease 186 189 HDL
+T8 Disease 195 199 HDL
+T9 Disease 204 207 LDL

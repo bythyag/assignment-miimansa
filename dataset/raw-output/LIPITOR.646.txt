@@ -1,0 +1,41 @@
+BIO Sequence:
+Was O | on O | Lipitor B-Drug | 10 O | mg O | per O | day O | for O | about O | 5 O | years O | and O | experienced O | chronic B-Symptom | and O | acute B-Symptom | back B-Symptom | pain I-Symptom | which O | gradually O | improved O | but O | seemed O | strange O | to O | me O | because O | I O | hadn't O | really O | done O | anything O | to O | strain O | my O | back I-Symptom | muscles O | . O | New O | doc O | gave O | me O | a O | different O | statin B-Drug | but O | I O | had O | leg B-Symptom | cramps I-Symptom | so O | he O | put O | me O | on O | Baycol B-Drug | . O | Baycol I-Drug | was O | removed O | from O | market O | so O | next O | doc O | put O | me O | back O | on O | Lipitor B-Drug | . O | My O | cholesterol B-Symptom | level O | increased O | to O | slightly O | over O | 200 O | so O | my O | doc O | increased O | dosage O | to O | 40 O | mg O | a O | day O | . O | Hand B-Symptom | and O | leg B-Symptom | cramps I-Symptom | returned O | . O | Hands O | diagnosed O | as O | carpal B-Disease | tunnel I-Disease | syndrome I-Disease | and O | I O | wore O | a O | hand O | brace O | to O | sleep O | several O | nights O | a O | week O | which O | controlled O | the O | symptoms O | . O | Recently O | developed O | inflammation B-Symptom | of O | my O | foot B-Symptom | muscles O | and O | joints O | and O | ( O | apparently O | ) O | plantar B-Disease | fasciitis I-Disease | of O | my O | left O | foot I-Disease | . O | Doc O | prescribed O | 800 O | mg O | Motrin B-Drug | qid O | but O | the O | foot O | problems O | became O | worse O | . O | General O | weakness B-Symptom | in O | my O | feet I-Symptom | , O | calves O | , O | and O | hands I-Symptom | and O | tingling B-Symptom | and O | burning B-Symptom | in O | the O | soles O | of O | my O | feet I-Symptom | . O | Depression B-Disease | , O | for O | which O | I've O | been O | taking O | an O | SSRI B-Drug | for O | about O | two O | years O | and O | may O | not O | be O | related O | to O | the O | Lipitor B-Drug | . O | I O | had O | high B-Symptom | cholesterol I-Symptom | ( O | over O | 350 O | ) O | and O | was O | prescribed O | Lipitor B-Drug | in O | 1996 O | after O | other O | methods O | failed O | to O | have O | much O | effect O | . O | I O | have O | taken O | two O | stress O | tests O | over O | the O | past O | ten O | years O | and O | was O | told O | I O | had O | a O | healthy O | cardiovascular B-Disease | system O | with O | no O | trace O | of O | heart B-Disease | disease I-Disease | . O | I O | am O | 6 O | ' O | tall O | , O | weighed O | 177 O | lbs O | . O | , O | and O | considered O | myself O | healthy O | until O | recently O | . O | I O | need O | to O | be O | able O | to O | pass O | a O | physical O | readiness O | test O | , O | including O | a O | 1.5 O | mile O | run O | , O | every O | 6 O | months O | because O | I'm O | in O | the O | military O | . O | I O | took O | myself O | off O | Lipitor B-Drug | because O | I O | can O | not O | take O | the O | physical O | readiness O | test O | . O | In O | fact O | I O | need O | a O | cane O | in O | the O | morning O | to O | get O | out O | of O | bed O | . O | I O | am O | not O | overweight O | . O | I O | was O | told O | to O | stretch O | and O | exercise O | more O | but O | that O | has O | not O | helped O | my O | symptoms O | , O | which O | have O | continued O | to O | worsen O | . O | Until O | recently O | I O | walked O | to O | work O | and O | shopping O | , O | 4 O | or O | 5 O | miles O | most O | weekdays O | , O | and O | more O | on O | the O | weekends O | . O | I O | also O | ran O | 2 O | miles O | , O | 3 O | times O | a O | week O | . O | Now O | I O | have O | difficulty B-Symptom | walking I-Symptom | and O | problems O | with O | my O | balance B-Symptom | and O | I've O | gained O | 10 O | pounds O | because O | I've O | become O | sedentary O | . O | Two O | days O | after O | taking O | myself O | off O | Lipitor B-Drug | my O | feet O | have O | improved O | a O | little O | and O | I'm O | looking O | forward O | to O | resuming O | a O | more O | active O | lifestyle O | . O | I O | think O | my O | symptoms O | are O | a O | result O | of O | Lipitor B-Drug | .
+
+Structured Output:
+T1 Drug 8 15 Lipitor
+T2 Symptom 72 78 chronic
+T3 Symptom 83 88 acute
+T4 Symptom 89 93 back
+T5 Symptom 94 98 pain
+T6 Drug 122 127 statin
+T7 Symptom 130 134 leg
+T8 Symptom 135 141 cramps
+T9 Drug 144 150 Baycol
+T10 Drug 158 164 Baycol
+T11 Drug 166 172 Lipitor
+T12 Symptom 178 187 cholesterol
+T13 Drug 190 198 Lipitor
+T14 Symptom 226 231 Hand
+T15 Symptom 236 240 leg
+T16 Symptom 241 247 cramps
+T17 Disease 268 284 carpal tunnel syndrome
+T18 Symptom 296 307 inflammation
+T19 Disease 314 320 plantar fasciitis
+T20 Disease 323 326 foot
+T21 Drug 404 410 Motrin
+T22 Symptom 445 452 weakness
+T23 Symptom 460 468 feet
+T24 Symptom 471 477 calves
+T25 Symptom 482 487 hands
+T26 Symptom 489 496 tingling
+T27 Symptom 501 507 burning
+T28 Disease 510 520 Depression
+T29 Drug 533 537 SSRI
+T30 Drug 539 546 Lipitor
+T31 Disease 577 590 cardiovascular system
+T32 Disease 593 607 heart disease
+T33 Drug 622 628 Lipitor
+T34 Drug 723 730 Lipitor
+T35 Symptom 740 746 difficulty
+T36 Symptom 762 768 balance
+T37 Drug 841 847 Lipitor

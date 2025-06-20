@@ -1,0 +1,20 @@
+BIO Sequence:
+When O | I O | began O | taking O | Lipitor B-Drug | I O | had O | what O | the O | doctors O | referred O | to O | as O | TIA's B-Disease | . O | Loss B-Symptom | of O | balance B-Symptom | , O | loss B-Symptom | of O | speech B-Symptom | and O | after O | several O | months O | I O | began O | having O | seizure B-Symptom | type O | symptoms I-Symptom | . O | I O | have O | been O | seeing O | a O | Neurologist B-Disease | since O | I O | was O | told O | I O | was O | having O | TIA's I-Disease | . O | I O | have O | gone O | through O | a O | TEE B-Disease | and O | a O | brain B-Disease | catheter I-Disease | and O | everything O | came O | back O | normal O | . O | The O | Neurologist B-Disease | told O | me O | to O | stop O | taking O | Lipitor I-Drug | one O | week O | ago O | and O | I O | am O | starting O | to O | feel O | a O | little O | better O | . O | I O | am O | still O | feeling O | extremely O | tired B-Symptom | . O | I O | am O | hoping O | this O | all O | passes O | . O
+
+Structured Output:
+T1 Drug 29 35 Lipitor
+T2 Disease 53 58 TIA's
+T3 Symptom 68 73 Loss
+T4 Symptom 75 81 balance
+T5 Symptom 86 91 loss
+T6 Symptom 93 99 speech
+T7 Symptom 113 119 seizure
+T8 Symptom 126 134 symptoms
+T9 Disease 146 157 Neurologist
+T10 Disease 184 189 TIA's
+T11 Disease 194 197 TEE
+T12 Disease 202 207 brain
+T13 Disease 215 222 catheter
+T14 Disease 233 243 Neurologist
+T15 Drug 55 61 Lipitor
+T16 Symptom 289 294 tired

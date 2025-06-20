@@ -1,0 +1,13 @@
+BIO Sequence:
+After O | taking O | drug B-Drug | for O | 10 O | days O | , O | I O | noticed O | a O | complete O | loss O | of O | taste B-Symptom | for O | salt B-Symptom | and O | sugars B-Symptom | . O | Good O | food O | tasted O | bad O | or O | no O | taste B-Symptom | at O | all O | . O | Taste B-Symptom | perversion I-Symptom | seems O | to O | be O | the O | term O | . O | Breathing O | air O | tastes O | sweet B-Symptom | . O | It O | has O | taken O | 8 O | months O | for O | my O | taste O | to O | return O | to O | normal O | . O | Would O | not O | recommend O | it O | . O |
+
+Structured Output:
+T1 Drug 25 29 drug
+T2 Symptom 57 62 taste
+T3 Symptom 67 72 salt
+T4 Symptom 77 83 sugars
+T5 Symptom 101 106 taste
+T6 Symptom 110 116 Taste
+T7 Symptom 128 138 perversion
+T8 Symptom 151 156 sweet
+T9 Symptom 181 186 taste

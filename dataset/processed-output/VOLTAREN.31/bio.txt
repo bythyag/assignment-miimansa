@@ -1,0 +1,1 @@
+stomach B-Symptom | upset I-Symptom | and O | notable O | dehydration B-Symptom | . O | i O | would O | recommend O | plenty O | of O | food O | and O | water O | with O | this O | medicene B-Drug | . O

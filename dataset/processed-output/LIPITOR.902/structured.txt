@@ -1,0 +1,8 @@
+T1 Disease 0 9 depression
+T2 Symptom 11 26 finger stiffness
+T3 Symptom 28 50 finger joints locking
+T4 Drug 71 77 lipitor
+T5 Disease 83 92 depression
+T6 Symptom 104 111 locking fingers
+T7 Symptom 118 134 finger stiffness
+T8 Symptom 136 140 pain

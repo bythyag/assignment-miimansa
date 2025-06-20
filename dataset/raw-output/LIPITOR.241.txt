@@ -1,0 +1,7 @@
+BIO Sequence:
+general O | weakness B-Symptom | , O | reduced B-Symptom | stamina I-Symptom | , O | tennis B-Disease | elbow I-Disease | in O | both O | hands O | . O | should O | only O | be O | taken O | by O | people O | with O | 300+ O | levels O | . O
+
+Structured Output:
+T1 Symptom 8 15 weakness  
+T2 Symptom 17 24 reduced stamina  
+T3 Disease 26 37 tennis elbow  

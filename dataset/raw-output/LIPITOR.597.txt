@@ -1,0 +1,10 @@
+BIO Sequence:
+General B-Disease | depression I-Disease | and O | severe B-Symptom | insomnia I-Symptom | . O | Irrational B-Symptom | feelings I-Symptom | of O | impending B-Symptom | doom I-Symptom | . O | It O | took O | 6 O | weeks O | for O | side B-ADR | effects I-ADR | to O | subside O | after O | I O | quit O | taking O | the O | drug B-Drug | . O 
+
+Structured Output:
+T1 Disease 0 7 General depression
+T2 Symptom 15 22 severe insomnia
+T3 Symptom 24 34 Irrational feelings
+T4 Symptom 35 43 of impending doom
+T5 ADR 61 73 side effects
+T6 Drug 83 87 drug

@@ -1,0 +1,11 @@
+T1 Drug 0 6 Lipitor
+T2 Symptom 63 66 leg weakness
+T3 Symptom 71 75 pain
+T4 Symptom 140 147 symptoms
+T5 Drug 200 206 Lipitor
+T6 Drug 225 229 drug
+T7 Symptom 286 290 leg pain
+T8 Symptom 337 341 stiff neck
+T9 Symptom 347 356 diarrhea
+T10 Symptom 360 370 clumsiness
+T11 Symptom 375 382 dizziness

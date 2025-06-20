@@ -1,0 +1,9 @@
+BIO Sequence:
+Made O | me O | very O | very O | tired B-ADR | , O | wanted O | to O | vomit B-Symptom | but O | couldn’t O | . O | Was O | to O | take O | one O | morning O | and O | night O | , O | couldn’t O | take O | one O | in O | the O | morning O | or O | i O | was O | back O | in O | bed O | ! O | My O | hands B-Symptom | and O | hip B-Symptom | pain I-Symptom | remain O | . O
+
+Structured Output:
+T1 ADR 26 31 tired
+T2 Symptom 50 55 vomit
+T3 Symptom 90 95 hands
+T4 Symptom 102 105 hip
+T5 Symptom 106 110 pain

@@ -1,0 +1,21 @@
+BIO Sequence:
+Joint B-Symptom | and O | Muscle B-Symptom | Pain I-Symptom | / O | Stiffness I-Symptom | . O | I O | took O | 20 B-Drug | mg I-Drug | for O | 9 O | years O | and O | I O | told O | numerous O | physicians O | about O | my O | pain B-ADR | and O | stiffness I-ADR | and O | was O | told O | that O | I O | had O | arthritis B-Disease | and O | to O | keep O | taking O | it O | . O | I O | left O | it O | at O | home O | by O | accident O | when O | we O | went O | on O | vacation O | and O | within O | 3 O | days O | , O | the O | pain B-ADR | in O | my O | legs I-Symptom | began O | to O | go O | away O | . O | After O | 2 O | weeks O | I O | knew O | it O | was O | a O | very O | dangerous O | medication O | . O | I O | went O | to O | my O | new O | physician O | and O | he O | wanted O | me O | to O | try O | Pravachol B-Drug | . O | Afer O | 4 O | days O | on O | it O | , O | I O | was O | in O | a O | fog B-ADR | and O | thought O | I O | had O | the O | flu B-Symptom | . O | I O | have O | been O | off O | it O | for O | just O | 36 O | hours O | and O | feel O | better O | . O | I O | am O | an O | RN O | and O | should O | have O | known O | that O | I O | was O | experiencing O | side B-ADR | effects I-ADR | with O | Lipitor B-Drug | , O | but O | you O | listen O | to O | your O | Doctor O | because O | you O | trust O | him O | . O | I O | now O | tell O | my O | patients O | to O | trust O | what O | their O | bodies O | are O | telling O | them O | . O | Statins B-Drug | ca n't O | be O | good O | for O | anyone O | but O | the O | drug O | companies O | ! O | ! O | ! O | They O | keep O | lowering O | the O | recommended O | levels O | so O | that O | almost O | everyone O | is O | considered O | to O | have O | high O | cholesterol B-Disease | . O | If O | someone O | is O | 30 O | and O | on O | this O | for O | 30 O | or O | 40 O | years O | there O | is O | not O | telling O | what O | the O | long O | term O | effects O | will O | be O | . O | And O | a O | mi B-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 5 Joint
+T2 Symptom 6 12 Muscle
+T3 Symptom 13 17 Pain
+T4 Symptom 18 27 Stiffness
+T5 ADR 107 111 pain
+T6 ADR 117 126 stiffness
+T7 Disease 139 147 arthritis
+T8 ADR 195 199 pain
+T9 Symptom 202 206 legs
+T10 ADR 290 293 fog
+T11 Symptom 299 302 flu
+T12 ADR 309 319 side effects
+T13 Drug 327 334 Lipitor
+T14 Drug 1 9 Pravachol
+T15 Drug 354 361 Statins
+T16 Disease 409 420 cholesterol
+T17 Symptom 454 457 mi

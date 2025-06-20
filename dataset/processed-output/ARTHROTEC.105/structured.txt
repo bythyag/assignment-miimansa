@@ -1,0 +1,16 @@
+T1 Drug 18 23 75mg
+T2 ADR 78 85 body swelling
+T3 Symptom 88 92 face
+T4 Symptom 94 100 wrists
+T5 Symptom 102 109 abdomen
+T6 Symptom 111 117 thighs
+T7 Symptom 118 123 Insomina
+T8 Symptom 133 145 forgetfulnes
+T9 Symptom 147 156 confussion
+T10 Symptom 174 179 empty
+T11 Symptom 181 187 stomach
+T12 Symptom 197 203 loose
+T13 Symptom 205 211 stools
+T14 Drug 239 241 HA
+T15 Drug 243 251 Hyaluronic Acid
+T16 Drug 263 272 Arthrotec

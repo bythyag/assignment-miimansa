@@ -1,0 +1,13 @@
+T1 Disease 11 30 Rhuematoid Arthritis
+T2 Drug 66 72 Relefen
+T3 Drug 89 98 Prednisone
+T4 Drug 111 117 Enbrel
+T5 Drug 133 140 Lipitor
+T6 Drug 141 147 10mg
+T7 ADR 242 246 terrible aching pain
+T8 Symptom 318 324 fatigued
+T9 Drug 394 400 Relefen
+T10 Drug 403 411 Prednisone
+T11 Drug 475 481 Lipitor
+T12 Drug 487 493 statin
+T13 Drug 596 602 statin

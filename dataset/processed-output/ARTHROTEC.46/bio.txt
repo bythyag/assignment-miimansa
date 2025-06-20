@@ -1,0 +1,1 @@
+Naseua B-ADR | , O | vomiting B-ADR | , O | cramps B-ADR | , O | dry B-Symptom | eyes I-Symptom | , O | loss B-Symptom | of O | appetite I-Symptom | . O

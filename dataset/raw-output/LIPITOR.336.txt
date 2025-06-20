@@ -1,0 +1,27 @@
+BIO Sequence:
+Always O | very O | fatigued B-Symptom | and O | sleepy B-Symptom | immediately O | after O | taking O | the O | drug B-Drug | almost O | like O | a O | sleeping B-ADR | pill I-ADR | causes O | . O | So O | I O | take O | it O | before O | going O | to O | sleep O | . O | Strange O | type O | food O | cravings B-Symptom | e.g. O | rich O | fatty O | foods O | like O | cheese B-Food | , O | peanut B-Food | butter I-Food | , O | mayo B-Food | , O | eggs B-Food | , O | and O | hot B-Food | sauce I-Food | or O | salt B-Food | cravings I-Symptom | too O | , O | and O | I O | 'm O | not O | overweight B-Symptom | or O | pregnant B-Symptom | either O | . O | Periodic O | or O | sporadic O | lower B-Symptom | abdominal B-Disease | cramping I-Symptom | without O | the O | gas O | and O | thigh B-Symptom | soreness I-Symptom | . O | Works O | wonders O | on O | my O | bad O | cholesterol B-Disease | and O | tri's B-Disease | but O | now O | my O | good B-Disease | cholesterol I-Disease | is O | whacked O | , O | lowered O | . O | Ratio O | is O | also O | a O | lot O | better O | but O | the O | lowering O | of O | my O | good O | cholesterol O | has O | my O | doctor O | thinking O | I O | need O | yet O | another O | drug B-Drug | to O | bring O | good O | cholesterol O | back O | up O | . O 
+
+Structured Output:
+T1 Symptom 26 34 fatigued
+T2 Symptom 41 47 sleepy
+T3 ADR 82 98 sleeping pill
+T4 Symptom 119 134 cravings
+T5 Food 135 141 cheese
+T6 Food 143 155 peanut butter
+T7 Food 157 161 mayo
+T8 Food 163 167 eggs
+T9 Food 169 179 hot sauce
+T10 Food 181 185 salt
+T11 Symptom 195 203 overweight
+T12 Symptom 211 219 pregnant
+T13 Symptom 227 231 lower
+T14 Disease 233 242 abdominal
+T15 Symptom 244 252 cramping
+T16 Symptom 254 259 thigh
+T17 Symptom 261 267 soreness
+T18 Disease 283 291 cholesterol
+T19 Disease 300 305 tri's
+T20 Disease 318 324 good
+T21 Disease 325 334 cholesterol
+T22 Drug 361 365 drug
+T23 Disease 367 374 cholesterol

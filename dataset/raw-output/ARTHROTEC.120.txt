@@ -1,0 +1,14 @@
+BIO Sequence:
+After O | taking O | my O | first O | pill O | , O | I O | quickly O | experienced O | extreme O | uterine B-Symptom | cramping I-Symptom | . O | It O | felt O | like O | I O | was O | having O | a O | baby O | and O | broke O | out O | in O | a O | cold B-Symptom | sweat I-Symptom | , O | shaking B-ADR | uncontrollably I-ADR | , O | nauseated B-ADR | , O | several O | bowel B-Symptom | movements I-Symptom | . O | I O | felt O | like O | I O | was O | going O | to O | pass O | out O | , O | which O | would O | have O | been O | welcommed O | after O | feeling O | what O | I O | felt O | . O | The O | pain B-Symptom | subsided O | fortunately O | within O | 15 O | minutes O | , O | but O | now O | this O | morning O | I O | have O | vaginal B-Symptom | bleeding I-Symptom | and O | I O | am O | only O | 11 O | days O | into O | my O | cycle O | . O | Do O | not O | recommend O | unless O | you O | are O | prepared O | to O | deal O | with O | gut B-Symptom | wrenching I-Symptom | pain I-Symptom | and O | going O | into O | shock B-ADR | . O | Not O | worth O | it O | , O | I O | will O | continue O | to O | take O | Ibuprofen B-Drug | instead O | . O
+
+Structured Output:
+T1 Symptom 44 62 uterine cramping
+T2 Symptom 78 84 cold sweat
+T3 ADR 105 126 shaking uncontrollably
+T4 ADR 128 138 nauseated
+T5 Symptom 142 160 bowel movements
+T6 Symptom 179 183 pain
+T7 Symptom 222 229 vaginal bleeding
+T8 Symptom 234 248 gut wrenching pain
+T9 ADR 254 259 shock
+T10 Drug 270 278 Ibuprofen

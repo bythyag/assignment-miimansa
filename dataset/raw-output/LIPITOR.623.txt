@@ -1,0 +1,19 @@
+BIO Sequence:
+skipping O | heart B-Symptom | beats I-Symptom | , O | fast B-Symptom | and O | slow B-Symptom | heartbeat I-Symptom | , O | leg B-Symptom | pain I-Symptom | , O | chest B-Symptom | pain I-Symptom | , O | extreme B-Symptom | tiredness I-Symptom | , O | depression B-Symptom | , O | severe B-ADR | arrythmias I-ADR | . O | Went O | to O | emergency B-Disease | room I-Disease | with O | severe B-Symptom | irregular I-Symptom | heartbeat I-Symptom | . O | Stayed O | in O | hospital B-Disease | 2 O | days O | , O | nothing O | was O | diagnosed O | . O | Went O | to O | cardiologist B-Disease | after O | release O | , O | he O | took O | me O | off O | of O | Lipitor B-Drug | . O | All O | side B-ADR | effects I-ADR | disappeared O | within O | 2 O | or O | 3 O | days O | . O | I O | have O | severe B-Disease | heart I-Disease | disease I-Disease | . O
+
+Structured Output:
+T1 Symptom 8 13 heart beats
+T2 Symptom 15 19 fast
+T3 Symptom 24 29 slow heartbeat
+T4 Symptom 31 38 leg pain
+T5 Symptom 40 49 chest pain
+T6 Symptom 51 66 extreme tiredness
+T7 Symptom 68 77 depression
+T8 ADR 80 91 severe arrythmias
+T9 Disease 103 115 emergency room
+T10 Symptom 130 148 irregular heartbeat
+T11 Disease 151 158 hospital
+T12 Disease 161 172 cardiologist
+T13 Drug 177 184 Lipitor
+T14 ADR 191 204 side effects
+T15 Disease 212 224 heart disease

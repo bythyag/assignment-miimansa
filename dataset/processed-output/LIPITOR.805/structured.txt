@@ -1,0 +1,7 @@
+T1 Symptom 25 29 legs
+T2 ADR 90 94 extrem pain
+T3 Symptom 102 106 knee joints
+T4 Drug 132 140 medication
+T5 Symptom 142 146 legs
+T6 Drug 157 165 medication
+T7 Disease 167 171 joits

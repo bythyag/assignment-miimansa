@@ -1,0 +1,11 @@
+T1 Disease 8 16 depression
+T2 Disease 18 24 anxiety
+T3 Symptom 26 30 sore
+T4 Symptom 31 36 joints
+T5 Symptom 38 42 sore
+T6 Symptom 44 48 back
+T7 Symptom 50 54 lack
+T8 Symptom 56 61 energy
+T9 Disease 95 103 Depression
+T10 Drug 144 151 Lipitor
+T11 Drug 172 178 lipitor

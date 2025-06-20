@@ -1,0 +1,30 @@
+BIO Sequence:
+Zocor B-Drug | [ O | 1 O | yr O | ], O | then O | Lopid B-Drug | [ O | 1 O | yr O | ], O | then O | Lipitor B-Drug | [ O | 5 O | yrs O | ]. O | muscle B-Symptom | atrophy I-Symptom | , O | legs B-Symptom | & O | Arms I-Symptom | ; O | pain B-Symptom | in O | shoulders I-Symptom | . O | Discoloration B-Symptom | of O | skin B-Symptom | [ O | blotchy I-Symptom | ] O | on O | the O | neck O | . O | Short B-Symptom | term I-Symptom | memory I-Symptom | loss I-Symptom | . O | Flatulance B-Symptom | . O | Lowered O | LDL B-Symptom | & O | trigylcerides B-Symptom | , O | but O | also O | lowered O | HDL B-Symptom | . O | Started O | taking O | 10mg O | of O | Lipitor B-Drug | . O | LDL B-Symptom | raised O | about O | 5 O | points O | and O | Cardioligist B-Drug | doubled O | the O | dosage O | . O | Several O | years O | at O | 20mg O | really O | took O | its' O | toll O | . O | Stopped O | Lipitor B-Drug | , O | tried O | taking O | red B-Drug | yeast I-Drug | rice I-Drug | [ O | natural O | statin I-Drug | ] O | [ O | 1 O | - O | 600mg O | capsule O | ] O | . O | RYR B-Drug | controlled O | cholesterol B-Disease | , O | but O | is O | still O | a O | statin I-Drug | - O | similar O | side B-ADR | effects I-ADR | . O
+
+Structured Output:
+T1 Drug 0 6 Zocor
+T2 Drug 17 23 Lopid
+T3 Drug 34 40 Lipitor
+T4 Symptom 42 56 muscle atrophy
+T5 Symptom 58 62 legs
+T6 Symptom 64 68 Arms
+T7 Symptom 71 76 pain
+T8 Symptom 79 88 shoulders
+T9 Symptom 92 116 Discoloration of skin
+T10 Symptom 119 126 blotchy
+T11 Symptom 130 135 neck
+T12 Symptom 137 149 Short term memory loss
+T13 Symptom 151 160 Flatulance
+T14 Symptom 162 165 LDL
+T15 Symptom 168 182 trigylcerides
+T16 Symptom 185 188 HDL
+T17 Drug 203 210 Lipitor
+T18 Symptom 212 215 LDL
+T19 Drug 224 249 Cardioligist
+T20 Drug 253 258 Lipitor
+T21 Drug 261 281 red yeast rice
+T22 Drug 294 299 natural statin
+T23 Drug 302 307 1
+T24 Drug 311 319 600mg capsule
+T25 Drug 321 324 RYR
+T26 ADR 329 344 side effects

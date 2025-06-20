@@ -1,0 +1,14 @@
+T1 Disease 22 27 London
+T2 Disease 32 37 Paris
+T3 Drug 134 142 medication
+T4 Disease 163 166 hip
+T5 Disease 182 187 back
+T6 Symptom 233 238 pain
+T7 Symptom 244 251 fatigue
+T8 Drug 267 273 Lipitor
+T9 ADR 306 321 after-effects
+T10 Disease 338 342 back
+T11 ADR 349 354 pain
+T12 ADR 384 391 muscle fatigue
+T13 ADR 396 402 malaise
+T14 Drug 562 568 Lipitor

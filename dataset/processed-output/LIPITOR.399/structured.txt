@@ -1,0 +1,17 @@
+T1 ADR 20 30 side effects
+T2 Drug 59 62 DOC
+T3 Symptom 81 85 pain
+T4 Symptom 91 97 ankles
+T5 Disease 107 115 old age
+T6 Symptom 147 151 severe
+T7 Symptom 156 160 pain
+T8 Symptom 165 170 ankle
+T9 ADR 232 236 extreme pain
+T10 Drug 263 266 DOC
+T11 Disease 326 331 gout
+T12 Drug 355 358 DOC
+T13 Symptom 371 375 pain
+T14 Drug 387 393 Statins
+T15 ADR 420 427 adverse effects
+T16 Drug 462 468 Lipitor
+T17 Drug 488 492 Med

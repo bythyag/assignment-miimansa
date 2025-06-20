@@ -1,0 +1,1 @@
+weight B-Symptom | gain I-Symptom | , O | confusion B-Symptom | , O | depression B-Symptom | . O | STOP O | Taking O | LIPITOR B-Drug | . O | This O | drug O | will O | hurt O | you O | more O | than O | help O | you O | . O | Pfizer B-Drug | should O | be O | sued O | . O

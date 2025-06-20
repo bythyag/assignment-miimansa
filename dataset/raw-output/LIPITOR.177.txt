@@ -1,0 +1,12 @@
+BIO Sequence:  
+I'm O | not O | sure O | if O | this O | is O | related O | to O | the O | lipitor B-Drug | , O | but O | shortly O | after O | I O | started O | taking O | it O | , O | I O | exprienced O | complete O | paralysis B-Symptom | in O | my O | forehead O | ( O | peripheral B-Disease | neuropathy I-Disease | ) O | . O | Went O | to O | a O | neurologist B-Drug | , O | GP B-Drug | and O | ENT B-Drug | , O | none O | of O | whom O | have O | ever O | seen O | this O | kind O | of O | paralysis O | ( O | both O | sides O | ) O | with O | no O | other O | symptoms O | . O | Has O | any O | one O | else O | come O | across O | this O | symptom B-Symptom | ? O | I O | m O | tempted O | to O | go O | off O | the O | medicine O | to O | see O | if O | the O | paralysis O | goes O | away O | . O | It O | really O | lowered O | my O | cholestrol B-Symptom | a O | lot O | , O | so O | I O | hope O | this O | problem O | isn;t O | related O | . O 
+
+Structured Output:  
+T1 Drug 36 43 lipitor  
+T2 Symptom 78 86 paralysis  
+T3 Disease 90 101 peripheral neuropathy  
+T4 Drug 124 134 neurologist  
+T5 Drug 137 139 GP  
+T6 Drug 144 147 ENT  
+T7 Symptom 223 230 symptom  
+T8 Symptom 293 302 cholestrol

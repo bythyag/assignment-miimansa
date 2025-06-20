@@ -1,0 +1,1 @@
+It O | either O | caused O | or O | gave O | me O | peripheral B-Symptom | neuropathy I-Symptom | in O | my O | hands O | , O | arms O | , O | feet O | and O | legs O | . O | And O | it O | damaged O | my O | liver B-ADR | . O | No O | one O | should O | ever O | take O | a O | statin B-Drug | . O | It O | should O | be O | taken O | off O | the O | market O | . O

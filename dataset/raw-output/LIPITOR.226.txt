@@ -1,0 +1,13 @@
+BIO Sequence:
+Massive O | hair O | loss B-Symptom | , O | extreme O | joint O | stiffness B-Symptom | ( O | esp O | in O | my O | right O | knee B-Symptom | - O | it O | would O | just O | lock-up B-Symptom | ) O | , O | heart B-Symptom | palpitations I-Symptom | , O | heavy O | depression B-Symptom | , O | skin B-Symptom | and O | eyes O | swollen B-Symptom | and O | itching B-Symptom | . O | I O | have O | taken O | it O | for O | a O | long O | time O | and O | only O | in O | the O | last O | year O | have O | these O | symptoms O | occurred O | - O | perhaps O | these O | are O | long-term O | usage O | effects O | . O | I O | don O | ' O | t O | know O | why O | this O | drug B-Drug | is O | even O | being O | allowed O | to O | be O | sold O | ! O
+
+Structured Output:
+T1 Symptom 21 25 loss  
+T2 Symptom 36 47 stiffness  
+T3 Symptom 66 69 knee  
+T4 Symptom 76 83 lock-up  
+T5 Symptom 91 107 palpitations  
+T6 Symptom 111 120 depression  
+T7 Symptom 126 130 swollen  
+T8 Symptom 136 142 itching  
+T9 Drug 186 190 drug

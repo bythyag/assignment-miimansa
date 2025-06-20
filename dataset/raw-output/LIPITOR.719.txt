@@ -1,0 +1,7 @@
+BIO Sequence:
+after O | I O | had O | been O | on O | it O | for O | 3 O | months O | , O | started O | breaking O | out O | in O | blisters B-ADR | , O | and O | my O | face O | looked O | like O | it O | was O | on O | fire B-ADR | . O | the O | dr O | took O | me O | off O | of O | it O | . O | but O | it O | helped O | my O | cholestrol B-Disease | . O
+
+Structured Output:
+T1 ADR 36 43 blisters
+T2 ADR 60 72 fire
+T3 Disease 92 102 cholestrol

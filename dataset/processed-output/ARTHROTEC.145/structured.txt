@@ -1,0 +1,3 @@
+T1 Drug 29 36 tablets
+T2 ADR 92 104 side effects
+T3 Symptom 145 152 muscular pains

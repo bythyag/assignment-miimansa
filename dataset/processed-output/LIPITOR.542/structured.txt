@@ -1,0 +1,6 @@
+T1 Symptom 43 51 increase
+T2 Symptom 53 60 burning
+T3 Symptom 61 70 sensations
+T4 Symptom 73 77 legs
+T5 Symptom 82 87 hands
+T6 Drug 90 94 drug

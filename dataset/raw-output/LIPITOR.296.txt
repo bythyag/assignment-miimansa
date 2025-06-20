@@ -1,0 +1,8 @@
+BIO Sequence:
+The O | drug O | was O | fine O | but O | I O | resent O | the O | rediculous O | high O | price O | . O | I O | have O | switched O | to O | generic B-Drug | simvastatin I-Drug | and O | am O | actively O | encouraging O | others O | on O | Lipitor B-Drug | to O | consider O | switching O | . O | I O | also O | resent O | the O | direct O | to O | consumer O | advertising O | of O | Pfizer B-Drug | as O | well O | as O | many O | other O | drug O | companies O | . O
+
+Structured Output:
+T1 Drug 27 37 generic
+T2 Drug 38 48 simvastatin
+T3 Drug 66 72 Lipitor
+T4 Drug 87 93 Pfizer

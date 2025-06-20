@@ -1,0 +1,20 @@
+BIO Sequence:
+I O | was O | on O | celebrex B-Drug | till O | the O | SCARE O | of O | death O | took O | me O | off O | . O | Went O | on O | voltaren B-Drug | . O | Had O | wild O | dreams B-ADR | , O | gurgling B-Symptom | stomach I-Symptom | , O | tired B-Symptom | , O | moody B-Symptom | . O | 4 O | months O | ago O | my O | heart B-Disease | stopped O | and O | they O | said O | I O | have O | high B-Disease | blood I-Disease | press I-Disease | . O | I O | never O | had O | it O | before O | . O | I O | find O | out O | on O | the O | net O | that O | voltaren B-Drug | over O | long O | times O | can O | actually O | cause O | hypertension B-Disease | . O | I O | now O | use O | tylenol B-Drug | extra I-Drug | for O | arthritis B-Disease | . O | Voltaren B-Drug | should O | in O | my O | opinion O | be O | given O | rectally O | to O | the O | mfg O | . O | It O | did O | alleviate O | the O | arthritis B-Disease | pain I-Disease | . O | It O | also O | made O | me O | dependent O | on O | tagamet B-Drug | after O | a O | few O | years O | . O | Then O | I O | find O | out O | they O | two O | are O | not O | to O | be O | taken O | together O | . O | I O | was O | on O | voltaren B-Drug | for O | over O | 3 O | years O | . O 
+
+Structured Output:
+T1 Drug 16 24 celebrex
+T2 Drug 56 63 voltaren
+T3 ADR 77 82 dreams
+T4 Symptom 84 92 gurgling stomach
+T5 Symptom 94 100 tired
+T6 Symptom 102 107 moody
+T7 Disease 124 129 heart
+T8 Disease 135 148 high blood press
+T9 Drug 218 225 voltaren
+T10 Disease 241 253 hypertension
+T11 Drug 257 263 tylenol
+T12 Disease 278 286 arthritis
+T13 Drug 288 295 Voltaren
+T14 Disease 306 314 arthritis
+T15 Drug 324 331 tagamet
+T16 Drug 344 351 voltaren

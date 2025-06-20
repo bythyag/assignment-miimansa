@@ -1,0 +1,6 @@
+T1 Symptom 21 27 Vison
+T2 Symptom 76 81 vision
+T3 Symptom 113 117 leg
+T4 Symptom 118 124 muscle
+T5 Symptom 127 132 thigh
+T6 Symptom 140 145 waist

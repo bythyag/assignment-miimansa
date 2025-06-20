@@ -1,0 +1,17 @@
+BIO Sequence:
+Severe B-Symptom | pain I-Symptom | in O | both O | calfs B-Symptom | and O | thighs B-Symptom | . O | I O | became O | unable O | to O | lift O | my O | legs B-Symptom | to O | put O | on O | my O | pants O | or O | even O | get O | in O | the O | car O | . O | This O | developed O | after O | being O | on O | the O | Lipitor B-Drug | for O | about O | 5 O | years O | . O | I O | was O | on O | 10 O | mg O | and O | complained O | about O | discomfort B-ADR | in O | my O | legs B-Symptom | but O | my O | cardiologist O | just O | said O | it O | was O | old O | age O | and O | even O | upped O | my O | dose O | to O | 20 O | mg O | . O | That O | really O | made O | things O | a O | lot O | worst B-ADR | and O | now O | I O | just O | stopped O | it O | and O | within O | 24 O | hours O | could O | see O | an O | improvement B-Symptom | . O | Incidently O | I O | am O | a O | physician O | and O | was O | aware O | of O | the O | myalgia B-ADR | with O | Lipitor B-Drug | but O | I O | suspect O | it O | is O | much O | worst B-ADR | than O | the O | drug O | company O | would O | have O | you O | believe O | . O | This O | is O | really O | a O | very O | toxic B-ADR | drug O | and O | should O | be O | used O | with O | caution O | . O | This O | is O | a O | drug O | which O | is O | very O | effective O | in O | lowering O | cholesterol B-Disease | but O | also O | affects O | many O | metabolic O | pathways O | in O | the O | body O | and O | is O | potentially O | dangerous O | . O 
+
+Structured Output:
+T1 Symptom 1 6 Severe
+T2 Symptom 8 12 pain
+T3 Symptom 26 31 calfs
+T4 Symptom 34 40 thighs
+T5 Symptom 56 60 legs
+T6 ADR 104 115 discomfort
+T7 ADR 136 141 worst
+T8 Symptom 154 164 improvement
+T9 ADR 176 183 myalgia
+T10 Drug 189 195 Lipitor
+T11 ADR 199 203 worst
+T12 ADR 209 214 toxic
+T13 Disease 271 280 cholesterol

@@ -1,0 +1,20 @@
+T1 Symptom 35 40 severe
+T2 Symptom 41 44 leg
+T3 Symptom 45 53 cramping
+T4 Symptom 70 74 pain
+T5 Symptom 83 90 buddocks
+T6 Symptom 92 99 stomach
+T7 Symptom 179 183 pain
+T8 Symptom 220 223 extreme
+T9 Symptom 224 230 stomach
+T10 Symptom 231 235 pain
+T11 Symptom 246 250 side
+T12 Symptom 252 256 back
+T13 Disease 80 108 urinery tract infection
+T14 ADR 144 157 side-effects
+T15 Drug 214 220 Lipitor
+T16 Drug 339 345 Lipitor
+T17 Symptom 482 486 energy
+T18 Drug 495 497 vitamin C
+T19 Drug 506 512 cholesterol
+T20 ADR 328 338 side effects

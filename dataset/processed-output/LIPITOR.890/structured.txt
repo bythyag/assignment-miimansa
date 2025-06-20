@@ -1,0 +1,21 @@
+T1 Symptom 0 6 muscle
+T2 Symptom 7 11 pain
+T3 Symptom 17 31 inability to walk
+T4 Symptom 34 43 foot pain
+T5 Symptom 46 57 Memory loss
+T6 Symptom 59 79 overall loss of muscle tone
+T7 Symptom 81 97 Unable to control weight
+T8 Disease 101 113 cardiologist
+T9 Symptom 119 127 symptoms
+T10 Drug 131 137 Pfizer
+T11 Drug 144 145 drug
+T12 Drug 147 150 USA
+T13 Drug 154 157 drug
+T14 Drug 163 166 USA
+T15 Disease 166 171 China
+T16 Disease 173 175 formula
+T17 Symptom 185 193 problems
+T18 Disease 194 198 GP
+T19 Drug 207 213 Lipitor
+T20 Drug 225 231 Lipitor
+T21 Symptom 237 252 years

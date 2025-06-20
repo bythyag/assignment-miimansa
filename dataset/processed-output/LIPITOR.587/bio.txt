@@ -1,0 +1,1 @@
+High B-Disease | Liver I-Disease | Enzyme I-Disease | Counts O | . O | Muscle B-Symptom | Fatigue I-Symptom | . O | Lipitor B-Drug | has O | damaged O | my O | liver B-Disease | permanently O | . O | I O | will O | never O | be O | the O | same O | . O

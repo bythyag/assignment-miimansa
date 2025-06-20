@@ -1,0 +1,12 @@
+T1 Disease 36 42 acne
+T2 Symptom 44 50 SEVERE
+T3 Symptom 52 55 leg
+T4 Symptom 59 63 foot
+T5 Symptom 64 69 pains
+T6 Symptom 73 82 depression
+T7 Symptom 84 90 balance
+T8 Symptom 95 101 memeory
+T9 Symptom 103 111 problems
+T10 Symptom 130 134 Pain
+T11 Disease 140 144 MS
+T12 Drug 192 195 RX

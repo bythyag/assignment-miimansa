@@ -1,0 +1,11 @@
+BIO Sequence:
+Debilitating O | . O | Has O | ruined O | my O | life O | . O | One O | year O | - O | 7 O | different O | doctors O | , O | no O | one O | found O | the O | problem O | for O | an O | entire O | year O | of O | suffering O | ! O | Now O | , O | off O | drug B-Drug | for O | one O | year O | and O | STILL O | have O | burning B-Symptom | , O | knotting B-Symptom | muscles I-Symptom | throughout O | my O | body O | . O | Bottoms O | of O | feet O | hurt B-Symptom | and O | are O | so O | tight B-Symptom | it O | ' O | s O | hard O | to O | walk O | . O | It O | is O | rare O | I O | have O | a O | pain B-Symptom | free O | day O | anymore O | . O | I O | ' O | m O | miserable O | and O | used O | to O | be O | quite O | healthy O | and O | active O | . O | It O | should O | be O | taken O | off O | market O | . O | We O | should O | be O | compensated O | . O | It O | ' O | s O | changed O | my O | life O | and O | I O | think O | of O | the O | loss O | every O | single O | day O | . O | I O | get O | 4 O | pain B-Symptom | free O | days O | per O | year O | . O 
+
+Structured Output:
+T1 Drug 42 46 drug
+T2 Symptom 78 85 burning
+T3 Symptom 93 101 knotting
+T4 Symptom 111 116 hurt
+T5 Symptom 128 133 tight
+T6 Symptom 163 167 pain
+T7 Symptom 195 199 pain

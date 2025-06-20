@@ -1,0 +1,20 @@
+BIO Sequence:
+I O | have O | been O | taking O | this O | medication O | for O | more O | than O | 4 O | years O | for O | cholesterol B-Disease | . O | It O | has O | reduced O | the O | numbers O | , O | BUT O | I O | now O | have O | totally O | changed O | my O | way O | of O | life O | with O | general B-Symptom | weakness I-Symptom | , O | constant B-Symptom | leg B-Symptom | pain I-Symptom | , O | and O | specifically O | terrible B-Symptom | pain I-Symptom | in O | my O | feet B-Symptom | and O | ankles B-Symptom | . O | The O | bottoms O | of O | my O | feet O | hurt O | to O | the O | point O | of O | where O | I O | can O | no O | longer O | walk O | comfortably O | , O | and O | have O | experienced O | loss B-Symptom | of O | balance B-Symptom | several O | times O | a O | day O | . O | It O | is O | making O | me O | feel O | like O | 75 O | instead O | of O | 50 O | and O | I O | researched O | the O | web O | and O | came O | to O | this O | site O | . O | I O | have O | been O | telling O | my O | MD O | about O | symptoms B-Symptom | for O | months O | . O | Blood O | tests O | keep O | coming O | back O | normal O | . O | Doc O | says O | must O | be O | circulation B-Disease | . O | I O | feel O | like O | I O | 'm O | wearing O | someone O | else O | 's O | feet O | sometimes O | ! O | Tingling B-Symptom | toes O | to O | numb B-Symptom | toes O | and O | sore B-Symptom | ankles O | and O | legs O | . O | I O | finally O | get O | his O | attention O | and O | he O | tells O | me O | he O | 's O | changing O | prescriptions O | to O | Mevacore B-Drug | ( O | hello O | . O | it O | 's O | the O | same O | thing O | ) O | . O | After O | research O | I O | am O | quitting O | the O | medication O | and O | will O | give O | it O | a O | month O | to O | see O | what O | happens O | . O | Anyone O | put O | me O | onto O | some O | good O | information O | about O | withdrawals B-Symptom | ? O | Been O | reading O | some O | things O | I O | really O | don O | 't O | like O | . O
+
+Structured Output:
+T1 Disease 59 69 cholesterol
+T2 Symptom 79 96 general weakness
+T3 Symptom 98 107 constant leg pain
+T4 Symptom 112 125 terrible pain
+T5 Symptom 130 138 feet
+T6 Symptom 144 149 ankles
+T7 Symptom 177 181 loss of balance
+T8 Symptom 207 226 feel like 75 instead of 50
+T9 Symptom 304 313 symptoms
+T10 Disease 339 351 circulation
+T11 Symptom 354 366 Tingling toes
+T12 Symptom 368 382 numb toes
+T13 Symptom 387 392 sore ankles
+T14 Symptom 394 399 legs
+T15 Drug 511 518 Mevacore
+T16 Symptom 569 580 withdrawals

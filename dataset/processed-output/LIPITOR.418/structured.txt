@@ -1,0 +1,13 @@
+T1 Symptom 0 6 Muscle aches  
+T2 Symptom 11 16 pains  
+T3 Symptom 24 33 Stiffness  
+T4 Symptom 36 41 limbs  
+T5 Symptom 89 93 legs  
+T6 Symptom 140 148 feet  
+T7 Drug 154 160 cortison  
+T8 Drug 162 168 Lipitor  
+T9 Drug 178 183 CoQ10  
+T10 Drug 189 196 Vitamin  
+T11 Drug 198 199 E  
+T12 Drug 223 229 statins  
+T13 Drug 238 243 CoQ10

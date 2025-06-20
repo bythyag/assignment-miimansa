@@ -1,0 +1,31 @@
+T1 Symptom 15 21 memory
+T2 Symptom 23 30 aphasia
+T3 Symptom 32 37 tremor
+T4 Symptom 39 54 violent anger
+T5 Symptom 56 66 tearfulness
+T6 Symptom 68 75 insomnia
+T7 Symptom 77 92 muscle weakness
+T8 ADR 94 106 easy bruising
+T9 ADR 108 115 nosebleeds
+T10 ADR 118 126 Bleeding
+T11 ADR 128 136 bruising
+T12 Drug 143 147 drug
+T13 Symptom 161 168 insomnia
+T14 Symptom 203 208 Mood
+T15 Symptom 210 219 language problems
+T16 Symptom 222 227 memory
+T17 Symptom 236 241 Tremor
+T18 Drug 261 265 drug
+T19 Symptom 272 279 tremor
+T20 ADR 294 299 Doctor
+T21 Drug 315 319 drug
+T22 ADR 325 332 symtoms
+T23 Disease 335 351 mother-on-law
+T24 Symptom 370 377 extreme fatigue
+T25 Symptom 380 386 muscle pain
+T26 Drug 392 397 DRUG
+T27 ADR 467 476 heart attackes
+T28 Drug 499 507 fish oil
+T29 Drug 513 519 niacin
+T30 Disease 526 535 cholesterol
+T31 Drug 548 554 Lipitor

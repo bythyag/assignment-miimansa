@@ -1,0 +1,15 @@
+T1 Drug 53 60 Lipitor
+T2 Symptom 87 90 leg cramping
+T3 Symptom 112 119 pain
+T4 Symptom 124 132 buddocks
+T5 Symptom 136 143 stomach
+T6 Drug 185 191 Advil
+T7 Drug 206 213 Lipitor
+T8 Symptom 257 264 stomach pain
+T9 Symptom 287 291 side
+T10 Symptom 295 299 back
+T11 Disease 329 335 urinery tract infection
+T12 Symptom 416 420 urge
+T13 Symptom 429 439 symptoms
+T14 Drug 468 474 Lipitor
+T15 ADR 550 558 side effects

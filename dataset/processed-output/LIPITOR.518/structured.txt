@@ -1,0 +1,8 @@
+T1 Symptom 5 11 throat
+T2 Drug 27 34 Lipitor
+T3 ADR 116 125 black outs
+T4 Symptom 138 143 kidneys
+T5 Disease 146 164 bladder infection
+T6 Drug 171 176 Lipitor
+T7 ADR 197 208 side effects
+T8 ADR 250 261 side effects

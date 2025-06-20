@@ -1,0 +1,18 @@
+BIO Sequence:
+Muscule O | aches B-Symptom | & O | pains I-Symptom | - O | Went O | to O | the O | orthopedic B-Disease | Dr O | for O | a O | shot O | in O | the O | knee B-Disease | . O | Liver B-Disease | count O | went O | to O | over O | 600 O | . O | Stopped O | taking O | & O | liver B-Disease | count O | went O | back O | to O | normal O | . O | Then O | I O | had O | a O | series O | of O | tests O | for O | pains B-Symptom | across O | my O | midsection B-Disease | . O | Have O | Fatty B-Disease | strands I-Disease | in O | my O | Liver I-Disease | . O | Now O | I O | have O | Rheumatoid B-Disease | Arthtitis I-Disease | . O | I O | think O | it O | could O | be O | the O | result O | of O | taking O | Lipitor B-Drug | . O | Do O | not O | take O | - O | Watch O | your O | diet O | . O 
+
+Structured Output:
+T1 Symptom 9 14 aches
+T2 Symptom 16 21 pains
+T3 Disease 56 66 orthopedic
+T4 Disease 75 79 knee
+T5 Disease 5 10 Liver
+T6 Disease 21 28 liver
+T7 Symptom 45 50 pains
+T8 Disease 63 75 midsection
+T9 Disease 80 85 Fatty
+T10 Disease 87 92 strands
+T11 Disease 95 100 Liver
+T12 Disease 104 113 Rheumatoid
+T13 Disease 115 123 Arthtitis
+T14 Drug 140 146 Lipitor

@@ -1,0 +1,16 @@
+BIO Sequence:
+Didn't O | associate O | my O | problems O | with O | Lipitor B-Drug | until O | reading O | this O | web O | site O | . O | I've O | been O | on O | Lipitor B-Drug | for O | about O | 7 O | mos O | . O | Have O | had O | problems O | with O | my O | hips B-Disease | and O | knees I-Disease | in O | the O | past O | but O | just O | within O | the O | last O | year O | I've O | been O | experiencing O | spasms B-Symptom | in O | upper O | thighs I-Symptom | , O | especially O | after O | doing O | anything O | physical O | . O | Now O | I O | have O | a O | dr. O | apptmt O | . O | in O | a O | few O | days O | because O | my O | right O | knee B-Disease | is O | so O | painful O | I O | can't O | even O | bend O | it O | ! O | It O | hurts O | to O | get O | up O | in O | the O | morning O | , O | get O | out O | of O | a O | chair O | , O | go O | up O | stairs O | . O | Also O | , O | I O | have O | had O | operations O | on O | my O | right O | foot B-Disease | a O | few O | years O | ago O | , O | but O | now O | it O | hurts O | almost O | as O | much O | if O | not O | more O | . O | The O | bottom O | of O | my O | foot O | is O | extremely O | tender O | as O | are O | my O | calves B-Symptom | . O | The O | Lipitor B-Drug | did O | lower O | my O | cholesteral O | wonderfully O | ; O | but O | I'm O | extremely O | concerned O | that O | this O | may O | be O | what O | my O | problems O | are O | coming O | from O | . O | Hopefully O | , O | the O | dr. O | will O | tell O | me O | more O | this O | week O | . O |
+
+Structured Output:
+T1 Drug 48 54 Lipitor
+T2 Drug 77 83 Lipitor
+T3 Disease 101 106 hips
+T4 Disease 112 117 knees
+T5 Symptom 148 155 spasms
+T6 Symptom 162 170 thighs
+T7 Disease 233 238 knee
+T8 Disease 276 281 foot
+T9 Symptom 318 324 tender
+T10 Symptom 331 336 calves
+T11 Drug 430 436 Lipitor
+T12 Disease 437 448 cholesteral

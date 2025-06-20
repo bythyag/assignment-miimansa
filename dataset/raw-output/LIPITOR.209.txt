@@ -1,0 +1,8 @@
+BIO Sequence:
+Bad O | muscle B-Symptom | pains I-Symptom | in O | legs B-Symptom | and O | constant O | tiredness B-Symptom | . O | Changed O | to O | Zocor B-Drug | and O | things O | seem O | better O | . O | New O | discussion O | forum O | at O | http://angina.myfreeforum.org/ O | to O | discuss O | all O | issues O | related O | to O | this O | subject O | . O
+
+Structured Output:
+T1 Symptom 4 10 muscle pains
+T2 Symptom 14 18 legs
+T3 Symptom 21 31 tiredness
+T4 Drug 37 42 Zocor

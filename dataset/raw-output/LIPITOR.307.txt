@@ -1,0 +1,15 @@
+BIO Sequence:
+Taking O | it O | for O | a O | little O | over O | a O | year O | and O | have O | had O | many O | of O | the O | side O | effects O | to O | some O | degree O | . O | Gas B-ADR | , O | bloating I-ADR | . O | sleeplessness B-ADR | along O | with O | fatigue B-ADR | and O | not O | being O | able O | to O | get O | out O | of O | bed O | in O | the O | morning O | . O | The O | worst O | is O | muscle B-ADR | stiffness I-ADR | and O | not O | being O | able O | to O | walk O | at O | times O | . O | I O | am O | feeling O | like O | an O | old O | lady O | and O | I O | 'm O | only O | 54 O | and O | blamed O | all O | this O | on O | menopause B-Disease | or O | arthritis B-Disease | . O | Difficult O | to O | walk O | up O | and O | down O | the O | steps O | especially O | in O | the O | morning O | . O | I O | just O | stopped O | taking O | lipitor B-Drug | and O | after O | this O | experience O | I O | WILL O | adjust O | my O | diet O | and O | I O | just O | joined O | the O | gym O | again O | . O | I O | am O | taking O | some O | herbs B-Drug | to O | detox O | my O | system O | and O | in O | a O | month O | , O | I O | will O | begin O | alternative B-Drug | treatment I-Drug | . O | I O | was O | also O | starting O | to O | become O | depressed B-ADR | . O | Good O | Luck O | to O | all O | of O | you O | . O | Will O | keep O | all O | of O | you O | in O | my O | prayers O | . O
+
+Structured Output:
+T1 ADR 126 130 Gas
+T2 ADR 132 139 bloating
+T3 ADR 141 155 sleeplessness
+T4 ADR 163 170 fatigue
+T5 ADR 179 194 muscle stiffness
+T6 Disease 220 228 menopause
+T7 Disease 233 241 arthritis
+T8 Drug 307 313 lipitor
+T9 Drug 375 380 herbs
+T10 Drug 406 415 alternative treatment
+T11 ADR 452 460 depressed

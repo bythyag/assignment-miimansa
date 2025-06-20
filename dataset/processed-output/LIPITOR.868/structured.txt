@@ -1,0 +1,14 @@
+T1 Symptom 0 6 Severe headache
+T2 Symptom 8 24 joint and muscle pain
+T3 Symptom 26 34 anorexia
+T4 Symptom 36 46 extreme gas
+T5 Symptom 48 59 memory loss
+T6 Symptom 61 73 mood swings
+T7 Disease 78 81 LAD artery
+T8 Disease 87 104 miocardial infarction
+T9 Symptom 109 115 headache
+T10 Drug 117 123 Lipitor
+T11 Drug 129 135 Zocor
+T12 Drug 137 144 Crestor
+T13 ADR 156 168 side effects
+T14 Drug 171 177 Lipitor

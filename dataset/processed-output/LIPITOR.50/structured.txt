@@ -1,0 +1,6 @@
+T1 Symptom 5 11 muscle pain
+T2 Drug 16 23 Crestor
+T3 Drug 32 37 Zocor
+T4 ADR 43 54 side effects
+T5 Drug 64 70 Lipitor
+T6 Drug 168 174 Lipitor

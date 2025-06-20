@@ -1,0 +1,9 @@
+BIO Sequence:
+back B-Symptom | ache I-Symptom | , O | dizziness B-Symptom | , O | leg B-Symptom | cramps I-Symptom | on O | exercise O | walk O | . O | Been O | on O | it O | 10 O | days O | ; O | started O | Diovan B-Drug | 4 O | days O | ago O | . O | Side O | effects O | really O | kicked O | in O | over O | the O | last O | day O | or O | so O | . O | Don't O | which O | is O | the O | culprit O | since O | similar O | side O | effects O | are O | attributed O | to O | Diovan B-Drug | . O | any O | insights O | ? O 
+
+Structured Output:
+T1 Symptom 0 9 back ache
+T2 Symptom 11 19 dizziness
+T3 Symptom 21 32 leg cramps
+T4 Drug 64 70 Diovan
+T5 Drug 124 130 Diovan

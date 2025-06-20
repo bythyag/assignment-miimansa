@@ -1,0 +1,9 @@
+T1 Symptom 0 4 pain
+T2 Symptom 12 20 shoulder
+T3 Symptom 24 27 arm
+T4 Symptom 48 51 arm
+T5 Symptom 67 71 pain
+T6 Drug 95 101 omega 3
+T7 Drug 106 111 coq10
+T8 Disease 113 122 cholesterol
+T9 Symptom 136 140 pain

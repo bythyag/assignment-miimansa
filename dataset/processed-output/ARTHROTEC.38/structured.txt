@@ -1,0 +1,13 @@
+T1 Symptom 12 19 stomach
+T2 Symptom 21 27 nausea
+T3 Symptom 29 36 vomiting
+T4 Symptom 38 54 abdominal pain
+T5 Symptom 56 68 constipation
+T6 Symptom 71 85 loose bowels
+T7 Symptom 87 106 excessive hot flashes
+T8 Symptom 111 123 night sweats
+T9 Symptom 126 138 blurred vision
+T10 Symptom 140 151 irritability
+T11 Symptom 153 169 chest discomfort
+T12 Drug 180 184 drug
+T13 Symptom 203 209 elbow pain

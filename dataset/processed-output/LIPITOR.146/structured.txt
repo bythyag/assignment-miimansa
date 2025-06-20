@@ -1,0 +1,8 @@
+T1 Symptom 86 101 muscle pains
+T2 Symptom 103 109 cramps
+T3 Symptom 111 115 sore leg joints
+T4 Symptom 195 201 walking
+T5 Symptom 255 260 knees
+T6 Symptom 265 270 ache
+T7 Drug 119 126 Lipitor
+T8 ADR 182 194 side effects

@@ -1,0 +1,14 @@
+T1 Drug 28 32 5mg
+T2 ADR 43 59 stomach cramps
+T3 ADR 61 71 loose stools
+T4 ADR 73 76 Gas
+T5 ADR 78 86 bloating
+T6 ADR 91 97 fatigue
+T7 ADR 101 106 sleep
+T8 Drug 116 126 anti-acids
+T9 Drug 134 138 drug
+T10 Symptom 139 147 symptoms
+T11 Drug 153 159 Lipitor
+T12 Disease 172 180 diabetes
+T13 Drug 185 190 drug
+T14 Drug 195 200 drugs

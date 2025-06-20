@@ -1,0 +1,4 @@
+T1 Symptom 7 11 pain
+T2 Symptom 16 29 muscle spasms
+T3 Drug 95 106 misoprostol
+T4 Drug 107 112 200MG

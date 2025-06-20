@@ -1,0 +1,6 @@
+T1 Symptom 30 35 tired
+T2 ADR 59 73 side effect
+T3 Symptom 109 113 walk
+T4 Symptom 136 141 hands
+T5 Disease 155 166 hysterectomy
+T6 Disease 178 184 period

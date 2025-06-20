@@ -1,0 +1,26 @@
+BIO Sequence:
+Knee B-Symptom | and O | hip B-Symptom | joint I-Symptom | pain I-Symptom | . O | Had O | experienced O | knee B-Symptom | joint I-Symptom | pain I-Symptom | in O | past O | , O | but O | never O | hip B-Symptom | . O | stopped O | taking O | lipitor B-Drug | ten O | days O | ago O | ; O | joint I-Symptom | symptoms I-Symptom | were O | gone O | within O | four O | days O | for O | first O | time O | in O | six O | weeks O | ( O | been O | on O | it O | four O | months O | ) O | . O | Remaining O | issue O | is O | chest B-Symptom | spasm I-Symptom | -- O | have O | been O | through O | tests O | ruling O | out O | heart B-Disease | , O | GERD B-Disease | , O | pneumonia B-Disease | , O | etc O | Spasms I-Symptom | persist O | although O | less O | and O | less O | . O | Last O | 48 O | hours O | , O | epsiodes B-Symptom | seemed O | to O | increase O | again O | but O | may O | be O | attributable O | to O | some O | combination O | of O | muscle B-Symptom | weakness I-Symptom | and O | heavy O | non-stop O | rains O | we O | 've O | enjoyed O | for O | several O | days O | . O | Cholesterol B-Disease | news O | is O | great O | -- O | two O | days O | after O | I O | stopped O | , O | cholesterol B-Disease | was O | measured O | at O | 172 O | with O | excellent O | HDL B-Disease | , O | LDL B-Disease | and O | triglyceride B-Disease | levels O | -- O | down O | from O | 295 O | in O | May O | , O | consistent O | with O | the O | last O | ten O | years O | of O | cholesterol B-Disease | readings O | for O | me O | . O | Tests O | also O | showed O | no O | calcium B-Disease | build-up O | on O | my O | arteries B-Disease | one O | week O | ago O | . O | Was O | on O | a O | dose O | of O | 40 O | mg O | . O | Will O | see O | how O | muscle B-Symptom | symptoms I-Symptom | are O | in O | a O | month O | and O | try O | to O | resume O | at O | 10 O | mg O | . O | Does O | anyone O | know O | how O | long O | they O | think O | it O | should O | take O | symptoms I-Symptom | to O | go O | away O | ? O
+
+Structured Output:
+T1 Symptom 0 21 Knee and hip joint pain
+T2 Symptom 57 75 knee joint pain
+T3 Symptom 82 85 hip
+T4 Drug 112 118 lipitor
+T5 Symptom 137 146 joint symptoms
+T6 Symptom 176 182 chest spasm
+T7 Disease 189 194 heart
+T8 Disease 197 201 GERD
+T9 Disease 203 212 pneumonia
+T10 Symptom 240 247 Spasms
+T11 Symptom 287 293 epsiodes
+T12 Symptom 319 335 muscle weakness
+T13 Disease 343 354 Cholesterol
+T14 Disease 373 383 cholesterol
+T15 Disease 396 399 HDL
+T16 Disease 403 407 LDL
+T17 Disease 412 424 triglyceride levels
+T18 Disease 440 452 cholesterol
+T19 Disease 469 476 calcium
+T20 Disease 482 489 arteries
+T21 Symptom 507 513 muscle symptoms
+T22 Symptom 535 549 symptoms

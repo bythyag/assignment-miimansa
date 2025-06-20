@@ -1,0 +1,14 @@
+T1 Disease 26 36 heart attack
+T2 Drug 58 65 Lipitor
+T3 Symptom 81 84 leg
+T4 Symptom 90 95 feet
+T5 Disease 139 149 cholesterol
+T6 Symptom 152 155 feet
+T7 Symptom 160 163 leg
+T8 Symptom 207 212 feet
+T9 Symptom 229 233 back
+T10 Symptom 236 240 hip
+T11 Symptom 241 245 pain
+T12 Symptom 250 255 tired
+T13 Symptom 260 267 depressed
+T14 Drug 302 309 Lipitor

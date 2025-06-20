@@ -1,0 +1,10 @@
+T1 Drug 43 47 20
+T2 Drug 49 58 Totalip/Atorvastatin
+T3 Drug 80 84 10
+T4 Disease 93 95 70
+T5 Disease 100 115 hypothyroidism
+T6 Disease 123 135 misadventure
+T7 Drug 43 47 20
+T8 Drug 80 84 10
+T9 Disease 93 95 70
+T10 Disease 100 115 hypothyroidism

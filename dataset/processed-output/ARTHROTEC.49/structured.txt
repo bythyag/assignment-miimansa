@@ -1,0 +1,12 @@
+T1 Symptom 40 46 intense
+T2 Symptom 47 53 pelvic
+T3 Symptom 54 58 back
+T4 Symptom 59 63 pain
+T5 Disease 77 86 miscarriage
+T6 Symptom 109 115 intense
+T7 Symptom 123 129 horrid
+T8 Symptom 130 134 pain
+T9 Symptom 150 157 spotting
+T10 Symptom 162 170 terrible
+T11 Symptom 171 178 bloating
+T12 Symptom 179 185 nausea

@@ -1,0 +1,12 @@
+BIO Sequence:
+Extremely O | heavy O | menstral B-Symptom | cycles I-Symptom | , O | fatigue B-Symptom | , O | slow O | healing B-Symptom | & O | clotting B-Symptom | . O | If O | I O | miss O | a O | day O | , O | headaches B-Symptom | begin O | to O | creep O | in O | . O | Tried O | many O | others O | , O | this O | seemed O | to O | work O | best O | for O | quite O | some O | time O | . O | No O | day O | is O | pain B-Symptom | free O | , O | though O | . O | Not O | bad O | on O | stomach B-Symptom | - O | always O | take O | w/ O | milk O | or O | food O | . O | This O | is O | genetic O | for O | me O | , O | so O | NSAIDs B-Drug | will O | be O | in O | my O | life O | for O | a O | while O | . O | but O | fear O | long-term O | use O | of O | this O | one O | . O 
+
+Structured Output:
+T1 Symptom 29 46 menstral cycles
+T2 Symptom 48 55 fatigue
+T3 Symptom 57 64 slow healing
+T4 Symptom 66 73 clotting
+T5 Symptom 88 96 headaches
+T6 Symptom 113 117 pain
+T7 Symptom 123 130 stomach
+T8 Drug 150 156 NSAIDs

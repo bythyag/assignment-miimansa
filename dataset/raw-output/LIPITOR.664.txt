@@ -1,0 +1,6 @@
+BIO Sequence:
+-blood O | tests B-Symptom | every O | 6 O | months O | to O | monitor O | possible O | side B-ADR | effects I-ADR | . O | after O | 3 O | years O | , O | nothing O | to O | report O | so O | far O | . O 
+
+Structured Output:
+T1 Symptom 8 13 tests
+T2 ADR 40 50 side effects

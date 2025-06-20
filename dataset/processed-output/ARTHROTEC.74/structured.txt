@@ -1,0 +1,7 @@
+T1 Symptom 6 21 Gasto discomfort
+T2 Drug 29 36 NEXIUM
+T3 Drug 39 48 ARTHROTEC
+T4 Drug 50 52 50
+T5 Drug 85 87 IB
+T6 Drug 89 92 800
+T7 Drug 93 95 mg

@@ -1,0 +1,30 @@
+BIO Sequence:
+Stomach B-Symptom | pains I-Symptom | , O | chest B-Symptom | pains I-Symptom | , O | anxiety B-Symptom | , O | fatigue B-Symptom | , O | headache B-Symptom | , O | erratic B-Symptom | heart B-Symptom | beat I-Symptom | , O | raised B-Symptom | blood B-Symptom | pressure I-Symptom | , O | dizziness B-Symptom | , O | nausea B-ADR | ( O | even O | when O | taken O | with O | food O | ), O | blurred B-Symptom | vision I-Symptom | . O | I O | was O | given O | a O | 6 B-Drug | day I-Drug | trial I-Drug | of O | Arthrotec B-Drug | along O | with O | a O | 9 B-Drug | day I-Drug | trial I-Drug | of O | Aciphex B-Drug | on O | 4/25 O | ( O | three O | bottles O | of O | three O | pills O | ). O | This O | was O | a O | solution O | my O | doctor O | came O | up O | with O | . O | I've O | never O | had O | consistant O | heart B-Symptom | burn I-Symptom | or O | indigestion B-Symptom | , O | no O | signs O | of O | acid B-Disease | reflux I-Disease | , O | so O | I O | was O | confused O | as O | to O | why O | he O | would O | offer O | me O | this O | medication O | . O | The O | first O | day O | I O | took O | both O | pills O | , O | I O | experienced O | some O | dizziness B-Symptom | and O | some O | nausea B-ADR | and O | some O | serious O | period B-Symptom | like I-Symptom | cramps I-Symptom | . O | I O | was O | at O | work O | , O | so O | I O | just O | had O | to O | brush O | it O | off O | . O | It O | continued O | each O | time O | I O | took O | it O | . O | After O | about O | two O | days O | ( O | two O | doses O | ), O | the O | cramps I-Symptom | continued O | and O | began O | inhibiting O | my O | menstrual B-Disease | cycle I-Disease | ( O | which O | I O | was O | due O | to O | start O | ). O | So O | , O | I O | googled O | the O | side O | effects O | of O | the O | drug O | , O | came O | across O | this O | site O | , O | and O | realized O | I O | wasn't O | the O | only O | one O | with O | those O | side O | effects O | , O | so O | I O | felt O | a O | little O | better O | about O | it O | . O | On O | the O | evening O | of O | 4/30 O | , O | I O | suddenly O | got O | some O | serious O | chest B-Symptom | pains I-Symptom | , O | an O | elevated B-Symptom | heart B-Symptom | rate I-Symptom | ( O | I O | was O | laying O | down O | with O | my O | husband O | and O | this O | was O | similar O | to O | an O | " O | I O | just O | finished O | running O | ! O | " O | heart B-Symptom | rate I-Symptom | ) , O | hot B-Symptom | flashes I-Symptom | , O | dizziness B-Symptom | , O | sever B-Symptom | stomach B-Symptom | cramps I-Symptom | , O | and O | weakness B-Symptom | in O | my O | legs O | . O | I O | literally O | thought O | I O | was O | dying O | . O | It O | passed O | within O | 45 O | minutes O | and O | I O | was O | able O | to O | go O | to O | work O | the O | next O | day O | . O | At O | work O | ( O | 5/1 O | ) , O | I O | was O | sitting O | at O | my O | desk O | and O | the O | same O | thing O | happened O | . O | I O | stepped O | out O | to O | get O | some O | air O | but O | it O | didn't O | work O | . O | A O | friend O | at O | work O | had O | to O | call O | an O | ambulance O | . O | I O | was O | filled O | in O | by O | the O | ER B-Symptom | doc I-Symptom | that O | the O | mixture O | of O | Aciphex B-Drug | and O | Arthrotec B-Drug | was O | insane O | and O | that O | he O | was O | trying O | to O | keep O | from O | cracking O | up O | at O | my O | primary B-Symptom | doc's I-Symptom | decision O | to O | combine O | them O | . O |
+
+Structured Output:
+T1 Symptom 0 13 Stomach pains
+T2 Symptom 15 30 chest pains
+T3 Symptom 32 38 anxiety
+T4 Symptom 40 48 fatigue
+T5 Symptom 50 56 headache
+T6 Symptom 58 75 erratic heart beat
+T7 Symptom 77 93 raised blood pressure
+T8 Symptom 95 102 dizziness
+T9 ADR 104 109 nausea
+T10 Symptom 117 129 blurred vision
+T11 Drug 132 140 Arthrotec
+T12 Drug 154 162 Aciphex
+T13 Disease 204 208 acid reflux
+T14 ADR 337 343 dizziness
+T15 ADR 347 352 nausea
+T16 Symptom 383 392 cramps
+T17 Disease 394 418 menstrual cycle
+T18 Symptom 440 452 chest pains
+T19 Symptom 455 469 elevated heart rate
+T20 Symptom 482 492 hot flashes
+T21 Symptom 494 502 dizziness
+T22 Symptom 504 516 sever stomach cramps
+T23 Symptom 521 528 weakness
+T24 Symptom 564 572 ER doc
+T25 Drug 576 583 Aciphex
+T26 Drug 588 596 Arthrotec

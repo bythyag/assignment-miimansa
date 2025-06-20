@@ -1,0 +1,7 @@
+T1 Symptom 42 63 severe stomach cramping
+T2 Drug 89 96 celebrex
+T3 Symptom 115 126 stomach pain
+T4 Drug 131 135 meds
+T5 Symptom 169 185 high blood pressure
+T6 Symptom 192 204 ankle swelling
+T7 Drug 219 223 DRUG

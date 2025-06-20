@@ -1,0 +1,4 @@
+T1 ADR 34 44 side effects
+T2 Drug 52 59 Lipitor
+T3 Disease 79 90 cholestoral
+T4 Drug 123 130 Mevacor

@@ -1,0 +1,14 @@
+BIO Sequence:
+Severe B-Symptom | abdominal I-Symptom | cramping I-Symptom | , O | sweating B-Symptom | , O | period B-Symptom | cramps I-Symptom | , O | vaginal B-Symptom | bleeding I-Symptom | , O | diarrhea B-Symptom | , O | acid B-Symptom | reflux I-Symptom | , O | dry B-Symptom | mouth I-Symptom | . O | I O | would O | rather O | have O | had O | a O | migraine B-Symptom | than O | the O | pain B-Symptom | I O | suffered O | after O | taking O | one O | of O | these O | pills O | . O | Don't O | recommend O | at O | all O | . O
+
+Structured Output:
+T1 Symptom 1 7 Severe  
+T2 Symptom 9 18 abdominal cramping  
+T3 Symptom 20 27 sweating  
+T4 Symptom 29 40 period cramps  
+T5 Symptom 42 58 vaginal bleeding  
+T6 Symptom 60 67 diarrhea  
+T7 Symptom 69 80 acid reflux  
+T8 Symptom 82 90 dry mouth  
+T9 Symptom 95 102 migraine  
+T10 Symptom 104 108 pain  

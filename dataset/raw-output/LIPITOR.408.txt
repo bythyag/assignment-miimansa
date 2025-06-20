@@ -1,0 +1,7 @@
+BIO Sequence:
+pain B-Symptom | in O | my O | left B-Symptom | leg I-Symptom | and O | most O | of O | my O | joints B-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 4 pain
+T2 Symptom 14 17 left leg
+T3 Symptom 27 32 joints

@@ -1,0 +1,12 @@
+T1 Drug 19 25 Lipitor
+T2 Disease 63 67 legs
+T3 Disease 75 83 shoulders
+T4 ADR 115 121 painful
+T5 Symptom 139 143 weak
+T6 Symptom 159 167 Symptoms
+T7 Disease 232 240 shoulder joints
+T8 Symptom 260 270 concentrate
+T9 Symptom 283 288 tired
+T10 Drug 301 307 Lipitor
+T11 ADR 319 324 side
+T12 ADR 326 332 effects

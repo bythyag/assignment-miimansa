@@ -1,0 +1,7 @@
+T1 Symptom 44 50 severe
+T2 Symptom 56 60 pain
+T3 Symptom 138 143 knee
+T4 Symptom 159 162 hip
+T5 Symptom 164 169 crying
+T6 Drug 223 227 drug
+T7 Drug 348 352 drug

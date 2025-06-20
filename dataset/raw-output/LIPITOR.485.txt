@@ -1,0 +1,8 @@
+BIO Sequence:
+terrible B-Symptom | nightmares I-Symptom | and O | insomnia B-Symptom | , O | leg B-Symptom | cramps I-Symptom | , O | fatigue B-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 9 terrible nightmares
+T2 Symptom 13 21 insomnia
+T3 Symptom 23 32 leg cramps
+T4 Symptom 34 41 fatigue

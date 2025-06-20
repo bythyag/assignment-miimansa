@@ -1,0 +1,15 @@
+T1 Symptom 31 39 ankles  
+T2 Symptom 41 46 feet  
+T3 Symptom 48 54 wrists  
+T4 Symptom 56 61 knees  
+T5 Drug 81 87 Lipitor  
+T6 Symptom 118 123 hands  
+T7 Symptom 138 149 sensitivity  
+T8 Symptom 161 165 palms  
+T9 Symptom 171 176 soles  
+T10 Symptom 180 184 feet  
+T11 Symptom 197 202 scalp  
+T12 Symptom 238 243 feet  
+T13 Symptom 294 301 ankles  
+T14 Symptom 327 334 problems  
+T15 Symptom 290 301 muscles

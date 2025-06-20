@@ -1,0 +1,31 @@
+T1 Symptom 0 6 severe
+T2 Symptom 7 11 pain
+T3 Symptom 18 26 severe
+T4 Symptom 27 36 limitation
+T5 Disease 44 55 upper arm muscles
+T6 Symptom 59 65 memory
+T7 Symptom 66 73 deficits
+T8 Symptom 78 83 mental
+T9 Symptom 84 92 fogginess
+T10 Symptom 94 102 worsening
+T11 Disease 103 111 cataract
+T12 Disease 125 136 parkinson's-type tremor
+T13 Disease 138 142 left
+T14 Disease 143 147 hand
+T15 Drug 180 187 mevacor
+T16 Symptom 197 202 muscle
+T17 Symptom 203 207 pain
+T18 Symptom 218 224 tremor
+T19 Symptom 231 236 vision
+T20 Disease 244 251 cataract
+T21 Drug 259 267 pre-Mevacor
+T22 Disease 280 287 cataracts
+T23 Drug 288 295 statins
+T24 Symptom 455 461 worsening
+T25 Disease 465 467 gum
+T26 Disease 468 474 disease
+T27 Disease 546 555 cholesterol
+T28 Disease 576 586 cholesterol
+T29 Disease 592 598 brain
+T30 Disease 605 614 cholesterol
+T31 Disease 635 642 placque

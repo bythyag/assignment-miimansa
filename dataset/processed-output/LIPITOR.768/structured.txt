@@ -1,0 +1,3 @@
+T1 ADR 3 19 side effects  
+T2 Symptom 21 33 Cholesterol  
+T3 Symptom 35 37 102

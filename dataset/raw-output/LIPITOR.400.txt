@@ -1,0 +1,20 @@
+BIO Sequence:
+Severe B-Symptom | muscle I-Symptom | cramps I-Symptom | , O | charlie B-Symptom | horse I-Symptom | in O | my O | calves B-Symptom | and O | feet B-Symptom | so O | bad O | at O | night O | that O | it O | brings O | me O | out O | of O | bed O | screaming O | . O | Severe B-Symptom | hip I-Symptom | & O | feet B-Symptom | pain I-Symptom | and O | stiffness B-Symptom | . O | Can't O | hardly O | walk O | when O | I O | first O | get O | up O | from O | sitting O | short O | periods O | or O | in O | the O | morning O | . O | Shoulder B-Symptom | pain I-Symptom | , O | tendonitis B-Disease | in O | my O | shoulders B-Symptom | and O | elbows B-Symptom | . O | etc O | It O | did O | lower O | my O | cholesterol B-Disease | but O | is O | not O | worth O | the O | side B-ADR | effects I-ADR | . O | I O | have O | stopped O | taking O | it O | and O | will O | just O | have O | to O | take O | my O | chances O | trying O | other O | things O | to O | lower O | cholesterol B-Disease | . O 
+
+Structured Output:
+T1 Symptom 1 7 Severe
+T2 Symptom 8 14 muscle cramps
+T3 Symptom 16 28 charlie horse
+T4 Symptom 31 37 calves
+T5 Symptom 42 46 feet
+T6 Symptom 78 82 Severe
+T7 Symptom 83 86 hip
+T8 Symptom 87 91 feet pain
+T9 Symptom 93 102 stiffness
+T10 Symptom 113 120 Shoulder pain
+T11 Disease 123 132 tendonitis
+T12 Symptom 136 144 shoulders
+T13 Symptom 149 155 elbows
+T14 Disease 164 173 cholesterol
+T15 ADR 187 199 side effects
+T16 Disease 221 229 cholesterol

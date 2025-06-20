@@ -1,0 +1,15 @@
+T1 Disease 18 24 stomach
+T2 Symptom 38 46 endoscopy
+T3 Symptom 58 62 pain
+T4 Drug 83 87 drug
+T5 Symptom 98 102 pain
+T6 Symptom 107 111 foot
+T7 Drug 140 148 Arthrotec
+T8 Drug 155 161 Zantac
+T9 Disease 181 188 stomach
+T10 ADR 205 210 blood
+T11 ADR 215 221 stools
+T12 ADR 227 232 cramps
+T13 Symptom 234 245 colonoscopy
+T14 Symptom 267 271 foot
+T15 Drug 290 294 drug

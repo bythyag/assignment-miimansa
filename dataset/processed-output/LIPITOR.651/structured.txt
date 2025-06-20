@@ -1,0 +1,7 @@
+T1 Symptom 19 32 lower leg pain
+T2 Symptom 45 53 throbbing
+T3 Symptom 56 63 burning sensation
+T4 Disease 76 85 Neurologist
+T5 Disease 97 101 nerve
+T6 Drug 114 118 drug 
+T7 ADR 120 128 related

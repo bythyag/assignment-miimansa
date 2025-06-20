@@ -1,0 +1,12 @@
+T1 Disease 0 6 Eczema
+T2 Symptom 39 43 rash
+T3 Disease 45 54 depression
+T4 Symptom 66 75 Cholesterol
+T5 Disease 90 96 depression
+T6 Disease 104 110 eczema
+T7 Drug 123 129 herbal
+T8 Drug 136 143 Dr Sinatra
+T9 Drug 146 153 lipitor
+T10 Symptom 164 172 cholesterol
+T11 Drug 174 180 lipitor
+T12 Drug 221 228 statins

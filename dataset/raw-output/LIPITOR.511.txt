@@ -1,0 +1,17 @@
+BIO Sequence:
+Forgetfulness B-Symptom | , O | Lack B-Symptom | of O | Concentration I-Symptom | , O | excruciating B-Symptom | pain I-Symptom | in O | my O | legs I-Symptom | , O | insomnia B-Symptom | , O | terrible B-Symptom | headaches I-Symptom | , O | itching B-Symptom | all O | over O | , O | depression B-Symptom | , O | moodiness I-Symptom | . O | It O | dramatically O | reduced O | my O | cholesterol B-Disease | but O | the O | side B-ADR | effects I-ADR | aren't O | worth O | the O | benefits O | . O | I O | went O | to O | the O | medical O | center O | today O | because O | I O | was O | feeling O | so O | bad O | . O | I O | have O | Lupus B-Disease | so O | I O | assumed O | that O | it O | was O | causing O | me O | to O | feel O | bad O | . O | After O | hearing O | my O | symptoms O | , O | my O | doctor O | told O | me O | to O | using O | Lipitor B-Drug | for O | awhile O | to O | see O | if O | the O | symptoms O | go O | away O | . O | It O | never O | dawned O | on O | me O | that O | it O | could O | be O | the O | Lipitor I-Drug | . O | Now O | that O | I O | found O | your O | website O | I O | feel O | so O | much O | better O | . O 
+
+Structured Output:
+T1 Symptom 0 12 Forgetfulness
+T2 Symptom 14 32 Lack of Concentration
+T3 Symptom 34 50 excruciating pain in my legs
+T4 Symptom 52 60 insomnia
+T5 Symptom 62 77 terrible headaches
+T6 Symptom 79 86 itching all over
+T7 Symptom 88 96 depression
+T8 Symptom 98 106 moodiness
+T9 Disease 114 123 cholesterol
+T10 ADR 126 137 side effects
+T11 Disease 139 144 Lupus
+T12 Drug 151 158 Lipitor
+T13 Drug 164 171 Lipitor

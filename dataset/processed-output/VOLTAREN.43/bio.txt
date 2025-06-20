@@ -1,0 +1,1 @@
+dizziness B-Symptom | first O | few O | days O | , O | mild O | nausea B-ADR | . O

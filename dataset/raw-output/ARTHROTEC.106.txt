@@ -1,0 +1,9 @@
+BIO Sequence:
+none O | that O | I O | can O | think O | of O | . O | I O | recently O | had O | bilateral B-Disease | knee I-Disease | replacement I-Disease | . O | Prior O | to O | that O | , O | Arthrotec B-Drug | was O | the O | only O | drug O | that O | helped O | . O | I O | tried O | every O | drug O | on O | the O | market O | , O | but O | , O | to O | no O | avail O | . O | I O | took O | 50 O | mg O | . O | 3 O | times O | a O | day O | of O | Arthrotec B-Drug | and O | was O | almost O | pain B-Symptom | free O | . O | I O | highly O | recommend O | it O | to O | anyone O | that O | suffers O | from O | arthritis B-Disease | . O 
+
+Structured Output:
+T1 Disease 39 58 bilateral knee replacement
+T2 Drug 75 83 Arthrotec
+T3 Drug 101 109 Arthrotec
+T4 Symptom 126 130 pain
+T5 Disease 145 153 arthritis

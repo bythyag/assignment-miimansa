@@ -1,0 +1,11 @@
+BIO Sequence:
+severe B-Symptom | muscle I-Symptom | pain I-Symptom | in O | hips B-Symptom | , O | legs B-Symptom | and O | ankles B-Symptom | . O | It O | helps O | lower O | my O | cholesterol B-Drug | , O | but O | recks O | my O | muscles B-ADR | severly I-ADR | . O | I O | take O | a O | 6week O | break O | and O | resume O | dosage O | of O | lipitor B-Drug | . O 
+
+Structured Output:
+T1 Symptom 0 21 severe muscle pain 
+T2 Symptom 23 27 hips 
+T3 Symptom 29 33 legs 
+T4 Symptom 38 44 ankles 
+T5 Drug 70 79 cholesterol 
+T6 ADR 85 91 muscles 
+T7 Drug 98 105 lipitor

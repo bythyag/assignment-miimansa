@@ -1,0 +1,8 @@
+BIO Sequence:
+so O | far O | none O | . O | Took O | vioxx B-Drug | , O | bextra B-Drug | , O | mobic B-Drug | and O | ultram B-Drug | with O | no O | relief O | . O | Just O | started O | this O | and O | am O | optomistic O | it O | is O | helping O | so O | far O | . O
+
+Structured Output:
+T1 Drug 20 26 vioxx
+T2 Drug 28 34 bextra
+T3 Drug 36 41 mobic
+T4 Drug 46 52 ultram

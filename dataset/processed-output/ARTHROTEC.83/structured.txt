@@ -1,0 +1,6 @@
+T1 Symptom 12 17 severe  
+T2 Symptom 18 27 abdominal pains  
+T3 ADR 30 36 severe welts  
+T4 Symptom 65 72 swelling  
+T5 Symptom 80 85 rapid heart beat  
+T6 Symptom 90 98 headaches

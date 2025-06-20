@@ -1,0 +1,11 @@
+BIO Sequence:
+Was O | on O | Lipitor B-Drug | only O | 3 O | weeks O | and O | experienced O | very O | sore B-ADR | muscle I-ADR | pain I-ADR | in O | both O | shoulders O | , O | heart B-ADR | palpatations I-ADR | , O | sore B-ADR | knees I-ADR | , O | felt O | like O | a O | truck O | hit O | me O | . O | I O | 'm O | only O | 56 O | and O | in O | good O | health O | otherwise O | . O | Stopped O | drug O | 1 O | week O | today O | ( O | 3/10 O | ) O | still O | have O | muscle B-ADR | pain I-ADR | . O | How O | long O | will O | this O | last O | ???? O
+
+Structured Output:
+T1 Drug 15 21 Lipitor
+T2 ADR 35 38 sore
+T3 ADR 43 50 muscle pain
+T4 ADR 55 66 heart palpatations
+T5 ADR 70 74 sore
+T6 ADR 79 84 knees
+T7 ADR 107 113 muscle pain

@@ -1,0 +1,6 @@
+T1 Symptom 71 86 elevated
+T2 Drug 112 116 drug
+T3 Disease 131 139 acute shoulder tendonitis
+T4 Symptom 157 162 agony
+T5 Drug 196 203 medicine
+T6 ADR 219 232 inflammation

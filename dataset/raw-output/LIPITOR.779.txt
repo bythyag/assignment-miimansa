@@ -1,0 +1,21 @@
+BIO Sequence:
+within O | 3 B-Symptom | days I O | experienced O | extreme B-Symptom | muscle I-Symptom | pain I-Symptom | and O | weakness I-Symptom | . O | I O | felt O | like O | I O | was O | walking O | though O | sludge O | . O | For O | the O | next O | 2 B-Symptom | weeks I O | only O | wanted O | to O | sleep B-Symptom | . O | I O | have O | no O | energy B-Symptom | . O | My O | blood O | work O | indicates O | trouble B-Disease | with O | my O | liver B-Disease | . O | I O | have O | repeated O | the O | test O | every O | week O | since O | discontinuing O | the O | drug B-Drug | and O | it O | has O | not O | returned O | to O | normal O | yet O | . O | I O | am O | now O | experiencing O | edema-swelling B-ADR | of O | the O | hands I-ADR | , O | feet I-ADR | , O | legs I-ADR | etc O | I O | am O | taking O | lasiks B-Drug | trying O | to O | alleviate O | this O | . O | 40 O | mg O | per O | day O | is O | not O | taking O | it O | away O | yet O | . O | It O | has O | been O | nearly O | 2 B-Symptom | weeks O | since O | the O | swelling O | began O | . O | I O | am O | truly O | concerned O | about O | any O | permanent O | damage O | this O | medication B-Drug | may O | have O | caused O | . O | After O | only O | 3 B-Drug | 10mg I-Drug | doses O | I O | have O | suffered O | a O | month O | of O | side I-ADR | effects I-ADR | ! O | I O | wouldn't O | recommend O | this O | to O | anyone O | ! O | If O | you O | are O | taking O | it O | now O | and O | experience O | anything O | unusual O | at O | all O | , O | contact O | your O | doctor O | immediately O | ! O | I O | feared O | I O | might O | be O | over-reacting O | to O | the O | muscle I-Symptom | ache I-Symptom | ! O | I O | don't O | know O | where O | I'd O | be O | if O | I O | had O | continued O | taking O | lipitor B-Drug | beyond O | the O | 3 B-Symptom | days O | ! O | ! O 
+
+Structured Output:
+T1 Symptom 17 21 3
+T2 Symptom 30 50 extreme muscle pain
+T3 Symptom 54 61 weakness
+T4 Symptom 83 86 2
+T5 Symptom 105 110 sleep
+T6 Symptom 114 118 energy
+T7 Disease 43 48 trouble
+T8 Disease 57 62 liver
+T9 ADR 99 118 edema-swelling
+T10 Drug 168 174 lasiks
+T11 Drug 199 204 medication
+T12 Drug 213 215 3
+T13 Drug 216 220 10mg
+T14 ADR 229 240 side effects
+T15 Drug 279 285 lipitor
+T16 Symptom 263 266 muscle ache
+T17 Symptom 262 265 days

@@ -1,0 +1,8 @@
+T1 Symptom 8 13 muscle pain
+T2 Symptom 31 48 shoulder blades
+T3 Symptom 51 58 fatigue
+T4 Symptom 60 67 insomnia
+T5 Drug 75 82 20mg/day
+T6 ADR 100 113 side effects
+T7 ADR 119 135 adverse effects
+T8 Symptom 149 155 symptom

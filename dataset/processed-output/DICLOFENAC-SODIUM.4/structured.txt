@@ -1,0 +1,3 @@
+T1 Symptom 26 32 stomach
+T2 Drug 86 91 drug
+T3 Drug 109 117 VOLTAREN

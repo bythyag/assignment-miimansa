@@ -1,0 +1,16 @@
+T1 Symptom 1 4 GAS
+T2 Symptom 6 16 CONSTIPATION
+T3 LabTest 51 63 trigycerides
+T4 LabTest 66 75 cholesterol
+T5 Drug 103 109 Lipitor
+T6 Disease 130 145 C-reactive protein
+T7 Drug 161 167 Lipitor
+T8 LabTest 178 181 trigycerides
+T9 LabTest 188 199 cholesteral
+T10 LabTest 207 210 CRP
+T11 LabValue 224 228 5.96
+T12 LabValue 232 236 13.2
+T13 LabTest 241 244 CRP
+T14 Drug 257 263 Lipitor
+T15 Disease 278 293 C-reactive protein
+T16 Symptom 297 300 gas

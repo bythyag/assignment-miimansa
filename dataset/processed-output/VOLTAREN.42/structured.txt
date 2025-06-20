@@ -1,0 +1,6 @@
+T1 Drug 106 110 drug
+T2 Symptom 136 141 severe
+T3 Symptom 142 146 knee
+T4 Symptom 147 151 pain
+T5 Symptom 180 184 Pain
+T6 Symptom 203 207 pain

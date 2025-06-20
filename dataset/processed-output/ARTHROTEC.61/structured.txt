@@ -1,0 +1,5 @@
+T1 ADR 20 30 side effects
+T2 ADR 36 39 gas
+T3 Symptom 83 87 pain
+T4 ADR 90 101 side effects
+T5 Drug 105 111 NSAID

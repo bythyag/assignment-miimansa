@@ -1,0 +1,7 @@
+T1 Symptom 0 15 unrelenting muscle pain
+T2 Symptom 17 30 leg cramps
+T3 Symptom 32 42 numbness in both legs
+T4 Symptom 44 53 exhaustion
+T5 Symptom 55 76 joints popping and cracking
+T6 ADR 87 99 side effects
+T7 Drug 109 113 drug

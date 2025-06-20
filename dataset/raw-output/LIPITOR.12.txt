@@ -1,0 +1,34 @@
+BIO Sequence:
+Body O | aches B-Symptom | , O | joint B-Symptom | pain I-Symptom | , O | decreased B-Symptom | mobility I-Symptom | , O | decreased B-Symptom | testosterone I-Symptom | and O | libido I-Symptom | , O | difficulty B-Symptom | getting O | out O | of O | bed O | in O | the O | morning O | , O | tingling B-Symptom | and O | itchy B-Symptom | hands I-Symptom | , O | and O | decrease B-Symptom | in O | overall O | strength I-Symptom | . O | I O | have O | been O | taking O | lipitor B-Drug | for O | many O | years O | . O | I O | started O | out O | on O | 10mgs B-Drug | and O | now O | I O | am O | on O | 40mgs B-Drug | . O | I O | have O | had O | hip B-Disease | replacement I-Disease | , O | back B-Disease | surgery I-Disease | , O | and O | shoulder B-Disease | surgery I-Disease | while O | on O | this O | drug O | . O | I O | have O | seen O | my O | strength O | decrease O | dramatically O | . O | I O | have O | to O | be O | on O | testosterone B-Drug | replacement I-Drug | . O | My O | brother O | is O | also O | on O | Lipitor B-Drug | and O | has O | had O | recent O | knee B-Disease | surgery I-Disease | for O | a O | torn O | miniscus B-Disease | and O | ACL B-Disease | . O | He O | is O | also O | on O | testosterone B-Drug | therapy I-Drug | . O | Im O | only O | 47 O | and O | he O | is O | 45 O | . O | This O | sounds O | like O | alot O | of O | physical O | problems O | for O | guys O | our O | age O | . O | It O | wasnt O | until O | he O | mentioned O | that O | he O | had O | heard O | about O | the O | possible O | dangers O | that O | statins B-Drug | have O | on O | tendons I-Disease | that O | I O | saw O | all O | of O | these O | other O | people O | and O | their O | problems O | with O | Lipitor B-Drug | . O | This O | could O | be O | the O | reason O | for O | many O | things O | that O | I O | have O | been O | suffering O | physically O | . O | I O | am O | getting O | off O | the O | Lipitor B-Drug | immediately O | for O | a O | few O | months O | to O | see O | if O | some O | of O | my O | symptoms O | get O | better O | . O | Fish O | oil B-Drug | , O | niacin B-Drug | , O | vitimin B-Drug | c I-Drug | , O | and O | a O | healthy O | diet O | !!! . O 
+
+Structured Output:
+T1 Symptom 0 4 aches
+T2 Symptom 6 11 joint pain
+T3 Symptom 13 22 decreased mobility
+T4 Symptom 24 37 decreased testosterone
+T5 Symptom 39 45 libido
+T6 Symptom 47 72 difficulty getting out of bed
+T7 Symptom 75 81 morning
+T8 Symptom 83 90 tingling
+T9 Symptom 95 100 itchy hands
+T10 Symptom 102 118 decrease in overall strength
+T11 Drug 136 143 lipitor
+T12 Drug 158 163 10mgs
+T13 Drug 174 179 40mgs
+T14 Disease 183 186 hip replacement
+T15 Disease 188 193 back surgery
+T16 Disease 197 205 shoulder surgery
+T17 Drug 221 243 testosterone replacement
+T18 Drug 250 256 Lipitor
+T19 Disease 260 264 knee surgery
+T20 Disease 266 273 torn miniscus
+T21 Disease 275 278 ACL
+T22 Drug 283 295 testosterone therapy
+T23 Drug 304 310 Lipitor
+T24 Drug 337 343 statins
+T25 Drug 368 375 Lipitor
+T26 Drug 384 391 Lipitor
+T27 Drug 396 402 Fish oil
+T28 Drug 405 411 niacin
+T29 Drug 413 421 vitimin c
+T30 Symptom 425 431 healthy diet

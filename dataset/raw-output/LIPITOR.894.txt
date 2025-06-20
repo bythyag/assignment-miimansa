@@ -1,0 +1,11 @@
+BIO Sequence:
+My O | doctor O | switched O | me O | from O | Pravachol B-Drug | to O | Lipitor B-Drug | almost O | a O | year O | ago O | because O | of O | a O | study O | that O | was O | done O | in O | CHF B-Disease | patients O | and O | when O | Lipitor B-Drug | was O | used O | , O | hospitalizations O | were O | cut O | almost O | in O | half O | . O | Normally O | I O | have O | to O | go O | into O | the O | hospital O | a O | minimum O | of O | 2 O | times O | a O | year O | . O | Since O | I O | started O | taking O | Lipitor B-Drug | , O | I O | have O | not O | been O | in O | the O | hospital O | even O | once O | ! O | Also O | , O | he O | also O | told O | me O | that O | Lipitor B-Drug | was O | better O | for O | my O | kidneys B-Disease | than O | the O | statins B-Drug | . O 
+
+Structured Output:
+T1 Drug 21 30 Pravachol
+T2 Drug 34 40 Lipitor
+T3 Disease 76 79 CHF
+T4 Drug 67 73 Lipitor
+T5 Drug 96 102 Lipitor
+T6 Disease 117 124 kidneys
+T7 Drug 138 145 statins

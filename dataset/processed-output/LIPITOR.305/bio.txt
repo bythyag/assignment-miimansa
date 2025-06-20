@@ -1,0 +1,1 @@
+WEAK B-Symptom | MUSCLES I-Symptom | , O | POOR B-Symptom | BALANCE I-Symptom | , O | VERY O | VERY O | TIRED B-Symptom | CAN'T O | WORK O | MORE O | THAN O | 2 O | HOURS O | WITHOUT O | A O | NAP B-Symptom | . O

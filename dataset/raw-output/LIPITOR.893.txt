@@ -1,0 +1,13 @@
+BIO Sequence:
+I O | had O | flu-like B-Symptom | symptoms I-Symptom | and O | my O | legs O | just O | ached B-Symptom | . O | They O | hurt B-Symptom | from O | my O | ankles B-Symptom | to O | my O | hips I-Symptom | and O | on O | certain O | days O | I O | could O | hardly O | walk B-Symptom | . O | The O | sad O | part O | is O | that O | I O | am O | only O | 47 B-Disease | years I-Disease | old I-Disease | . O
+
+Structured Output:
+T1 Symptom 17 26 flu-like symptoms
+T2 Symptom 32 37 ached
+T3 Symptom 39 43 hurt
+T4 Symptom 55 61 ankles
+T5 Symptom 65 69 hips
+T6 Symptom 83 87 walk
+T7 Disease 96 99 47
+T8 Disease 100 105 years
+T9 Disease 107 110 old

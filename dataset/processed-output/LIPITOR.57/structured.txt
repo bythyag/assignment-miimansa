@@ -1,0 +1,7 @@
+T1 Symptom 0 7 Fatigue
+T2 Symptom 9 18 Brain Fog
+T3 Symptom 20 29 Stuttering
+T4 Disease 31 34 OCD
+T5 Disease 37 44 diabetic
+T6 Drug 77 81 drug
+T7 Drug 86 92 statins

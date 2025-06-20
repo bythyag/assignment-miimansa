@@ -1,0 +1,8 @@
+BIO Sequence:
+Stomach B-Symptom | irritation I-Symptom | , O | Abnormal B-Symptom | Dreams I-Symptom | & O | DEPRESSION B-Disease | ! O | I O | am O | not O | normally O | a O | depressed I-Disease | person O | AT O | ALL O | ! O
+
+Structured Output:
+T1 Symptom 0 15 Stomach irritation
+T2 Symptom 17 32 Abnormal Dreams
+T3 Disease 36 45 DEPRESSION
+T4 Disease 57 65 depressed

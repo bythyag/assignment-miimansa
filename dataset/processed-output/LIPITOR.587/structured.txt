@@ -1,0 +1,4 @@
+T1 Disease 0 17 High Liver Enzyme Counts
+T2 Symptom 18 34 Muscle Fatigue
+T3 Drug 36 42 Lipitor
+T4 Disease 56 61 liver

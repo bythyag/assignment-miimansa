@@ -1,0 +1,17 @@
+BIO Sequence:
+A O | friend O | of O | mine O | took O | Lipitor B-Drug | ( O | all O | statins B-Drug | have O | similar O | side O | effects O | ). O | He O | suffered O | terrible O | pains B-ADR | in O | hips B-Symptom | , O | legs B-Symptom | , O | hands B-Symptom | etc O | Lost O | his O | muscular O | strength B-Symptom | , O | had O | difficulties B-ADR | to O | swallow B-Symptom | , O | problems B-ADR | with O | tinnitus B-Symptom | and O | memory B-Symptom | . O | The O | problems O | appeared O | little O | by O | little O | over O | the O | years O | . O | The O | best O | thing O | you O | can O | do O | for O | yourself O | and O | others O | is O | to O | educate O | yourself O | on O | this O | - O | and O | other O | medical O | issues O | . O | Read O | books O | , O | read O | patient O | stories O | and O | look O | at O | The O | Lipitor B-Drug | Paradox O | at O | u-tube O | . O | It O | ` O | s O | a O | very O | funny O | and O | sad O | story O | . O | Also O | visit O | spacedoc.net O | for O | more O | information O | about O | side O | effects O | . O
+
+Structured Output:
+T1 Drug 7 13 Lipitor
+T2 Drug 36 43 statins
+T3 ADR 98 103 pains
+T4 Symptom 107 111 hips
+T5 Symptom 114 118 legs
+T6 Symptom 121 125 hands
+T7 Symptom 127 135 strength
+T8 ADR 140 150 difficulties
+T9 Symptom 163 170 swallow
+T10 ADR 176 183 problems
+T11 Symptom 189 196 tinnitus
+T12 Symptom 201 207 memory
+T13 Drug 215 221 Lipitor

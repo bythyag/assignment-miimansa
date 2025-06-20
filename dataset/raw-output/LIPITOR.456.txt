@@ -1,0 +1,15 @@
+BIO Sequence:
+intense B-Symptom | calf I-Symptom | pain I-Symptom | , O | swollen B-Symptom | feet I-Symptom | & O | ankles I-Symptom | , O | memory B-Symptom | loss I-Symptom | . O | Yes O | it O | did O | lower O | cholesterol B-Drug | and O | LDL B-Drug | but O | June O | 04 O | dosage O | increased O | from O | 20 B-Drug | mg I-Drug | to O | 40 B-Drug | mg I-Drug | per O | day O | because O | ldl O | had O | elevated O | again O | and O | Dr O | wanted O | ldl O | @ O | 70 O | and O | mine O | was O | at O | 114 O | . O | Been O | off O | Lipitor B-Drug | since O | 08-23-04 O | due O | to O | severe B-ADR | calf I-ADR | pain I-ADR | . O | ldl O | is O | now O | 211 O | . O | 10-13-04 O | Dr O | put O | me O | on O | niaspan B-Drug | 500 B-Drug | mg I-Drug | to O | start O | . O | He O | is O | not O | happy O | , O | like O | I O | was O | ! O | ! O
+
+Structured Output:
+T1 Symptom 1 18 intense calf pain
+T2 Symptom 20 36 swollen feet & ankles
+T3 Symptom 38 52 memory loss
+T4 Drug 73 83 cholesterol
+T5 Drug 88 91 LDL
+T6 Drug 99 101 20 mg
+T7 Drug 105 108 40 mg
+T8 Drug 147 153 Lipitor
+T9 ADR 165 177 severe calf pain
+T10 Drug 180 187 niaspan
+T11 Drug 188 197 500 mg

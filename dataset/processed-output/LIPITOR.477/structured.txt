@@ -1,0 +1,4 @@
+T1 Symptom 0 6 Fatigue
+T2 Symptom 16 21 tired
+T3 Symptom 88 92 rush
+T4 Disease 102 113 cholesterol

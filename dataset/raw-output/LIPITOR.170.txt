@@ -1,0 +1,11 @@
+BIO Sequence:
+Within O | 7 O | days O | I O | had O | such O | severe O | myopathy B-Disease | ( O | muscle O | pain I-Disease | ) O | and O | cramping B-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | I-Symptom | and O | my O | CPK B-Symptom | was O | elevated O | to O | that O | of O | a O | person O | having O | a O | heart B-Disease | attack I-Disease | and O | my O | liver B-Symptom | enzymes O | were O | very O | elevated O | . O | I O | was O | on O | 10 B-Drug | mg I-Drug | and O | in O | . O 
+
+Structured Output:
+T1 Disease 39 47 myopathy
+T2 Disease 51 55 muscle pain
+T3 Symptom 56 64 cramping
+T4 Symptom 90 94 CPK
+T5 Disease 117 123 heart attack
+T6 Symptom 132 136 liver
+T7 Drug 174 176 10 mg

@@ -1,0 +1,9 @@
+BIO Sequence:
+Started O | getting O | ocular B-Symptom | migranes I-Symptom | and O | migranes I-Symptom | during O | sexual O | intercourse O | . O | Never O | had O | migranes I-Symptom | before O | . O | Migranes B-Symptom | stopped O | after O | stopping O | lipitor B-Drug | . O
+
+Structured Output:
+T1 Symptom 18 24 ocular migranes
+T2 Symptom 30 37 migranes
+T3 Symptom 63 70 migranes
+T4 Symptom 89 96 migranes
+T5 Drug 99 106 lipitor

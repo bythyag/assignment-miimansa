@@ -1,0 +1,23 @@
+BIO Sequence:
+Have O | been O | on O | Lipitor B-Drug | 3 O | months O | . O | It O | did O | lower O | my O | cholesterol B-Disease | from O | 215 O | to O | 168 O | . O | However O | , O | I O | had O | been O | feeling O | more O | fatigued B-Symptom | and O | now O | I O | am O | getting O | severe B-Symptom | shoulder B-Symptom | , O | neck B-Symptom | and O | back B-Symptom | pain I-Symptom | . O | Now O | my O | feet B-Symptom | are O | getting O | sore B-Symptom | . O | I O | am O | a O | medical O | transcriptionist O | and O | do O | a O | lot O | of O | typing O | , O | but O | my O | hands B-Symptom | are O | so O | painful I-Symptom | , O | I O | can O | hardly O | sleep O | at O | night O | . O | I O | am O | waiting O | right O | now O | for O | my O | doctor O | to O | call O | me O | back O | . O | My O | hands O | feel O | cold B-Symptom | and O | tingly B-Symptom | now O | . O | Now O | I O | am O | having O | constipation B-ADR | problems O | . O | I O | cannot O | believe O | how O | painful B-Symptom | my O | arms B-Symptom | and O | shoulders I-Symptom | are O | . O | It O | works O | for O | cholesterol O | , O | but O | I O | feel O | like O | a O | truck O | hit O | me O | . O | Since O | reading O | all O | of O | the O | comments O | , O | I O | know O | it O | is O | not O | in O | my O | head O | ! O | I O | feel O | horrible B-Symptom | . O
+
+Structured Output:
+T1 Drug 18 25 Lipitor
+T2 Disease 56 65 cholesterol
+T3 Symptom 84 92 fatigued
+T4 Symptom 99 106 severe
+T5 Symptom 114 121 shoulder
+T6 Symptom 129 134 neck
+T7 Symptom 140 144 back
+T8 Symptom 149 153 pain
+T9 Symptom 162 166 feet
+T10 Symptom 182 187 sore
+T11 Symptom 216 221 hands
+T12 Symptom 245 251 painful
+T13 Symptom 267 272 cold
+T14 Symptom 278 283 tingly
+T15 ADR 287 305 constipation
+T16 Symptom 346 353 painful
+T17 Symptom 360 366 arms
+T18 Symptom 373 381 shoulders
+T19 Symptom 392 399 horrible

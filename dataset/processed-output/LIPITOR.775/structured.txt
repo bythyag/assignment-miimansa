@@ -1,0 +1,12 @@
+T1 Symptom 0 6 Muscle
+T2 Symptom 10 15 joint
+T3 Symptom 16 20 pain
+T4 Symptom 54 58 legs
+T5 Symptom 60 69 buttocks
+T6 Symptom 71 76 elbow
+T7 Drug 83 87 10mg
+T8 Drug 102 108 Lipitor
+T9 Drug 114 120 Tricor
+T10 ADR 132 145 side effects
+T11 Disease 157 162 bone cancer
+T12 Drug 169 173 drug

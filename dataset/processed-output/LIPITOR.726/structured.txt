@@ -1,0 +1,9 @@
+T1 Disease 11 20 depression
+T2 Symptom 22 30 lazyness
+T3 Symptom 39 43 lack
+T4 Symptom 54 66 concentrate
+T5 Symptom 68 73 short
+T6 Symptom 74 81 attention
+T7 Disease 94 103 Cholersterol
+T8 Disease 111 119 diet
+T9 Disease 123 130 exercise

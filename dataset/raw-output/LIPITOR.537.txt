@@ -1,0 +1,52 @@
+BIO Sequence:
+severe O | edema B-Symptom | with O | swelling B-Symptom | of O | limbs I-Symptom | , O | vision B-Symptom | problems I-Symptom | , O | weakness B-Symptom | , O | muscle B-Symptom | pain I-Symptom | , O | rhabdomyolysis B-Symptom | / O | muscle I-Symptom | loss I-Symptom | , O | rapid B-Symptom | pulse I-Symptom | , O | cough B-Symptom | , O | poor B-Symptom | coordination I-Symptom | while O | walking B-Symptom | , O | dizziness B-Symptom | , O | difficulty B-Symptom | sleeping I-Symptom | , O | increased B-Symptom | sensitivity I-Symptom | to O | other O | drugs B-Drug | , O | sweating B-ADR | , O | nausea B-ADR | , O | frequent B-Symptom | headaches I-Symptom | , O | numbness B-Symptom | / O | tingling I-Symptom | ? O | aching B-Symptom | / O | heavy B-Symptom | feeling I-Symptom | in O | limps I-Symptom | , O | difficulty B-Symptom | walking I-Symptom | due O | to O | swelling B-Symptom | in O | legs I-Symptom | and O | problems B-Symptom | with O | coordination I-Symptom | , O | fatigue B-Symptom | , O | increased O | . O | I O | was O | told O | that O | what O | I O | went O | through O | was O | a O | rare O | experience O | for O | people O | on O | Lipitor B-Drug | and O | other O | statins B-Drug | ; O | but O | I O | had O | two O | reactions B-ADR | this O | past O | year O | to O | Lipitor B-Drug | first O | and O | then O | later O | to O | the O | Pravachol B-Drug | my O | Dr O | switched O | me O | over O | to O | . O | I O | can't O | remember O | how O | long O | I O | was O | on O | Lipitor B-Drug | ( O | maybe O | 8-10 O | months I-Disease | ) O | . O | I O | was O | on O | Pravachol B-Drug | for O | 2 O | months I-Disease | when O | I O | ended O | up O | with O | similar O | problems B-Symptom | . O | Stopped O | statins B-Drug | 4 O | months I-Disease | ago O | . O | still O | having O | a O | lot O | of O | problems B-Symptom | but O | there O | was O | a O | dramtic O | decrease O | in O | symptoms B-Symptom | after O | stopping O | both O | the O | Lipitor B-Drug | and O | the O | Pravachol B-Drug | . O |
+
+Structured Output:
+T1 Symptom 10 15 edema
+T2 Symptom 22 29 swelling
+T3 Symptom 34 39 limbs
+T4 Symptom 42 47 vision
+T5 Symptom 48 55 problems
+T6 Symptom 57 64 weakness
+T7 Symptom 66 75 muscle pain
+T8 Symptom 78 90 rhabdomyolysis
+T9 Symptom 92 102 muscle loss
+T10 Symptom 105 116 rapid pulse
+T11 Symptom 118 123 cough
+T12 Symptom 126 145 poor coordination
+T13 Symptom 147 153 walking
+T14 Symptom 155 162 dizziness
+T15 Symptom 164 179 difficulty sleeping
+T16 Symptom 181 202 increased sensitivity
+T17 Drug 231 237 drugs
+T18 ADR 244 250 sweating
+T19 ADR 252 258 nausea
+T20 Symptom 261 274 frequent headaches
+T21 Symptom 276 283 numbness
+T22 Symptom 285 293 tingling
+T23 Symptom 295 300 aching
+T24 Symptom 302 308 heavy feeling
+T25 Symptom 310 314 limps
+T26 Symptom 317 323 difficulty walking
+T27 Symptom 324 331 swelling
+T28 Symptom 334 338 legs
+T29 Symptom 341 348 problems
+T30 Symptom 350 362 coordination
+T31 Symptom 365 372 fatigue
+T32 Drug 487 494 Lipitor
+T33 Drug 509 516 statins
+T34 ADR 533 541 reactions
+T35 Drug 543 550 Lipitor
+T36 Drug 558 566 Pravachol
+T37 Drug 588 596 Lipitor
+T38 Drug 617 625 Pravachol
+T39 Drug 634 641 statins
+T40 Disease 646 653 months
+T41 Disease 678 686 months
+T42 Disease 695 700 months
+T43 Symptom 703 710 problems
+T44 Drug 712 719 statins
+T45 Symptom 743 750 problems
+T46 Symptom 758 765 symptoms
+T47 Drug 784 791 Lipitor
+T48 Drug 806 813 Pravachol

@@ -1,0 +1,14 @@
+BIO Sequence:
+Severe O | numbness B-Symptom | in O | hand O | such O | that O | it O | wakes O | me O | out O | of O | my O | sleep O | . O | Tingling B-Symptom | in O | feet O | , O | soreness B-Symptom | in O | calf B-Disease | muscles I-Disease | . O | Occasional O | sharp O | shock B-Symptom | like O | pain B-Symptom | in O | head O | . O | I O | have O | taken O | myself O | off O | because O | I O | can't O | stand O | the O | side-effects B-ADR | . O | Never O | really O | had O | high O | cholesterol B-Disease | but O | current O | medical O | thinking O | is O | that O | lipitor B-Drug | may O | reverse O | coronary B-Disease | disease I-Disease | . O | I O | would O | rather O | just O | walk O | more O | . O | Upon O | reading O | all O | of O | the O | reviews O | how O | long O | can O | it O | be O | before O | there O | is O | a O | significant O | class O | action O | lawsuit O | to O | stop O | this O | drug B-Drug | from O | being O | prescribed O | . O
+
+Structured Output:
+T1 Symptom 8 15 numbness
+T2 Symptom 22 29 Tingling
+T3 Symptom 54 61 soreness
+T4 Disease 66 71 calf
+T5 Symptom 78 104 shock like pain
+T6 Disease 112 122 cholesterol
+T7 Drug 126 132 lipitor
+T8 Disease 142 149 coronary disease
+T9 ADR 64 76 side-effects
+T10 Drug 168 172 drug

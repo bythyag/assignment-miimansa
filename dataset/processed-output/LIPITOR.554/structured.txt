@@ -1,0 +1,4 @@
+T1 Symptom 8 15 burning
+T2 Symptom 24 30 numbing
+T3 Symptom 33 37 feet
+T4 Symptom 43 50 Burning

@@ -1,0 +1,11 @@
+T1 Symptom 13 30 lightheadedness
+T2 Symptom 39 48 Numbness
+T3 Symptom 50 54 toes
+T4 Symptom 56 69 Severe back pain
+T5 Symptom 71 80 Neck
+T6 Symptom 82 90 shoulder
+T7 Symptom 92 98 elbow
+T8 Symptom 100 104 pain
+T9 Symptom 106 119 Absentminded
+T10 ADR 149 161 side effects
+T11 Drug 186 192 lipitor

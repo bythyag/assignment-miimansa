@@ -1,0 +1,9 @@
+T1 Disease 0 8 migrane 
+T2 Disease 9 17 headaches 
+T3 Symptom 27 32 blurry 
+T4 Symptom 33 38 vision 
+T5 Symptom 53 57 blind 
+T6 Symptom 60 66 severe 
+T7 Symptom 67 72 muscle 
+T8 Symptom 73 77 pain 
+T9 Symptom 80 87 dizziness

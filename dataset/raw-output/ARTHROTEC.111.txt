@@ -1,0 +1,12 @@
+BIO Sequence:
+This O | greatly O | improved O | the O | swelling B-Symptom | when O | I O | had O | a O | surgery O | on O | both O | legs O | . O | There O | weren't O | any O | side B-ADR | effects I-ADR | . O | maybe O | a O | little O | gas B-Symptom | but O | may O | not O | be O | related O | to O | the O | drug B-Drug | . O | I O | would O | recommend O | this O | to O | anyone O | that O | has O | swelling B-Symptom | of O | any O | sort O | to O | help O | heal O | an O | injury B-Disease | . O | The O | doctor O | did O | say O | to O | only O | take O | it O | 5 O | days O | though O | because O | it O | reduces O | mucus B-Symptom | in O | the O | stomach B-Disease | and O | it O | can O | cause O | extreme O | stomach B-ADR | pain I-ADR | if O | taken O | too O | long O | . O
+
+Structured Output:
+T1 Symptom 43 50 swelling
+T2 ADR 69 81 side effects
+T3 Symptom 106 109 gas
+T4 Symptom 135 142 swelling
+T5 Disease 153 159 injury
+T6 Symptom 179 184 mucus
+T7 Disease 195 202 stomach
+T8 ADR 208 213 stomach pain

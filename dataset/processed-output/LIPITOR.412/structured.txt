@@ -1,0 +1,15 @@
+T1 Symptom 12 21 depression
+T2 ADR 87 93 crying
+T3 Symptom 109 116 sleeping
+T4 Symptom 126 134 reliving
+T5 ADR 198 210 side effects
+T6 Drug 174 179 zocor
+T7 Drug 200 207 lipitor
+T8 Drug 229 234 lipitor
+T9 Drug 247 252 zocor
+T10 Disease 280 293 psyhcological tailspin
+T11 Disease 309 318 diagnoses
+T12 Disease 322 329 bipolar disorder
+T13 Drug 350 357 lipitor
+T14 Drug 365 372 lipitor
+T15 Drug 431 438 aspirin

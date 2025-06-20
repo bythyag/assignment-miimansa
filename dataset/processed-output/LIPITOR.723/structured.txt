@@ -1,0 +1,16 @@
+T1 Disease 0 8 depression
+T2 Symptom 10 25 muscle pain
+T3 Symptom 27 35 shoulders
+T4 Symptom 37 41 hips
+T5 Symptom 43 47 feet
+T6 Symptom 56 65 feet
+T7 Symptom 68 79 ice cubes
+T8 Symptom 81 91 flatulence
+T9 Symptom 93 114 achilles tendon tightness
+T10 Symptom 116 123 dizziness
+T11 Symptom 128 132 fall
+T12 Drug 136 139 PCP
+T13 Drug 144 146 mg
+T14 Symptom 148 153 muscle pain
+T15 Disease 158 166 depression
+T16 Symptom 168 175 fatigue

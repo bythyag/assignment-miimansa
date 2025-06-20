@@ -1,0 +1,3 @@
+T1 Symptom 0 5 Acute
+T2 Symptom 6 12 muscle
+T3 Symptom 13 17 pain

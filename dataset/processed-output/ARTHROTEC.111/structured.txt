@@ -1,0 +1,8 @@
+T1 Symptom 43 50 swelling
+T2 ADR 69 81 side effects
+T3 Symptom 106 109 gas
+T4 Symptom 135 142 swelling
+T5 Disease 153 159 injury
+T6 Symptom 179 184 mucus
+T7 Disease 195 202 stomach
+T8 ADR 208 213 stomach pain

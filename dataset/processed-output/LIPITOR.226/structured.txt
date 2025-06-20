@@ -1,0 +1,9 @@
+T1 Symptom 21 25 loss  
+T2 Symptom 36 47 stiffness  
+T3 Symptom 66 69 knee  
+T4 Symptom 76 83 lock-up  
+T5 Symptom 91 107 palpitations  
+T6 Symptom 111 120 depression  
+T7 Symptom 126 130 swollen  
+T8 Symptom 136 142 itching  
+T9 Drug 186 190 drug

@@ -1,0 +1,21 @@
+T1 Symptom 24 34 tightness
+T2 Symptom 40 47 fatigue
+T3 Symptom 56 64 forearms
+T4 Symptom 69 73 legs
+T5 Symptom 76 81 Pain
+T6 Symptom 87 93 side
+T7 Symptom 94 101 muscles
+T8 Disease 109 114 chest
+T9 Symptom 124 139 balanced-ness
+T10 Drug 166 172 Lipitor
+T11 Disease 178 187 viral upper respiratory infection
+T12 Drug 193 199 Lipitor
+T13 Disease 206 215 metabolic changes
+T14 Disease 220 229 high cholesterol
+T15 Drug 249 253 drug
+T16 Drug 264 274 Co-Enzyme Q
+T17 ADR 292 300 side effects
+T18 Drug 305 310 Zinc
+T19 Drug 315 320 Omega
+T20 Drug 321 326 3-6-9
+T21 Disease 329 339 cholesterol

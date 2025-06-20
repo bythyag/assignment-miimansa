@@ -1,0 +1,19 @@
+BIO Sequence:
+Severe B-Symptom | cramps I-Symptom | in O | toes O | . O | Feet B-Symptom | sore I-Symptom | to O | walk O | on O | . O | Tingling B-Symptom | and O | pain B-Symptom | in O | toes O | and O | feet O | . O | Swollen B-Symptom | feet I-Symptom | . O | Insomnia B-Symptom | . O | Constipation B-Symptom | . O | Have O | only O | been O | talking O | the O | drug B-Drug | for O | 2 O | months O | . O | Will O | stop O | taking O | it O | now O | that O | I O | find O | others O | with O | similar O | problems O | . O
+
+Structured Output:
+T1 Symptom 1 6 Severe 
+T2 Symptom 8 13 cramps 
+T3 Symptom 15 18 toes 
+T4 Symptom 21 25 Feet 
+T5 Symptom 30 34 sore 
+T6 Symptom 37 41 walk 
+T7 Symptom 44 47 Tingling 
+T8 Symptom 49 53 pain 
+T9 Symptom 56 60 toes 
+T10 Symptom 63 67 feet 
+T11 Symptom 70 76 Swollen 
+T12 Symptom 78 82 feet 
+T13 Symptom 84 92 Insomnia 
+T14 Symptom 94 104 Constipation 
+T15 Drug 115 119 drug

@@ -1,0 +1,14 @@
+T1 Symptom 8 20 vaginal bleeding
+T2 Disease 74 83 menopausal
+T3 Symptom 90 95 breast pain
+T4 Symptom 117 125 erithema
+T5 Symptom 145 157 dry
+T6 Symptom 177 183 sweating
+T7 Symptom 193 207 pruritus ani
+T8 ADR 88 95 diarrhea
+T9 Symptom 142 150 vaginal bleeding
+T10 Symptom 161 169 pruritus
+T11 Drug 230 238 arthrotec
+T12 Drug 261 267 cream
+T13 Drug 333 341 Arthrotec
+T14 ADR 353 367 side effects

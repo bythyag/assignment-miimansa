@@ -1,0 +1,29 @@
+T1 Symptom 23 29 leaden
+T2 Symptom 42 54 lower back pain
+T3 Symptom 56 61 cramps
+T4 Symptom 64 69 thighs
+T5 Symptom 71 75 achy legs
+T6 Symptom 82 92 lack of energy
+T7 Disease 109 115 sinuses
+T8 Symptom 124 130 severe vertigo
+T9 Disease 140 144 cold
+T10 ADR 165 168 gas
+T11 Symptom 178 196 intestinal distention
+T12 Symptom 198 209 Constipation
+T13 Disease 235 248 high blood pressure
+T14 Disease 250 257 thyroid medication
+T15 ADR 262 274 side effects
+T16 Drug 286 293 Lipitor
+T17 Symptom 298 309 lower back pain
+T18 Symptom 311 317 pain in my thighs
+T19 Symptom 320 330 muscle cramping
+T20 Symptom 332 342 distention
+T21 ADR 359 362 unpleasant
+T22 ADR 378 381 side effect
+T23 Drug 395 400 medication
+T24 Drug 404 409 10mg
+T25 Symptom 472 492 cholesterol readings
+T26 Symptom 526 530 high
+T27 Symptom 534 537 borderline
+T28 Disease 566 573 menopause
+T29 ADR 586 591 side effects

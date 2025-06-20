@@ -1,0 +1,7 @@
+BIO Sequence:
+leg B-Symptom | cramps I-Symptom | at O | 40mg O | . O | went O | away O | at O | 20mg O | . O | ldl B-Symptom | stayed O | lower O | . O | just O | reduce O | your O | dosage O | to O | retain O | benifits O | and O | stop O | side B-ADR | effects I-ADR | . O
+
+Structured Output:
+T1 Symptom 0 9 leg cramps
+T2 Symptom 18 21 ldl
+T3 ADR 52 64 side effects

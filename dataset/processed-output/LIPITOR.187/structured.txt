@@ -1,0 +1,23 @@
+T1 Symptom 3 13 Chest pain
+T2 Symptom 15 32 general weakness
+T3 Symptom 34 43 depression
+T4 Symptom 45 51 anxiety
+T5 Symptom 67 75 insomnia
+T6 Symptom 77 84 fatigue
+T7 Symptom 86 99 memory problems
+T8 Symptom 101 119 inability to concentrate
+T9 Drug 246 252 Lipitor
+T10 Drug 358 364 Lipitor
+T11 Disease 512 514 MS
+T12 Disease 516 521 Lupus
+T13 Disease 523 533 Fibromyalgia
+T14 Drug 542 548 Lipitor
+T15 Drug 570 575 Lipitor
+T16 Drug 580 585 10mg
+T17 Symptom 675 679 mood
+T18 Symptom 703 708 chest pain
+T19 Symptom 716 723 fatigue
+T20 Symptom 725 731 anxiety
+T21 Symptom 733 739 memory
+T22 Symptom 741 749 insomnia
+T23 Drug 763 779 anti-depressent

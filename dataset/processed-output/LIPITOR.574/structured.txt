@@ -1,0 +1,13 @@
+T1 Symptom 63 70 muscle pain
+T2 Symptom 106 112 glutes
+T3 Symptom 114 120 calves
+T4 Symptom 125 131 thighs
+T5 Symptom 138 142 back
+T6 Symptom 147 151 neck
+T7 Symptom 163 170 weakness
+T8 Symptom 186 197 palpitations
+T9 Symptom 215 229 panic attack
+T10 Symptom 236 241 Abdominal rash
+T11 Disease 281 288 shingles
+T12 Disease 297 312 high blood pressure
+T13 Drug 328 335 Lipitor

@@ -1,0 +1,1 @@
+None O | lowered O | my O | cholesterol B-Disease | by O | 47 O | points O | . O | Balanced O | my O | good B-Disease | vs O | bad B-Disease | cholesterol I-Disease | . O

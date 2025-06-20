@@ -1,0 +1,8 @@
+BIO Sequence:
+elevated O | CPK B-Symptom | in O | the O | 250 O | range O | . O | I O | have O | been O | of O | Lipitor B-Drug | of O | 15 O | months O | and O | my O | CPK B-Symptom | is O | still O | elevated O | . O | Three O | doctors O | have O | agreed O | that O | it O | is/was O | caused O | by O | lipitor B-Drug | . O | Does O | anyone O | have O | info O |?????. O 
+
+Structured Output:
+T1 Symptom 10 13 CPK
+T2 Drug 32 38 Lipitor
+T3 Symptom 64 68 CPK
+T4 Drug 82 88 lipitor

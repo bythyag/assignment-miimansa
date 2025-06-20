@@ -1,0 +1,10 @@
+T1 Drug 22 26 Tums
+T2 Drug 32 37 Gas-X
+T3 Disease 79 90 Total Ankle
+T4 Disease 93 98 knees
+T5 Disease 109 130 post traumatic osteoarthritis
+T6 Disease 137 145 injuries
+T7 Drug 175 183 Arthrotec
+T8 Symptom 195 199 pain
+T9 Symptom 214 218 limp
+T10 Drug 317 321 drug

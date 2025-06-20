@@ -1,0 +1,4 @@
+Input: "It should read medication taken for 6 years rather than 6 day's."
+
+
+It O | should O | read O | medication B-Drug | taken O | for O | 6 O | years I-Disease | rather O | than O | 6 O | day's O.

@@ -1,0 +1,7 @@
+T1 Symptom 68 74 fluey
+T2 Vaccine 107 114 flu jab
+T3 Symptom 154 160 symptoms
+T4 Vaccine 166 173 flu jab
+T5 Drug 202 209 Artrotec
+T6 Symptom 218 224 fluey
+T7 Symptom 225 232 feelings

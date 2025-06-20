@@ -1,0 +1,2 @@
+T1 Symptom 117 124 Diarrhea
+T2 Drug 139 145 Lipitor

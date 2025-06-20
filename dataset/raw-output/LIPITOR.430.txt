@@ -1,0 +1,11 @@
+BIO Sequence:
+muscle O | spasms B-Symptom | effects O | like O | very O | bad O | restless B-Symptom | leg I-Symptom | syndrome I-Symptom | . O | after O | 3 O | days O | on O | this O | drug B-Drug | I O | was O | unable O | to O | sleep O | due O | to O | symptoms O | like O | a O | very O | bad O | attack B-Symptom | of O | Restless B-Symptom | Leg I-Symptom | Syndrome I-Symptom | . O | Then O | symptoms O | stated O | during O | day O | too O | , O | my O | legs O | have O | been O | twitching B-Symptom | all O | the O | time O | . O | I O | looked O | up O | possible O | side O | effects O | and O | after O | reading O | this O | page O | realized O | what O | the O | problem O | was O | , O | I O | have O | now O | stopped O | the O | drug B-Drug | and O | am O | waiting O | to O | see O | what O | happens O | . O
+
+Structured Output:
+T1 Symptom 0 12 muscle spasms
+T2 Symptom 40 56 restless leg syndrome
+T3 Drug 70 74 drug
+T4 Symptom 108 113 attack
+T5 Symptom 115 132 Restless Leg Syndrome
+T6 Symptom 162 170 twitching
+T7 Drug 185 189 drug

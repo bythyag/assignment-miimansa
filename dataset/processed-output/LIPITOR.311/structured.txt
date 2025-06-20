@@ -1,0 +1,5 @@
+T1 Disease 9 25 achilles tendonitis
+T2 Symptom 28 36 heel pain
+T3 Symptom 38 58 burning sensations
+T4 Drug 70 76 Lipitor
+T5 Disease 103 119 physical therapy

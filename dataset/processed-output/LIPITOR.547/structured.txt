@@ -1,0 +1,9 @@
+T1 Symptom 42 45 leg
+T2 Symptom 46 53 problems
+T3 Drug 99 105 Lipitor
+T4 Drug 118 125 asprin
+T5 Drug 133 141 Atenolol
+T6 Symptom 161 164 leg
+T7 Symptom 165 170 pains
+T8 Disease 187 211 restless leg syndrome
+T9 Drug 252 258 Lipitor

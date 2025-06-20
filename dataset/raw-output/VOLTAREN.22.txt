@@ -1,0 +1,9 @@
+BIO Sequence:
+Severe B-Symptom | stomach I-Symptom | cramps I-Symptom | and O | diarrhea B-ADR | . O | I O | will O | never O | use O | it O | again O | , O | worst O | drug B-Drug | ever O | . O
+
+Structured Output:
+T1 Symptom 0 6 Severe
+T2 Symptom 7 13 stomach
+T3 Symptom 14 20 cramps
+T4 ADR 22 30 diarrhea
+T5 Drug 42 46 drug

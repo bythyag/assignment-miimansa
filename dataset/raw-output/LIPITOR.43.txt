@@ -1,0 +1,7 @@
+BIO Sequence:
+pain B-Symptom | all O | over O | my O | body O | . O | aches B-Symptom | and O | overall O | misery B-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 4 pain
+T2 Symptom 18 23 aches
+T3 Symptom 32 38 misery

@@ -1,0 +1,14 @@
+BIO Sequence:
+At O | about O | the O | same O | time O | as O | I O | started O | taking O | lipitor B-Drug | I O | began O | experiencing O | chest B-Symptom | muscle I-Symptom | soreness I-Symptom | and O | spazms B-Symptom | which O | have O | persisted O | . O | I O | now O | take O | neurontin B-Drug | , O | an O | anti-seizure B-Drug | drug O | together O | with O | pain B-Drug | killers I-Drug | to O | deal O | with O | the O | muscle O | problems O | . O | I O | have O | had O | three O | blood O | tests O | over O | time O | which O | indicate O | that O | the O | lipitor B-Drug | is O | not O | damaging O | the O | muscles O | . O | I O | remain O | suspicious O | that O | lipitor B-Drug | is O | contributing O | to O | my O | muscle O | problems O | ( O | physiotherpist B-Disease | say O | there O | is O | other O | causes O | ) O | but O | there O | is O | no O | denying O | that O | my O | cholesterol B-Disease | levels O | have O | been O | improved O | ( O | they O | never O | were O | that O | bad O | ) O | . O 
+
+Structured Output:
+T1 Drug 66 72 lipitor
+T2 Symptom 84 108 chest muscle soreness
+T3 Symptom 113 119 spazms
+T4 Drug 129 138 neurontin
+T5 Drug 147 157 anti-seizure
+T6 Drug 170 180 pain killers
+T7 Drug 189 195 lipitor
+T8 Disease 211 218 physiotherpist
+T9 Drug 223 229 lipitor
+T10 Disease 250 259 cholesterol

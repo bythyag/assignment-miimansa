@@ -1,0 +1,14 @@
+T1 Symptom 10 16 walking
+T2 Symptom 24 27 feet
+T3 Symptom 37 43 balance
+T4 Symptom 48 52 Pain
+T5 Symptom 56 63 muscles
+T6 Symptom 66 70 upper arms
+T7 Symptom 82 87 HEAVY
+T8 Symptom 96 101 hands
+T9 Symptom 107 114 tingling
+T10 Symptom 118 122 numb
+T11 Symptom 130 136 trouble
+T12 Symptom 147 153 things
+T13 Drug 54 60 Lipitor
+T14 Drug 122 128 Lipitor

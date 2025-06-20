@@ -1,0 +1,16 @@
+T1 Drug 20 27 Crestor
+T2 ADR 38 49 muscle pain
+T3 Symptom 55 60 lack
+T4 Drug 83 90 Lipitor
+T5 Symptom 105 109 Pain
+T6 Symptom 113 117 neck
+T7 Symptom 122 126 back
+T8 ADR 135 142 tingling
+T9 ADR 148 155 burning
+T10 Symptom 159 164 hands
+T11 Symptom 169 173 feet
+T12 ADR 178 183 itchy
+T13 ADR 185 191 crawly feeling
+T14 Disease 235 240 nerve damage
+T15 Disease 244 249 liver problems
+T16 Drug 268 275 Lipitor

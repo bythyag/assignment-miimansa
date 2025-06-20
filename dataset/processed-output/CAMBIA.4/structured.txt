@@ -1,0 +1,4 @@
+T1 Drug 25 33 aspartame
+T2 Symptom 49 57 migraines
+T3 Drug 67 75 aspartame
+T4 Symptom 81 89 migraines

@@ -1,0 +1,13 @@
+T1 Disease 0 12 Acid Reflux
+T2 Symptom 14 25 stomach pain
+T3 Symptom 27 37 muscle pain
+T4 Symptom 39 45 trouble with liver count
+T5 Drug 75 84 cholesterol
+T6 Symptom 123 135 indigestion
+T7 Symptom 145 156 stomach pain
+T8 Symptom 158 170 muscle aches
+T9 Disease 179 184 liver problems
+T10 Symptom 200 206 yellow skin
+T11 Symptom 208 212 eyes
+T12 Symptom 214 227 urine dark brown
+T13 Drug 233 239 Statin drugs

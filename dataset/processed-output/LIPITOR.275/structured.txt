@@ -1,0 +1,7 @@
+T1 Symptom 23 32 gas/wind
+T2 Symptom 70 82 tiredness
+T3 Drug 159 166 Lipitor
+T4 Drug 171 177 Zocor
+T5 Disease 194 203 cholesterol
+T6 Unit 223 236 mmol/litre
+T7 Unit 255 270 mg/decilitre

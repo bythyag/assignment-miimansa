@@ -1,0 +1,4 @@
+T1 Drug 0 6 Lipitor
+T2 Disease 18 21 LDL
+T3 Disease 40 43 HDL
+T4 Disease 56 66 cholesterol

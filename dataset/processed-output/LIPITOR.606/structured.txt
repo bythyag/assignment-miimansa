@@ -1,0 +1,7 @@
+T1 Drug 26 32 Lipitor
+T2 Symptom 53 56 leg pain
+T3 ADR 58 66 soreness
+T4 ADR 71 79 tiredness
+T5 Symptom 101 104 pain
+T6 Drug 166 172 lipitor
+T7 Drug 198 204 Lipitor

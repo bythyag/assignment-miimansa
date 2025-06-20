@@ -1,0 +1,12 @@
+BIO Sequence:
+sudden O | onset O | severe B-Symptom | depression B-Disease | . O | It O | worked O | very O | well O | the O | first O | time O | it O | was O | prescribed O | and O | I O | lost O | 20 O | pounds O | using O | it O | with O | exercise O | and O | diet O | . O | When O | this O | medication B-Drug | was O | combined O | with O | a O | SSRI B-Drug | it O | failed O | to O | reduce O | my O | HDL B-ADR | cholesterol O | in O | a O | meaningful O | amount O | and O | it O | caused O | intense B-ADR | anxiety B-ADR | attacks O | and O | short O | periods O | of O | intense B-Symptom | depression I-Disease | . O 
+
+Structured Output:
+T1 Symptom 28 34 severe
+T2 Disease 35 44 depression
+T3 Drug 96 105 medication
+T4 Drug 111 115 SSRI
+T5 ADR 133 136 HDL
+T6 ADR 145 151 intense
+T7 ADR 153 158 anxiety
+T8 Symptom 165 173 depression

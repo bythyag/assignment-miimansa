@@ -1,0 +1,6 @@
+T1 Symptom 11 17 stomach cramps
+T2 Symptom 45 52 vomiting
+T3 Disease 74 90 Emergency Room
+T4 Disease 94 102 appendix
+T5 Symptom 113 122 inflamed
+T6 Drug 135 142 medicine

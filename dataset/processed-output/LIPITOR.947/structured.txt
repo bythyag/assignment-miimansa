@@ -1,0 +1,22 @@
+T1 Symptom 0 3 Toe
+T2 Symptom 12 20 numbness
+T3 Symptom 27 30 toes
+T4 Symptom 39 42 fog
+T5 Symptom 50 56 memory
+T6 Symptom 64 68 impaired
+T7 Symptom 70 74 hair
+T8 Symptom 76 79 loss
+T9 Symptom 92 101 low grade
+T10 Symptom 102 110 headache
+T11 Symptom 118 123 vision
+T12 Symptom 125 132 impaired
+T13 Symptom 134 138 calf
+T14 Symptom 143 147 pain
+T15 Drug 150 156 Lipitor
+T16 ADR 166 182 side effects
+T17 ADR 186 195 poisonous
+T18 ADR 204 213 muscle
+T19 ADR 220 232 damage
+T20 ADR 248 262 permanent side effects
+T21 Disease 273 286 long term
+T22 Disease 301 308 pharmaceutical entity

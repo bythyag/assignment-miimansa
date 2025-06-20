@@ -1,0 +1,17 @@
+BIO Sequence:
+Severe B-Symptom | plantar O | faciitis O | ; O | debillitating B-Symptom | leg O | pain O | ; O | severe B-Symptom | leg O | muscle O | weakness O | ; O | hand B-Symptom | weakness O | ( O | constantly O | dropping O | things O | ) O | ; O | palpitations B-Symptom | ; O | tachycardia B-Symptom | ; O | irrecular B-Symptom | heartbeat O | ; O | throat B-Symptom | tightness O | ; O | difficulty/shallow B-Symptom | breathing O | ; O | fatigue B-Symptom | . O | Began O | on O | 20 O | mg O | , O | ended O | on O | 40 O | mg O | . O | Taking O | Lipitor B-Drug | might O | very O | well O | be O | the O | biggest O | mistake O | of O | my O | life O | . O
+
+Structured Output:
+T1 Symptom 0 7 Severe
+T2 Symptom 8 21 plantar faciitis
+T3 Symptom 38 60 debillitating leg pain
+T4 Symptom 62 89 severe leg muscle weakness
+T5 Symptom 91 105 hand weakness
+T6 Symptom 107 134 constantly dropping things
+T7 Symptom 136 148 palpitations
+T8 Symptom 150 162 tachycardia
+T9 Symptom 164 178 irrecular heartbeat
+T10 Symptom 180 195 throat tightness
+T11 Symptom 197 218 difficulty/shallow breathing
+T12 Symptom 220 227 fatigue
+T13 Drug 64 70 Lipitor

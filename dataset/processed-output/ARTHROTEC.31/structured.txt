@@ -1,0 +1,14 @@
+T1 Symptom 0 8 headaches
+T2 Symptom 10 27 extreme tiredness
+T3 Symptom 31 49 worse heartburn
+T4 Symptom 54 68 hunger pangs
+T5 Symptom 70 79 dry mouth
+T6 Symptom 81 107 severe lower abdominal pain
+T7 Symptom 109 120 cramping
+T8 Symptom 122 145 very irritable
+T9 ADR 159 164 side effects
+T10 Symptom 167 173 periods
+T11 Symptom 182 185 PMS
+T12 Drug 188 192 drug
+T13 Drug 196 207 misoprostol
+T14 Disease 209 213 GERD

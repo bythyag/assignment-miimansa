@@ -1,0 +1,5 @@
+T1 ADR 27 32 dizzy
+T2 ADR 34 40 sleepy
+T3 ADR 44 48 high
+T4 Symptom 72 77 sleep
+T5 Symptom 86 90 pain

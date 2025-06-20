@@ -1,0 +1,14 @@
+T1 Disease 48 67 Possible Early Parkinson's
+T2 Drug 75 81 Lipitor
+T3 Symptom 102 113 joint pains
+T4 ADR 116 130 light headedness
+T5 Symptom 137 144 Tremors
+T6 Symptom 153 157 Right hand
+T7 Symptom 174 185 hand writting
+T8 Symptom 211 215 LDL
+T9 Symptom 220 234 Tri-Glycerides
+T10 ADR 249 257 side effects
+T11 Drug 272 277 CQ-10
+T12 Drug 284 292 Fish Oil
+T13 Disease 321 337 Parkinson's symptoms
+T14 Drug 339 345 Lipitor

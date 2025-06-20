@@ -1,0 +1,1 @@
+severe O | nausea B-Symptom | dizziness B-Symptom | terrible O | stomach B-Symptom | pain I-Symptom

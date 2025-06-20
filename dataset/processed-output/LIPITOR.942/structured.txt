@@ -1,0 +1,2 @@
+T1 Drug 29 31 80
+T2 Disease 81 91 cholesterol

@@ -1,0 +1,24 @@
+BIO Sequence:
+headache B-Symptom | , O | gas B-Symptom | , O | bloating B-Symptom | , O | mood B-Symptom | swings I-Symptom | , O | ill B-Symptom | feeling I-Symptom | , O | paranoid B-Symptom | , O | anxious B-Symptom | . O | My O | Dr B-Disease | said O | my O | cholesterol B-Disease | was O | very O | high O | . O | SO O | she O | put O | me O | on O | Lipitor B-Drug | . O | I O | was O | so O | sick B-Symptom | over O | Christmas O | Holiday O | and O | did O | not O | know O | why O | . O | Could O | not O | eat B-Symptom | , O | sleep B-Symptom | . O | felt O | so O | gassy B-ADR | and O | my O | belly B-Symptom | blew O | up O | like O | a O | balloon B-Symptom | . O | When O | I O | stopped O | taking O | it O | , O | I O | felt O | back O | to O | normal B-Symptom | . O | Ill O | do O | it O | naturally O | with O | eating O | healthily O | with O | salmon B-Food | and O | olive B-Food | oil B-Food | and O | veggies B-Food | . O |
+
+Structured Output:
+T1 Symptom 0 8 headache
+T2 Symptom 10 13 gas
+T3 Symptom 15 22 bloating
+T4 Symptom 24 34 mood swings
+T5 Symptom 36 45 ill feeling
+T6 Symptom 47 55 paranoid
+T7 Symptom 57 63 anxious
+T8 Disease 45 55 cholesterol
+T9 Drug 72 78 Lipitor
+T10 Symptom 99 103 sick
+T11 Symptom 116 120 eat
+T12 Symptom 122 126 sleep
+T13 ADR 137 142 gassy
+T14 Symptom 146 151 belly
+T15 Symptom 163 169 balloon
+T16 Symptom 178 183 normal
+T17 Food 207 213 salmon
+T18 Food 221 226 olive
+T19 Food 228 231 oil
+T20 Food 236 242 veggies

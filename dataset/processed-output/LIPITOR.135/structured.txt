@@ -1,0 +1,20 @@
+T1 Symptom 0 8 headache
+T2 Symptom 10 13 gas
+T3 Symptom 15 22 bloating
+T4 Symptom 24 34 mood swings
+T5 Symptom 36 45 ill feeling
+T6 Symptom 47 55 paranoid
+T7 Symptom 57 63 anxious
+T8 Disease 45 55 cholesterol
+T9 Drug 72 78 Lipitor
+T10 Symptom 99 103 sick
+T11 Symptom 116 120 eat
+T12 Symptom 122 126 sleep
+T13 ADR 137 142 gassy
+T14 Symptom 146 151 belly
+T15 Symptom 163 169 balloon
+T16 Symptom 178 183 normal
+T17 Food 207 213 salmon
+T18 Food 221 226 olive
+T19 Food 228 231 oil
+T20 Food 236 242 veggies

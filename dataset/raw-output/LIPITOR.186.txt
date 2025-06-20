@@ -1,0 +1,33 @@
+BIO Sequence:
+10mg O | ; O | after O | 1.5 O | years O | waking O | up O | fatigued B-Symptom | even O | after O | long O | sleep O | ; O | unexplained B-Symptom | pain B-Symptom | in O | the O | right O | foot I-Symptom | ; O | and O | feel O | lethargic B-Symptom | during O | the O | day O | . O | Blurred B-Symptom | vision I-Symptom | ( O | thought O | eyes O | tested O | fine O | during O | last O | visit O | to O | eye O | doc I-Disease | ) O | and O | joint B-Symptom | pain I-Symptom | . O | Bypass B-Disease | @40yr O | + O | diabetic B-Disease | . O | Was O | put O | on O | lipitor B-Drug | immediately O | before O | the O | surgery O | 1.5 O | years O | ago O | . O | Had O | initial O | funny B-Symptom | feeling I-Symptom | in O | the O | head I-Symptom | after O | starting O | the O | medicine O | , O | but O | ( O | as O | it O | seems O | ) O | began O | to O | tolerate O | . O | Have O | well O | controlled O | diabetes B-Disease | through O | diet+exercise O | ( O | <5.5 O | HbA1c O | ) O | ! O | Lipitor B-Drug | related O | symptoms O | ( O | lack B-ADR | of O | enthusiasm B-Symptom | , O | short B-Symptom | term I-Symptom | memory I-Symptom | loss I-Symptom | , O | muscle B-ADR | pain I-ADR | , O | bone/joint B-ADR | pain I-ADR | ) O | are O | showing O | up O | ( O | Liver B-Disease | Enzymes I-Disease | were O | OK O | in O | the O | last O | blood O | test O | , O | however O | ) O | . O | Metabolic B-Disease | syndrome I-Disease | is O | genetic O | , O | since O | my O | 8 O | and O | 4 O | year O | children O | tested O | with O | High B-Disease | LDL I-Disease | . O | Simply O | don O | ' O | t O | know O | what O | to O | do O | to O | bring O | LDL I-Disease | down O | . O | At O | this O | stage O | it O | is O | not O | clear O | what O | is O | better O | of O | the O | two O | evils O | : O | Lipitor B-Drug | or O | High B-Disease | LDL I-Disease | ? O | And O | how O | to O | lower O | LDL I-Disease | without O | the O | side O | effects O | of O | statins O | ? O | Vegetarian B-Diet | diet I-Diet | ( O | approx O | . O | 5% O | saturated B-Diet | fat I-Diet | ) O | and O | Exercise B-Diet | is O | already O | close O | to O | perfection O | based O | on O | the O | available O | information O | , O | but O | still O | left O | elevated B-Disease | LDL I-Disease | / O | HDL B-Disease | ratio I-Disease | to O | 5+ O | if O | not O | on O | Lipitor B-Drug | . O 
+
+Structured Output:
+T1 Symptom 62 70 fatigued
+T2 Symptom 91 101 unexplained pain
+T3 Symptom 104 107 foot
+T4 Symptom 124 132 lethargic
+T5 Symptom 137 144 day
+T6 Symptom 156 168 Blurred vision
+T7 Disease 196 203 doc
+T8 Symptom 210 220 joint pain
+T9 Disease 231 237 Bypass
+T10 Disease 241 249 diabetic
+T11 Drug 273 280 lipitor
+T12 Symptom 309 323 funny feeling
+T13 Symptom 361 365 head
+T14 Disease 391 399 diabetes
+T15 ADR 454 467 muscle pain
+T16 ADR 475 484 bone/joint pain
+T17 Disease 516 523 Liver Enzymes
+T18 Disease 529 537 Metabolic syndrome
+T19 Disease 573 576 High LDL
+T20 Disease 580 583 LDL
+T21 Drug 596 603 Lipitor
+T22 Disease 605 612 High LDL
+T23 Disease 617 620 LDL
+T24 Diet 624 630 Vegetarian diet
+T25 Diet 642 650 saturated fat
+T26 Diet 653 660 Exercise
+T27 Disease 688 692 elevated LDL
+T28 Disease 694 698 HDL
+T29 Drug 720 727 Lipitor

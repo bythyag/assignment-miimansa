@@ -1,0 +1,10 @@
+BIO Sequence:
+started O | having O | muscle B-Symptom | pain I-Symptom | in O | upper O | right O | side O | then O | shoulders I-Symptom | neck I-Symptom | etc O | . O | unable O | to O | walk B-Symptom | properly O | after O | sitting O | for O | a O | while O | but O | the O | worst O | is O | being O | unable O | to O | sleep B-Symptom | . O | These O | symptoms B-Symptom | have O | developed O | over O | the O | years O | . O | Have O | only O | just O | come O | off O | this O | drug B-Drug | and O | hope O | the O | symptoms I-Symptom | will O | improve O | . O
+
+Structured Output:
+T1 Symptom 18 33 muscle pain
+T2 Symptom 45 68 shoulders neck
+T3 Symptom 70 75 walk
+T4 Symptom 94 99 sleep
+T5 Symptom 106 113 symptoms
+T6 Drug 132 136 drug

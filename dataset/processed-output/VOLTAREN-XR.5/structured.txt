@@ -1,0 +1,10 @@
+T1 Symptom 8 13 tired
+T2 Disease 21 32 blood clots
+T3 Drug 67 74 Voltaren
+T4 Disease 86 91 stroke
+T5 Disease 113 124 blood clots
+T6 Symptom 139 146 healthy
+T7 Drug 166 173 voltaren
+T8 Symptom 171 176 sleep
+T9 Symptom 184 193 back pain
+T10 Drug 198 206 tylonol

@@ -1,0 +1,7 @@
+T1 Symptom 15 19 pain
+T2 Symptom 30 36 vision problems
+T3 Disease 38 51 fibromyalgia
+T4 Symptom 52 60 numbness
+T5 Disease 62 67 lupus
+T6 Drug 162 168 Pfizer
+T7 Drug 229 235 Lipitor

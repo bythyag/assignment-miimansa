@@ -1,0 +1,1 @@
+leg B-Symptom | pain I-Symptom | . O | quit O | taking O | condition B-Disease | improved O | . O

@@ -1,0 +1,1 @@
+weakness B-Symptom | , O | muscle B-Symptom | pain I-Symptom | , O | knee B-Symptom | pain I-Symptom | , O | memory B-Symptom | loss I-Symptom | , O | etc O

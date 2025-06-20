@@ -1,0 +1,17 @@
+BIO Sequence:
+My O | heart B-Symptom | beats O | went O | to O | 30 O | or O | a O | little O | less O | stomack O | heart I-Symptom | lungs B-Symptom | heart I-Symptom | and O | hard O | to O | breath B-Symptom | I O | hert O | from O | head B-Symptom | to O | my O | toe I-Symptom | . O | I O | thought O | I O | was O | going O | to O | die B-Symptom | for O | 2 O | days O | and O | nights O | . O | After O | I O | got O | out O | of O | hospital O | I O | have O | trouble O | doing O | anything O | like O | I O | was O | doing O | . O | I O | think O | lipitor B-Drug | and O | maybe O | even O | any O | statin B-Drug | drugs I-Drug | should O | be O | takenoff O | the O | market O | . O | I'll O | never O | take O | anything O | with O | statin I-Drug | in O | it O | agin O | . O
+
+Structured Output:
+T1 Symptom 8 13 heart
+T2 Symptom 20 24 beats
+T3 Symptom 62 66 heart
+T4 Symptom 70 75 lungs
+T5 Symptom 80 85 heart
+T6 Symptom 97 101 breath
+T7 Symptom 113 117 hert
+T8 Symptom 120 124 head
+T9 Symptom 130 133 toe
+T10 Symptom 158 161 die
+T11 Drug 168 174 lipitor
+T12 Drug 180 185 statin
+T13 Drug 191 196 statin

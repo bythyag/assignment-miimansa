@@ -1,0 +1,18 @@
+BIO Sequence:
+No O | side O | effect O | for O | first O | 4 O | weeks O | , O | cholesterol B-Symptom | down O | to O | 150 O | from O | 210 O | , O | then O | unusual B-Symptom | pain B-Symptom | and O | weakness B-Symptom | began O | in O | both O | legs B-Symptom | , O | worse O | on O | left O | . O | Worse O | with O | exercise O | . O | Legs B-Symptom | felt O | cramped B-Symptom | and O | sore B-Symptom | and O | weak B-Symptom | , O | especially O | in O | calves B-Symptom | and O | lower O | rear O | thigh O | muscles O | . O | I O | had O | been O | a O | regular O | and O | energetic O | walker O | , O | but O | I O | couldn't O | keep O | it O | up O | . O | My O | blood O | work O | showed O | mildly O | higher O | levels O | of O | whatever O | is O | watched O | for O | with O | this O | drug B-Drug | . O | The O | doctor O | left O | it O | up O | to O | me O | whether O | to O | continue O | , O | and O | I O | stopped O | taking O | it O | about O | 3 O | weeks O | ago O | . O | My O | leg B-Symptom | pain B-Symptom | seemed O | to O | improve O | after O | about O | a O | week O | but O | did O | not O | go O | away O | , O | and O | has O | now O | worsened O | again O | . O | I O | this O | drug B-Drug | should O | be O | used O | with O | far O | more O | caution O | ! O 
+
+Structured Output:
+T1 Symptom 58 67 cholesterol
+T2 Symptom 84 90 unusual
+T3 Symptom 91 95 pain
+T4 Symptom 97 104 weakness
+T5 Symptom 113 117 legs
+T6 Symptom 133 139 Legs
+T7 Symptom 146 152 cramped
+T8 Symptom 157 162 sore
+T9 Symptom 167 171 weak
+T10 Symptom 180 186 calves
+T11 Drug 226 230 drug
+T12 Symptom 257 260 leg
+T13 Symptom 261 265 pain
+T14 Drug 295 299 drug

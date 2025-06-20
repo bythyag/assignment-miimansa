@@ -1,0 +1,5 @@
+T1 Symptom 16 30 mood swings
+T2 Symptom 32 36 rage
+T3 Symptom 44 49 Joint pain
+T4 Symptom 58 63 tired
+T5 Symptom 90 94 mood

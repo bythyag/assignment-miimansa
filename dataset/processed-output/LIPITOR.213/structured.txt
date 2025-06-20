@@ -1,0 +1,8 @@
+T1 Symptom 10 14 hair
+T2 Symptom 23 27 thin
+T3 Disease 32 41 cholesterol lowering
+T4 Drug 43 50 Lipitor
+T5 ADR 76 85 side effect
+T6 Disease 97 106 cholesterol lowering
+T7 Symptom 112 116 hair
+T8 Symptom 117 121 loss

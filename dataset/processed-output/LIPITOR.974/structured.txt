@@ -1,0 +1,4 @@
+T1 Symptom 0 8 leg pain
+T2 Symptom 10 19 loss of memory
+T3 Symptom 21 32 loss of libido
+T4 Symptom 34 42 lack of sleep

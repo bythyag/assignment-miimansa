@@ -1,0 +1,15 @@
+T1 Drug 100 107 Voltaren  
+T2 Symptom 29 33 pain  
+T3 Symptom 48 58 pain relief  
+T4 ADR 80 92 side effects  
+T5 ADR 106 118 side effects  
+T6 Disease 133 148 High blood pressure  
+T7 Disease 151 154 IBS  
+T8 Disease 172 181 stomache ulcers  
+T9 Disease 187 193 reflux  
+T10 Disease 196 204 heart burn  
+T11 Disease 207 217 asthmatic  
+T12 Symptom 29 33 pain  
+T13 ADR 345 357 side effects  
+T14 Drug 374 379 drugs  
+T15 Symptom 412 416 pain relief

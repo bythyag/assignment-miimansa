@@ -1,0 +1,21 @@
+BIO Sequence:
+Pain B-Symptom | in O | shoulder B-Symptom | and O | arms B-Symptom | and O | hands B-Symptom | . O | Hands O | are O | often O | numb B-ADR | and O | very O | weak B-Symptom | especially O | in O | am O | . O | I O | thought O | it O | was O | carpal B-Disease | tunnel I-Disease | syndrome I-Disease | . O | Having O | difficulty O | opening O | jars O | . O | I O | ran O | marathons O | in O | 01 O | , O | 02 O | and O | 03 O | . O | and O | I O | have O | been O | a O | regular O | at O | the O | gym O | until O | about O | a O | year O | ago O | when O | I O | started O | lipitor B-Drug | . O | Recently O | , O | I O | noticed O | that O | I O | could O | not O | do O | a O | single O | push O | up O | without O | severe B-ADR | pain I-ADR | . O | Playing O | basketball O | has O | become O | impossible O | . O | Even O | a O | simple O | pass O | causes O | significant O | pain B-ADR | . O | The O | pain O | in O | my O | arms O | interrupts O | my O | sleep B-Symptom | . O | I O | thought O | that O | I O | was O | just O | aging B-Symptom | and O | / O | or O | out O | of O | shape B-Symptom | , O | but O | it O | might O | be O | the O | lipitor B-Drug | . O | I O | am O | going O | off O | the O | medication O | and O | trying O | CoQ B-Drug | supplements I-Drug | and O | vitamin B-Drug | C I-Drug | to O | see O | if O | this O | helps O | . O
+
+Structured Output:
+T1 Symptom 0 4 Pain
+T2 Symptom 11 19 shoulder
+T3 Symptom 24 29 arms
+T4 Symptom 34 39 hands
+T5 ADR 53 57 numb
+T6 Symptom 66 70 weak
+T7 Disease 82 102 carpal tunnel syndrome
+T8 Drug 147 154 lipitor
+T9 ADR 169 173 severe pain
+T10 ADR 188 192 pain
+T11 Symptom 198 203 sleep
+T12 Symptom 212 217 aging
+T13 Symptom 223 232 out of shape
+T14 Drug 248 253 lipitor
+T15 Drug 262 265 CoQ
+T16 Drug 276 287 supplements
+T17 Drug 291 298 vitamin C

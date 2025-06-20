@@ -1,0 +1,7 @@
+BIO Sequence:
+Taking O | 80mg O | . O | Really O | lowered O | my O | LDL B-Disease | to O | 70 O | . O | Don't O | feel O | better O | or O | worse O | on O | it O | but O | the O | angiogram B-Disease | was O | scary O | so O | I'll O | keep O | taking O | it O | until O | some O | real O | Drano O | comes O | along O | . O | Expensive O | out O | of O | pocket O | , O | though O | . O | And O | this O | is O | Canada B-Disease | . O 
+
+Structured Output:
+T1 Disease 22 25 LDL
+T2 Disease 72 81 angiogram
+T3 Disease 111 117 Canada

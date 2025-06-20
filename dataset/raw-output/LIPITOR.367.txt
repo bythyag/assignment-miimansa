@@ -1,0 +1,8 @@
+BIO Sequence:
+episode O | of O | intense O | dizziness B-Symptom | lasting O | nearly O | an O | hour O | , O | then O | an O | episode O | of O | intense O | chills B-Symptom | and O | shivers B-Symptom | lasting O | nearly O | an O | hour O | , O | and O | continued O | lassitude B-Symptom | for O | another O | day O | . O | cure O | is O | worse O | than O | the O | problem O | . O 
+
+Structured Output:
+T1 Symptom 32 39 dizziness  
+T2 Symptom 69 75 chills  
+T3 Symptom 81 87 shivers  
+T4 Symptom 95 103 lassitude  

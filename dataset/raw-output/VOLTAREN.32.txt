@@ -1,0 +1,10 @@
+BIO Sequence:
+unbearable O | stomach B-Symptom | cramps I-Symptom | on O | the O | fifth O | day O | -- O | vomiting B-Symptom | for O | about O | 7 O | hours O | straight O | until O | I O | went O | to O | the O | Emergency B-Disease | Room I-Disease | . O | They O | ended O | up O | cutting O | out O | my O | appendix B-Disease | -- O | I O | think O | it O | was O | inflamed B-Symptom | due O | to O | the O | medicine B-Drug | . O
+
+Structured Output:
+T1 Symptom 11 17 stomach cramps
+T2 Symptom 45 52 vomiting
+T3 Disease 74 90 Emergency Room
+T4 Disease 94 102 appendix
+T5 Symptom 113 122 inflamed
+T6 Drug 135 142 medicine

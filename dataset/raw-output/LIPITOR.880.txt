@@ -1,0 +1,10 @@
+BIO Sequence:
+None O | I O | have O | taken O | 80 B-Drug | mg O | per O | day O | for O | three O | years O | , O | and O | have O | had O | no O | side B-ADR | effects I-ADR | and O | my O | LDL B-Disease | typically O | measures O | between O | 40 B-Symptom | and O | 45 I-Symptom | . O | This O | drug O | -- O | when O | combined O | with O | lifestyle B-Symptom | changes I-Symptom | -- O | certainly O | works O | well O | . O 
+
+Structured Output:
+T1 Drug 23 25 80
+T2 ADR 60 72 side effects
+T3 Disease 76 79 LDL
+T4 Symptom 92 94 40
+T5 Symptom 97 100 45
+T6 Symptom 106 115 lifestyle changes

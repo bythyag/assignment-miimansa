@@ -1,0 +1,12 @@
+BIO Sequence:
+I O | am O | menstruating O | with O | heavy B-Symptom | bleeding B-Symptom | every O | 11 O | days O | . O | Honestly O | , O | I O | can't O | figure O | out O | how O | I O | can O | lose O | this O | much O | blood O | and O | still O | function O | . O | I O | have O | horrific B-Symptom | cramps B-Symptom | to O | begin O | with O | , O | so O | I O | can't O | say O | whether O | arthrotec B-Drug | increased O | that O | . O | I O | have O | endometriosis B-Disease | , O | so O | I O | 'm O | not O | sure O | if O | that O | is O | something O | that O | doesn't O | agree O | with O | arthrotec B-Drug | . O | It O | did O | help O | with O | the O | pain O | I O | experience O | with O | the O | pinched B-Disease | nerve I-Disease | , O | but O | it O | is O | not O | worth O | it O | to O | me O | to O | continue O | . O |
+
+Structured Output:
+T1 Symptom 24 29 heavy  
+T2 Symptom 30 37 bleeding  
+T3 Symptom 93 100 horrific  
+T4 Symptom 101 107 cramps  
+T5 Drug 120 128 arthrotec  
+T6 Disease 134 147 endometriosis  
+T7 Drug 164 172 arthrotec  
+T8 Disease 185 192 pinched nerve  

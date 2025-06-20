@@ -1,0 +1,31 @@
+BIO Sequence:
+Dizziness B-Symptom | , O | sickness B-Symptom | , O | stomach B-Symptom | gas I-Symptom | , O | feel O | like O | a O | bubble O | of O | air O | is O | stuck O | in O | my O | chest I-Symptom | . O | Hadn't O | realised O | it O | was O | related O | until O | I O | read O | this O | but O | I O | get O | the O | hunger B-Symptom | pangs I-Symptom | too O | , O | I'm O | assuming O | this O | is O | the O | acids B-Disease | and O | gas I-Disease | in O | your O | stomach I-Disease | constantly O | churning O | over O | that O | make O | you O | feel O | like O | you're O | hungry O | . O | I've O | taken O | co-codamol B-Drug | for O | my O | fibromyalgia B-Disease | for O | many O | years O | which O | I O | have O | very O | few O | side B-ADR | effects I-ADR | with O | . O | I've O | recently O | had O | this O | severe B-Symptom | hip B-Symptom | pain I-Symptom | on O | both O | sides O | which O | the O | co O-Drug | codamol I-Drug | wasn't O | touching O | so O | I O | went O | back O | to O | the O | Dr O | He O | recommended O | this O | anti-inflamatory B-Drug | and O | as O | he O | said O | next O | stop O | would O | be O | cortozone B-Drug | injections I-Drug | I O | was O | willing O | to O | give O | it O | a O | try O | . O | I've O | tried O | it O | for O | a O | week O | but O | it O | makes O | me O | feel O | dreadful O | . O | Every O | time O | I O | stand O | up O | I O | have O | to O | hold O | onto O | something O | for O | fear O | of O | falling O | over O | , O | I O | feel O | sick B-ADR | and O | light-headed B-Symptom | and O | I O | get O | those O | waves O | of O | nausea B-ADR | where O | you O | suddenly O | feel O | all O | clammy B-Symptom | . O | It's O | very O | much O | like O | having O | a O | permanent O | hangover B-Symptom | , O | even O | down O | to O | the O | hunger I-Symptom | which O | until O | I O | read O | this O | site O | I O | hadn't O | connected O | to O | the O | rest O | of O | it O | . O | I've O | felt O | no O | discernible O | difference O | in O | the O | pain O | in O | my O | hips I-Disease | and O | the O | side B-ADR | effects I-ADR | simply O | aren't O | worth O | it O | so O | thats O | it O | for O | me O | and O | this O | drug B-Drug | . O 
+
+Structured Output:
+T1 Symptom 0 8 Dizziness
+T2 Symptom 10 17 sickness
+T3 Symptom 19 32 stomach gas
+T4 Symptom 52 62 chest
+T5 Symptom 75 81 hunger pangs
+T6 Disease 87 92 acids
+T7 Disease 94 97 gas
+T8 Disease 99 106 stomach
+T9 Drug 118 128 co-codamol
+T10 Disease 132 143 fibromyalgia
+T11 ADR 144 157 side effects
+T12 Symptom 164 169 severe
+T13 Symptom 174 177 hip pain
+T14 Drug 183 194 co codamol
+T15 Drug 202 215 anti-inflamatory
+T16 Drug 222 231 cortozone
+T17 Drug 247 258 injections
+T18 ADR 277 283 dreadful
+T19 ADR 293 298 sick
+T20 Symptom 301 313 light-headed
+T21 ADR 317 323 waves of nausea
+T22 Symptom 346 353 clammy
+T23 Symptom 372 382 permanent hangover
+T24 Symptom 392 397 hunger
+T25 Disease 409 414 hips
+T26 ADR 431 446 side effects
+T27 Drug 459 463 drug

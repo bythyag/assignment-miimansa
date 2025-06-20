@@ -1,0 +1,6 @@
+T1 Disease 43 52 high cholesterol
+T2 Drug 81 88 Lipitor
+T3 ADR 110 115 awake
+T4 ADR 130 135 pains
+T5 ADR 149 157 weakness
+T6 Symptom 197 206 complaints

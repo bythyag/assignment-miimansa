@@ -1,0 +1,17 @@
+T1 Symptom 0 4 Pain
+T2 Symptom 11 19 shoulder
+T3 Symptom 24 29 arms
+T4 Symptom 34 39 hands
+T5 ADR 53 57 numb
+T6 Symptom 66 70 weak
+T7 Disease 82 102 carpal tunnel syndrome
+T8 Drug 147 154 lipitor
+T9 ADR 169 173 severe pain
+T10 ADR 188 192 pain
+T11 Symptom 198 203 sleep
+T12 Symptom 212 217 aging
+T13 Symptom 223 232 out of shape
+T14 Drug 248 253 lipitor
+T15 Drug 262 265 CoQ
+T16 Drug 276 287 supplements
+T17 Drug 291 298 vitamin C

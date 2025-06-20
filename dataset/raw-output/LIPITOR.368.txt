@@ -1,0 +1,12 @@
+BIO Sequence:
+After O | four O | months O | on O | 20 B-Drug | mg O | suffered O | calf B-Symptom | pains I-Symptom | in O | middle O | of O | night O | . O | After O | 6 O | months O | cut O | dose O | in O | half O | , O | still O | calf B-Symptom | pains I-Symptom | once O | in O | a O | while O | . O | Now O | after O | 2+ O | years O | noticed O | my O | left O | hip B-Symptom | was O | bothering O | me O | so O | that O | sometimes O | I O | had O | to O | walk O | a O | little O | funny O | . O | Thought O | I O | might O | need O | hip B-Disease | replacement I-Disease | ( O | age O | 71 O | ) O | , O | but O | it O | dawned O | on O | me O | that O | maybe O | the O | Lipitor B-Drug | might O | be O | the O | cause O | of O | that O | too O | . O | I O | cut O | dose O | again O | in O | half O | and O | am O | taking O | only O | 5 B-Drug | mg O | . O | Now O | after O | one O | week O | I O | notice O | that O | hip B-Symptom | does O | not O | hurt O | any O | more O | . O
+
+Structured Output:
+T1 Drug 31 36 20
+T2 Symptom 55 68 calf pains
+T3 Symptom 86 98 calf pains
+T4 Symptom 115 118 hip
+T5 Disease 123 138 hip replacement
+T6 Drug 161 168 Lipitor
+T7 Drug 172 177 5
+T8 Symptom 194 197 hip

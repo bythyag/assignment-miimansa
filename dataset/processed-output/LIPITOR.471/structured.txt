@@ -1,0 +1,12 @@
+T1 Symptom 0 9 Joint  
+T2 Symptom 10 14 pain  
+T3 Symptom 16 24 back  
+T4 Symptom 25 29 pain  
+T5 Symptom 31 42 memory  
+T6 Symptom 43 46 loss  
+T7 Symptom 48 56 increased  
+T8 Symptom 57 61 weight  
+T9 Symptom 62 66 gain  
+T10 Symptom 68 71 loss  
+T11 Symptom 73 79 of  
+T12 Symptom 80 86 balance

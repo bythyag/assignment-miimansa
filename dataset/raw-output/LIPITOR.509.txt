@@ -1,0 +1,7 @@
+BIO Sequence:
+muscle B-Symptom | spasms I-Symptom | , O | body B-Symptom | aches I-Symptom | , O | itching B-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 14 muscle spasms
+T2 Symptom 16 25 body aches
+T3 Symptom 27 33 itching

@@ -1,0 +1,14 @@
+T1 Symptom 0 8 Pectoral
+T2 Symptom 10 36 stabbing sharp pains
+T3 Drug 98 102 5mg/day
+T4 Drug 105 110 Mavik
+T5 Disease 139 157 blood pressure
+T6 Disease 185 188 106/70
+T7 Disease 207 208 type 2
+T8 Disease 210 218 diabetes
+T9 Disease 224 236 Heart disease
+T10 Symptom 332 337 pains
+T11 Symptom 365 371 pains
+T12 Drug 234 238 drug
+T13 Drug 319 324 drug
+T14 Disease 335 343 pregnancy

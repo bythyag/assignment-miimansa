@@ -1,0 +1,8 @@
+BIO Sequence:  
+Some O | gas B-Symptom | & O | diarrhea B-Symptom | but O | overall O | OK O | if O | taken O | with O | food O | . O | Tried O | other O | anti-inflammatories B-Drug | but O | this O | is O | the O | one O | that O | works O | best O | for O | me O | . O | Helps O | me O | walk O | & O | carry O | on O | a O | normal O | lifestyle O | because O | it O | eases O | the O | pain B-Symptom | a O | lot O | . O
+
+Structured Output:  
+T1 Symptom 5 8 gas  
+T2 Symptom 10 18 diarrhea  
+T3 Drug 42 60 anti-inflammatories  
+T4 Symptom 83 87 pain  

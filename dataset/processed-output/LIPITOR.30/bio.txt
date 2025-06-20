@@ -1,0 +1,1 @@
+MUSCLE B-Symptom | PAIN I-Symptom | IN O | LEFT B-Symptom | ARM I-Symptom | WEAK B-Symptom | FEELING I-Symptom | GENERAL B-Symptom | MALAISE I-Symptom | . O | I O | WOULD O | NOT O | RECOMMEND O | THIS O | DRUG B-Drug | . O

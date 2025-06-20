@@ -1,0 +1,9 @@
+T1 Symptom 8 13 vision
+T2 Symptom 15 24 chest pain
+T3 Symptom 26 37 sore muscles
+T4 Symptom 43 48 shaky
+T5 Symptom 55 67 panic attack
+T6 Drug 86 90 drug
+T7 Symptom 92 101 personality
+T8 Symptom 107 112 happy
+T9 Symptom 117 123 grouch

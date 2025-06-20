@@ -1,0 +1,7 @@
+BIO Sequence:
+slight O | flush B-Symptom | , O | sedation B-ADR | , O | bed B-Symptom | wetting I-Symptom | . O | Brought O | scores O | down O | 100 O | points O | . O
+
+Structured Output:
+T1 Symptom 7 12 flush
+T2 ADR 14 21 sedation
+T3 Symptom 23 34 bed wetting

@@ -1,0 +1,12 @@
+BIO Sequence:
+Started O | on O | 10mg O | , O | dose O | doubled O | to O | 20mg O | then O | to O | 40 O | mg O | . O | Experienced O | severe O | muscle B-Symptom | pains I-Symptom | , O | cramps I-Symptom | , O | sore I-Symptom | leg B-Symptom | joints I-Symptom | which O | increased O | with O | raising O | of O | dose O | , O | walking B-Symptom | more O | than O | a O | few O | hundred O | yards O | became O | difficult O | . O | I O | did O | not O | associate O | symptoms O | with O | tablets O | until O | I O | researched O | the O | Web O | . O | I O | have O | stopped O | taking O | the O | tablets O | for O | nearly O | a O | month O | now O | and O | and O | I O | am O | much O | improved O | , O | though O | my O | knees B-Symptom | still O | ache I-Symptom | . O | HDL/LDL O | balance O | much O | improved O | , O | but O | I O | would O | not O | want O | to O | start O | taking O | Lipitor B-Drug | again O | as O | I O | feel O | it O | disrupted O | my O | life O | considerably O | . O | Even O | though O | statistically O | ( O | anecdotally O | ) O | I O | am O | part O | of O | a O | small O | minority O | suffering O | side B-ADR | effects I-ADR | , O | I O | would O | still O | urge O | caution O | when O | taking O | this O | medication O | . O
+
+Structured Output:
+T1 Symptom 86 101 muscle pains
+T2 Symptom 103 109 cramps
+T3 Symptom 111 115 sore leg joints
+T4 Symptom 195 201 walking
+T5 Symptom 255 260 knees
+T6 Symptom 265 270 ache
+T7 Drug 119 126 Lipitor
+T8 ADR 182 194 side effects

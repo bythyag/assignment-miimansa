@@ -1,0 +1,11 @@
+T1 Symptom 1 18 intense calf pain
+T2 Symptom 20 36 swollen feet & ankles
+T3 Symptom 38 52 memory loss
+T4 Drug 73 83 cholesterol
+T5 Drug 88 91 LDL
+T6 Drug 99 101 20 mg
+T7 Drug 105 108 40 mg
+T8 Drug 147 153 Lipitor
+T9 ADR 165 177 severe calf pain
+T10 Drug 180 187 niaspan
+T11 Drug 188 197 500 mg

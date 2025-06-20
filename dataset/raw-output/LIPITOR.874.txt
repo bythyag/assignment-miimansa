@@ -1,0 +1,10 @@
+BIO Sequence:
+memory B-Symptom | problems I-Symptom | , O | depression B-Disease | , O | muscle B-Symptom | aches I-Symptom | , O | joint B-Symptom | pain I-Symptom | , O | exercise B-Symptom | intolerance I-Symptom | , O | transient B-Symptom | global I-Symptom | amnesia I-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 6 memory problems
+T2 Disease 8 17 depression
+T3 Symptom 19 33 muscle aches
+T4 Symptom 35 44 joint pain
+T5 Symptom 46 63 exercise intolerance
+T6 Symptom 65 89 transient global amnesia

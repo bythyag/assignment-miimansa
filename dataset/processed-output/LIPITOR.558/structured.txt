@@ -1,0 +1,5 @@
+T1 Drug 28 34 10 mg/day
+T2 Symptom 52 55 gas
+T3 Symptom 60 67 diarrhea
+T4 Drug 87 91 drug
+T5 Disease 116 126 cholesterol

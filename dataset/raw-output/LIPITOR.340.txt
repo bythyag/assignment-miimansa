@@ -1,0 +1,8 @@
+BIO Sequence:
+Live O | damage B-Disease | of O | 80-90% O | as O | od O | 5-31-06 O | . O | I'm O | in O | the O | hospital O | waiting O | a O | liver B-Disease | transplant I-Disease | after O | taking O | this O | drug B-Drug | for O | only O | 2 O | months O | . O
+
+Structured Output:
+T1 Disease 12 18 damage
+T2 Disease 61 66 liver
+T3 Disease 67 75 transplant
+T4 Drug 90 94 drug

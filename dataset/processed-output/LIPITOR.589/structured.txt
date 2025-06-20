@@ -1,0 +1,7 @@
+T1 Symptom 49 54 muscle enzyme
+T2 Drug 92 95 med
+T3 Symptom 105 110 ankle pain
+T4 Symptom 112 121 neurophaty
+T5 Symptom 124 131 vision problems
+T6 Symptom 142 147 tired
+T7 Symptom 152 158 muscle pain

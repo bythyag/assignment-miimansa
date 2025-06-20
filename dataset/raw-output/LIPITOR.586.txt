@@ -1,0 +1,13 @@
+BIO Sequence:
+Been O | taking O | Lipitor B-Drug | for O | two O | years O | . O | The O | last O | few O | days O | I O | have O | experienced O | swollen B-Symptom | legs I-Symptom | and O | ankles I-Symptom | and O | a O | pain B-Symptom | in O | my O | lower B-Symptom | leg I-Symptom | making O | it O | hard O | to O | get O | around O | . O | Thought O | it O | might O | be O | the O | Lipitor B-Drug | so O | I O | am O | going O | to O | the O | doctor O | in O | a O | few O | days O | . O | I O | think O | I O | will O | discontinue O | using O | Lipitor B-Drug | and O | try O | to O | find O | another O | alternative O | to O | lowering O | my O | cholesterol O | . O | Did O | lower O | my O | cholesterol O | . O
+
+Structured Output:
+T1 Drug 21 28 Lipitor
+T2 Symptom 64 69 swollen
+T3 Symptom 71 75 legs
+T4 Symptom 77 83 ankles
+T5 Symptom 88 92 pain
+T6 Symptom 96 100 lower
+T7 Symptom 101 104 leg
+T8 Drug 147 154 Lipitor
+T9 Drug 190 197 Lipitor

@@ -1,0 +1,31 @@
+BIO Sequence:
+Aches B-Symptom | and O | pains I-Symptom | breathing B-Symptom | difficulties I-Symptom | panic B-Symptom | attacks I-Symptom | stength B-Symptom | and O | stamina I-Symptom | destroyed O | palpatations B-Symptom | strong O | tingling B-Symptom | in O | one O | hand O | some O | tinititis B-Symptom | and O | occassional I-Symptom | ear B-Symptom | aches I-Symptom | . O | Have O | mentioned O | symptoms O | as O | they O | appeared O | to O | my O | doctor O | only O | to O | be O | prescribed O | zorloft B-Drug | for O | depression B-Disease | and O | anxiety I-Disease | and O | noten B-Drug | for O | heart B-Disease | palpatations I-Disease | . O | This O | in O | turn O | has O | seriously O | upset O | my O | stomach B-Disease | which O | the O | doctor O | prescribed O | yet O | another O | drug O | for O | . O | 40 O | mg O | dose O | Lipitor B-Drug | worked O | well O | in O | reducing O | my O | overall O | cholesterol B-Disease | levels I-Disease | ; O | which O | are O | high O | in O | my O | family O | . O | The O | last O | 6 O | months O | of O | my O | life O | have O | been O | a O | health B-Disease | nightmare I-Disease | . O | I O | was O | a O | fit O | , O | strong O | and O | very O | active O | person O | 5 O | years O | ago O | . O | Now O | I O | am O | struggling O | walking O | too O | far O | and O | functioning O | in O | general O | . O | I O | have O | only O | been O | off O | lipitor B-Drug | for O | 2 O | weeks O | so O | time O | will O | tell O | if O | lipitor B-Drug | is O | to O | blame O | for O | my O | deteriorated O | health O | ; O | winding O | down O | on O | the O | noten B-Drug | and O | zorloft B-Drug | as O | well O | . O | I O | am O | trying O | the O | VitC B-Drug | , O | CoQ10 B-Drug | and O | omega B-Drug | 3 I-Drug | path O | . O 
+
+Structured Output:
+T1 Symptom 0 5 Aches 
+T2 Symptom 6 11 pains 
+T3 Symptom 12 31 breathing difficulties 
+T4 Symptom 32 45 panic attacks 
+T5 Symptom 47 63 stength and stamina 
+T6 Symptom 64 76 destroyed 
+T7 Symptom 78 91 palpatations 
+T8 Symptom 93 117 strong tingling 
+T9 Symptom 120 126 hand 
+T10 Symptom 128 136 tinititis 
+T11 Symptom 138 144 occassional ear 
+T12 Symptom 145 151 aches 
+T13 Drug 168 175 zorloft 
+T14 Disease 185 195 depression 
+T15 Disease 202 208 anxiety 
+T16 Drug 210 215 noten 
+T17 Disease 229 242 heart palpatations 
+T18 Disease 248 255 stomach 
+T19 Drug 257 264 Lipitor 
+T20 Disease 273 282 cholesterol 
+T21 Disease 288 300 health 
+T22 Drug 305 312 lipitor 
+T23 Drug 338 343 noten 
+T24 Drug 345 352 zorloft 
+T25 Drug 358 363 VitC 
+T26 Drug 365 370 CoQ10 
+T27 Drug 375 381 omega 3 

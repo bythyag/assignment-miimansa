@@ -1,0 +1,17 @@
+T1 Symptom 0 10 Joint pain
+T2 Symptom 12 22 muscle ache
+T3 Symptom 24 31 fatigue
+T4 Disease 58 70 liver function
+T5 Disease 89 96 blood test
+T6 Disease 101 107 muscle wasting
+T7 Symptom 123 133 joint pain
+T8 Symptom 135 148 muscle aching
+T9 Symptom 150 156 fatigue
+T10 Drug 160 166 Lipitor
+T11 Symptom 215 223 symptoms
+T12 Symptom 274 284 symptoms
+T13 Drug 295 301 Lipitor
+T14 Symptom 308 318 symptoms
+T15 Symptom 337 345 symptoms
+T16 ADR 353 366 adverse reactions
+T17 Symptom 398 407 symptoms

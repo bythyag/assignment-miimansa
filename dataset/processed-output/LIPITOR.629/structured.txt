@@ -1,0 +1,15 @@
+T1 Symptom 5 9 pain
+T2 Drug 34 40 Lipitor
+T3 Drug 73 79 Lipitor
+T4 Disease 84 93 cholesterol
+T5 Drug 123 126 20
+T6 Symptom 138 147 back pain
+T7 ADR 166 175 neuropathy
+T8 ADR 177 192 hypersensitivity
+T9 Drug 215 221 Lipitor
+T10 ADR 239 245 Lipitor
+T11 Disease 287 296 cholesterol
+T12 Drug 308 314 Lipitor
+T13 Symptom 360 363 back
+T14 Drug 399 404 drug
+T15 Disease 412 421 cholesterol

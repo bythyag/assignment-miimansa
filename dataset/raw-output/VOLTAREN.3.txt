@@ -1,0 +1,9 @@
+BIO Sequence:
+Extreme O | upset B-Symptom | stomach I-Symptom | . O | couldn't O | eat O | or O | drink O | anything O | . O | It O | did O | take O | away O | all O | of O | my O | pain B-Symptom | and O | I O | was O | able O | to O | sleep B-Symptom | very O | well O | through O | the O | night O | . O | It's O | just O | too O | bad O | that O | it O | upset B-ADR | my O | stomach I-Symptom | so O | much O | . O | I O | didn't O | have O | any O | other O | side B-ADR | effects I-ADR | than O | this O | one O | . O 
+
+Structured Output:
+T1 Symptom 8 13 upset stomach
+T2 Symptom 41 45 pain
+T3 Symptom 66 70 sleep
+T4 ADR 103 108 upset
+T5 ADR 123 130 side effects

@@ -1,0 +1,22 @@
+BIO Sequence:
+Debilitating O | muscle B-Symptom | and O | joint B-Symptom | pain I-Symptom | , O | swelling B-Symptom | of O | feet B-Symptom | and O | hands B-Symptom | , O | numbness B-Symptom | and O | tingling B-Symptom | in O | feet I-Symptom | and O | hands I-Symptom | , O | headaches B-Symptom | , O | fatigue B-Symptom | , O | blurred B-Symptom | vision I-Symptom | . O | Stopped O | taking O | it O | 7 O | days O | ago O | but O | the O | pain B-ADR | + O | other O | symptoms O | are O | not O | getting O | any O | better O | ( O | all O | except O | blurred I-Symptom | vison I-Symptom | , O | that O | went O | away O | after O | 3 O | days O | off O | Lipitor B-Drug | ) O | . O | I O | am O | scared O | of O | permanet O | damage O | . O | I O | really O | really O | hope O | it O | is O | reversible O | , O | because O | I O | can't O | walk O | or O | do O | anything O | with O | my O | hands O | . O
+
+Structured Output:
+T1 Symptom 12 16 muscle
+T2 Symptom 21 25 joint
+T3 Symptom 27 31 pain
+T4 Symptom 38 45 swelling
+T5 Symptom 51 55 feet
+T6 Symptom 60 65 hands
+T7 Symptom 67 74 numbness
+T8 Symptom 79 86 tingling
+T9 Symptom 90 94 feet
+T10 Symptom 99 104 hands
+T11 Symptom 106 114 headaches
+T12 Symptom 117 124 fatigue
+T13 Symptom 127 133 blurred
+T14 Symptom 135 141 vision
+T15 ADR 170 174 pain
+T16 Drug 113 120 Lipitor
+T17 Symptom 127 133 blurred
+T18 Symptom 135 141 vison

@@ -1,0 +1,8 @@
+BIO Sequence:
+It O | dropped O | my O | cholestrol B-Symptom | down O | fast O | . O | My O | liver B-Disease | tests O | are O | good O | . O | I O | take O | 20mg B-Drug | a O | night O | . O | Cholestrol B-Symptom | runs O | about O | 200 O | . O
+
+Structured Output:
+T1 Symptom 25 34 cholestrol
+T2 Disease 39 44 liver
+T3 Drug 55 60 20mg
+T4 Symptom 66 75 cholestrol

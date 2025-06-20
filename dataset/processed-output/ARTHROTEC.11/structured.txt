@@ -1,0 +1,6 @@
+T1 ADR 17 29 side effects
+T2 Symptom 36 40 pain
+T3 Disease 54 62 shoulder
+T4 Drug 78 86 Arthrotec
+T5 Symptom 91 95 pain
+T6 ADR 113 125 side effects

@@ -1,0 +1,13 @@
+T1 Symptom 29 36 anxious
+T2 Drug 73 87 antidepressants
+T3 Disease 104 111 anxiety
+T4 Disease 113 117 fear
+T5 Symptom 147 155 tingling
+T6 Symptom 162 167 weird
+T7 Symptom 169 174 pains
+T8 Drug 205 212 lipitor
+T9 Disease 226 237 cholesteral
+T10 Symptom 247 253 muscle
+T11 Symptom 255 262 tingley
+T12 Drug 274 287 Atorvastatin
+T13 ADR 306 317 side affects

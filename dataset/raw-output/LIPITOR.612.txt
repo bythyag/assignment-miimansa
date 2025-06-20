@@ -1,0 +1,11 @@
+BIO Sequence:
+Pain B-Symptom | along O | front O | and O | outer O | side O | of O | shins B-Symptom | . O | very O | tender B-Symptom | to O | the O | touch O | . O | walking B-Symptom | was O | the O | worst O | , O | some O | weird B-ADR | toe I-ADR | tingling I-ADR | at O | times O | . O | lasted O | for O | years O | , O | told O | it O | was O | a O | pinched B-Disease | nerve I-Disease | in O | my O | back O | . O | After O | reading O | reports O | on O | the O | internet O | I O | stopped O | it O | a O | month O | ago O | and O | its O | about O | 50% O | better O | already O | . O | muscle B-Symptom | pain I-Symptom | side O | effects O | seem O | much O | more O | common O | than O | realized O | by O | doctors O | or O | admitted O | by O | the O | company O | . O 
+
+Structured Output:
+T1 Symptom 0 4 Pain
+T2 Symptom 28 32 shins
+T3 Symptom 43 48 tender
+T4 Symptom 58 64 walking
+T5 ADR 85 98 weird toe tingling
+T6 Disease 117 132 pinched nerve
+T7 Symptom 159 163 muscle pain

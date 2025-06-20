@@ -1,0 +1,1 @@
+Leg B-Symptom | pains I-Symptom | , O | loss B-Symptom | of O | memory I-Symptom | , O | E.D. B-ADR | and O | sleep B-Symptom | loss I-Symptom | . O | I O | was O | never O | told O | of O | these O | possible O | side O | effects O | . O

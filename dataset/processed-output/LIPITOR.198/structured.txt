@@ -1,0 +1,7 @@
+T1 Drug 28 32 drug
+T2 Drug 34 39 10mg
+T3 Symptom 62 67 warm sensation
+T4 Symptom 78 83 chest
+T5 Symptom 90 94 pain
+T6 Symptom 101 108 headache
+T7 Disease 117 127 Cholesterol

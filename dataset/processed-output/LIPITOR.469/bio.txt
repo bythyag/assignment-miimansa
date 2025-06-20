@@ -1,0 +1,1 @@
+I O | felt O | like O | I O | had O | been O | running O | a O | marathon B-Symptom | . O | My O | legs B-Symptom | ached I-Symptom | , O | felt O | weak B-Symptom | , O | calf B-Symptom | muscles I-Symptom | painful I-Symptom | to O | touch O | - O | extreme B-Symptom | fatigue I-Symptom | , O | headaches B-Symptom | . O

@@ -1,0 +1,14 @@
+BIO Sequence:
+leg B-Symptom | pains I-Symptom | , O | thigh B-Symptom | cramps I-Symptom | , O | fatique B-Symptom | , O | shortness B-Symptom | of O | breath I-Symptom | , O | cannot O | walk B-Symptom | , O | indigestion B-Symptom | , O | sexual B-Symptom | dysfunction I-Symptom | , O | tired B-Symptom | and O | ache B-Symptom | all O | over O | . O | nothing O | but O | poison B-ADR | ! O | ! O | ! O | ! O | ! O | ! O | ! O | ! O 
+
+Structured Output:
+T1 Symptom 0 8 leg pains
+T2 Symptom 10 18 thigh cramps
+T3 Symptom 20 27 fatique
+T4 Symptom 29 49 shortness of breath
+T5 Symptom 51 56 cannot walk
+T6 Symptom 58 68 indigestion
+T7 Symptom 70 91 sexual dysfunction
+T8 Symptom 93 102 tired
+T9 Symptom 107 111 ache
+T10 ADR 113 119 poison

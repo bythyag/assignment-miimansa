@@ -1,0 +1,11 @@
+T1 Symptom 14 22 headache
+T2 Symptom 24 34 muscle ache
+T3 Symptom 36 43 diarrhea
+T4 Symptom 45 55 indigestion
+T5 Symptom 57 73 abdominal pain
+T6 Symptom 75 83 back pain
+T7 Symptom 85 92 eyesight
+T8 Symptom 97 103 sinus problems
+T9 Symptom 105 113 joint pain
+T10 Symptom 115 124 leg cramps
+T11 Disease 131 142 fibromyalgia

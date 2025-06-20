@@ -1,0 +1,12 @@
+T1 Symptom 21 30 muscle pain
+T2 ADR 40 47 weakness
+T3 Symptom 66 70 weak
+T4 Symptom 77 82 tired
+T5 Symptom 124 132 symptoms
+T6 Drug 41 47 Lipitor
+T7 Symptom 153 159 symptoms
+T8 Drug 118 123 Lipitor
+T9 Drug 132 136 10mg
+T10 Symptom 199 206 weakness
+T11 Drug 205 210 Zocor
+T12 ADR 226 236 side effects

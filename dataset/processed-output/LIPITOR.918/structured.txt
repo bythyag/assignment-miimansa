@@ -1,0 +1,3 @@
+T1 Symptom 0 8 cramping
+T2 Symptom 12 16 calf
+T3 Symptom 83 91 screaming

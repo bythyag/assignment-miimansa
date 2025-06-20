@@ -1,0 +1,10 @@
+T1 Drug 4 11 lipitor
+T2 Disease 43 52 cholestrol
+T3 Drug 79 86 lipitor
+T4 Drug 88 95 statins
+T5 Symptom 100 122 restless legs syndrome
+T6 Disease 126 130 rls
+T7 Disease 138 141 rls
+T8 Drug 155 162 lipitor
+T9 Drug 164 171 lipitor
+T10 Disease 173 176 rls

@@ -1,0 +1,11 @@
+T1 Symptom 0 15 Disorentatation  
+T2 Symptom 17 34 trouble breathing  
+T3 Symptom 36 51 extreme hot  
+T4 ADR 53 60 redness  
+T5 ADR 62 69 swelling  
+T6 ADR 71 77 itching  
+T7 Symptom 80 99 abdominal cramps  
+T8 Drug 103 112 arthrotec  
+T9 Disease 120 129 knee pain  
+T10 Drug 140 149 cortisone  
+T11 Disease 155 164 knee pain

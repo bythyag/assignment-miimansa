@@ -1,0 +1,1 @@
+severe B-Symptom | muscle I-Symptom | pain I-Symptom | in O | hips B-Symptom | , O | legs B-Symptom | and O | ankles B-Symptom | . O | It O | helps O | lower O | my O | cholesterol B-Drug | , O | but O | recks O | my O | muscles B-ADR | severly I-ADR | . O | I O | take O | a O | 6week O | break O | and O | resume O | dosage O | of O | lipitor B-Drug | . O

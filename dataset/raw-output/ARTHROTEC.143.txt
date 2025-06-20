@@ -1,0 +1,15 @@
+BIO Sequence:
+Took O | 50 O | mg O | arthrotec B-Drug | with O | one O | tylenol B-Drug | #3 I-Drug | and O | within O | 30 O | minutes O | I O | had O | the O | most O | severe O | abdominal B-Symptom | pain B-Symptom | I've O | ever O | experienced O | . O | It O | was O | more O | like O | bowel B-Symptom | / O | uterine B-Symptom | cramping I-Symptom | . O | It O | was O | so O | severe O | I O | had O | to O | go O | to O | the O | emergency B-Disease | room I-Disease | . O | I O | had O | spent O | the O | day O | there O | already O | for O | my O | shoulder B-Symptom | pain I-Symptom | , O | was O | given O | a O | prescription O | and O | never O | told O | of O | these O | side B-ADR | effects I-ADR | . O | I O | then O | spent O | the O | night O | back O | in O | the O | ER O | for O | the O | severe O | pain I-Symptom | . O | The O | doctor O | thought O | it O | was O | likely O | the O | codeine B-Drug | in O | the O | tylenol B-Drug | #3 I-Drug | but O | after O | reading O | all O | these O | comments O | , O | I O | doubt O | it O | very O | much O | . O | Will O | never O | take O | this O | medication O | again O | . O |
+
+Structured Output:
+T1 Drug 20 28 arthrotec
+T2 Drug 34 42 tylenol
+T3 Symptom 67 74 abdominal pain
+T4 Symptom 80 85 bowel
+T5 Symptom 87 94 uterine cramping
+T6 Disease 109 123 emergency room
+T7 Symptom 138 144 shoulder pain
+T8 ADR 154 166 side effects
+T9 Symptom 170 175 severe pain
+T10 Drug 203 210 codeine
+T11 Drug 217 225 tylenol

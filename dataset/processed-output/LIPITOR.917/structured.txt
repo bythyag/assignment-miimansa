@@ -1,0 +1,11 @@
+T1 Symptom 0 6 muscle
+T2 Symptom 7 11 pain
+T3 Symptom 13 21 stiffness
+T4 Symptom 22 26 pain
+T5 Symptom 30 35 hands
+T6 Symptom 55 59 type
+T7 Symptom 67 73 trouble
+T8 Symptom 82 100 walking/balance
+T9 Symptom 102 108 neck
+T10 Symptom 110 117 shoulder
+T11 Symptom 118 122 pain

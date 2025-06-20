@@ -1,0 +1,8 @@
+T1 ADR 29 39 side affects
+T2 Disease 95 104 cholesterol levels
+T3 Disease 111 116 high cholesterol
+T4 Drug 140 150 medication
+T5 Drug 182 192 medication
+T6 Disease 198 206 cholesterol
+T7 Disease 219 224 high
+T8 Disease 254 263 cholesterol

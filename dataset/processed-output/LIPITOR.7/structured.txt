@@ -1,0 +1,12 @@
+T1 Drug 36 47 simvastatin
+T2 Drug 49 61 pravastatin
+T3 Drug 64 75 atorvastatin
+T4 Symptom 90 101 joint pains
+T5 Disease 124 138 dys-motility
+T6 Disease 140 159 irritable bowel syndrome
+T7 Symptom 170 180 obstipation
+T8 Symptom 183 195 constipation
+T9 Drug 207 214 statins
+T10 ADR 232 239 fatigue
+T11 ADR 245 255 joint pain
+T12 Symptom 260 274 short term memory dysfunction

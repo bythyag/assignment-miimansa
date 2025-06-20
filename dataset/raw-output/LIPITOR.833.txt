@@ -1,0 +1,15 @@
+BIO Sequence:
+I O | am O | female O | , O | age O | 55 O | and O | generally O | in O | good O | health O | . O | No O | smoking O | or O | drinking O | and O | work O | daily O | . O | Wt O | is O | 15 O | lbs O | more O | than O | it O | should O | be O | . O | Cholesterol O | has O | been O | high O | for O | years O | despite O | diet O | . O | Taking O | 40mg B-Drug | daily O | for O | 1 O | year O | , O | took O | 20mg B-Drug | previously O | . O | Lately O | I O | realized O | everything O | hurts B-Symptom | . O | It O | crept O | up O | on O | me O | . O | I O | am O | an O | RN O | and O | still O | did O | not O | put O | it O | together O | until O | this O | week O | when O | I O | decided O | something O | is O | not O | right O | . O | When O | the O | aches B-Symptom | and O | pains I-Symptom | were O | mild O | I O | thought O | it O | was O | arthritis B-Disease | or O | too O | much O | activity O | . O | Stopped O | the O | Lipitor B-Drug | and O | the O | generalized B-Symptom | aches I-Symptom | and O | pains I-Symptom | are O | fading O | after O | just O | 3 O | days O | . O | Will O | explore O | other O | options O | but O | these O | drugs B-Drug | have O | not O | been O | around O | long O | enough O | to O | confirm O | long O | term O | effects O | . O | Looking O | at O | this O | site O | , O | I O | will O | begin O | to O | ask O | my O | patients O | that O | are O | on O | statins B-Drug | about O | their O | history O | . O 
+
+Structured Output:
+T1 Drug 156 160 40mg
+T2 Drug 221 225 20mg
+T3 Symptom 65 71 hurts
+T4 Symptom 147 152 aches
+T5 Symptom 154 159 pains
+T6 Disease 185 193 arthritis
+T7 Drug 264 271 Lipitor
+T8 Symptom 193 203 generalized aches
+T9 Symptom 204 209 pains
+T10 Drug 276 281 drugs
+T11 Drug 344 351 statins

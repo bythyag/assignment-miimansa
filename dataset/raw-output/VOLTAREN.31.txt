@@ -1,0 +1,7 @@
+BIO Sequence:
+stomach B-Symptom | upset I-Symptom | and O | notable O | dehydration B-Symptom | . O | i O | would O | recommend O | plenty O | of O | food O | and O | water O | with O | this O | medicene B-Drug | . O
+
+Structured Output:
+T1 Symptom 0 15 stomach upset  
+T2 Symptom 22 32 dehydration  
+T3 Drug 51 59 medicene

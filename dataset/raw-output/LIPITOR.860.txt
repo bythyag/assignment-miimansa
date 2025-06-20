@@ -1,0 +1,22 @@
+BIO Sequence:
+none O | but O | soon O | as O | i O | started O | it O | the O | staticy B-Symptom | feeling I-Symptom | in O | my O | abdomin B-Symptom | stopped O | and O | the O | hot B-Symptom | feelings I-Symptom | i O | usually O | suffered O | from O | when O | that O | static O | would O | start O | had O | ceased O | with O | it O | . O | i O | feel O | much O | better O | . O | it O | drove O | my O | cholesterol B-Disease | down O | to O | almost O | perfect O | levels O | . O | of O | course O | if O | you O | behave O | with O | your O | diet O | . O | AND O | if O | the O | medication B-Drug | doesn't O | make O | you O | sick O | . O | if O | you O | feel O | better O | taking O | it O | you've O | hit O | the O | jack O | pot O | . O | i've O | heard O | so O | many O | who O | suffer O | bad B-ADR | cramps I-ADR | and O | chest B-ADR | pains I-ADR | with O | this O | medication B-Drug | . O | i've O | lucked O | out O | . O | though O | i've O | had O | unsuccessful O | endeavors O | with O | another O | medication B-Drug | pertaining O | to O | triglycerides B-Disease | . O | but O | lipitor B-Drug | has O | actually O | made O | me O | feel O | much O | better O | from O | a O | problem O | i've O | suffered O | feeling O | as O | a O | child O | . O | abdominal B-Symptom | irritation I-Symptom | or O | a O | sensation O | that O | feels O | like O | electricity B-Symptom | zapping I-Symptom | around O | my O | midsection O | and O | used O | to O | make O | me O | feel O | hot B-Symptom | and O | irritable B-Symptom | . O | soon O | as O | i O | took O | lipitor B-Drug | that O | all O | stopped O | . O | i'm O | very O | happy O | something O | helped O | that O | . O | i O | was O | tired O | of O | feeling O | strange O | when O | it O | came O | to O | my O | gut O | . O | : O | D O | . O
+
+Structured Output:
+T1 Symptom 38 46 staticy feeling
+T2 Symptom 60 67 abdomin
+T3 Symptom 69 73 hot
+T4 Symptom 79 86 feelings
+T5 Disease 111 120 cholesterol
+T6 ADR 184 189 cramps
+T7 ADR 195 206 chest pains
+T8 Drug 209 218 medication
+T9 Drug 261 268 medication
+T10 Disease 290 301 triglycerides
+T11 Drug 307 313 lipitor
+T12 Symptom 339 346 abdominal irritation
+T13 Symptom 354 370 electricity zapping
+T14 Symptom 397 401 hot
+T15 Symptom 407 416 irritable
+T16 Drug 420 426 lipitor
+T17 Symptom 475 481 strange
+T18 Symptom 520 523 gut

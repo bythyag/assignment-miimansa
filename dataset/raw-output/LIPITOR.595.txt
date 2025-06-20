@@ -1,0 +1,9 @@
+BIO Sequence:
+Swelling B-Symptom | left O | arm O | , O | very O | severe O | itching B-Symptom | , O | intolerable I-Symptom | itching I-Symptom | , O | and O | vivid O | weird O | dreams B-Symptom | . O | Also O | large O | dark O | bruise B-ADR | on O | hand O | . O | Should O | be O | banned O | . O 
+
+Structured Output:
+T1 Symptom 0 7 Swelling
+T2 Symptom 26 32 itching
+T3 Symptom 41 50 itching
+T4 Symptom 56 61 dreams
+T5 ADR 74 80 bruise

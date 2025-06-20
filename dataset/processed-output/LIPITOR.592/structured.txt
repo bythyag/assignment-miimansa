@@ -1,0 +1,30 @@
+T1 Drug 23 30 lipitor
+T2 Symptom 115 119 foot
+T3 Symptom 121 125 shin
+T4 Symptom 127 131 knee
+T5 Symptom 133 137 thigh
+T6 Symptom 139 142 hip
+T7 Symptom 144 148 pain 149 153
+T8 Symptom 158 165 shoulder
+T9 Symptom 167 170 arm
+T10 Symptom 172 176 hand
+T11 Symptom 178 182 pain 183 187
+T12 Symptom 191 198 balance
+T13 Symptom 200 209 problems
+T14 Symptom 211 221 clumsiness
+T15 ADR 228 233 memory
+T16 ADR 235 239 loss
+T17 ADR 257 265 bloating
+T18 ADR 271 282 flatulence
+T19 Drug 302 309 Lipitor
+T20 Drug 315 322 Effexor
+T21 Disease 335 345 depression
+T22 Disease 392 410 Multiple Sclerosis
+T23 Disease 412 417 brain
+T24 Disease 420 431 problems
+T25 Drug 473 480 Lipitor
+T26 Disease 487 496 cholesterol
+T27 Disease 516 520 triglicerides
+T28 ADR 528 533 side
+T29 ADR 535 542 effects
+T30 ADR 552 557 HURTING

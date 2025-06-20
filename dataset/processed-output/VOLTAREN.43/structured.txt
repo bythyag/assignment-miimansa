@@ -1,0 +1,2 @@
+T1 Symptom 0 8 dizziness
+T2 ADR 18 24 nausea

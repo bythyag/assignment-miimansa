@@ -1,0 +1,17 @@
+BIO Sequence:
+Left B-Symptom | shoulder I-Symptom | pain I-Symptom | and O | right B-Symptom | hip I-Symptom | and O | muscle B-Symptom | pain I-Symptom | over O | 3 B-Disease | weeks I-Disease | . O | I'm O | a O | physician O | and O | initially O | figured O | the O | pain O | was O | sports B-Disease | related I-Disease | ( O | although O | being O | right B-Disease | handed I-Disease | , O | I O | was O | suspicious O | about O | the O | unilateral O | left B-Symptom | shoulder I-Symptom | pain I-Symptom | ) O | . O | I O | stuck O | it O | out O | for O | 3 B-Disease | weeks I-Disease | until O | I O | had O | a O | significant O | limp B-Symptom | . O | Then O | stopped O | Lipitor B-Drug | 3 O | days O | ago O | and O | noticed O | a O | very O | significant O | mitigation O | of O | the O | pain O | - O | about O | 80 O | % O | resolved O | already O | . O | The O | drug O | worked O | wonders O | on O | cholesterol B-Disease | ( O | down O | 80 O | in O | 4 B-Disease | months I-Disease | ) O | , O | but O | I'll O | be O | starting O | an O | alternative O | shortly O | . O
+
+Structured Output:
+T1 Symptom 0 15 Left shoulder pain
+T2 Symptom 19 34 right hip
+T3 Symptom 36 50 muscle pain
+T4 Disease 52 63 3 weeks
+T5 Disease 73 79 sports
+T6 Disease 81 87 related
+T7 Disease 93 96 right
+T8 Symptom 103 107 unilateral left shoulder pain
+T9 Symptom 112 116 limp
+T10 Drug 118 125 Lipitor
+T11 Disease 142 152 cholesterol
+T12 Disease 158 164 3 weeks
+T13 Disease 171 176 months

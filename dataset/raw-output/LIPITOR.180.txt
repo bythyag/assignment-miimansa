@@ -1,0 +1,18 @@
+BIO Sequence:
+51 O | yr O | old O | female O | . O | After O | 2 O | 1/2 O | years O | on O | it O | ( O | 10 B-Drug | mg/day I-Drug | ) O | I O | developed O | serious O | muscle B-Symptom | pain I-Symptom | and O | restlessness B-Symptom | in O | my O | legs O | which O | made O | it O | almost O | impossible O | to O | sleep O | . O | Also O | , O | hot/cold O | fever-like O | sensations B-Symptom | in O | the O | skin O | , O | but O | no O | fever B-Symptom | . O | Constant O | sleepiness B-Symptom | . O | I O | thought O | I O | had O | developed O | chronic B-Disease | fatigue I-Disease | syndrome I-Disease | and O | restless B-Disease | leg I-Disease | syndrome I-Disease | until O | I O | looked O | on O | the O | internet O | for O | Lipitor B-Drug | side O | effects O | . O | I O | am O | just O | glad O | I O | stopped O | taking O | it O | before O | permanent O | damage O | was O | done O | . O | Yes O | , O | it O | did O | a O | great O | job O | lowering O | my O | cholesterol B-Disease | , O | but O | the O | side O | effects O | are O | very O | dangerous O | and O | I O | would O | think O | long O | and O | hard O | before O | taking O | any O | statin B-Drug | . O | I O | would O | guess O | that O | many O | of O | our O | elderly O | relatives O | who O | seem O | to O | have O | cognitive B-Disease | impairments I-Disease | are O | really O | suffering O | from O | statin B-Drug | side O | effects O | . O | The O | drug O | companies O | have O | certainly O | done O | a O | number O | on O | the O | American O | public O | . O 
+
+Structured Output:
+T1 Drug 32 39 10 mg/day
+T2 Symptom 67 74 muscle pain
+T3 Symptom 80 92 restlessness
+T4 Symptom 96 103 sleep
+T5 Symptom 118 141 fever-like sensations
+T6 Symptom 146 151 fever
+T7 Symptom 169 180 sleepiness
+T8 Disease 200 220 chronic fatigue syndrome
+T9 Disease 225 243 restless leg syndrome
+T10 Drug 293 300 Lipitor
+T11 Disease 304 314 cholesterol
+T12 Drug 318 324 statin
+T13 Disease 343 352 cognitive impairments
+T14 Drug 360 366 statin

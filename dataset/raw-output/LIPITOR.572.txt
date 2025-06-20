@@ -1,0 +1,12 @@
+BIO Sequence:
+My O | doctor O | has O | started O | me O | out O | on O | 80mg B-Drug | a O | day O | of O | lipitor B-Drug | . O | I O | have O | only O | been O | taking O | it O | for O | a O | little O | over O | a O | week O | . O | I O | started O | feeling O | sick B-ADR | to O | my O | stomach I-ADR | about O | two O | days O | ago O | , O | and O | I O | have O | been O | feeling O | very O | fatigued B-ADR | . O | My O | head O | has O | been O | twitching B-ADR | and O | today O | I O | noticed O | hand B-ADR | tremors I-ADR | . O | Also O | feel O | like O | I O | am O | in O | a O | fog B-ADR | . O | Have O | not O | had O | blood O | results O | yet O | to O | determine O | if O | it O | has O | lowered O | my O | cholesterol B-Disease | or O | not O | . O
+
+Structured Output:
+T1 Drug 38 43 80mg
+T2 Drug 51 57 lipitor
+T3 ADR 80 84 sick
+T4 ADR 99 106 fatigued
+T5 ADR 117 124 twitching
+T6 ADR 136 142 tremors
+T7 ADR 154 157 fog
+T8 Disease 173 182 cholesterol

@@ -1,0 +1,8 @@
+T1 Drug 21 27 lipitor
+T2 Disease 55 60 heart maintenance
+T3 Drug 82 88 tricor
+T4 Disease 98 101 high ldl
+T5 Symptom 122 125 leg weakness
+T6 Symptom 130 137 cramping
+T7 Symptom 139 146 cramping
+T8 Drug 153 162 Potassium

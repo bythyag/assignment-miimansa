@@ -1,0 +1,12 @@
+T1 Symptom 0 10 Abdominal pain
+T2 Symptom 12 20 headaches
+T3 Symptom 22 29 diarrea
+T4 Symptom 31 37 nausea
+T5 Symptom 39 47 heartburn
+T6 Symptom 49 56 weakness
+T7 Symptom 58 68 muscle pain
+T8 Symptom 70 82 flu symptoms
+T9 Symptom 84 95 bad taste in mouth
+T10 Drug 191 195 drug
+T11 Drug 205 209 10mg
+T12 Disease 210 214 diet

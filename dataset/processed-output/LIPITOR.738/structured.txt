@@ -1,0 +1,10 @@
+T1 Symptom 8 15 weakness
+T2 ADR 18 24 diarea
+T3 ADR 26 30 bluss
+T4 ADR 32 42 ititching
+T5 Symptom 45 50 tired
+T6 Symptom 67 75 sleeping
+T7 Symptom 77 83 blurred
+T8 Symptom 85 91 vision
+T9 Symptom 92 97 Dizzy
+T10 Symptom 98 103 spells

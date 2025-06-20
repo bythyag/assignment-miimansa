@@ -1,0 +1,11 @@
+T1 Disease 45 54 Colin cancer
+T2 Disease 72 84 chemotherapy
+T3 Drug 104 111 Lipitor
+T4 ADR 138 144 muscle
+T5 ADR 150 155 joint
+T6 ADR 157 165 stiffness
+T7 ADR 171 175 sore
+T8 ADR 176 180 ribs
+T9 Drug 207 214 Lipitor
+T10 ADR 218 224 muscle
+T11 ADR 226 233 stiffness

@@ -1,0 +1,15 @@
+T1 ADR 37 57 gassy abdominal cramping
+T2 Symptom 68 72 pain
+T3 Disease 92 106 Endometriosis
+T4 Disease 126 133 Sciatic
+T5 Disease 135 139 Sciatic Endo
+T6 Drug 237 245 Cataflam
+T7 Symptom 261 265 pain
+T8 Drug 269 276 Demerol
+T9 Drug 281 283 Rx
+T10 Drug 296 302 NSAID's
+T11 Symptom 314 319 heart
+T12 Symptom 321 328 attacks
+T13 Drug 384 389 Rx
+T14 Disease 413 420 lumbar arthritis
+T15 Disease 426 439 dysmennorhea

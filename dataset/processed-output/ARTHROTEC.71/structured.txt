@@ -1,0 +1,9 @@
+T1 Drug 28 32 drug
+T2 Symptom 43 49 severe
+T3 Symptom 50 55 colon
+T4 Symptom 61 67 uterine
+T5 Symptom 68 76 cramping
+T6 Symptom 79 84 Cold
+T7 ADR 86 93 fainting
+T8 Symptom 95 100 heart
+T9 Symptom 101 113 palpitations

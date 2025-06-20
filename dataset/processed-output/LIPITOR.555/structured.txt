@@ -1,0 +1,3 @@
+T1 Symptom 0 15 Lower back pain
+T2 Symptom 17 26 stiffness
+T3 Symptom 30 36 joints

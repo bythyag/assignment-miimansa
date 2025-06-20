@@ -1,0 +1,8 @@
+BIO Sequence:
+I O | took O | Lipitor B-Drug | for O | 8 O | weeks O | and O | experienced O | extreme O | pain B-Symptom | in O | all O | my O | joints O | . O | It O | has O | brought O | me O | to O | tears O | and O | I O | have O | had O | to O | use O | sick O | leave O | from O | work O | . O | My O | doctor O | tested O | me O | for O | arthritis B-Disease | and O | other O | problems O | and O | all O | tests O | came O | back O | normal O | but O | thank O | goodness O | she O | took O | me O | off O | the O | Lipitor B-Drug | . O | I O | would O | not O | recommend O | this O | medication O | . O 
+
+Structured Output:
+T1 Drug 8 14 Lipitor
+T2 Symptom 43 47 pain
+T3 Disease 95 103 arthritis
+T4 Drug 121 127 Lipitor

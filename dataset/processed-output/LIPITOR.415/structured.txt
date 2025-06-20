@@ -1,0 +1,10 @@
+T1 Symptom 16 32 muscle weakness
+T2 Symptom 44 48 pain
+T3 Symptom 79 83 legs
+T4 Disease 103 115 polymyositis
+T5 Drug 124 130 Lipitor
+T6 Drug 186 192 lipitor
+T7 Disease 196 210 rheumatologist
+T8 Drug 213 219 STATIN
+T9 Disease 253 264 Polymyositis
+T10 Drug 270 276 Lipitor

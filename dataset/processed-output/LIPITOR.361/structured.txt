@@ -1,0 +1,10 @@
+T1 Symptom 0 6 Aching
+T2 Symptom 28 43 extreme fatigue
+T3 Symptom 52 60 stiffness
+T4 Disease 74 83 depression
+T5 Drug 99 106 statins
+T6 Drug 166 177 Spacedoc.net
+T7 Drug 186 193 statins
+T8 ADR 211 215 serious
+T9 ADR 217 222 side effects
+T10 Drug 226 233 statins

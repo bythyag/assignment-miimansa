@@ -1,0 +1,10 @@
+T1 Symptom 78 84 severe back spasms
+T2 Symptom 96 101 intense pain
+T3 Symptom 107 112 knees
+T4 Symptom 141 146 legs
+T5 Symptom 151 158 Weakness
+T6 Symptom 173 177 right arm
+T7 Symptom 246 255 Extreme anxiety
+T8 ADR 208 219 side effects
+T9 Drug 62 67 COQ10
+T10 Drug 134 144 potassium

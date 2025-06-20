@@ -1,0 +1,12 @@
+BIO Sequence:  
+Very O | painful O | muscle B-Symptom | aches I-Symptom | especially O | in O | calves B-Symptom | and O | lower B-Symptom | back I-Symptom | . O | The O | pain B-Symptom | is O | especially O | bad O | in O | the O | morning B-Symptom | and O | it O | is O | very O | hard O | to O | get O | out O | of O | bed O | in O | the O | morning B-Symptom | . O | Doctors O | should O | be O | more O | aware O | of O | the O | complications B-ADR | related O | to O | this O | drug B-Drug | . O
+
+Structured Output:  
+T1 Symptom 22 31 muscle aches  
+T2 Symptom 39 44 calves  
+T3 Symptom 48 58 lower back  
+T4 Symptom 66 70 pain  
+T5 Symptom 83 90 morning  
+T6 Symptom 113 119 morning  
+T7 ADR 81 92 complications  
+T8 Drug 103 107 drug  

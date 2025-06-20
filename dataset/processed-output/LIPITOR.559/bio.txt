@@ -1,0 +1,1 @@
+severe B-Symptom | abdominal I-Symptom | cramps I-Symptom | , O | leg B-Symptom | cramps I-Symptom | , O | diahhrea B-Symptom | , O | after O | taking O | 10mg B-Drug | only O | 3 O | days O | . O | Symptoms O | still O | persist O | 1 O | week O | later O | . O | Don't O | take O | it O | . O

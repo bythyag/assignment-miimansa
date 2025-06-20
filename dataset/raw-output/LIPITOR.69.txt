@@ -1,0 +1,19 @@
+BIO Sequence:
+Eye O | sight B-Symptom | appeared O | foggy O | when O | it O | was O | perfect O | before O | , O | some O | loss B-Symptom | of O | hair B-Symptom | , O | aches B-Symptom | and O | pains I-Symptom | in O | my O | back B-Symptom | , O | a O | cough B-Symptom | , O | sore B-Symptom | ankles I-Symptom | when O | I O | exercise O | . O | Sore B-Symptom | joints I-Symptom | . O | but O | even O | more O | scarey O | it O | made O | me O | depressed B-ADR | ! O | What O | sort O | of O | drugs B-Drug | are O | they O | maiking O | us O | take O | ? O | I O | ' O | m O | stopping O | right O | now O | after O | finding O | this O | site O | . O | It O | did O | lower O | my O | CL O | though O | . O | I O | ' O | m O | going O | to O | take B-Drug | Omega I-Drug | 3 I-Drug | , O | carry O | on O | exercising O | and O | try O | my O | luck O | . O
+
+Structured Output:
+T1 Symptom 4 10 sight
+T2 Symptom 50 53 loss
+T3 Symptom 55 59 hair
+T4 Symptom 61 66 aches
+T5 Symptom 71 76 pains
+T6 Symptom 82 85 back
+T7 Symptom 87 91 cough
+T8 Symptom 93 97 sore
+T9 Symptom 103 108 ankles
+T10 Symptom 127 132 Sore
+T11 Symptom 134 139 joints
+T12 ADR 147 155 depressed
+T13 Drug 27 32 drugs
+T14 Drug 49 54 Omega
+T15 Drug 55 56 3

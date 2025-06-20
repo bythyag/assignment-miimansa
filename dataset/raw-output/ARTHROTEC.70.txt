@@ -1,0 +1,8 @@
+BIO Sequence:
+severe B-Symptom | acid B-Disease | reflux I-Disease | after O | taking O | for O | 15 O | days O | . O | I O | am O | back O | on O | it O | now O | for O | 1 O | month O | after O | making O | adjustment O | to O | my O | diet O | . O | Helps O | very O | much O | . O | I O | would O | get O | about O | a O | 30 O | sec O | . O | headache B-Symptom | but O | no O | longer O | . O | AS O | I O | have O | had O | a O | history O | of O | running O | to O | the O | toilet O | I O | dont O | do O | that O | any O | longer O | . O | Happy O | response O | . O | Since O | I O | cant O | take O | most O | of O | the O | other O | meds O | . O | I O | was O | hoping O | this O | one O | would O | do O | the O | job O | . O | It O | is O | helping O | more O | than O | I O | could O | have O | wished O | for O | . O | If O | you O | email O | me O | , O | make O | sure O | you O | put O | the O | subject O | in O | or O | I O | wont O | answer O | . O 
+
+Structured Output:
+T1 Symptom 1 7 severe
+T2 Disease 8 13 acid
+T3 Disease 14 20 reflux
+T4 Symptom 91 99 headache

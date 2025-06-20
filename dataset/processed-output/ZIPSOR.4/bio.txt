@@ -1,0 +1,1 @@
+Gave O | pretty O | good O | pain B-Symptom | relief I-Symptom | , O | with O | no O | side B-ADR | effects I-ADR | , O | and O | is O | very O | fast O | acting O | . O | Better O | than O | mobic B-Drug | . O

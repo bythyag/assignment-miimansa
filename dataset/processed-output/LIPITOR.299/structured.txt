@@ -1,0 +1,4 @@
+T1 Disease 28 41 The New 8-week Cholesterol Cure
+T2 Drug 64 71 Robert Kowalski
+T3 Disease 123 132 cholesterol
+T4 Disease 169 178 cholesterol

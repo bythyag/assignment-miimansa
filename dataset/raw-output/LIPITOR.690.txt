@@ -1,0 +1,12 @@
+BIO Sequence:
+I O | HURT B-Symptom | EVERY O | WHERE O | . O | I O | FELT O | LIKE O | I O | HAD O | BEEN O | RUN O | OVER O | BY O | A O | TRUCK O | ALL O | THE O | TIME O | . O | I O | WAS O | SO O | WEEK B-Symptom | AT O | TIMES O | I O | COULDN'T O | WALK O | ACROSS O | THE O | ROOM O | . O | I O | REALLY O | THOUGH O | I O | WAS O | GOING O | TO O | DIE B-Symptom | . O | MY O | DR O | SAYS O | IT O | WAS O | NOT O | FROM O | THE O | LIPITOR B-Drug | . O | IT O | HAS O | TAKEN O | MANY O | MONTHS O | FOR O | ME O | TO O | FEEL O | ALMOST O | NORMAL O | AGAIN O | . O | I O | STARTED O | TAKING O | B-6 B-Drug | 100 O | MG O | B-12 B-Drug | 1000 O | MCG O | AND O | 800 O | MCG O | OF O | FOLIC B-Drug | ACID I-Drug | EVERYDAY O | AND O | IT O | HAS O | KEPT O | MY O | CHOLESTEROL B-Disease | IN O | THE O | NORMAL O | RANGE O | . O
+
+Structured Output:
+T1 Symptom 2 6 HURT
+T2 Symptom 35 39 WEEK
+T3 Symptom 79 82 DIE
+T4 Drug 68 75 LIPITOR
+T5 Drug 33 37 B-6
+T6 Drug 39 43 B-12
+T7 Drug 60 68 FOLIC ACID
+T8 Disease 109 120 CHOLESTEROL

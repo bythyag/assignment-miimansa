@@ -1,0 +1,27 @@
+T1 Disease 25 37 High Cholesterol
+T2 Symptom 48 52 sore feet
+T3 Disease 60 68 Faciitis
+T4 Symptom 84 89 Hands
+T5 Symptom 91 97 fingers
+T6 Symptom 99 105 wrists
+T7 Symptom 107 113 lumbar
+T8 Disease 115 117 AC
+T9 Disease 119 125 joints
+T10 Symptom 127 136 dry mouth
+T11 Symptom 138 151 hair falling out
+T12 Disease 155 179 autoimmune polyarthritis
+T13 Drug 193 216 anti-inflammatories
+T14 ADR 222 235 side effects
+T15 Drug 247 253 Lipitor
+T16 Symptom 270 274 feet
+T17 Symptom 279 286 ankles
+T18 Symptom 295 299 Hands
+T19 Symptom 302 306 sore
+T20 Symptom 338 345 movement
+T21 Symptom 358 365 fatigue
+T22 Disease 369 375 joints
+T23 Drug 386 392 Lipitor
+T24 Symptom 396 403 bad
+T25 Symptom 424 428 day
+T26 Symptom 447 451 rest
+T27 Drug 473 479 drug

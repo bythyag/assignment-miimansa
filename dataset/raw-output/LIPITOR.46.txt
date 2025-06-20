@@ -1,0 +1,14 @@
+BIO Sequence:
+Indigestion B-Symptom | , O | intense B-Symptom | heart B-Symptom | pain I-Symptom | , O | sore B-Symptom | muscles I-Symptom | , O | anxious B-Symptom | , O | restless B-Symptom | , O | lack B-Symptom | of O | sleep I-Symptom | . O | Has O | anyone O | had O | severe B-Symptom | chest I-Symptom | pain I-Symptom | ? O | I O | have O | loss B-Symptom | the O | will O | to O | do O | anything O | . O | no O | sleep B-Symptom | , O | emotional B-Symptom | , O | just O | plain O | want O | to O | give O | up O | . O 
+
+Structured Output:
+T1 Symptom 0 10 Indigestion
+T2 Symptom 12 26 intense heart pain
+T3 Symptom 28 39 sore muscles
+T4 Symptom 41 48 anxious
+T5 Symptom 50 58 restless
+T6 Symptom 60 71 lack of sleep
+T7 Symptom 92 102 severe chest pain
+T8 Symptom 119 123 loss
+T9 Symptom 140 145 sleep
+T10 Symptom 147 155 emotional

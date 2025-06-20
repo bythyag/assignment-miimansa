@@ -1,0 +1,15 @@
+BIO Sequence:
+I O | am O | a O | 61 B-Symptom | year O | old O | male O | with O | a O | history O | of O | heart B-Disease | disease I-Disease | . O | I O | had O | a O | quadruple B-Disease | by-pass I-Disease | in O | 1987 O | . O | I O | have O | not O | had O | any O | heart B-Disease | related I-Disease | issues O | since O | . O | My O | nurse B-Drug | practioner I-Drug | put O | me O | on O | Lipitor B-Drug | about O | 4 O | years O | ago O | . O | I O | have O | been O | experiencing O | pain B-Symptom | in O | my O | right O | hip B-Symptom | and O | right O | calf B-Symptom | muscle I-Symptom | for O | about O | 3 O | years O | . O | I O | have O | mentioned O | this O | on O | numerous O | office O | visits O | and O | was O | . O
+
+Structured Output:
+T1 Symptom 23 25 61
+T2 Disease 49 54 heart disease
+T3 Disease 69 81 quadruple by-pass
+T4 Disease 95 100 heart
+T5 Disease 106 113 related
+T6 Drug 122 128 nurse practioner
+T7 Drug 130 136 Lipitor
+T8 Symptom 157 161 pain
+T9 Symptom 166 170 hip
+T10 Symptom 176 180 calf muscle
+T11 Symptom 184 188 years

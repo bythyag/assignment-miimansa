@@ -1,0 +1,5 @@
+BIO Sequence:
+Flatulence B-Symptom
+
+Structured Output:
+T1 Symptom 0 9 Flatulence

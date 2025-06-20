@@ -1,0 +1,15 @@
+T1 Drug 13 20 Lipitor
+T2 Drug 48 54 plavix
+T3 Drug 56 63 Zestril
+T4 Drug 65 73 Lopressor
+T5 Drug 93 99 Zestril
+T6 Drug 101 109 Lopressor
+T7 ADR 117 126 prblems
+T8 Drug 133 139 diovan
+T9 Drug 141 147 Lipitor
+T10 Symptom 158 162 pain
+T11 Symptom 165 169 back
+T12 Symptom 174 179 knee
+T13 Symptom 182 190 hematuria
+T14 Symptom 198 206 hematuria
+T15 Drug 214 220 Lipitor

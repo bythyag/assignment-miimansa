@@ -1,0 +1,1 @@
+back B-Symptom | pain I-Symptom | , O | aching B-Symptom | joints I-Symptom | and O | muscles I-Symptom | , O | flatulence B-Symptom | and O | wind I-Symptom | , O | hair B-Symptom | loss I-Symptom | . O

@@ -1,0 +1,17 @@
+T1 Symptom 81 85 pain
+T2 Symptom 101 117 mental confusion
+T3 Symptom 123 136 short term memory loss
+T4 Disease 188 193 stress
+T5 Disease 197 205 arthritis
+T6 Symptom 213 221 leg pain
+T7 Symptom 223 228 body cramps
+T8 Disease 273 279 aortic aneurysm
+T9 Symptom 294 301 fatigue
+T10 Symptom 306 310 lack of energy
+T11 Symptom 328 337 growing depression
+T12 Symptom 347 357 fragility
+T13 Disease 363 375 fibromyalgia
+T14 Drug 377 384 lipitor
+T15 Drug 400 408 lipitor
+T16 Drug 411 420 cholestral
+T17 Drug 426 433 Lipitor

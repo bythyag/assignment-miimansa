@@ -1,0 +1,8 @@
+T1 Symptom 0 13 Severe back pain  
+T2 Symptom 15 25 flank pain  
+T3 Symptom 27 36 hematuria  
+T4 Disease 38 53 kidney failure  
+T5 Drug 55 61 Lipitor  
+T6 Disease 73 78 liver  
+T7 Disease 83 89 kidney  
+T8 Disease 91 97 damage

@@ -1,0 +1,8 @@
+BIO Sequence:
+High B-Disease | Liver I-Disease | Enzyme I-Disease | Counts O | . O | Muscle B-Symptom | Fatigue I-Symptom | . O | Lipitor B-Drug | has O | damaged O | my O | liver B-Disease | permanently O | . O | I O | will O | never O | be O | the O | same O | . O
+
+Structured Output:
+T1 Disease 0 17 High Liver Enzyme Counts
+T2 Symptom 18 34 Muscle Fatigue
+T3 Drug 36 42 Lipitor
+T4 Disease 56 61 liver

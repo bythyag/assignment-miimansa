@@ -1,0 +1,9 @@
+T1 Drug 46 52 lipitor
+T2 ADR 61 67 muscle spasms
+T3 Symptom 90 94 pain
+T4 Drug 56 62 lipitor
+T5 Drug 77 83 lipitor
+T6 Symptom 137 142 muscle pain
+T7 ADR 174 180 muscle spasms
+T8 Drug 211 217 lipitor
+T9 Drug 266 270 drug

@@ -1,0 +1,10 @@
+T1 Symptom 0 18 Cognitive disfunction
+T2 Symptom 20 29 neuropathy
+T3 Symptom 33 40 tinnitis
+T4 Symptom 45 53 difficulty
+T5 Symptom 61 66 speech
+T6 Symptom 68 77 neck pain
+T7 Symptom 79 92 extreme fatigue
+T8 Symptom 94 110 muscle weakness
+T9 Symptom 114 130 difficulty walking
+T10 Drug 132 136 drug

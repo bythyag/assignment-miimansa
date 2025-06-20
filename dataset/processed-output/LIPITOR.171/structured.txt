@@ -1,0 +1,20 @@
+T1 Symptom 0 17 Lower back pain  
+T2 Symptom 18 27 stiff neck  
+T3 Drug 36 43 Lipitor  
+T4 Drug 50 54 20MG  
+T5 Symptom 117 135 lower back pain  
+T6 Symptom 145 149 severe  
+T7 Symptom 193 203 neck pain  
+T8 Disease 217 222 muscle injury  
+T9 Disease 230 236 injury  
+T10 Drug 248 254 Lipitor  
+T11 Disease 313 319 muscle injury  
+T12 Disease 330 236 injury  
+T13 Symptom 342 346 Neck pain  
+T14 Symptom 442 462 LOWER BACK PAIN  
+T15 Symptom 467 471 7.5 HOURS OF SLEEP  
+T16 Symptom 476 483 pain  
+T17 Symptom 550 558 back pain  
+T18 Disease 598 604 spinal disks  
+T19 Drug 611 617 Lipitor  
+T20 Drug 619 625 LIPITOR

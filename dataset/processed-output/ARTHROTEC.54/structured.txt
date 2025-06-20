@@ -1,0 +1,2 @@
+T1 ADR 36 44 side effects
+T2 Drug 49 56 Arthrotec

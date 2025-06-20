@@ -1,0 +1,26 @@
+T1 Symptom 39 47 muscular aches
+T2 Symptom 52 57 pains
+T3 Symptom 85 100 joint discomfort
+T4 Symptom 116 120 legs
+T5 Symptom 125 131 ankles
+T6 Symptom 137 141 feet
+T7 Symptom 152 160 heaviness
+T8 Symptom 177 184 fatigue
+T9 Symptom 209 214 weight gain
+T10 Symptom 221 230 depression
+T11 Disease 241 248 menopause
+T12 Symptom 268 279 upper abdominal discomfort
+T13 Drug 293 300 Crestor
+T14 ADR 320 334 polyathralgia
+T15 Symptom 378 382 walk
+T16 Symptom 395 404 cholesterol
+T17 Drug 407 412 drugs
+T18 Drug 414 420 Lipitor
+T19 Drug 544 550 Lipitor
+T20 Symptom 560 570 cholesterol
+T21 Disease 600 610 Heart disease
+T22 Disease 612 620 diabetes
+T23 Disease 628 642 high blood pressure
+T24 Drug 655 661 Lipitor
+T25 Symptom 669 679 symptoms
+T26 Symptom 688 696 cholesterol

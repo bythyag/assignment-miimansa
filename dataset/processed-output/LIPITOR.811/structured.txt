@@ -1,0 +1,11 @@
+T1 Drug 24 30 10 mg
+T2 Symptom 41 55 increasing muscle pain
+T3 Symptom 56 60 legs
+T4 Symptom 62 65 right hip
+T5 Symptom 67 76 depression
+T6 Drug 91 96 20 mgs
+T7 Symptom 98 103 heart palpitations
+T8 ADR 113 117 pain
+T9 Drug 139 145 Lipitor
+T10 Symptom 176 186 flu-like symptoms
+T11 Symptom 196 207 all-over muscle pain

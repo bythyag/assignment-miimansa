@@ -1,0 +1,12 @@
+BIO Sequence:
+Tired O | more O | than O | ususal O | , O | Heartburn B-Symptom | . O | 10 O | mg O | daily O | Lowered O | Chlestrol B-Disease | from O | 220 O | to O | LDL B-Disease | 111 O | and O | HDL B-Disease | 34 O | . O | Combined O | with O | Niaspan B-Drug | and O | Folgard B-Drug | . O | Still O | working O | to O | increase O | HDL B-Disease | . O | Eating O | everything O | I O | shouldn't O | and O | no O | exercise B-Symptom | . O
+
+Structured Output:
+T1 Symptom 28 37 Heartburn
+T2 Disease 52 60 Chlestrol
+T3 Disease 66 70 LDL
+T4 Disease 75 79 HDL
+T5 Drug 96 103 Niaspan
+T6 Drug 109 116 Folgard
+T7 Disease 120 124 HDL
+T8 Symptom 142 150 exercise

@@ -1,0 +1,11 @@
+T1 Symptom 0 29 Severe lower back pain
+T2 Drug 49 55 Lipitor
+T3 Drug 64 71 10-20
+T4 Symptom 106 110 pain
+T5 Symptom 141 144 leg
+T6 Disease 157 160 flu
+T7 Drug 182 187 10
+T8 Symptom 196 207 back pain
+T9 Disease 215 218 flu
+T10 ADR 244 251 reaction
+T11 Drug 255 259 drug

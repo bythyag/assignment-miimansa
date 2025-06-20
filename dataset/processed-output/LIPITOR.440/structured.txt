@@ -1,0 +1,6 @@
+T1 Symptom 0 5 aches
+T2 Symptom 6 11 pains
+T3 Symptom 13 21 muscular
+T4 Symptom 22 29 soreness
+T5 Symptom 33 38 arms
+T6 Symptom 43 51 shoulders

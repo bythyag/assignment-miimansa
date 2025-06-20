@@ -1,0 +1,1 @@
+Headache B-Symptom | , O | dizziness B-Symptom | . O | I O | took O | 1 O | tablet B-Drug | today O | , O | and O | wo n't O | take O | another O | one O | . O | I O | looked O | up O | the O | side-effects B-ADR | because O | of O | a O | headache B-Symptom | and O | am O | scared O | to O | death O | by O | what O | I O | read O | . O

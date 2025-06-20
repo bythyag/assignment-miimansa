@@ -1,0 +1,10 @@
+T1 ADR 9 19 side effects
+T2 Symptom 47 50 12
+T3 Drug 27 34 voltaren
+T4 Drug 36 40 75
+T5 ADR 59 66 bruising
+T6 ADR 71 83 inflammation
+T7 Disease 104 110 ulner nerve
+T8 Symptom 135 141 relief
+T9 Drug 158 162 drug
+T10 Drug 172 176 drug

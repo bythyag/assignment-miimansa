@@ -1,0 +1,14 @@
+BIO Sequence:
+Male O | , O | 67 O | while O | taking O | Lipitor B-Drug | for O | 5 O | months O | I O | experienced O | severe O | weight B-Symptom | loss I-Symptom | , O | muscle B-Symptom | pain I-Symptom | and O | loss I-Symptom | of O | strength B-Symptom | . O | AFTER O | coming O | off O | Lipitor B-Drug | , O | arthritis B-Disease | set O | in O | over O | entire O | body O | , O | which O | I O | have O | never O | suffered O | with O | before O | taking O | Lipitor B-Drug | . O | Has O | anybody O | else O | experienced O | any O | arthritis B-Disease | AFTER O | coming O | off O | Lipitor B-Drug | ? O
+
+Structured Output:
+T1 Drug 28 34 Lipitor
+T2 Symptom 66 71 weight loss
+T3 Symptom 73 77 muscle pain
+T4 Symptom 83 87 loss
+T5 Symptom 90 97 strength
+T6 Drug 118 124 Lipitor
+T7 Disease 126 134 arthritis
+T8 Drug 142 148 Lipitor
+T9 Disease 155 163 arthritis
+T10 Drug 178 184 Lipitor

@@ -1,0 +1,3 @@
+T1 Symptom 0 7 Bleeding  
+T2 Symptom 18 29 lightheaded  
+T3 Symptom 34 45 finger tingling

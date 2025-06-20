@@ -1,0 +1,11 @@
+BIO Sequence:
+Confusion B-Symptom | , O | short O | term O | memory B-Symptom | loss I-Symptom | , O | lack O | of O | motivation B-Symptom | . O | Returned O | to O | normal O | within O | a O | week O | of O | quitting O | Lipitor B-Drug | . O | I O | had O | rather O | risk O | living O | with O | a O | 228 O | cholesterol B-Disease | level O | than O | deal O | with O | the O | memory B-Symptom | loss I-Symptom | . O | It O | was O | quite O | frightening O | as O | it O | seemed O | like O | incipient B-Disease | dementia I-Disease | . O
+
+Structured Output:
+T1 Symptom 0 8 Confusion
+T2 Symptom 21 43 short term memory loss
+T3 Symptom 45 63 lack of motivation
+T4 Drug 66 72 Lipitor
+T5 Disease 80 89 cholesterol
+T6 Symptom 107 119 memory loss
+T7 Disease 133 141 incipient dementia

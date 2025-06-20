@@ -1,0 +1,15 @@
+T1 Symptom 62 69 painful  
+T2 Drug 67 74 LIPITOR  
+T3 Disease 83 92 cholosterol  
+T4 Disease 98 101 tri  
+T5 ADR 132 148 side-effects  
+T6 Disease 160 165 mild  
+T7 Disease 166 171 heart  
+T8 Disease 172 178 attack  
+T9 Drug 197 203 lipitor  
+T10 ADR 231 235 back  
+T11 ADR 237 245 pain  
+T12 ADR 248 257 tiredness  
+T13 Disease 267 273 heart  
+T14 Disease 274 280 attack  
+T15 Symptom 301 308 painful

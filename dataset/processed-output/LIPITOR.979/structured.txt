@@ -1,0 +1,17 @@
+T1 Symptom 38 43 knees
+T2 Symptom 48 54 elbows
+T3 Symptom 60 66 mental distress
+T4 Symptom 146 151 knees
+T5 Symptom 156 162 elbows
+T6 Symptom 205 209 sore
+T7 Disease 201 229 Repetitive stress syndrome
+T8 Disease 291 299 arthritis
+T9 Symptom 366 372 hiking
+T10 Drug 40 47 Lipitor
+T11 Symptom 477 482 knees
+T12 Symptom 486 492 elbows
+T13 Symptom 531 638 stiffness
+T14 Drug 603 610 lipitor
+T15 ADR 629 640 muscles
+T16 Drug 657 663 lipitor
+T17 Drug 727 733 Pfizer

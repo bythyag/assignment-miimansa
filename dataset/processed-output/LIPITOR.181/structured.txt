@@ -1,0 +1,11 @@
+T1 Drug 20 26 Liptor
+T2 Symptom 69 77 fatigued
+T3 Symptom 79 87 headaches
+T4 Symptom 102 111 leg cramps
+T5 Symptom 116 129 dark urine
+T6 Disease 150 155 liver
+T7 Drug 199 207 phytomega vitamins
+T8 Drug 212 218 statin drugs
+T9 Symptom 255 265 leg cramps
+T10 Symptom 270 276 hair loss
+T11 Drug 281 288 Mevacor

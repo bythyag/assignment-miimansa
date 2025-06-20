@@ -1,0 +1,8 @@
+BIO Sequence:
+Joint B-Symptom | and O | muscle I-Symptom | pain I-Symptom | ; O | leg B-Symptom | and O | foot I-Symptom | cramping I-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 5 Joint  
+T2 Symptom 6 12 muscle pain  
+T3 Symptom 14 17 leg  
+T4 Symptom 22 28 foot cramping

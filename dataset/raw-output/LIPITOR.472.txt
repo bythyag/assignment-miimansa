@@ -1,0 +1,18 @@
+BIO Sequence:
+Muscle B-Symptom | pain I-Symptom | in O | feet B-Symptom | , O | shoulders B-Symptom | , O | chest B-Symptom | muscle I-Symptom | , O | arms B-Symptom | . O | Tingling B-Symptom | in O | extremities I-Symptom | and O | chronic B-Symptom | fatigue I-Symptom | . O | Headache B-Symptom | . O | WHAT O | A O | PRICE O | TO O | PAY O | !! O | I O | have O | always O | been O | athletic O | ( O | no O | , O | I O | ' O | m O | not O | one O | of O | those O | dreamers O | that O | pretends O | I O | am O | ) O | . O | I O | bike O | 60+ O | miles O | a O | week O | , O | plus O | weight O | train O | twice O | a O | week O | . O | Usually O | , O | I O | would O | been O | sore O | once O | in O | a O | while O | from O | over-doing O | it O | , O | but O | not O | for O | days O | on O | end O | and O | not O | in O | such O | severity O | . O | I O | used O | a O | 5 B-Drug | pound I-Drug | sledge I-Drug | to O | do O | some O | work O | and O | I O | felt O | like O | I O | had O | severe B-Symptom | arthritis I-Symptom | in O | my O | right O | hand O | for O | at O | least O | a O | week O | and O | a O | half O | . O | I O | feel O | very O | bad O | for O | those O | of O | you O | that O | didn O | ' O | t O | find O | out O | until O | late O | about O | this O | junk O | . O | I O | didn O | ' O | t O | have O | any O | digestive B-Disease | problems I-Disease | , O | but O | did O | have O | the O | headache I-Symptom | described O | , O | and O | as O | pointed O | out O | by O | others O | , O | nothing O | will O | help O | the O | pain O | . O | I O | have O | been O | off O | this O | stuff O | for O | two O | days O | now O | , O | and O | feeling O | better O | already O | . O | I O | wish O | you O | all O | a O | swift O | return O | to O | a O | high O | quality O | of O | life O | . O 
+
+Structured Output:
+T1 Symptom 0 12 Muscle pain
+T2 Symptom 14 18 feet
+T3 Symptom 20 29 shoulders
+T4 Symptom 31 44 chest muscle
+T5 Symptom 46 51 arms
+T6 Symptom 53 61 Tingling
+T7 Symptom 63 75 extremities
+T8 Symptom 80 94 chronic fatigue
+T9 Symptom 96 103 Headache
+T10 Drug 228 233 5 pound sledge
+T11 Symptom 275 282 severe arthritis
+T12 Disease 344 354 digestive problems
+T13 Symptom 366 373 headache
+T14 Symptom 391 395 pain

@@ -1,0 +1,22 @@
+T1 Symptom 50 62 tunnel vision
+T2 Symptom 64 71 vertigo
+T3 Symptom 73 80 tingling
+T4 Symptom 85 92 numbness
+T5 Symptom 96 101 hands
+T6 Symptom 107 111 legs
+T7 Symptom 117 121 face
+T8 Symptom 131 139 complete weakness
+T9 Symptom 145 149 body flushes
+T10 Disease 179 184 stroke
+T11 Drug 217 220 CT
+T12 Drug 222 225 MRI
+T13 Drug 227 230 MRA
+T14 Drug 232 248 Echocardiogram
+T15 Drug 250 257 Doppler
+T16 Drug 266 272 Carotids
+T17 Drug 274 280 X-rays
+T18 Disease 307 310 TIA
+T19 Symptom 358 370 body flushes
+T20 Drug 391 397 Lipitor
+T21 Drug 421 427 Lipitor
+T22 Disease 443 448 brain aneurysm

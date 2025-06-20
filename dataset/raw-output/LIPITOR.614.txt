@@ -1,0 +1,22 @@
+BIO Sequence:
+After O | a O | routine O | check O | up O | my O | cholesterol B-Disease | level O | was O | found O | to O | be O | sky O | high O | . O | So O | two O | months O | ago O | the O | internist O | put O | me O | on O | Lipitor B-Drug | for O | high O | cholesterol B-Disease | . O | The O | lipitor I-Drug | helped O | in O | reducing O | the O | cholesterol O | level O | by O | 20% O | . O | The O | side O | effects O | were O | terrible O | ! O | I O | had O | for O | a O | number O | of O | years O | pain B-Symptom | in O | my O | hipjoints B-Disease | . O | The O | lipitor I-Drug | increased O | the O | pain I-Symptom | tenfold O | . O | I O | could O | hardly O | walk B-Symptom | , O | sit B-Symptom | or O | drive O | the O | car O | . O | The O | pain O | I O | was O | experiencing O | especially O | around O | the O | hipjoints I-Disease | was O | incredible O | . O | I O | told O | the O | specialist O | about O | these O | side-effects B-ADR | and O | he O | told O | me O | to O | reduce O | the O | dose O | from O | 1 O | a O | day O | to O | 1 O | every O | two O | days O | ! O | ? O | I O | had O | already O | stopped O | taking O | the O | lipitor I-Drug | for O | a O | week O | and O | the O | pain O | had O | decreased O | somewhat O | . O | I O | learned O | from O | the O | pharmacist O | that O | this O | drug B-Drug | can O | cause O | wasting O | of O | muscles O | and O | that O | it O | was O | possible O | to O | end O | up O | in O | a O | wheelchair O | because O | of O | it O | !! O | I O | am O | going O | to O | start O | on O | alternative O | medicines O | . O | I O | am O | never O | going O | to O | use O | this O | medicine O | again O | ! O | . O
+
+Structured Output:
+T1 Disease 52 61 cholesterol
+T2 Drug 77 84 Lipitor
+T3 Disease 95 106 cholesterol
+T4 ADR 155 167 side effects
+T5 Symptom 178 182 pain
+T6 Disease 187 197 hipjoints
+T7 Drug 238 245 lipitor
+T8 Symptom 254 258 pain
+T9 Symptom 273 277 walk
+T10 Symptom 283 287 sit
+T11 Disease 303 313 hipjoints
+T12 ADR 377 391 side-effects
+T13 Drug 411 415 lipitor
+T14 Drug 463 467 drug
+T15 Symptom 487 494 wasting
+T16 Disease 499 506 muscles
+T17 Disease 517 527 wheelchair
+T18 Drug 552 559 medicine

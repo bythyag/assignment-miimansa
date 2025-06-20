@@ -1,0 +1,8 @@
+BIO Sequence:
+Sudden O | onset O | of O | extreme B-Symptom | weakness I-Symptom | and O | fatigue B-Symptom | . O | I O | got O | up O | one O | morning O | and O | could O | barely O | walk O | across O | the O | room O | . O | I O | stopped O | taking O | the O | drug B-Drug | and O | the O | symptoms B-Symptom | disappeared O | . O
+
+Structured Output:
+T1 Symptom 28 36 extreme weakness
+T2 Symptom 38 45 fatigue
+T3 Drug 84 88 drug
+T4 Symptom 99 107 symptoms

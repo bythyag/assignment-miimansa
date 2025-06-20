@@ -1,0 +1,9 @@
+T1 Symptom 42 54 stomach pain
+T2 ADR 70 75 bled
+T3 ADR 79 86 Bleeding
+T4 ADR 104 111 clotting
+T5 ADR 123 127 rash
+T6 ADR 132 136 wrist
+T7 ADR 155 166 side effects
+T8 ADR 180 188 reaction
+T9 Drug 204 208 drug

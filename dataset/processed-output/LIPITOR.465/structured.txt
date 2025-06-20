@@ -1,0 +1,15 @@
+T1 Drug 22 29 Lipitor
+T2 Disease 59 69 cholesterol
+T3 Disease 114 138 endocrynologist
+T4 Symptom 201 205 pain
+T5 Disease 227 234 pilates class
+T6 Symptom 267 272 pain
+T7 ADR 295 301 cramps
+T8 Symptom 345 350 pain
+T9 Disease 399 407 abdomen
+T10 Symptom 448 457 tiredness
+T11 Disease 464 475 high heels
+T12 ADR 493 500 swollen
+T13 ADR 508 514 painful
+T14 Drug 550 557 Lipitor
+T15 Disease 566 569 ALS

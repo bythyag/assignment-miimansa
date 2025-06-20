@@ -1,0 +1,7 @@
+T1 Symptom 60 65 severe pain
+T2 Symptom 75 80 legs
+T3 Symptom 93 108 muscle strength
+T4 Symptom 154 166 hyper sensitive
+T5 Drug 205 211 Lipitor
+T6 Symptom 238 248 cholesterol
+T7 Symptom 253 256 LDL

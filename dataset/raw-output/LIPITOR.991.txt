@@ -1,0 +1,12 @@
+BIO Sequence:
+Brain B-Symptom | fog I-Symptom | and O | decreased O | cognitive O | skills O | . O | Does O | wonders O | for O | reducing O | LDL B-Disease | Cholestrol I-Disease | . O | Short B-Symptom | term I-Symptom | memory I-Symptom | and O | brain B-Symptom | fog I-Symptom | were O | brutal O | . O | Since O | I O | also O | have O | anxiety B-Disease | issues I-Disease | , O | I O | was O | not O | sure O | if O | Lipitor B-Drug | caused O | side B-ADR | effects I-ADR | . O | Stopped O | liptor B-Drug | and O | improved O | diet O | and O | memory O | improved O | . O 
+
+Structured Output:
+T1 Symptom 0 9 Brain fog
+T2 Disease 43 56 LDL Cholestrol
+T3 Symptom 58 72 Short term memory
+T4 Symptom 74 82 brain fog
+T5 Disease 93 99 anxiety issues
+T6 Drug 108 115 Lipitor
+T7 ADR 123 135 side effects
+T8 Drug 144 150 liptor

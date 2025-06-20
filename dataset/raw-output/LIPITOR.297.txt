@@ -1,0 +1,30 @@
+BIO Sequence:
+extreme O | disabling O | vertigo B-Symptom | , O | loss B-Symptom | of O | support O | in O | all O | muscels O | in O | particular O | calf B-Symptom | and O | leg B-Symptom | , O | excruciatig B-Symptom | pain B-Symptom | if O | try O | to O | use O | muscels O | confined O | to O | bed O | for O | 2 O | weeks O | unable O | to O | leave O | , O | loss B-Symptom | of O | sex B-Symptom | drive O | , O | hair B-Symptom | , O | memory B-Symptom | loss B-Symptom | , O | extreme O | fatigue B-Symptom | no O | mater O | how O | much O | i O | slept O | , O | partial O | tempoary O | loss B-Symptom | of O | sight B-Symptom | one O | eye O | , O | hardest O | on O | legs B-Symptom | , O | calfs O | , O | and O | to O | lesser O | extent O | sholders O | . O | for O | me O | it O | was O | a O | posion O | , O | dr O | did O | not O | follow O | phizer B-Drug | advise O | , O | should O | have O | taken O | me O | off O | drug O | a O | year O | before O | due O | to O | my O | complaints O | instead O | of O | blaming O | it O | on O | my O | age O | . O | doctor O | did O | not O | test O | enzimes O | or O | sedementation B-Disease | rate O | . O | sedimentation O | rate O | important O | norm O | 1 O | to O | 20 O | mine O | was O | several O | hundred O | or O | more O | . O | been O | off O | drug O | for O | almost O | 5 O | months O | muscel O | pain B-ADR | is O | gone O | strength O | has O | recovered O | to O | 25 O | percent O | of O | normal O | , O | fatigue O | and O | vertigo B-Symptom | have O | lifted O | , O | cq10 B-Drug | may O | have O | helped O | . O | plus O | saw B-Drug | palmetto O | , O | fish B-Drug | oils O | , O | south B-Drug | beach O | diet O | , O | hydration O | but O | stil O | a O | long O | way O | from O | all O | clear O | , O | mental O | strength O | improving O | first O | , O | but O | body O | is O | still O | racked O | , O | depression B-Symptom | has O | left O | but O | still O | resting O | when O | i O | can O | and O | still O | feeling O | extremely O | vulnerable O | .
+
+Structured Output:
+T1 Symptom 26 32 vertigo
+T2 Symptom 41 45 loss
+T3 Symptom 83 87 calf
+T4 Symptom 92 95 leg
+T5 Symptom 109 121 excruciatig pain
+T6 Symptom 182 197 loss
+T7 Symptom 203 206 sex
+T8 Symptom 212 216 drive
+T9 Symptom 218 222 hair
+T10 Symptom 226 236 memory loss
+T11 Symptom 248 255 extreme fatigue
+T12 Symptom 272 284 partial tempoary loss
+T13 Symptom 290 295 sight
+T14 Symptom 300 303 one eye
+T15 Symptom 307 311 legs
+T16 Symptom 317 322 calfs
+T17 Drug 101 107 phizer
+T18 Drug 343 347 drug
+T19 Disease 368 384 sedementation rate
+T20 ADR 464 469 muscel pain
+T21 Symptom 497 503 vertigo
+T22 Drug 510 514 cq10
+T23 Drug 519 531 saw palmetto
+T24 Drug 533 542 fish oils
+T25 Drug 552 563 south beach diet
+T26 Symptom 647 655 depression

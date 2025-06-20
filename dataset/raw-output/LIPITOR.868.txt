@@ -1,0 +1,18 @@
+BIO Sequence:
+Severe B-Symptom | headache I-Symptom | , O | joint B-Symptom | and O | muscle B-Symptom | pain I-Symptom | , O | anorexia B-Symptom | , O | extreme B-Symptom | gas I-Symptom | , O | memory B-Symptom | loss I-Symptom | , O | mood B-Symptom | swings I-Symptom | . O | I O | had O | a O | LAD B-Disease | artery I-Disease | 100% O | blocked O | a O | couple O | years O | ago O | and O | suffered O | a O | miocardial B-Disease | infarction I-Disease | . O | The O | pain O | was O | unbearable O | and O | the O | pain O | from O | the O | headache B-Symptom | Lipitor B-Drug | caused O | was O | WORSE O | ! O | I've O | taken O | Zocor B-Drug | , O | Crestor B-Drug | and O | had O | similar O | problems O | with O | side B-ADR | effects I-ADR | , O | but O | i O | thought O | Lipitor B-Drug | was O | going O | to O | cause O | my O | death O | . O | NEVER O | again O | ! O 
+
+Structured Output:
+T1 Symptom 0 6 Severe headache
+T2 Symptom 8 24 joint and muscle pain
+T3 Symptom 26 34 anorexia
+T4 Symptom 36 46 extreme gas
+T5 Symptom 48 59 memory loss
+T6 Symptom 61 73 mood swings
+T7 Disease 78 81 LAD artery
+T8 Disease 87 104 miocardial infarction
+T9 Symptom 109 115 headache
+T10 Drug 117 123 Lipitor
+T11 Drug 129 135 Zocor
+T12 Drug 137 144 Crestor
+T13 ADR 156 168 side effects
+T14 Drug 171 177 Lipitor

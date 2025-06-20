@@ -1,0 +1,9 @@
+T1 Symptom 1 6 Severe back pain
+T2 Symptom 8 38 Leg,finger and feet joint pain
+T3 Disease 43 51 arthritis
+T4 Disease 53 63 Planta fasciitis
+T5 Symptom 65 79 Big weight gain in stomach area
+T6 Drug 118 124 10 mlg
+T7 Symptom 136 143 back pain
+T8 Drug 155 166 medication
+T9 Symptom 170 174 pain

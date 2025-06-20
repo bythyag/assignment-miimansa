@@ -1,0 +1,19 @@
+BIO Sequence:
+dizzines B-Symptom | dioreah B-Symptom | stomach B-Symptom | cramps I-Symptom | disorientation I-Symptom | . O | followed O | by O | ulceration B-Symptom | of O | the O | osophragus B-Disease | , O | and O | stomach B-Disease | , O | and O | possibly O | the O | gut B-Disease | . O | Prone O | to O | infections B-Symptom | especially O | of O | the O | blader B-Disease | . O | have O | been O | taken O | off O | the O | drug B-Drug | , O | stayed O | on O | it O | too O | long O | because O | it O | allowed O | me O | to O | work O | . O | Talked O | myself O | out O | of O | the O | side B-ADR | effects I-ADR | , O | until O | they O | frightened O | me O | . O | Now O | I O | dont O | know O | how O | I O | am O | going O | to O | get O | back O | to O | work O | , O | it O | has O | left O | me O | feeling O | exausted B-Symptom | , O | and O | depressed B-Symptom | . O
+
+Structured Output:
+T1 Symptom 0 8 dizzines
+T2 Symptom 9 16 dioreah
+T3 Symptom 17 30 stomach
+T4 Symptom 31 36 cramps
+T5 Symptom 37 50 disorientation
+T6 Symptom 58 68 ulceration
+T7 Disease 72 82 osophragus
+T8 Disease 86 92 stomach
+T9 Disease 96 100 gut
+T10 Symptom 107 116 infections
+T11 Disease 127 132 blader
+T12 Drug 147 151 drug
+T13 ADR 164 178 side effects
+T14 Symptom 204 212 exausted
+T15 Symptom 217 226 depressed

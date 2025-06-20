@@ -1,0 +1,23 @@
+BIO Sequence:
+weakness B-Symptom | , O | fatigue B-Symptom | , O | muscle B-Symptom | spasms I-Symptom | , O | stiffness B-Symptom | all O | over O | , O | achilles B-Disease | tendonitis I-Disease | that O | won't O | heal O | , O | flu-like B-Symptom | symptoms I-Symptom | , O | feeling O | like O | an O | old O | lady O | . O | I've O | been O | on O | Lipitor B-Drug | for O | almost O | 2 O | years O | as O | a O | booster O | for O | a O | type O | of O | kidney B-Disease | malfunction I-Disease | . O | Over O | that O | time O | I've O | gradually O | become O | weaker B-Symptom | , O | stiff B-Symptom | , O | and O | low O | in O | energy B-Symptom | and O | over O | the O | past O | few O | weeks O | I've O | developed O | flu B-Symptom | like I-Symptom | syptoms I-Symptom | and O | muscle B-Symptom | spasms I-Symptom | . O | My O | achilles B-Disease | tendonitis I-Disease | just O | won't O | get O | better O | despite O | 3 O | months O | of O | PT O | . O | I O | saw O | my O | doctor O | about O | this O | today O | and O | he O | suggested O | going O | off O | the O | Lipitor B-Drug | to O | see O | if O | it O | was O | causing O | this O | . O | Thank O | you O | all O | for O | posting O | such O | enlightening O | information O | . O | I O | hope O | that O | we O | all O | do O | better O | off O | this O | drug B-Drug | ! O | .
+
+Structured Output:
+T1 Symptom 0 7 weakness
+T2 Symptom 9 16 fatigue
+T3 Symptom 18 30 muscle spasms
+T4 Symptom 32 40 stiffness
+T5 Disease 43 61 achilles tendonitis
+T6 Symptom 64 79 flu-like symptoms
+T7 Symptom 81 105 feeling like an old lady
+T8 Drug 37 43 Lipitor
+T9 Disease 116 122 kidney malfunction
+T10 Symptom 151 157 weaker
+T11 Symptom 162 167 stiff
+T12 Symptom 174 180 low in energy
+T13 Symptom 192 199 flu
+T14 Symptom 201 207 like
+T15 Symptom 209 216 syptoms
+T16 Symptom 229 236 muscle spasms
+T17 Disease 242 260 achilles tendonitis
+T18 Drug 300 306 Lipitor
+T19 Drug 357 362 drug

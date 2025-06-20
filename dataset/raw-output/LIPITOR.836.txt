@@ -1,0 +1,9 @@
+BIO Sequence:
+Recent O | increase O | in O | diarreah B-ADR | Muscle O | aches B-ADR | & O | pains I-ADR | , O | fatigue B-ADR | . O | Otherwise O | healthy O | and O | active O | 43 O | year O | old O | . O | I O | am O | considering O | stopping O | this O | as O | the O | side B-ADR | effects I-ADR | are O | bad O | . O 
+
+Structured Output:
+T1 ADR 25 34 diarreah
+T2 ADR 36 47 aches
+T3 ADR 49 54 pains
+T4 ADR 56 62 fatigue
+T5 ADR 74 85 side effects

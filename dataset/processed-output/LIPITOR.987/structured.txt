@@ -1,0 +1,13 @@
+T1 ADR 22 33 side effects
+T2 Symptom 105 112 Fatigue
+T3 Symptom 130 137 symptom
+T4 Symptom 162 168 muscle
+T5 Symptom 173 178 joint pain
+T6 Symptom 195 207 short term memory loss
+T7 Symptom 220 226 embarrasing
+T8 Symptom 232 242 blisterey rash
+T9 Disease 269 275 old age
+T10 Symptom 284 290 vision
+T11 Drug 346 353 Lipitor
+T12 Drug 385 397 Simivastatin
+T13 ADR 404 415 side effects

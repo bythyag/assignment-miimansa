@@ -1,0 +1,10 @@
+T1 Drug 46 51 Lipitor
+T2 Drug 122 129 Lipitor
+T3 Drug 178 184 statin
+T4 Drug 221 226 Lipitor
+T5 Drug 228 233 Zocor
+T6 Drug 235 242 Crestor
+T7 Drug 244 251 Mevacor
+T8 Drug 254 263 Pravachol
+T9 Drug 265 271 Lescol
+T10 Drug 273 280 Vytorin

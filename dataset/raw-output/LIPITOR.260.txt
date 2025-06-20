@@ -1,0 +1,17 @@
+BIO Sequence:
+involuntary B-Symptom | movements I-Symptom | , O | muscles B-Symptom | aches I-Symptom | specially O | in O | back B-Symptom | of O | legs I-Symptom | , O | muscle B-Symptom | weakness I-Symptom | , O | knee B-Symptom | pain I-Symptom | , O | neck B-Symptom | pain I-Symptom | , O | headaches B-Symptom | , O | concentrating B-Symptom | , O | blurred B-Symptom | vision I-Symptom | , O | back B-Symptom | pain I-Symptom | , O | difficulty B-Symptom | to O | walk I-Symptom | , O | I O | stop O | it O | since O | 10 O | days O | but O | i O | don O | ' O | t O | fell O | better O | do O | u O | know O | how O | long O | it O | take O | to O | be O | better O | ? O | and O | what O | is O | possible O | to O | do O | ? O | hope O | to O | have O | answer O | . O | 8 O | mois O | lipitor B-Drug | 40 I-Drug | mg I-Drug | . O
+
+Structured Output:
+T1 Symptom 0 10 involuntary movements
+T2 Symptom 12 25 muscles aches
+T3 Symptom 43 55 muscle weakness
+T4 Symptom 57 66 knee pain
+T5 Symptom 68 77 neck pain
+T6 Symptom 79 88 headaches
+T7 Symptom 90 103 concentrating
+T8 Symptom 105 117 blurred vision
+T9 Symptom 119 127 back pain
+T10 Symptom 129 146 difficulty to walk
+T11 Drug 165 173 lipitor
+T12 Drug 175 177 40
+T13 Drug 179 181 mg

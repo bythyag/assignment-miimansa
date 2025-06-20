@@ -1,0 +1,11 @@
+T1 Symptom 14 25 chloresterol
+T2 Drug 82 88 Lipitor
+T3 Symptom 156 164 shoulder
+T4 Symptom 169 172 arm
+T5 ADR 177 181 sore
+T6 Disease 188 195 muscles
+T7 Symptom 302 308 painful
+T8 Symptom 365 368 hip
+T9 Disease 408 413 stroke
+T10 Drug 1285 1291 Lipitor
+T11 Symptom 14 25 chloresterol
