@@ -1,33 +1,20 @@
-# assignment-miimansa
+import os
+import glob
+from tqdm import tqdm
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from openai import OpenAI
 
-## Missing files
-Files with errors from original document:
-- LIPITOR.40.txt
-- LIPITOR.674.txt
-- LIPITOR.112.txt
-- LIPITOR.660.txt
-- ARTHROTEC.62.txt
-- LIPITOR.338.txt
-- LIPITOR.853.txt
-- LIPITOR.847.txt
-- ARTHROTEC.76.txt
-- VOLTAREN-XR.9.txt
+"""
+Problem 2:
+Medical Named Entity Recognition (NER) using OpenAI's API
+This code processes a directory of text files containing medical forum posts, extracting and annotating medical entities
+using OpenAI's API. It applies a specialized prompt for medical NER, handling multiple files in batches to optimize processing time.
+It generates BIO tags and structured outputs for each file, saving results to a specified output directory.
+"""
 
-## Results
+# system prompt for the medical NER task
 
-**Model:** OpenAI gpt-4o-mini  
-**Embedding Model:** all-MiniLM-L6-v2
-
-### Task 1
-- **ADR:** 3681  
-- **Drug:** 391  
-- **Disease:** 181  
-- **Symptom:** 150  
-
-### Task 2
-
-Prompt Template:
-```
+prompt = """"
 You are a specialized medical text analysis system for identifying and extracting medical entities from patient forum posts and clinical narratives using Named Entity Recognition with BIO tagging methodology.
 
 OBJECTIVE: Perform precise extraction and classification of medical entities from unstructured medical text, focusing on patient-reported experiences, clinical observations, and drug-related discussions.
@@ -72,36 +59,70 @@ QUALITY REQUIREMENTS:
 * Recognize both formal medical language and patient vernacular
 * Ensure consistent annotation across similar contexts
 This systematic approach enables robust extraction of medical entities for pharmacovigilance applications, clinical decision support, and biomedical research initiatives.
-```
+"""
 
-### Task Evaluations (Task 3, 4, 5)
+class MedicalNERProcessor:
+    def __init__(self, client, prompt, input_dir, output_dir, batch_size=5):
+        self.client = client
+        self.prompt = prompt
+        self.input_dir = input_dir
+        self.output_dir = output_dir
+        self.batch_size = batch_size
+        self.error_files = []
+        
+        # Create the output directory if it doesn't exist
+        os.makedirs(self.output_dir, exist_ok=True)
+        self.files = [f for f in os.listdir(self.input_dir) if f.endswith(".txt")]
 
-| Task                                   | Precision | Recall | F1 Score          | Cosine Similarity | Files Evaluated |
-| -------------------------------------- | --------- | ------ | ----------------- | ----------------- | --------------- |
-| Full Entity Evaluation (Task 1)        | 0.163     | 0.252  | 0.190             | 0.675             | 1227            |
-| ADR-Only Evaluation (Task 2)           | 0.285     | 0.154  | 0.181             | 0.526             | 565             |
-| Random Sample Evaluation (Task 3)      | 0.142     | 0.216  | 0.165 ± 0.182     | 0.660 ± 0.238     | 50              |
+    def medical_ner(self, text_input):
+        response = self.client.responses.create(
+            model="gpt-4o-mini",
+            instructions=self.prompt,
+            input=text_input
+        )
+        return response.output_text
 
-### Matching Summary (Task 6)
+    def process_file(self, filename):
+        try:
+            output_filepath = os.path.join(self.output_dir, filename)
+            # Skip processing if file is already processed
+            if os.path.exists(output_filepath):
+                print(f"\nFile {filename} already processed. Skipping...")
+                return
+            input_filepath = os.path.join(self.input_dir, filename)
+            with open(input_filepath, "r", encoding="utf-8") as file:
+                text_input = file.read()
 
-| Metric                                                                 | Value  |
-| ---------------------------------------------------------------------- | ------ |
-| Total Files Processed                                                  | 1250   |
-| Total ADR Annotations Processed                                        | 6313   |
-| Average Fuzzy Similarity Score                                         | 97.81  |
-| Average Cosine Similarity Score                                        | 0.9773 |
-| Matches with Same Standard Code (Approx vs. Embedding)                 | 6154   |
-| Matches with Differing Standard Codes                                  | 159    |
+            # Generate output through the medical_ner method
+            output_text = self.medical_ner(text_input)
 
+            # Write the response to the output directory
+            with open(output_filepath, "w", encoding="utf-8") as outfile:
+                outfile.write(output_text)
 
-### Notes
-1. The results are saved at ```/result```
-2. The generated text labelling and annotations are saved at ```dataset/raw-output``` which are further processed and saved at ```dataset/processed-output```
-3. The experiment notebook is saved at ```notebooks/scratchpad.ipynb```
-4. The codefiles are saved at ```/result/```
+            print(f"\nProcessed {filename} and saved output to {output_filepath}")
+        except Exception as e:
+            print(f"\nError processing {filename}: {e}")
+            self.error_files.append(filename)
 
-### Further thoughts
-1. Since we have used openai api which is non deterministic in nature, i think the best way is to fine tune a BERT model on our specific requirement for NER extraction. 
-2. The models on HF do not met the NER requirements we need. So I have to use OpenAI API. 
-3. The main problem is at ADR and Symptom category which is ambigous and would require a well curated dataset and nicely fine tuned classification model. 
-4. Due to the same, we have less F1 due to their deterministic comparisons but semantic score is high which indicates that the generated annotations are able to vapture 50-60% of the information. 
+    def process_batch(self, batch):
+        with ThreadPoolExecutor(max_workers=self.batch_size) as executor:
+            futures = [executor.submit(self.process_file, filename) for filename in batch]
+            for future in as_completed(futures):
+                future.result()
+
+    def run(self):
+        for i in tqdm(range(0, len(self.files), self.batch_size), desc="Processing batches of files"):
+            batch = self.files[i:i + self.batch_size]
+            self.process_batch(batch)
+
+        if self.error_files:
+            print("\nFiles with errors:")
+            for fname in self.error_files:
+                print(f"- {fname}")
+
+client, prompt = OpenAI(), prompt
+input_dir = "/Users/thyag/Desktop/Assignement/assignment-miimansa/dataset/CADEC.v2/data/cadec/text"
+output_dir = "/Users/thyag/Desktop/Assignement/assignment-miimansa/dataset/CADEC.v2/data/cadec/processed"
+processor = MedicalNERProcessor(client, prompt, input_dir, output_dir)
+processor.run()
