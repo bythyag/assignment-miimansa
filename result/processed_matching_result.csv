@@ -1,0 +1,1278 @@
+Directory,Original ADR Text,Approx Match - Standard Code,Approx Match - Standard Text,Approx Match - SCT Text,Approx Match - Fuzzy Similarity,Embedding Match - Standard Code,Embedding Match - Standard Text,Embedding Match - SCT Text,Embedding Match - Cosine Similarity
+LIPITOR.625,side effects,3877011000036101,Lipitor,Lipitor,21,3877011000036101,Lipitor,Lipitor,0.2098
+LIPITOR.870,inflamation,128139000,Inflammatory disorder,inflamation,100,128139000,Inflammatory disorder,inflamation,1.0
+LIPITOR.870,side effects,56265001,Heart disease,heart disease,32,76948002,Severe pain,horrible pain,0.3225
+LIPITOR.246,reaction,21496011000036106,prednisone,Predisone,59,3877011000036101,Lipitor,Lipitor,0.2997
+LIPITOR.622,extreme fatigue,13791008,Asthenia,extreme fatigue,100,13791008,Asthenia,extreme fatigue,1.0
+LIPITOR.622,muscle weakness,26544005,Muscle weakness,muscle weakness,100,26544005,Muscle weakness,muscle weakness,1.0
+LIPITOR.622,depression,35489007,Depression,depression,100,35489007,Depression,depression,1.0
+ARTHROTEC.86,stomach hurt,271681002,Stomach ache,stomach hurt soooo bad,71,271681002,Stomach ache,stomach pain,0.9388
+ARTHROTEC.86,stomach pain,271681002,Stomach ache,stomach pain,100,271681002,Stomach ache,stomach pain,1.0
+ARTHROTEC.86,diarrhea,62315008,Diarrhoea,diarrhea,100,62315008,Diarrhoea,diarrhea,1.0
+LIPITOR.614,side effects,88092000,Muscle atrophy,wasting of muscles,40,22253000,Pain,pain,0.3189
+LIPITOR.614,side-effects,88092000,Muscle atrophy,wasting of muscles,33,22253000,Pain,pain,0.3417
+LIPITOR.270,burning feet,36031001,Burning feet,burning feet,100,36031001,Burning feet,burning feet,1.0
+LIPITOR.270,painful heels,2733002,Heel pain,painful heels,100,2733002,Heel pain,painful heels,1.0
+LIPITOR.284,reaction,21930011000036101,ezetimibe,Zetia,46,55929007,Feeling irritable,irritability,0.3323
+LIPITOR.284,side-effects,310495003,Mild depression,mild depression,37,55929007,Feeling irritable,irritability,0.3617
+LIPITOR.841,discomfort,247347003,Discomfort,discomfort in my legs,65,247347003,Discomfort,discomfort in my legs,0.6
+LIPITOR.841,worst,3877011000036101,Lipitor,Lipitor,33,68962001,Myalgia,myalgia,0.2496
+LIPITOR.841,myalgia,68962001,Myalgia,myalgia,100,68962001,Myalgia,myalgia,1.0
+LIPITOR.841,worst,3877011000036101,Lipitor,Lipitor,33,68962001,Myalgia,myalgia,0.2496
+LIPITOR.841,toxic,3877011000036101,Lipitor,Lipitor,33,3877011000036101,Lipitor,Lipitor,0.2802
+ARTHROTEC.44,side effects,162076009,Excessive upper gastrointestinal gas,bad gas,32,422587007,Nausea,nausea,0.4999
+ARTHROTEC.44,gas,162076009,Excessive upper gastrointestinal gas,bad gas,60,162076009,Excessive upper gastrointestinal gas,bad gas,0.7955
+ARTHROTEC.44,SEVERE diarrhea,62315008,Diarrhoea,SEVERE diarrhea,100,62315008,Diarrhoea,SEVERE diarrhea,1.0
+ARTHROTEC.44,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+ARTHROTEC.88,bloody,34436003,Haematuria,urine is bloody,57,34436003,Haematuria,urine is bloody,0.5621
+LIPITOR.283,reaction,449917004,Cramp in lower limb,leg cramps,22,23924001,Tight chest,tighening of the chest,0.1618
+LIPITOR.613,pain,3877011000036101,Lipitor,lipitor,36,76948002,Severe pain,horrible pain in both shoulders,0.4832
+LIPITOR.613,pain,3877011000036101,Lipitor,lipitor,36,76948002,Severe pain,horrible pain in both shoulders,0.4832
+LIPITOR.421,dizziness,404640003,Dizziness,dizziness,100,404640003,Dizziness,dizziness,1.0
+LIPITOR.421,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+LIPITOR.421,side effects,68962001,Myalgia,muscle aches,42,422587007,Nausea,nausea,0.4999
+LIPITOR.421,side effects,68962001,Myalgia,muscle aches,42,422587007,Nausea,nausea,0.4999
+LIPITOR.846,RESIDUAL,76948002,Severe pain,EXTREME PAIN IN SHOULDERS,30,48167000,Amnesia,LOSS OF MEMORY,0.2099
+LIPITOR.846,EFFECTS,76948002,Severe pain,EXTREME PAIN IN SHOULDERS,19,48167000,Amnesia,LOSS OF MEMORY,0.2391
+LIPITOR.846,YEARS,76948002,Severe pain,EXTREME PAIN IN SHOULDERS,27,48167000,Amnesia,LOSS OF MEMORY,0.158
+LIPITOR.846,POISON,48167000,Amnesia,LOSS OF MEMORY,30,48167000,Amnesia,LOSS OF MEMORY,0.1944
+ARTHROTEC.17,heavy menstrual bleeding,386692008,Menorrhagia,heavy menstrual bleeding,100,386692008,Menorrhagia,heavy menstrual bleeding,1.0
+LIPITOR.481,side effects,267949000,Shoulder joint pain,pain in shoulder joint,29,68962001,Myalgia,deep muscle pain,0.2211
+LIPITOR.481,LDL's,68962001,Myalgia,deep muscle pain,19,267949000,Shoulder joint pain,pain in shoulder joint,0.1313
+LIPITOR.223,joint pain,57676002,Arthralgia,joint pain,100,57676002,Arthralgia,joint pain,1.0
+LIPITOR.223,joint pain,57676002,Arthralgia,joint pain,100,57676002,Arthralgia,joint pain,1.0
+LIPITOR.223,pains,22253000,Pain,pains,100,22253000,Pain,pains,1.0
+LIPITOR.475,extremely dangerous poison,68962001,Myalgia,inflamatory muscle pain,41,3877011000036101,Lipitor,Lipitor,0.2938
+LIPITOR.815,weird dreams,419581008,Bizarre dreams,weird dreams,100,419581008,Bizarre dreams,weird dreams,1.0
+LIPITOR.224,side effects,162076009,Excessive upper gastrointestinal gas,GI difficulties,52,248490000,Bloating symptom,Bloating,0.2835
+LIPITOR.224,memory,386807006,Memory impairment,memory difficulties,48,386807006,Memory impairment,memory difficulties,0.7122
+LIPITOR.224,difficulties,162076009,Excessive upper gastrointestinal gas,GI difficulties,89,162076009,Excessive upper gastrointestinal gas,GI difficulties,0.6146
+LIPITOR.224,muscle-joint degeneration,248490000,Bloating symptom,Bloating,36,26544005,Muscle weakness,weakened muscle,0.5565
+ARTHROTEC.26,diarrhea,62315008,Diarrhoea,diarrhea,100,62315008,Diarrhoea,diarrhea,1.0
+ARTHROTEC.26,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+ARTHROTEC.26,side effects,79890006,Loss of appetite,loss of apetite,37,422587007,Nausea,nausea,0.4999
+ARTHROTEC.26,side effects,79890006,Loss of appetite,loss of apetite,37,422587007,Nausea,nausea,0.4999
+ARTHROTEC.26,side effects,79890006,Loss of appetite,loss of apetite,37,422587007,Nausea,nausea,0.4999
+ARTHROTEC.26,side effects,79890006,Loss of appetite,loss of apetite,37,422587007,Nausea,nausea,0.4999
+ARTHROTEC.26,side effects,79890006,Loss of appetite,loss of apetite,37,422587007,Nausea,nausea,0.4999
+ARTHROTEC.3,extreme itching,418290006,Itching,extreme itching on legs and arms,64,418290006,Itching,extreme itching on legs and arms,0.7357
+LIPITOR.212,rash,271807003,Rash,rash,100,271807003,Rash,rash,1.0
+LIPITOR.212,itch,418290006,Itching,itch,100,418290006,Itching,itch,1.0
+LIPITOR.212,side effects,193462001,Insomnia,sleeplessness,40,271807003,Rash,rash,0.3237
+CAMBIA.2,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+CAMBIA.2,bleeding,131148009,Bleeding,bleeding problems,64,131148009,Bleeding,bleeding problems,0.8005
+LIPITOR.824,physical,3877011000036101,Lipitor,Lipitor,27,22298006,Myocardial infarction,heart attack,0.2391
+LIPITOR.824,psychological,55300003,Muscle cramp,severe muscle cramping,29,225482007,Lacks confidence,destroyed my self-confidence,0.3479
+DICLOFENAC-SODIUM.3,diarrhea,62315008,Diarrhoea,diarrhea,100,62315008,Diarrhoea,diarrhea,1.0
+DICLOFENAC-SODIUM.3,side effects,16386004,Dry skin,skin is so dry,31,62315008,Diarrhoea,diarrhea,0.372
+LIPITOR.215,significant,76948002,Severe pain,severe pain in calves,38,35489007,Depression,depressed,0.2655
+LIPITOR.215,spectacular,387603000,Impairment of balance,decrease in balance,33,246636008,Blurred vision - hazy,blured vision,0.2543
+LIPITOR.878,side effects,278040002,Loss of hair,hair was falling off,31,8943002,Weight gain,weight gain,0.3189
+LIPITOR.878,hair loss,278040002,Loss of hair,hair loss,100,278040002,Loss of hair,hair loss,1.0
+LIPITOR.878,weight gain,8943002,Weight gain,weight gain,100,8943002,Weight gain,weight gain,1.0
+LIPITOR.878,blurred vision,246636008,Blurred vision - hazy,blurred vision,100,246636008,Blurred vision - hazy,blurred vision,1.0
+LIPITOR.878,side effects,278040002,Loss of hair,hair was falling off,31,8943002,Weight gain,weight gain,0.3189
+LIPITOR.612,weird toe tingling,62507009,Pins and needles,weird toe tingling,100,62507009,Pins and needles,weird toe tingling,1.0
+LIPITOR.282,fainting,271594007,Syncope,fainting spells,70,271594007,Syncope,fainting spells,0.7991
+LIPITOR.282,spells,271594007,Syncope,fainting spells,57,271594007,Syncope,fainting spells,0.546
+ARTHROTEC.42,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+ARTHROTEC.42,dizziness,404640003,Dizziness,dizziness,100,404640003,Dizziness,dizziness,1.0
+ARTHROTEC.42,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+LIPITOR.427,PAIN,30989003,Knee pain,KNEE PAIN,62,30989003,Knee pain,KNEE PAIN,0.6209
+LIPITOR.427,SEVERE,76948002,Severe pain,SEVERE KNEE PAIN,55,76948002,Severe pain,SEVERE KNEE PAIN,0.4087
+LIPITOR.427,HEADACHES,25064002,Headache,HEADACHES,100,25064002,Headache,HEADACHES,1.0
+LIPITOR.849,dizzy,404640003,Dizziness,slightly dizzy virtually all the time,24,404640003,Dizziness,slightly dizzy virtually all the time,0.758
+LIPITOR.247,hives,247472004,Hives,hives,100,247472004,Hives,hives,1.0
+LIPITOR.623,severe arrythmias,698247007,Cardiac arrhythmia,severe arrythmias,100,698247007,Cardiac arrhythmia,severe arrythmias,1.0
+LIPITOR.623,side effects,248653008,Dropped beats - heart,skipping heart beats,44,84229001,Fatigue,extreme tiredness,0.3121
+LIPITOR.882,side effects,68962001,Myalgia,muscle soreness,44,225013001,Feeling bad,feel bad,0.2963
+LIPITOR.882,cholesterol,68962001,Myalgia,muscle soreness,38,3877011000036101,Lipitor,Lipitor,0.4648
+LIPITOR.882,tryglycerides,68962001,Myalgia,muscle soreness,36,3877011000036101,Lipitor,Lipitor,0.5264
+LIPITOR.882,blood pressure,161891005,Backache,back soreness,44,309774006,Weakness of limb,weak legs,0.2411
+LIPITOR.278,side effects,162076009,Excessive upper gastrointestinal gas,gas/wind,30,3877011000036101,Lipitor,Lipitor,0.2098
+LIPITOR.825,adverse,35489007,Depression,depression,47,35489007,Depression,depression,0.2524
+LIPITOR.825,reactions,35489007,Depression,depression,53,35489007,Depression,depression,0.2349
+LIPITOR.825,adverse,35489007,Depression,depression,47,35489007,Depression,depression,0.2524
+LIPITOR.825,reactions,35489007,Depression,depression,53,35489007,Depression,depression,0.2349
+ARTHROTEC.20,sickness,39104002,Illness,sickness,100,39104002,Illness,sickness,1.0
+ARTHROTEC.5,severe side-effects,3723001,Arthritis,arthritis,29,3723001,Arthritis,arthritis,0.1947
+LIPITOR.670,complications,22253000,Pain,pain,47,22253000,Pain,pain,0.3763
+DICLOFENAC-SODIUM.2,SWELLING,65124004,Swelling,SWELLING,100,65124004,Swelling,SWELLING,1.0
+DICLOFENAC-SODIUM.2,SIDE,25064002,Headache,HEADACHE,33,22253000,Pain,PAIN,0.4005
+DICLOFENAC-SODIUM.2,EFFECTS,236620008,Infective cystitis,BLADDER INFECTION,42,22253000,Pain,PAIN,0.333
+LIPITOR.214,side effects,162076009,Excessive upper gastrointestinal gas,gas/wind,30,267052005,Flatulence/wind,windy,0.1366
+ARTHROTEC.27,abortion,17369002,Miscarriage,abortion,100,17369002,Miscarriage,abortion,1.0
+LIPITOR.213,side effect,278040002,Loss of hair,hair is getting very thin,28,278040002,Loss of hair,hair loss,0.3019
+ARTHROTEC.18,intolerant,426206001,Constant pain,constant pain,43,22253000,Pain,pain,0.3294
+CAMBIA.3,vomit,422400008,Vomiting,vomit,100,422400008,Vomiting,vomit,1.0
+ARTHROTEC.11,side effects,3384011000036100,Arthrotec,Arthrotec,19,22253000,Pain,pain,0.3189
+ARTHROTEC.11,side effects,3384011000036100,Arthrotec,Arthrotec,19,22253000,Pain,pain,0.3189
+LIPITOR.473,severe,76948002,Severe pain,severe pain,71,76948002,Severe pain,severe pain,0.7318
+LIPITOR.473,severe,76948002,Severe pain,severe pain,71,76948002,Severe pain,severe pain,0.7318
+LIPITOR.473,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+LIPITOR.225,stomach cramps,51197009,Stomach cramps,stomach cramps,100,51197009,Stomach cramps,stomach cramps,1.0
+LIPITOR.225,loose stools,398032003,Loose stool,loose stools,100,398032003,Loose stool,loose stools,1.0
+LIPITOR.225,Gas,162076009,Excessive upper gastrointestinal gas,Gas,100,162076009,Excessive upper gastrointestinal gas,Gas,1.0
+LIPITOR.225,bloating,248490000,Bloating symptom,bloating,100,248490000,Bloating symptom,bloating,1.0
+LIPITOR.225,fatigue,84229001,Fatigue,fatigue,100,84229001,Fatigue,fatigue,1.0
+LIPITOR.225,sleep,77692006,Hypersomnia,Just wanted to sleep,40,77692006,Hypersomnia,Just wanted to sleep,0.5953
+LIPITOR.222,nausia,422587007,Nausea,nausia,100,422587007,Nausea,nausia,1.0
+LIPITOR.222,gas,162076009,Excessive upper gastrointestinal gas,gas,100,162076009,Excessive upper gastrointestinal gas,gas,1.0
+LIPITOR.222,side effect,68962001,Myalgia,soreness of muscles,33,22253000,Pain,pain,0.3763
+LIPITOR.196,dizziness,404640003,Dizziness,dizziness,100,404640003,Dizziness,dizziness,1.0
+LIPITOR.196,lack,248274002,Lack of energy,lack of energy,44,248274002,Lack of energy,lack of energy,0.5202
+LIPITOR.196,unexplained sweating,52526003,Sweating problem,unexplained sweating,100,52526003,Sweating problem,unexplained sweating,1.0
+LIPITOR.196,side effects,52526003,Sweating problem,unexplained sweating,31,404640003,Dizziness,dizziness,0.3605
+LIPITOR.196,dizziness,404640003,Dizziness,dizziness,100,404640003,Dizziness,dizziness,1.0
+LIPITOR.196,sever,248274002,Lack of energy,lack of energy,32,52613005,Excessive sweating,pronounced sweating,0.2338
+LIPITOR.196,leg muscle pain,68962001,Myalgia,leg muscle pain,100,68962001,Myalgia,leg muscle pain,1.0
+LIPITOR.196,swelling,65124004,Swelling,swelling,100,65124004,Swelling,swelling,1.0
+LIPITOR.196,pronounced sweating,52613005,Excessive sweating,pronounced sweating,100,52613005,Excessive sweating,pronounced sweating,1.0
+VOLTAREN.23,intestinal pain,9991008,Abdominal colic,intestinal pain,100,9991008,Abdominal colic,intestinal pain,1.0
+VOLTAREN.23,bleeding,131148009,Bleeding,bleeding,100,131148009,Bleeding,bleeding,1.0
+LIPITOR.162,fatigued,13791008,Asthenia,EXTREMELY fatigued,62,13791008,Asthenia,EXTREMELY fatigued,0.894
+LIPITOR.961,side effects,235856003,Liver disease,liver disease,40,235856003,Liver disease,liver damage,0.4431
+ARTHROTEC.113,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+ARTHROTEC.113,bleeding,76948002,Severe pain,extreme pain,40,237130006,Bleeding between periods,bleeding and I was on day 12 of my cycle,0.5283
+LIPITOR.959,side effects,931804011000036107,omega-3-acid ethyl esters-90,omega 3,21,81680005,Neck pain,neck pain,0.2571
+LIPITOR.191,sore,76948002,Severe pain,Severe Hip pain,32,300954003,Pain in calf,calves are sore and tender to the touch,0.513
+LIPITOR.191,tender,76948002,Severe pain,Severe Hip pain,29,300954003,Pain in calf,calves are sore and tender to the touch,0.5108
+VOLTAREN.24,dizziness,404640003,Dizziness,dizziness,100,404640003,Dizziness,dizziness,1.0
+LIPITOR.966,poison,80313002,Palpitations,palpitations,44,271681002,Stomach ache,stomach pain,0.2602
+LIPITOR.537,sweating,415690000,Sweating,sweating,100,415690000,Sweating,sweating,1.0
+LIPITOR.537,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+LIPITOR.537,reactions,415690000,Sweating,sweating,59,281016006,Incoordination,problems with coordination,0.3108
+LIPITOR.705,side,202482009,Wrist joint pain,wrist joints sore,29,21417011000036105,fenofibrate,Tricor,0.2319
+LIPITOR.705,effects,76948002,Severe pain,severe joint pains,32,3877011000036101,Lipitor,Lipitor,0.3291
+LIPITOR.705,side,202482009,Wrist joint pain,wrist joints sore,29,21417011000036105,fenofibrate,Tricor,0.2319
+LIPITOR.705,effects,76948002,Severe pain,severe joint pains,32,3877011000036101,Lipitor,Lipitor,0.3291
+LIPITOR.361,serious,310497006,Severe depression,severe depression,42,82991003,Generalised aches and pains,Aching over my entire body,0.2027
+LIPITOR.361,side effects,271587009,Stiffness,stiffness,57,13791008,Asthenia,extreme fatigue,0.2518
+LIPITOR.153,dizziness,404640003,Dizziness,dizziness,100,404640003,Dizziness,dizziness,1.0
+LIPITOR.153,lightheadedness,386705008,Lightheadedness,lightheadedness,100,386705008,Lightheadedness,lightheadedness,1.0
+LIPITOR.153,bloating,248490000,Bloating symptom,bloating,100,248490000,Bloating symptom,bloating,1.0
+LIPITOR.153,excess gas,162076009,Excessive upper gastrointestinal gas,excess gas,100,162076009,Excessive upper gastrointestinal gas,excess gas,1.0
+LIPITOR.153,mild stiffness,249915009,Hand joint stiff,mild stiffness of my fingers,67,249915009,Hand joint stiff,mild stiffness of my fingers,0.7512
+LIPITOR.395,tingling,62507009,Pins and needles,tingling,100,62507009,Pins and needles,tingling,1.0
+LIPITOR.395,numbness,44077006,Numbness,numbness,100,44077006,Numbness,numbness,1.0
+LIPITOR.395,achiness,22253000,Pain,achiness,100,22253000,Pain,achiness,1.0
+LIPITOR.395,swollen,299060006,Swelling of finger,knuckles are so swollen,47,299060006,Swelling of finger,knuckles are so swollen,0.5576
+LIPITOR.395,twitching,62507009,Pins and needles,tingling,59,249966004,Spasmodic movement,twitching around my mouth,0.8156
+LIPITOR.395,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+VOLTAREN.12,side effects,449917004,Cramp in lower limb,leg cramps,36,247347003,Discomfort,discomfort,0.3953
+LIPITOR.950,grouchier,55929007,Feeling irritable,a lot grouchier,75,55929007,Feeling irritable,a lot grouchier,0.7982
+ARTHROTEC.122,diarrhoa,62315008,Diarrhoea,diarrhoa,100,62315008,Diarrhoea,diarrhoa,1.0
+ARTHROTEC.122,menstral bleeding,131148009,Bleeding,bleeding,64,386692008,Menorrhagia,heavy menstral bleeding with clots even though i had just finished my cycle a week before,0.6827
+ARTHROTEC.122,blood,131148009,Bleeding,bleeding,46,131148009,Bleeding,bleeding,0.7097
+VOLTAREN-XR.18,dizzy,404640003,Dizziness,dizzy,100,404640003,Dizziness,dizzy,1.0
+VOLTAREN-XR.18,sleepy,271782001,Drowsy,sleepy,100,271782001,Drowsy,sleepy,1.0
+VOLTAREN-XR.18,high,22253000,Pain,pain,25,404640003,Dizziness,dizzy,0.4254
+VOLTAREN-XR.20,massive,28551000168108,Voltaren,Voltaren-XR,22,131148009,Bleeding,bleeding,0.1983
+VOLTAREN-XR.20,blood,131148009,Bleeding,bleeding,46,131148009,Bleeding,bleeding,0.7097
+VOLTAREN-XR.20,bleeding,131148009,Bleeding,bleeding,100,131148009,Bleeding,bleeding,1.0
+LIPITOR.392,reaction,161891005,Backache,back pain,47,3877011000036101,Lipitor,Lipitor,0.2997
+LIPITOR.968,leg cramps,449917004,Cramp in lower limb,terrible leg cramps,69,449917004,Cramp in lower limb,terrible leg cramps,0.8979
+LIPITOR.968,decreased,8357008,Reduced libido,Sex drive has decreased,56,8357008,Reduced libido,Sex drive has decreased,0.4581
+LIPITOR.154,suicide,7011001,Hallucinations,hallucinations,29,74732009,Mental disorder,mental illness,0.5437
+LIPITOR.154,suicide,7011001,Hallucinations,hallucinations,29,74732009,Mental disorder,mental illness,0.5437
+LIPITOR.154,side effects,74732009,Mental disorder,mental illness,31,7011001,Hallucinations,hallucinations,0.2998
+LIPITOR.154,suicide,7011001,Hallucinations,hallucinations,29,74732009,Mental disorder,mental illness,0.5437
+LIPITOR.154,hallucinations,7011001,Hallucinations,hallucinations,100,7011001,Hallucinations,hallucinations,1.0
+LIPITOR.366,EXTREME EXHAUSTION,84946008,Extreme exhaustion,EXTREME EXHAUSTION,100,84946008,Extreme exhaustion,EXTREME EXHAUSTION,1.0
+LIPITOR.366,HAD,68962001,Myalgia,MUSCLES ACHED,25,68962001,Myalgia,MUSCLES ACHED,0.2762
+LIPITOR.366,PASS OUT,57676002,Arthralgia,JOINTS HURT,42,84946008,Extreme exhaustion,EXTREME EXHAUSTION,0.3547
+LIPITOR.702,flatulence,267052005,Flatulence/wind,mild flatuelence,77,267052005,Flatulence/wind,mild flatuelence,0.5457
+LIPITOR.24,muscles,129565002,Myopathy,recks my muscles severly,45,129565002,Myopathy,recks my muscles severly,0.6164
+ARTHROTEC.125,vomited,422400008,Vomiting,vomited,100,422400008,Vomiting,vomited,1.0
+ARTHROTEC.125,severe vaginal bleeding,289530006,Vaginal bleeding,vaginal bleeding,82,289530006,Vaginal bleeding,vaginal bleeding,0.9309
+LIPITOR.359,bloating,248490000,Bloating symptom,bloating,100,248490000,Bloating symptom,bloating,1.0
+LIPITOR.359,bloating,248490000,Bloating symptom,bloating,100,248490000,Bloating symptom,bloating,1.0
+LIPITOR.359,gas,162076009,Excessive upper gastrointestinal gas,gas,100,162076009,Excessive upper gastrointestinal gas,gas,1.0
+LIPITOR.359,bloating,248490000,Bloating symptom,bloating,100,248490000,Bloating symptom,bloating,1.0
+LIPITOR.359,drowsy,271782001,Drowsy,drowsy,100,271782001,Drowsy,drowsy,1.0
+LIPITOR.359,bloating,248490000,Bloating symptom,bloating,100,248490000,Bloating symptom,bloating,1.0
+LIPITOR.359,gas,162076009,Excessive upper gastrointestinal gas,gas,100,162076009,Excessive upper gastrointestinal gas,gas,1.0
+LIPITOR.359,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+LIPITOR.84,muscle,16046003,Muscle rigidity,muscle stiffness,55,16046003,Muscle rigidity,muscle stiffness,0.6091
+LIPITOR.84,joint,84445001,Joint stiffness,joint stiffness,50,84445001,Joint stiffness,joint stiffness,0.6301
+LIPITOR.84,stiffness,84445001,Joint stiffness,joint stiffness,75,84445001,Joint stiffness,joint stiffness,0.8257
+LIPITOR.84,sore,297217002,Rib pain,sore ribs,62,297217002,Rib pain,sore ribs,0.6277
+LIPITOR.84,ribs,297217002,Rib pain,sore ribs,62,297217002,Rib pain,sore ribs,0.7763
+LIPITOR.84,muscle,16046003,Muscle rigidity,muscle stiffness,55,16046003,Muscle rigidity,muscle stiffness,0.6091
+LIPITOR.84,stiffness,84445001,Joint stiffness,joint stiffness,75,84445001,Joint stiffness,joint stiffness,0.8257
+LIPITOR.70,side effects,26544005,Muscle weakness,Muscle weakness,44,57676002,Arthralgia,joint pain,0.2606
+LIPITOR.70,puffy,299060006,Swelling of finger,fingertips got puffy,40,299060006,Swelling of finger,fingertips got puffy,0.5562
+LIPITOR.70,scaly,16386004,Dry skin,fingertips scaly,48,16386004,Dry skin,fingertips scaly,0.6117
+LIPITOR.590,glossitis,162076009,Excessive upper gastrointestinal gas,glossitis,100,162076009,Excessive upper gastrointestinal gas,glossitis,1.0
+LIPITOR.590,delayed reaction,25064002,Headache,headaches,40,3877011000036101,Lipitor,Liptor,0.2183
+LIPITOR.590,glossitis,162076009,Excessive upper gastrointestinal gas,glossitis,100,162076009,Excessive upper gastrointestinal gas,glossitis,1.0
+LIPITOR.590,headaches,25064002,Headache,headaches,100,25064002,Headache,headaches,1.0
+LIPITOR.590,dizziness,404640003,Dizziness,dizziness,100,404640003,Dizziness,dizziness,1.0
+VOLTAREN.41,cramps,55300003,Muscle cramp,cramps,100,55300003,Muscle cramp,cramps,1.0
+VOLTAREN.41,diarreah,62315008,Diarrhoea,diarreah,100,62315008,Diarrhoea,diarreah,1.0
+LIPITOR.564,relief,65124004,Swelling,swelling,43,62507009,Pins and needles,tingling,0.5331
+LIPITOR.564,side effects,76948002,Severe pain,imence pain in feet,39,65124004,Swelling,swelling,0.2761
+LIPITOR.904,side effects,473008002,Pain in cheek,Sores on the inner cheeks,38,449917004,Cramp in lower limb,leg cramps,0.2363
+LIPITOR.77,blisters,417237009,Blister,blisters,100,417237009,Blister,blisters,1.0
+LIPITOR.77,bleed,131148009,Bleeding,bleed,100,131148009,Bleeding,bleed,1.0
+LIPITOR.83,cramps,55300003,Muscle cramp,cramps,100,55300003,Muscle cramp,cramps,1.0
+LIPITOR.83,cramps,55300003,Muscle cramp,cramps,100,55300003,Muscle cramp,cramps,1.0
+LIPITOR.83,mild,55300003,Muscle cramp,cramping,33,55300003,Muscle cramp,cramping,0.2707
+LIPITOR.83,cramping,55300003,Muscle cramp,cramping,100,55300003,Muscle cramp,cramping,1.0
+LIPITOR.563,side effects,297142003,Foot swelling,swollen feet,50,286641001,Moody,moodiness,0.353
+LIPITOR.563,side effects,297142003,Foot swelling,swollen feet,50,286641001,Moody,moodiness,0.353
+LIPITOR.48,Terrible muscle and joint pain,68962001,Myalgia,muscle pain,54,57676002,Arthralgia,joint pain,0.7751
+LIPITOR.48,Burning sensations,90673000,Burning sensation,Burning sensations in neck,82,90673000,Burning sensation,Burning sensations in neck,0.7515
+LIPITOR.48,pain killers,22253000,Pain,pain,50,22253000,Pain,pain,0.6462
+VOLTAREN.46,edema,102565005,Oedema of finger,edema of fingers and face,33,102565005,Oedema of finger,edema of fingers and face,0.6938
+VOLTAREN.46,fingers,55929007,Feeling irritable,crabbiness,47,102565005,Oedema of finger,edema of fingers and face,0.5185
+VOLTAREN.46,face,248490000,Bloating symptom,bloated,36,267036007,Dyspnoea,short of breath,0.3715
+VOLTAREN.46,crabbiness,55929007,Feeling irritable,crabbiness,100,55929007,Feeling irritable,crabbiness,1.0
+VOLTAREN.46,swollen,28551000168108,Voltaren,Voltaren,53,278528006,Facial swelling,face and fingers are swollen,0.6943
+LIPITOR.597,side effects,193462001,Insomnia,severe insomnia,37,193462001,Insomnia,severe insomnia,0.2153
+ARTHROTEC.140,inflammation,128139000,Inflammatory disorder,inflammation,100,128139000,Inflammatory disorder,inflammation,1.0
+LIPITOR.758,muscle pain,68962001,Myalgia,muscle pain over the entire body,51,68962001,Myalgia,muscle pain over the entire body,0.8629
+LIPITOR.793,severe,162076009,Excessive upper gastrointestinal gas,General fatigue,38,3723001,Arthritis,arthritis,0.3343
+LIPITOR.793,swolen/inflamation,448589005,Arthritis of hand,severe swolen/inflamation of the fingers/hand,57,448589005,Arthritis of hand,severe swolen/inflamation of the fingers/hands,0.7528
+LIPITOR.793,severe,162076009,Excessive upper gastrointestinal gas,General fatigue,38,3723001,Arthritis,arthritis,0.3343
+LIPITOR.793,swolen/inflamation,448589005,Arthritis of hand,severe swolen/inflamation of the fingers/hand,57,448589005,Arthritis of hand,severe swolen/inflamation of the fingers/hands,0.7528
+LIPITOR.599,side,449917004,Cramp in lower limb,cramps in thigh,21,449917004,Cramp in lower limb,cramps in thigh,0.1359
+LIPITOR.599,effects,449917004,Cramp in lower limb,cramps in thigh,18,449917004,Cramp in lower limb,cramps in thigh,0.0651
+LIPITOR.109,gas,162076009,Excessive upper gastrointestinal gas,gas,100,162076009,Excessive upper gastrointestinal gas,gas,1.0
+LIPITOR.109,tummy pains,271681002,Stomach ache,tummy pains,100,271681002,Stomach ache,tummy pains,1.0
+LIPITOR.794,effects,249938007,Weakness of back,in back weakness,26,3877011000036101,Lipitor,lipitor,0.3291
+LIPITOR.794,toxic,3877011000036101,Lipitor,lipitor,33,249938007,Weakness of back,in back weakness,0.2929
+LIPITOR.304,severe,76948002,Severe pain,severe pains,67,76948002,Severe pain,severe pains,0.5605
+LIPITOR.304,muscle,68962001,Myalgia,muscle pains,67,68962001,Myalgia,muscle pains,0.547
+LIPITOR.304,pains,22253000,Pain,pains,100,22253000,Pain,pains,1.0
+LIPITOR.304,cramps,55300003,Muscle cramp,cramps,100,55300003,Muscle cramp,cramps,1.0
+LIPITOR.304,severe,76948002,Severe pain,severe pains,67,76948002,Severe pain,severe pains,0.5605
+LIPITOR.304,pains,22253000,Pain,pains,100,22253000,Pain,pains,1.0
+LIPITOR.304,severe,76948002,Severe pain,severe pains,67,76948002,Severe pain,severe pains,0.5605
+LIPITOR.304,cramps/pains,55300003,Muscle cramp,cramps,67,55300003,Muscle cramp,cramps,0.8823
+LIPITOR.969,side effect,239720000,Tear of meniscus of knee,tore my knee,35,22253000,Pain,pain,0.3763
+LIPITOR.531,side effects,80449002,Muscle fatigue,fatigue in forearms,39,124054003,Increased cholesterol esters,high cholesterol,0.2471
+LIPITOR.703,side,224962007,Hot sweats,sweats,40,43724002,Chill,chills,0.2603
+LIPITOR.703,affects,224962007,Hot sweats,sweats,46,35489007,Depression,depression,0.3401
+LIPITOR.703,terrible,68962001,Myalgia,terrible muscle pain,57,68962001,Myalgia,terrible muscle pain,0.3625
+LIPITOR.703,muscle,68962001,Myalgia,muscles hurt,67,68962001,Myalgia,muscles hurt,0.6369
+LIPITOR.703,pain,81680005,Neck pain,Neck pain,62,68962001,Myalgia,terrible muscle pain,0.6089
+VOLTAREN-XR.21,side effects,162059005,Upset stomach,stomach upset,32,162059005,Upset stomach,stomach upset,0.3123
+VOLTAREN.14,loss,371405004,Disorder of eye,Eye problem,13,371405004,Disorder of eye,Eye problem,0.1677
+ARTHROTEC.124,side effects,449917004,Cramp in lower limb,muscles in my left leg locked up,32,25064002,Headache,headaches,0.4086
+LIPITOR.25,problems,308925008,Digestive symptom,digestion problems,62,308925008,Digestive symptom,digestion problems,0.3519
+LIPITOR.358,polyathralgia,35678005,Arthralgia of multiple joints,severe polyathralgia in ankles,60,35678005,Arthralgia of multiple joints,severe polyathralgia in ankles,0.7138
+VOLTAREN.13,allergic reaction,419076005,Allergic reaction,allergic reaction,100,419076005,Allergic reaction,allergic reaction,1.0
+VOLTAREN.13,itchy,418290006,Itching,itchy,100,418290006,Itching,itchy,1.0
+LIPITOR.704,side effects,57676002,Arthralgia,pain in joints,31,48167000,Amnesia,memory loss,0.2418
+LIPITOR.704,similar complaints,57676002,Arthralgia,pain in joints,50,48167000,Amnesia,memory loss,0.2441
+LIPITOR.152,rash,271807003,Rash,rash,100,271807003,Rash,rash,1.0
+LIPITOR.152,forehead,271807003,Rash,Rashes,43,249489001,Choking,choking,0.3965
+LIPITOR.152,insomnia,193462001,Insomnia,insomnia,100,193462001,Insomnia,insomnia,1.0
+LIPITOR.152,big time,116289008,Abdominal bloating,bloating of stomach,44,24199005,Feeling agitated,aggitated,0.2435
+LIPITOR.152,sweats,224962007,Hot sweats,sweats,100,224962007,Hot sweats,sweats,1.0
+LIPITOR.152,so severe,371405004,Disorder of eye,eye problems,38,249489001,Choking,choking,0.3231
+LIPITOR.152,Rashes,271807003,Rash,Rashes,100,271807003,Rash,Rashes,1.0
+LIPITOR.152,arms,271807003,Rash,rash,50,224962007,Hot sweats,sweats,0.4525
+LIPITOR.152,legs,224962007,Hot sweats,sweats,40,224962007,Hot sweats,sweats,0.4122
+LIPITOR.152,choking,249489001,Choking,choking,100,249489001,Choking,choking,1.0
+VOLTAREN-XR.19,rash,271807003,Rash,rash,100,271807003,Rash,rash,1.0
+VOLTAREN-XR.19,dizziness,404640003,Dizziness,dizziness,100,404640003,Dizziness,dizziness,1.0
+VOLTAREN-XR.19,bloated stomach,116289008,Abdominal bloating,bloated stomach,100,116289008,Abdominal bloating,bloated stomach,1.0
+VOLTAREN-XR.19,gas,162076009,Excessive upper gastrointestinal gas,gas,100,162076009,Excessive upper gastrointestinal gas,gas,1.0
+VOLTAREN-XR.19,muscle weakness,26544005,Muscle weakness,muscle weakness,100,26544005,Muscle weakness,muscle weakness,1.0
+VOLTAREN-XR.19,weakness,13791008,Asthenia,weakness,100,13791008,Asthenia,weakness,1.0
+VOLTAREN-XR.19,rash,271807003,Rash,rash,100,271807003,Rash,rash,1.0
+LIPITOR.199,injury,68172002,Disorder of tendon,tendinopathy,33,34840004,Tendonitis,tendinitis,0.4698
+LIPITOR.951,Statins,307413004,Transient memory loss,transient amnesia,42,3877011000036101,Lipitor,Lipitor,0.3343
+ARTHROTEC.123,bleeding,131148009,Bleeding,bleeding,100,131148009,Bleeding,bleeding,1.0
+VOLTAREN.25,allergic reaction,419076005,Allergic reaction,allergic reaction,100,419076005,Allergic reaction,allergic reaction,1.0
+VOLTAREN.25,itch,275921007,Scalp itchy,itch on my head,42,275921007,Scalp itchy,itch on my head,0.7783
+VOLTAREN.25,allergic,419076005,Allergic reaction,allergic reaction,64,419076005,Allergic reaction,allergic reaction,0.8547
+LIPITOR.958,side effects,3877011000036101,Lipitor,Lipitor,21,3877011000036101,Lipitor,Lipitor,0.2098
+LIPITOR.356,side effects,371081002,Arthritis of knee,arthritic knees,37,404640003,Dizziness,dizzy,0.3478
+LIPITOR.500,leg cramps,449917004,Cramp in lower limb,Leg cramps,100,449917004,Cramp in lower limb,Leg cramps,1.0
+LIPITOR.500,itching,418290006,Itching,itching,100,418290006,Itching,itching,1.0
+LIPITOR.500,tingling,62507009,Pins and needles,tingling,100,62507009,Pins and needles,tingling,1.0
+LIPITOR.14,pains,22253000,Pain,pain,89,22253000,Pain,pain,0.8
+LIPITOR.369,socked,22253000,Pain,pain,0,22253000,Pain,pain,0.3538
+LIPITOR.369,arm,22253000,Pain,pain,29,22253000,Pain,pain,0.4072
+LIPITOR.507,adverse,56265001,Heart disease,heart desease,50,55929007,Feeling irritable,irritable,0.329
+VOLTAREN.22,diarrhea,62315008,Diarrhoea,diarrhea,100,62315008,Diarrhoea,diarrhea,1.0
+VOLTAREN-XR.17,side,24184005,Finding of increased blood pressure,rise in bp,29,24184005,Finding of increased blood pressure,rise in bp,0.13
+VOLTAREN-XR.17,rise,24184005,Finding of increased blood pressure,rise in bp,57,24184005,Finding of increased blood pressure,rise in bp,0.6017
+VOLTAREN-XR.17,adverse side effects,24184005,Finding of increased blood pressure,rise in bp,40,24184005,Finding of increased blood pressure,rise in bp,0.0545
+LIPITOR.13,adverse,124054003,Increased cholesterol esters,high cholesterol,26,3877011000036101,Lipitor,Lipitor,0.2126
+LIPITOR.13,adverse,124054003,Increased cholesterol esters,high cholesterol,26,3877011000036101,Lipitor,Lipitor,0.2126
+LIPITOR.13,adverse,124054003,Increased cholesterol esters,high cholesterol,26,3877011000036101,Lipitor,Lipitor,0.2126
+LIPITOR.994,side effects,47933007,Foot pain,pain in their feet,40,285365001,Pain in toe,my toes ached,0.2763
+LIPITOR.47,myalgia,68962001,Myalgia,myalgia,100,68962001,Myalgia,myalgia,1.0
+LIPITOR.47,neuralgia,16269008,Neuralgia,neuralgia,100,16269008,Neuralgia,neuralgia,1.0
+LIPITOR.47,insomnia,193462001,Insomnia,insomnia,100,193462001,Insomnia,insomnia,1.0
+LIPITOR.47,dementia,52448006,Dementia,dementia,100,52448006,Dementia,dementia,1.0
+LIPITOR.47,polyneuropathy,42345000,Polyneuropathy,polyneuropathy,100,42345000,Polyneuropathy,polyneuropathy,1.0
+LIPITOR.47,rhabdomyolysis,240131006,Rhabdomyolysis,rhabdomyolisis,93,240131006,Rhabdomyolysis,rhabdomyolisis,0.8473
+LIPITOR.47,subdural hematoma,95453001,Subdural haematoma,subdural hematoma,100,95453001,Subdural haematoma,subdural hematoma,1.0
+LIPITOR.47,coma,371632003,Coma,coma,100,371632003,Coma,coma,1.0
+LIPITOR.47,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+LIPITOR.598,side effects,26544005,Muscle weakness,muscle weakness,44,84229001,Fatigue,extreme tiredness,0.3121
+LIPITOR.598,extreme tiredness,84229001,Fatigue,extreme tiredness,100,84229001,Fatigue,extreme tiredness,1.0
+LIPITOR.598,malais,2297011000036108,magnesium,magnesium,40,162076009,Excessive upper gastrointestinal gas,general feeling of malais,0.7203
+LIPITOR.598,side effects,26544005,Muscle weakness,muscle weakness,44,84229001,Fatigue,extreme tiredness,0.3121
+LIPITOR.553,rash,271807003,Rash,rash,100,271807003,Rash,rash,1.0
+ARTHROTEC.141,dizziness,404640003,Dizziness,dizziness,100,404640003,Dizziness,dizziness,1.0
+ARTHROTEC.141,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+ARTHROTEC.141,dizzy,404640003,Dizziness,dizzy,100,404640003,Dizziness,dizzy,1.0
+ARTHROTEC.141,sick,271681002,Stomach ache,stomach pain,25,422587007,Nausea,nausea,0.5152
+LIPITOR.792,side effects,84445001,Joint stiffness,joint stiffness,44,25064002,Headache,Headaches,0.4086
+LIPITOR.792,side effects,84445001,Joint stiffness,joint stiffness,44,25064002,Headache,Headaches,0.4086
+LIPITOR.302,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+LIPITOR.130,symptoms,271681002,Stomach ache,stomach pain,40,422587007,Nausea,nausea,0.5116
+LIPITOR.766,weight gain,8943002,Weight gain,weight gain,100,8943002,Weight gain,weight gain,1.0
+LIPITOR.766,periorbital edema,49563000,Periorbital oedema,periorbital edema,100,49563000,Periorbital oedema,periorbital edema,1.0
+LIPITOR.766,fatigue,84229001,Fatigue,fatigue,100,84229001,Fatigue,fatigue,1.0
+LIPITOR.766,lack of libido,248096004,Lack of libido,lack of libido,100,248096004,Lack of libido,lack of libido,1.0
+LIPITOR.766,detachment,8943002,Weight gain,weight gain,38,271594007,Syncope,syncope,0.2551
+LIPITOR.82,adverse effects,35489007,Depression,depression,40,35489007,Depression,depression,0.2782
+LIPITOR.82,side effects,419145002,Nightmares,vivid nightmares,36,419145002,Nightmares,vivid nightmares,0.286
+LIPITOR.905,flatulence,267052005,Flatulence/wind,flatulence,100,267052005,Flatulence/wind,flatulence,1.0
+LIPITOR.905,fart,267052005,Flatulence/wind,flatulence,43,267052005,Flatulence/wind,flatulence,0.5912
+LIPITOR.562,side effects,68962001,Myalgia,muscle pains,33,68962001,Myalgia,intense muscle pain with intense burning in my legs,0.2582
+LIPITOR.85,exhausted,60119000,Exhaustion,exhausted,100,60119000,Exhaustion,exhausted,1.0
+LIPITOR.85,weak,13791008,Asthenia,weak,100,13791008,Asthenia,weak,1.0
+LIPITOR.85,side effect,26544005,Muscle weakness,muscle weakness,38,60119000,Exhaustion,exhausting,0.2759
+LIPITOR.85,muscle pain,68962001,Myalgia,muscle pain,100,68962001,Myalgia,muscle pain,1.0
+LIPITOR.591,severe cramps,55300003,Muscle cramp,very severe cramps,84,55300003,Muscle cramp,very severe cramps,0.9346
+LIPITOR.591,pains,274663001,Acute pain,acute pain,53,76948002,Severe pain,very severe pains,0.801
+LIPITOR.591,severe reaction,76948002,Severe pain,very severe pains,62,274663001,Acute pain,acute pain,0.4851
+VOLTAREN.40,dreams,419581008,Bizarre dreams,wild dreams,71,419581008,Bizarre dreams,wild dreams,0.7651
+LIPITOR.775,side effects,68962001,Myalgia,Muscle pain,26,68962001,Myalgia,Muscle pain,0.2765
+LIPITOR.123,mild,68962001,Myalgia,muscle pain,27,271587009,Stiffness,general body stiffness,0.2678
+LIPITOR.123,side effects,56731001,Hypertonia,Muscle tightness,36,68962001,Myalgia,muscle pain,0.2765
+LIPITOR.123,general body stiffness,271587009,Stiffness,general body stiffness,100,271587009,Stiffness,general body stiffness,1.0
+LIPITOR.123,muscle pain,68962001,Myalgia,muscle pain,100,68962001,Myalgia,muscle pain,1.0
+LIPITOR.578,severe tinnitus,60862001,Tinnitus,severe tintitinitis (ringing in ears),54,60862001,Tinnitus,severe tintitinitis (ringing in ears),0.7853
+LIPITOR.540,side affect,3877011000036101,Lipitor,Lipitor,22,225609009,Stiff legs,"left leg, below the knee, experienced stiffness",0.2981
+LIPITOR.582,side effects,10601006,Pain in lower limb,aches in legs,40,10601006,Pain in lower limb,aches in legs,0.2408
+LIPITOR.576,aching,82991003,Generalised aches and pains,aching (like the flu),44,82991003,Generalised aches and pains,aching (like the flu),0.7144
+LIPITOR.576,side effects,278040002,Loss of hair,hair fell out,40,82991003,Generalised aches and pains,aching (like the flu),0.2236
+LIPITOR.96,HORRIBLE,224960004,Tired,tired,31,224960004,Tired,tired,0.3059
+LIPITOR.96,bad side effects,247806005,Ill-at-ease,uneasiness,38,247806005,Ill-at-ease,uneasiness,0.264
+LIPITOR.911,depression,35489007,Depression,very serious depression,61,35489007,Depression,very serious depression,0.8032
+LIPITOR.911,thoughts,102911000,Thoughts of self harm,thoughts of hurting myself,47,102911000,Thoughts of self harm,thoughts of hurting myself,0.4839
+LIPITOR.929,side effects,449917004,Cramp in lower limb,leg cramps,36,449917004,Cramp in lower limb,leg cramps,0.2363
+LIPITOR.571,statin-induced depression,35489007,Depression,depression,57,35489007,Depression,depression,0.5284
+LIPITOR.743,side effects,267044007,Impaired exercise tolerance,Exhaustion after exercise,43,267044007,Impaired exercise tolerance,Exhaustion after exercise,0.1563
+LIPITOR.65,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+LIPITOR.788,side effects,24184005,Finding of increased blood pressure,high blood pressure,32,3877011000036101,Lipitor,lipitor,0.2098
+LIPITOR.141,grapefruit,3877011000036101,Lipitor,Lipitor,35,22253000,Pain,pain,0.2837
+VOLTAREN.38,side effects,51197009,Stomach cramps,Stomach cramps,31,51197009,Stomach cramps,Stomach cramps,0.2112
+VOLTAREN.38,side effects,51197009,Stomach cramps,Stomach cramps,31,51197009,Stomach cramps,Stomach cramps,0.2112
+LIPITOR.179,hyper,44548000,Hyperactive behaviour,hyperactive,62,44548000,Hyperactive behaviour,extremely hyper,0.8261
+LIPITOR.179,hyperactive,44548000,Hyperactive behaviour,hyperactive,100,44548000,Hyperactive behaviour,hyperactive,1.0
+LIPITOR.945,zombie,247592009,Poor short-term memory,short term memory loss,21,248274002,Lack of energy,no energy all day,0.2644
+ARTHROTEC.137,hot flashes,238810007,Flushing,hot flashes,100,238810007,Flushing,hot flashes,1.0
+ARTHROTEC.137,Codeine,21821011000036104,codeine,Codeine,100,21821011000036104,codeine,Codeine,1.0
+ARTHROTEC.137,hydrocodone,21821011000036104,codeine,Codeine,56,21252011000036100,morphine,morphine,0.4329
+ARTHROTEC.137,prednisone,21496011000036106,prednisone,Prednisone,100,21496011000036106,prednisone,Prednisone,1.0
+ARTHROTEC.137,corti-cortisones,21779011000036103,cortisone,corti-cortisones,100,21779011000036103,cortisone,corti-cortisones,1.0
+ARTHROTEC.137,pseudoephedrine,21540011000036109,pseudoephedrine,pseudoephedrine,100,21540011000036109,pseudoephedrine,pseudoephedrine,1.0
+ARTHROTEC.137,morphine,21252011000036100,morphine,morphine,100,21252011000036100,morphine,morphine,1.0
+ARTHROTEC.137,demerol,34839011000036106,pethidine,demerol,100,34839011000036106,pethidine,demerol,1.0
+ARTHROTEC.137,percocette,21821011000036104,codeine,Codeine,47,34839011000036106,pethidine,demerol,0.3167
+ARTHROTEC.137,darvon,34839011000036106,pethidine,demerol,46,34839011000036106,pethidine,demerol,0.4169
+ARTHROTEC.137,cyclobenzoprene,21821011000036104,codeine,Codeine,45,21540011000036109,pseudoephedrine,pseudoephedrine,0.3975
+ARTHROTEC.137,topical Benedryl,21252011000036100,morphine,morphine,42,21540011000036109,pseudoephedrine,pseudoephedrine,0.4049
+LIPITOR.710,blood,3877011000036101,Lipitor,Lipitor,33,22298006,Myocardial infarction,heart attack,0.3349
+LIPITOR.710,liver function,10601006,Pain in lower limb,leg pain,45,3877011000036101,Lipitor,Lipitor,0.1616
+LIPITOR.374,side effects,55300003,Muscle cramp,muscle cramps,40,235856003,Liver disease,liver problems,0.2815
+LIPITOR.146,side effects,267953003,Arthralgia of the lower leg,sore leg joints,44,22253000,Pain,ache,0.3023
+LIPITOR.987,side effects,111516008,Blurring of visual image,vision became blurry,31,247464001,Blistering rash,blisterey rash on my legs,0.2917
+LIPITOR.987,side effects,111516008,Blurring of visual image,vision became blurry,31,247464001,Blistering rash,blisterey rash on my legs,0.2917
+LIPITOR.389,muscle cramps,55300003,Muscle cramp,muscle cramps,100,55300003,Muscle cramp,muscle cramps,1.0
+LIPITOR.389,dizziness,404640003,Dizziness,dizziness,100,404640003,Dizziness,dizziness,1.0
+VOLTAREN.3,upset,162059005,Upset stomach,upset stomach,56,162059005,Upset stomach,upset my stomach,0.6215
+VOLTAREN.3,side effects,162059005,Upset stomach,upset stomach,32,162059005,Upset stomach,upset my stomach,0.3931
+ARTHROTEC.101,cramping,55300003,Muscle cramp,cramping,100,55300003,Muscle cramp,cramping,1.0
+ARTHROTEC.101,upset stomache,162059005,Upset stomach,upset stomache,100,162059005,Upset stomach,upset stomache,1.0
+ARTHROTEC.101,side effects,267036007,Dyspnoea,shortness of breath,39,162059005,Upset stomach,upset stomache,0.3341
+LIPITOR.719,blisters,417237009,Blister,blisters,100,417237009,Blister,blisters,1.0
+LIPITOR.719,fire,417237009,Blister,blisters,33,417237009,Blister,blisters,0.2253
+LIPITOR.973,E.D.,10601006,Pain in lower limb,Leg pains,15,48167000,Amnesia,loss of memory,0.1521
+PENNSAID.1,relief,162076009,Excessive upper gastrointestinal gas,gastro effects,30,22253000,Pain,pain,0.5402
+PENNSAID.1,gastro effects,162076009,Excessive upper gastrointestinal gas,gastro effects,100,162076009,Excessive upper gastrointestinal gas,gastro effects,1.0
+LIPITOR.184,side effects,63102001,Visual disturbance,vision problems,37,57676002,Arthralgia,joint pain,0.2606
+LIPITOR.184,side effects,63102001,Visual disturbance,vision problems,37,57676002,Arthralgia,joint pain,0.2606
+LIPITOR.184,side effects,63102001,Visual disturbance,vision problems,37,57676002,Arthralgia,joint pain,0.2606
+VOLTAREN-XR.2,side effects,271681002,Stomach ache,stomach discomfort,27,22253000,Pain,pain,0.3189
+LIPITOR.38,Side effects,422587007,Nausea,mild nausea,35,422587007,Nausea,mild nausea,0.4655
+LIPITOR.38,side effects,422587007,Nausea,mild nausea,35,422587007,Nausea,mild nausea,0.4655
+LIPITOR.38,severe,76948002,Severe pain,severe muscle pain,50,76948002,Severe pain,severe muscle pain,0.4492
+LIPITOR.38,burning,90673000,Burning sensation,burning,100,90673000,Burning sensation,burning,1.0
+LIPITOR.38,cramps,55300003,Muscle cramp,cramps,100,55300003,Muscle cramp,cramps,1.0
+LIPITOR.38,mild,422587007,Nausea,mild nausea,53,422587007,Nausea,mild nausea,0.5612
+LIPITOR.38,nausea,422587007,Nausea,mild nausea,71,422587007,Nausea,mild nausea,0.8052
+LIPITOR.38,side effects,422587007,Nausea,mild nausea,35,422587007,Nausea,mild nausea,0.4655
+LIPITOR.183,muscle ache/pain,68962001,Myalgia,muscle pain,81,68962001,Myalgia,muscle ache,0.9434
+LIPITOR.183,Diarrehea,62315008,Diarrhoea,Diarrehea,100,62315008,Diarrhoea,Diarrehea,1.0
+LIPITOR.114,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+LIPITOR.114,sweating,415690000,Sweating,sweating,100,415690000,Sweating,sweating,1.0
+LIPITOR.114,horrible,32970011000036103,Toprol-XL,Toprol,43,422587007,Nausea,nausea,0.2953
+LIPITOR.742,side effects,30989003,Knee pain,Pain in knees,40,22253000,Pain,pain,0.3189
+LIPITOR.742,pain killers,30989003,Knee pain,Pain in knees,64,22253000,Pain,pain,0.6462
+LIPITOR.742,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+LIPITOR.570,side,79395009,Dry hair,hair dryness,38,288228002,Myalgia/myositis - forearm,Muscle Pain in left arm,0.2736
+LIPITOR.570,effects,79395009,Dry hair,hair dryness,21,3877011000036101,Lipitor,Lipitor,0.3291
+LIPITOR.789,side effects,35489007,Depression,depression,36,48694002,Anxiety,anxiety,0.3229
+LIPITOR.64,brain fog,419723007,Mentally dull,brain fog,100,419723007,Mentally dull,brain fog,1.0
+LIPITOR.64,impaired memory,386807006,Memory impairment,impaired memory,100,386807006,Memory impairment,impaired memory,1.0
+LIPITOR.319,adverse reactions,68962001,Myalgia,muscle aching,47,57676002,Arthralgia,Joint pain,0.3088
+LIPITOR.321,side effects,76948002,Severe pain,severe pain in feet,39,76948002,Severe pain,severe pain in legs,0.2392
+LIPITOR.321,severe,76948002,Severe pain,severe pain in hips,48,76948002,Severe pain,severe pain in back,0.363
+LIPITOR.321,pain,3877011000036101,Lipitor,Lipitor,36,76948002,Severe pain,severe pain in back,0.5036
+LIPITOR.910,drugged,307074005,Feeling high,feel drugged,74,307074005,Feeling high,feel drugged,0.7972
+LIPITOR.910,side effects,307074005,Feeling high,feel drugged,25,307074005,Feeling high,feel drugged,0.356
+LIPITOR.548,side effects,248132003,Craving for food or drink,crave sweets,50,162059005,Upset stomach,stomach upset,0.3123
+LIPITOR.97,muscle pain,68962001,Myalgia,muscle pain,100,68962001,Myalgia,muscle pain,1.0
+LIPITOR.97,muscle pain,68962001,Myalgia,muscle pain,100,68962001,Myalgia,muscle pain,1.0
+LIPITOR.773,side effects,45326000,Shoulder pain,very bad pains in shoulders,26,22253000,Pain,pain,0.3189
+LIPITOR.780,symptoms,3877011000036101,Lipitor,Lipitor,40,267031002,Tiredness symptom,TIREDNESS,0.4667
+LIPITOR.780,neck pains,81680005,Neck pain,neck pains,100,81680005,Neck pain,neck pains,1.0
+LIPITOR.780,side affect,267031002,Tiredness symptom,TIREDNESS,30,267031002,Tiredness symptom,TIREDNESS,0.3879
+LIPITOR.99,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+LIPITOR.546,side effects,36971009,Sinusitis,sinus infection,52,36955009,Loss of taste,taste loss,0.3463
+LIPITOR.546,side-effects,36971009,Sinusitis,sinus infection,44,3559011000036109,Zoloft,Zoloft,0.3773
+LIPITOR.546,Insomina,193462001,Insomnia,Insomina,100,193462001,Insomnia,Insomina,1.0
+LIPITOR.546,abnoraml dreams,85418005,Abnormal dreams,abnoraml dreams,100,85418005,Abnormal dreams,abnoraml dreams,1.0
+LIPITOR.546,depression,35489007,Depression,depression,100,35489007,Depression,depression,1.0
+LIPITOR.546,memory loss,48167000,Amnesia,memory loss,100,48167000,Amnesia,memory loss,1.0
+LIPITOR.546,photosensitivity,90128006,Photosensitivity,photosensitivity,100,90128006,Photosensitivity,photosensitivity,1.0
+LIPITOR.546,muscle pain,68962001,Myalgia,muscle pain,100,68962001,Myalgia,muscle pain,1.0
+LIPITOR.546,leg cramps,449918009,Cramp in lower leg,leg cramps,100,449918009,Cramp in lower leg,leg cramps,1.0
+LIPITOR.546,rhinitis,70076002,Rhinitis,rhinitis,100,70076002,Rhinitis,rhinitis,1.0
+LIPITOR.546,bronchitis,32398004,Bronchitis,bronchitis,100,32398004,Bronchitis,bronchitis,1.0
+LIPITOR.546,dry skin,16386004,Dry skin,dry skin,100,16386004,Dry skin,dry skin,1.0
+LIPITOR.546,tinnitus,60862001,Tinnitus,tinnitus,100,60862001,Tinnitus,tinnitus,1.0
+LIPITOR.546,taste loss,36955009,Loss of taste,taste loss,100,36955009,Loss of taste,taste loss,1.0
+LIPITOR.546,dry eyes,162290004,Dry eyes,dry eyes,100,162290004,Dry eyes,dry eyes,1.0
+LIPITOR.546,weight gain,8943002,Weight gain,weight gain,100,8943002,Weight gain,weight gain,1.0
+LIPITOR.546,tinnitus,60862001,Tinnitus,tinnitus,100,60862001,Tinnitus,tinnitus,1.0
+LIPITOR.546,depression,35489007,Depression,depression,100,35489007,Depression,depression,1.0
+LIPITOR.546,side-effects,36971009,Sinusitis,sinus infection,44,3559011000036109,Zoloft,Zoloft,0.3773
+LIPITOR.546,syptoms,301202006,Nasal sinus problem,sinus problems,48,22253000,Pain,pain,0.4008
+LIPITOR.546,side effects,36971009,Sinusitis,sinus infection,52,36955009,Loss of taste,taste loss,0.3463
+VOLTAREN.5,effects,61777011000036104,codeine + ibuprofen,Ibuprofen plus,29,162059005,Upset stomach,upset my stomach,0.3354
+VOLTAREN.5,stomach,162059005,Upset stomach,upset my stomach,61,162059005,Upset stomach,upset my stomach,0.6735
+LIPITOR.182,side effects,267031002,Tiredness symptom,tiredness,38,267031002,Tiredness symptom,tiredness,0.3516
+VOLTAREN.37,diarrhea,62315008,Diarrhoea,diarrhea,100,62315008,Diarrhoea,diarrhea,1.0
+LIPITOR.39,itchiness,418363000,Itching of skin,skin itchiness,78,418363000,Itching of skin,skin itchiness,0.8668
+VOLTAREN-XR.3,diarrhea,62315008,Diarrhoea,diarrhea,100,62315008,Diarrhoea,diarrhea,1.0
+ARTHROTEC.138,side effect,162043005,Hunger pain,hungry feeling,24,162043005,Hunger pain,hungry feeling,0.2391
+LIPITOR.176,side effects,68566005,Urinary tract infection,urinery tract infection,40,22253000,Pain,pain,0.3189
+ARTHROTEC.100,side effects,426965005,Aphthous ulcer,canker sores,33,25064002,Headache,headache,0.3502
+LIPITOR.972,bedridden,160685001,Bed-ridden,bedridden,100,160685001,Bed-ridden,bedridden,1.0
+LIPITOR.972,cautious,286369003,Unable to speak,unable to speak,35,363346000,Malignant neoplastic disease,cancer,0.2612
+LIPITOR.972,Rxs,363346000,Malignant neoplastic disease,cancer,22,3877011000036101,Lipitor,Lipitor,0.2002
+VOLTAREN.2,dizzy,404640003,Dizziness,dizzy,100,404640003,Dizziness,dizzy,1.0
+LIPITOR.343,poison,3877011000036101,Lipitor,lipitor,46,3877011000036101,Lipitor,lipitor,0.4137
+LIPITOR.727,gas,162076009,Excessive upper gastrointestinal gas,gas,100,162076009,Excessive upper gastrointestinal gas,gas,1.0
+LIPITOR.727,side effects,267052005,Flatulence/wind,Severe gas,45,289903006,Menopause present,menopause,0.2704
+LIPITOR.727,unpleasant,289903006,Menopause present,menopause,42,82272006,Common cold,cold,0.3179
+LIPITOR.727,side effect,399153001,Vertigo,severe vertigo,40,161873000,Heavy legs,legs feel leaden,0.2933
+LIPITOR.727,side effects,267052005,Flatulence/wind,Severe gas,45,289903006,Menopause present,menopause,0.2704
+LIPITOR.515,tiring,80449002,Muscle fatigue,muscle tiring,63,80449002,Muscle fatigue,muscle tiring,0.784
+LIPITOR.515,fatigue,84229001,Fatigue,fatigue,100,84229001,Fatigue,fatigue,1.0
+LIPITOR.185,effects,95891005,Influenza-like illness,flu like symptoms,33,73595000,Stress,stress,0.4109
+VOLTAREN.30,diarrhea,62315008,Diarrhoea,diarrhea,100,62315008,Diarrhoea,diarrhea,1.0
+VOLTAREN.30,side effects,21288011000036105,diclofenac,diclofenac,36,62315008,Diarrhoea,diarrhea,0.372
+LIPITOR.944,dehydration,450316000,Severe dehydration,extreme dehydration,73,450316000,Severe dehydration,extreme dehydration,0.8718
+LIPITOR.944,microabrasions,283050005,Abrasion of eye region,eyes microabrasions,85,283050005,Abrasion of eye region,eyes microabrasions,0.6941
+LIPITOR.944,constipated,14760008,Constipation,constipated,100,14760008,Constipation,constipated,1.0
+LIPITOR.147,severe muscle pull/strain,48532005,Muscle strain,severe muscle pull/strain,100,48532005,Muscle strain,severe muscle pull/strain,1.0
+LIPITOR.381,muscle spasms,55300003,Muscle cramp,muscle spasms,100,55300003,Muscle cramp,muscle spasms,1.0
+LIPITOR.381,muscle spasms,55300003,Muscle cramp,muscle spasms,100,55300003,Muscle cramp,muscle spasms,1.0
+ARTHROTEC.131,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+ARTHROTEC.131,bleeding,131148009,Bleeding,bleeding,100,131148009,Bleeding,bleeding,1.0
+ARTHROTEC.131,cramps,55300003,Muscle cramp,cramps,100,55300003,Muscle cramp,cramps,1.0
+LIPITOR.943,pain killers,82991003,Generalised aches and pains,pains all over body,58,82991003,Generalised aches and pains,pains all over body,0.5204
+LIPITOR.386,muscle aches,68962001,Myalgia,muscle aches,100,68962001,Myalgia,muscle aches,1.0
+LIPITOR.386,weakness,13791008,Asthenia,weakness,100,13791008,Asthenia,weakness,1.0
+LIPITOR.386,stiffness,271587009,Stiffness,stiffness,100,271587009,Stiffness,stiffness,1.0
+LIPITOR.386,cramps,250082003,Hand cramps,cramps in hands,57,250082003,Hand cramps,cramps in hands,0.7436
+LIPITOR.386,pain,29857009,Chest pain,pain in chest,47,102556003,Pain in upper limb,pain in my arms,0.616
+LIPITOR.372,side effects,22298006,Myocardial infarction,heart attack,25,22298006,Myocardial infarction,heart attack,0.3436
+LIPITOR.524,Unbearable,62315008,Diarrhoea,Diarrhea,33,62315008,Diarrhoea,Diarrhea,0.2904
+LIPITOR.716,side affect,3877011000036101,Lipitor,Lipitor,22,3877011000036101,Lipitor,Lipitor,0.2076
+LIPITOR.716,reaction,3877011000036101,Lipitor,Lipitor,27,3877011000036101,Lipitor,Lipitor,0.2997
+LIPITOR.456,severe calf pain,76948002,Severe pain,severe calf pain,100,76948002,Severe pain,severe calf pain,1.0
+LIPITOR.663,side-effects,22298006,Myocardial infarction,mild heart attack,28,22298006,Myocardial infarction,heart attack,0.3473
+LIPITOR.663,back,161891005,Backache,back pain,62,161891005,Backache,back pain,0.4783
+LIPITOR.663,pain,161891005,Backache,back pain,62,161891005,Backache,back pain,0.6126
+LIPITOR.663,tiredness,224960004,Tired,tiredness is at a high level,49,224960004,Tired,tiredness is at a high level,0.7899
+ARTHROTEC.33,side effect,224960004,Tired,tired,25,224960004,Tired,tired,0.3315
+LIPITOR.836,diarreah,62315008,Diarrhoea,diarreah,100,62315008,Diarrhoea,diarreah,1.0
+LIPITOR.836,aches,68962001,Myalgia,Muscle aches & pains,40,68962001,Myalgia,Muscle aches & pains,0.6112
+LIPITOR.836,pains,68962001,Myalgia,Muscle aches & pains,40,68962001,Myalgia,Muscle aches & pains,0.7092
+LIPITOR.836,fatigue,84229001,Fatigue,fatigue,100,84229001,Fatigue,fatigue,1.0
+LIPITOR.836,side effects,68962001,Myalgia,Muscle aches & pains,31,84229001,Fatigue,fatigue,0.2675
+LIPITOR.800,side effects,247994001,Noise intolerance,noise intolerance,34,25064002,Headache,headaches,0.4086
+LIPITOR.800,side effects,247994001,Noise intolerance,noise intolerance,34,25064002,Headache,headaches,0.4086
+LIPITOR.800,side effects,247994001,Noise intolerance,noise intolerance,34,25064002,Headache,headaches,0.4086
+LIPITOR.800,build-up effects,193462001,Insomnia,Mild insomnia,34,3877011000036101,Lipitor,Lipitor,0.3054
+LIPITOR.236,numb,309521004,Numbness of hand,Hands numb,57,309521004,Numbness of hand,Hands numb,0.7993
+LIPITOR.236,severe pain,22253000,Pain,pain,53,22253000,Pain,pain,0.7345
+LIPITOR.236,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+LIPITOR.838,side effects,203095000,Spasm of back muscles,severe back spasms,40,61387006,Moderate anxiety,Extreme anxiety,0.308
+LIPITOR.652,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+LIPITOR.652,diziness,404640003,Dizziness,diziness,100,404640003,Dizziness,diziness,1.0
+LIPITOR.652,trembling,267079009,Trembles,trembling,100,267079009,Trembles,trembling,1.0
+LIPITOR.652,poisened,286641001,Moody,moodiness,47,267079009,Trembles,trembling,0.3272
+LIPITOR.699,flatulance,267052005,Flatulence/wind,mild flatulance,80,267052005,Flatulence/wind,mild flatulance,0.8517
+ARTHROTEC.56,cramps,55300003,Muscle cramp,cramps,100,55300003,Muscle cramp,cramps,1.0
+ARTHROTEC.56,diarrhea,62315008,Diarrhoea,diarrhea,100,62315008,Diarrhoea,diarrhea,1.0
+ARTHROTEC.56,heavy bleeding,131148009,Bleeding,heavy bleeding,100,131148009,Bleeding,heavy bleeding,1.0
+LIPITOR.606,soreness,267031002,Tiredness symptom,tiredness,71,68962001,Myalgia,soreness in muscles,0.8004
+LIPITOR.606,tiredness,267031002,Tiredness symptom,tiredness,100,267031002,Tiredness symptom,tiredness,1.0
+LIPITOR.898,SEVERE muscle pain,288231001,Myalgia/myositis - lower leg,leg muscle inflamed,59,76948002,Severe pain,SEVERE muscle pain - especially in lower calfs of both legs,0.7279
+CATAFLAM.8,sun sensitivity,258155009,Photosensitisation due to sun,sun sensitivity,100,258155009,Photosensitisation due to sun,sun sensitivity,1.0
+LIPITOR.291,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+LIPITOR.291,diarrhea,62315008,Diarrhoea,diarrhea,100,62315008,Diarrhoea,diarrhea,1.0
+LIPITOR.291,side effects,26544005,Muscle weakness,Muscle weakness,44,422587007,Nausea,nausea,0.4999
+LIPITOR.601,side affects,124054003,Increased cholesterol esters,high cholesterol,29,124054003,Increased cholesterol esters,high cholesterol,0.2238
+ARTHROTEC.67,crankiness,274646000,Irritability and anger,crankiness and irritability,54,274646000,Irritability and anger,crankiness and irritability,0.7999
+ARTHROTEC.67,irritability,274646000,Irritability and anger,crankiness and irritability,62,274646000,Irritability and anger,crankiness and irritability,0.7375
+ARTHROTEC.67,side effects,63102001,Visual disturbance,visual disturbances,26,22253000,Pain,pain,0.3189
+LIPITOR.862,side effects,248096004,Lack of libido,lack of sex drive,28,248096004,Lack of libido,lack of sex drive,0.2372
+LIPITOR.405,side effects,449917004,Cramp in lower limb,leg cramps,36,68962001,Myalgia,muscle pain,0.2765
+ARTHROTEC.58,redness,21779011000036103,cortisone,cortisone shot,38,418290006,Itching,itching,0.3192
+ARTHROTEC.58,swelling,418290006,Itching,itching,40,30989003,Knee pain,knee pain,0.5117
+ARTHROTEC.58,itching,418290006,Itching,itching,100,418290006,Itching,itching,1.0
+ARTHROTEC.60,bled,131148009,Bleeding,Bleeding,67,131148009,Bleeding,bled heavily,0.8434
+ARTHROTEC.60,Bleeding,131148009,Bleeding,Bleeding,100,131148009,Bleeding,Bleeding,1.0
+ARTHROTEC.60,clotting,131148009,Bleeding,Bleeding,50,131148009,Bleeding,Bleeding,0.632
+ARTHROTEC.60,rash,271807003,Rash,rash on my wrist,40,271807003,Rash,rash on my wrist,0.6318
+ARTHROTEC.60,wrist,271807003,Rash,rash on my wrist,48,271807003,Rash,rash on my wrist,0.5208
+ARTHROTEC.60,side effects,131148009,Bleeding,bled heavily,25,271681002,Stomach ache,stomach pain,0.2704
+ARTHROTEC.60,reaction,271681002,Stomach ache,stomach pain,40,131148009,Bleeding,Bleeding,0.266
+ARTHROTEC.94,diarrhea,62315008,Diarrhoea,diarrhea,100,62315008,Diarrhoea,diarrhea,1.0
+LIPITOR.891,gums,70346000,Gingival oedema,gums swelling,47,70346000,Gingival oedema,gums swelling,0.63
+LIPITOR.891,swelling,70346000,Gingival oedema,gums swelling,76,70346000,Gingival oedema,gums swelling,0.6836
+LIPITOR.891,visual,7973008,Abnormal vision,visual anomalies,55,7973008,Abnormal vision,visual anomalies,0.4848
+LIPITOR.891,anomalies,7973008,Abnormal vision,visual anomalies,72,7973008,Abnormal vision,visual anomalies,0.7653
+LIPITOR.891,numbness,44077006,Numbness,numbness in muscles,59,44077006,Numbness,numbness in muscles,0.7951
+LIPITOR.891,muscles,44077006,Numbness,numbness in muscles,54,44077006,Numbness,numbness in muscles,0.437
+LIPITOR.891,sore,162397003,Pain in throat,sore throat,53,162397003,Pain in throat,sore throat,0.6085
+LIPITOR.891,soreness,162397003,Pain in throat,sore throat,42,162397003,Pain in throat,sore throat,0.657
+LIPITOR.891,mucous,21417011000036105,fenofibrate,tricor,33,162397003,Pain in throat,sore throat,0.4007
+LIPITOR.891,membrane,449917004,Cramp in lower limb,cramps in legs,36,3877011000036101,Lipitor,lipitor,0.5147
+LIPITOR.891,areas,162397003,Pain in throat,sore throat,38,7973008,Abnormal vision,visual anomalies,0.1938
+LIPITOR.495,side effects,55300003,Muscle cramp,severe muscle spasms,38,22253000,Pain,pain,0.3189
+LIPITOR.495,severe muscle spasms,55300003,Muscle cramp,severe muscle spasms,100,55300003,Muscle cramp,severe muscle spasms,1.0
+LIPITOR.495,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+LIPITOR.495,excruciating pain,67849003,Excruciating pain,excruciating pain,100,67849003,Excruciating pain,excruciating pain,1.0
+LIPITOR.230,side-effects,193462001,Insomnia,Sleeplessness,40,419723007,Mentally dull,foggy-headedness,0.3103
+LIPITOR.492,severe,25064002,Headache,severe headache,57,25064002,Headache,severe headache,0.5379
+LIPITOR.492,side,386705008,Lightheadedness,light headed,38,25064002,Headache,headache,0.3123
+LIPITOR.492,effect,53458011000036102,Aleve,Aleve,36,26079004,Tremor,shaky,0.344
+LIPITOR.206,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+LIPITOR.662,muscle/joint pain,267953003,Arthralgia of the lower leg,calves joint pain in,70,267953003,Arthralgia of the lower leg,joint pain in legs,0.8163
+LIPITOR.662,pain,22253000,Pain,pain so bad,53,22253000,Pain,pain so bad,0.7991
+ARTHROTEC.32,severe abdominal pain,76948002,Severe pain,severe abdominal pain,100,76948002,Severe pain,severe abdominal pain,1.0
+ARTHROTEC.32,bruises,125667009,Contusion,bruises,100,125667009,Contusion,bruises,1.0
+LIPITOR.239,afterpain,22253000,Pain,afterpain,100,22253000,Pain,afterpain,1.0
+LIPITOR.239,sore,22253000,Pain,sore,100,22253000,Pain,sore,1.0
+LIPITOR.239,pain,22253000,Pain,afterpain,62,22253000,Pain,sore,0.6821
+LIPITOR.691,side effects,161882006,Stiff neck,stiff neck,55,22253000,Pain,pain,0.3189
+LIPITOR.457,muscle,68962001,Myalgia,bad muscle pains,55,68962001,Myalgia,bad muscle pains,0.4726
+LIPITOR.457,terrible,56265001,Heart disease,heart problems,55,363346000,Malignant neoplastic disease,CANCER,0.2705
+LIPITOR.457,constipation,14760008,Constipation,constipation,100,14760008,Constipation,constipation,1.0
+LIPITOR.457,bad,68962001,Myalgia,bad muscle pains,32,363346000,Malignant neoplastic disease,CANCER,0.2833
+LIPITOR.457,muscle,68962001,Myalgia,bad muscle pains,55,68962001,Myalgia,bad muscle pains,0.4726
+LIPITOR.830,side effects,8357008,Reduced libido,taking one's appetite for sex away,26,8357008,Reduced libido,taking one's appetite for sex away,0.2118
+LIPITOR.468,weakness,267036007,Dyspnoea,breathlessness,55,309774006,Weakness of limb,weakness in both arms,0.6813
+LIPITOR.468,jittery,424196004,Nervousness,jittery,100,424196004,Nervousness,jittery,1.0
+LIPITOR.468,tingly,62507009,Pins and needles,tingly,100,62507009,Pins and needles,tingly,1.0
+LIPITOR.468,itchy,418290006,Itching,itchy,100,418290006,Itching,itchy,1.0
+ARTHROTEC.35,side affects,422587007,Nausea,Nausea,33,422587007,Nausea,Nausea,0.4349
+ARTHROTEC.35,nauseous,422587007,Nausea,nauseous,100,422587007,Nausea,nauseous,1.0
+ARTHROTEC.95,diarrhoea,62315008,Diarrhoea,diarrhoea,100,62315008,Diarrhoea,diarrhoea,1.0
+ARTHROTEC.95,swelling,65124004,Swelling,swelling,100,65124004,Swelling,swelling,1.0
+ARTHROTEC.61,side effects,162076009,Excessive upper gastrointestinal gas,gas,13,22253000,Pain,pain,0.3189
+ARTHROTEC.61,gas,162076009,Excessive upper gastrointestinal gas,gas,100,162076009,Excessive upper gastrointestinal gas,gas,1.0
+ARTHROTEC.61,side effects,162076009,Excessive upper gastrointestinal gas,gas,13,22253000,Pain,pain,0.3189
+LIPITOR.631,poison,162031009,Indigestion,indigestion,47,162031009,Indigestion,indigestion,0.364
+ARTHROTEC.66,slight nausea,422587007,Nausea,slight nausea,100,422587007,Nausea,slight nausea,1.0
+LIPITOR.404,side effects,3877011000036101,Lipitor,Lipitor,21,3877011000036101,Lipitor,Lipitor,0.2098
+ARTHROTEC.59,pruritus ani,90446007,Pruritus ani,pruritus ani,100,90446007,Pruritus ani,pruritus ani,1.0
+ARTHROTEC.59,diarrhea,62315008,Diarrhoea,diarrhea,100,62315008,Diarrhoea,diarrhea,1.0
+ARTHROTEC.59,pruritus,418363000,Itching of skin,pruritus,100,418363000,Itching of skin,pruritus,1.0
+CATAFLAM.9,gassy abdominal cramping,162076009,Excessive upper gastrointestinal gas,gassy abdominal cramping,100,162076009,Excessive upper gastrointestinal gas,gassy abdominal cramping,1.0
+LIPITOR.852,side effects,161891005,Backache,Slight muscle aches in my back,29,161891005,Backache,Slight muscle aches in my back,0.1909
+LIPITOR.297,muscel pain,68962001,Myalgia,muscel pain,100,68962001,Myalgia,muscel pain,1.0
+LIPITOR.899,side effects,68962001,Myalgia,muscle aches,42,68962001,Myalgia,muscle aches,0.3099
+LIPITOR.899,side effects,68962001,Myalgia,muscle aches,42,68962001,Myalgia,muscle aches,0.3099
+LIPITOR.899,side effects,68962001,Myalgia,muscle aches,42,68962001,Myalgia,muscle aches,0.3099
+LIPITOR.263,Side effects,35489007,Depression,depressed,38,82991003,Generalised aches and pains,Aches and pains,0.3023
+LIPITOR.263,Bad side effects,419723007,Mentally dull,diminished mental acuity,35,82991003,Generalised aches and pains,Aches and pains,0.32
+ARTHROTEC.68,nausea,422587007,Nausea,light nausea,67,422587007,Nausea,light nausea,0.7964
+LIPITOR.816,ZONED,76948002,Severe pain,EXTREME PAIN IN NECK,16,48167000,Amnesia,MEMORY LOSS,0.1662
+LIPITOR.816,OUT,162059005,Upset stomach,SICK TO MY STOMACH,19,48167000,Amnesia,MEMORY LOSS,0.239
+LIPITOR.816,SICK,162059005,Upset stomach,SICK TO MY STOMACH,36,162059005,Upset stomach,SICK TO MY STOMACH,0.6896
+LIPITOR.816,MY,48167000,Amnesia,MEMORY LOSS,31,162059005,Upset stomach,SICK TO MY STOMACH,0.3223
+LIPITOR.816,STOMACH,162059005,Upset stomach,SICK TO MY STOMACH,56,162059005,Upset stomach,SICK TO MY STOMACH,0.6167
+LIPITOR.218,side effects,166643006,Liver enzymes abnormal,elevated liver enzymes,35,166643006,Liver enzymes abnormal,elevated liver enzymes,0.228
+LIPITOR.688,excrutiation pain,67849003,Excruciating pain,excrutiation pain throughout my entire body,57,67849003,Excruciating pain,excrutiation pain throughout my entire body,0.8435
+ARTHROTEC.9,vomitting,422400008,Vomiting,vomitting,100,422400008,Vomiting,vomitting,1.0
+ARTHROTEC.9,sick,39104002,Illness,sick,100,39104002,Illness,sick,1.0
+ARTHROTEC.9,sickness,39104002,Illness,sickness,100,39104002,Illness,sickness,1.0
+ARTHROTEC.9,sickness,39104002,Illness,sickness,100,39104002,Illness,sickness,1.0
+ARTHROTEC.9,sickness,39104002,Illness,sickness,100,39104002,Illness,sickness,1.0
+ARTHROTEC.9,EXTREME nausea,422587007,Nausea,EXTREME nausea,100,422587007,Nausea,EXTREME nausea,1.0
+LIPITOR.811,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+LIPITOR.482,muscle pain,76948002,Severe pain,severe muscle pain,76,76948002,Severe pain,severe muscle pain,0.9091
+LIPITOR.482,twitching,249966004,Spasmodic movement,twitching,100,249966004,Spasmodic movement,twitching,1.0
+LIPITOR.482,twitching,249966004,Spasmodic movement,twitching,100,249966004,Spasmodic movement,twitching,1.0
+LIPITOR.482,muscle aches,288231001,Myalgia/myositis - lower leg,muscle aches in my legs,69,288231001,Myalgia/myositis - lower leg,muscle aches in my legs,0.8604
+LIPITOR.8,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+LIPITOR.8,side effects,68962001,Myalgia,muscle aches,42,22253000,Pain,pain,0.3189
+LIPITOR.8,side effects,68962001,Myalgia,muscle aches,42,22253000,Pain,pain,0.3189
+LIPITOR.8,fatigue,84229001,Fatigue,fatigue,100,84229001,Fatigue,fatigue,1.0
+LIPITOR.8,muscle aches,68962001,Myalgia,muscle aches,100,68962001,Myalgia,muscle aches,1.0
+LIPITOR.8,uncomfortable,48167000,Amnesia,Memory loss,33,22253000,Pain,pain,0.594
+LIPITOR.476,sedation,17971005,Sedated,sedation,100,17971005,Sedated,sedation,1.0
+LIPITOR.229,swelling,65124004,Swelling,swelling,100,65124004,Swelling,swelling,1.0
+LIPITOR.229,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+LIPITOR.1,similiar side-effects,47933007,Foot pain,pain in feet,36,84229001,Fatigue,fatigue,0.2426
+LIPITOR.686,side effects,73595000,Stress,stress,33,22298006,Myocardial infarction,heart attack,0.3436
+LIPITOR.216,crippling,22253000,Pain,pain,46,22253000,Pain,pain,0.284
+LIPITOR.216,severe,166830008,Serum cholesterol raised,cholesterol high,27,22253000,Pain,pain,0.4875
+LIPITOR.216,insomina,193462001,Insomnia,insomina,100,193462001,Insomnia,insomina,1.0
+LIPITOR.216,blurred,247640008,Unable to think clearly,blurred thinking,61,247640008,Unable to think clearly,blurred thinking,0.7235
+LIPITOR.216,thinking,247640008,Unable to think clearly,blurred thinking,67,247640008,Unable to think clearly,blurred thinking,0.7008
+LIPITOR.478,painful,57676002,Arthralgia,painful joints,67,68962001,Myalgia,painful muscles,0.6224
+LIPITOR.478,side,309774006,Weakness of limb,arms weak,31,309774006,Weakness of limb,arms weak,0.2452
+LIPITOR.478,effects,57676002,Arthralgia,painful joints,29,3877011000036101,Lipitor,Lipitor,0.3291
+LIPITOR.6,severe,73595000,Stress,stress,50,22253000,Pain,pain,0.4875
+LIPITOR.6,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+DICLOFENAC-SODIUM.7,side effects,162059005,Upset stomach,stomach upset,32,162059005,Upset stomach,stomach upset,0.3123
+DICLOFENAC-SODIUM.7,bleeding,131148009,Bleeding,bleeding,100,131148009,Bleeding,bleeding,1.0
+DICLOFENAC-SODIUM.7,peritonitis,48661000,Peritonitis,peritonitis,100,48661000,Peritonitis,peritonitis,1.0
+DICLOFENAC-SODIUM.7,septicaemia,10001005,Bacterial sepsis,septicaemia,100,10001005,Bacterial sepsis,septicaemia,1.0
+DICLOFENAC-SODIUM.7,renal,131148009,Bleeding,bleeding,31,48661000,Peritonitis,peritonitis,0.3687
+DICLOFENAC-SODIUM.7,respiratory failure,9829001,Gastric ulcer with perforation,perforated ulcer,40,10001005,Bacterial sepsis,septicaemia,0.3181
+LIPITOR.675,side-effects,80449002,Muscle fatigue,Extreme muscle fatigue,29,3877011000036101,Lipitor,Lipitor,0.2236
+LIPITOR.413,side effects,29857009,Chest pain,intense chest pains,39,18963009,Mood swings,mood swings,0.3667
+LIPITOR.413,symptoms,3877011000036101,Lipitor,lipitor,40,29857009,Chest pain,intense chest pains,0.4027
+ARTHROTEC.71,fainting,271594007,Syncope,fainting,100,271594007,Syncope,fainting,1.0
+ARTHROTEC.85,side effects,45979003,Abdominal wind pain,massive gas cramps,40,404640003,Dizziness,Dizziness,0.3605
+ARTHROTEC.85,Dizziness,404640003,Dizziness,Dizziness,100,404640003,Dizziness,Dizziness,1.0
+ARTHROTEC.85,faintness,271594007,Syncope,faintness,100,271594007,Syncope,faintness,1.0
+ARTHROTEC.85,disorientation,62476001,Disorientated,disorientation,100,62476001,Disorientated,disorientation,1.0
+LIPITOR.242,anxiety,48694002,Anxiety,ANXIETY,100,48694002,Anxiety,ANXIETY,1.0
+LIPITOR.242,hopelessness,307077003,Feeling hopeless,hopelessness,100,307077003,Feeling hopeless,hopelessness,1.0
+LIPITOR.242,lonliness,267076002,Feeling lonely,lonliness,100,267076002,Feeling lonely,lonliness,1.0
+LIPITOR.242,self loathing,225508006,Poor self-image,self loathing,100,225508006,Poor self-image,self loathing,1.0
+LIPITOR.242,depressed,35489007,Depression,depressed,100,35489007,Depression,depressed,1.0
+LIPITOR.242,Gas,162076009,Excessive upper gastrointestinal gas,Gas,100,162076009,Excessive upper gastrointestinal gas,Gas,1.0
+LIPITOR.242,Constipation,14760008,Constipation,Constipation,100,14760008,Constipation,Constipation,1.0
+LIPITOR.242,EXTREME FATIGUE,84229001,Fatigue,FATIGUE,64,84229001,Fatigue,FATIGUE,0.8894
+LIPITOR.242,bloating,248490000,Bloating symptom,bloating,100,248490000,Bloating symptom,bloating,1.0
+LIPITOR.242,diaharrea,62315008,Diarrhoea,diaharrea,100,62315008,Diarrhoea,diaharrea,1.0
+ARTHROTEC.82,vomiting,422400008,Vomiting,vomiting,100,422400008,Vomiting,vomiting,1.0
+ARTHROTEC.82,trembling,267079009,Trembles,trembling,100,267079009,Trembles,trembling,1.0
+ARTHROTEC.82,dizziness,404640003,Dizziness,dizziness,100,404640003,Dizziness,dizziness,1.0
+ARTHROTEC.82,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+ARTHROTEC.82,adverse reaction,266599000,Dysmenorrhoea,severe menstual pain,50,422400008,Vomiting,vomiting,0.491
+ARTHROTEC.82,side effect,76948002,Severe pain,pain severe,36,422587007,Nausea,nausea,0.4833
+ARTHROTEC.82,severe,76948002,Severe pain,pain severe,71,76948002,Severe pain,pain severe,0.7535
+LIPITOR.887,gas,162076009,Excessive upper gastrointestinal gas,gas,100,162076009,Excessive upper gastrointestinal gas,gas,1.0
+LIPITOR.887,indigestion,162031009,Indigestion,indigestion,100,162031009,Indigestion,indigestion,1.0
+LIPITOR.887,reflux,698065002,Acid reflux,acid reflux,71,698065002,Acid reflux,acid reflux,0.9489
+LIPITOR.887,medicine,250991000119100,Stumbling gait,stumbeling,44,3723001,Arthritis,arthritis,0.4715
+LIPITOR.887,damage,162031009,Indigestion,indigestion,35,162076009,Excessive upper gastrointestinal gas,gas,0.3474
+LIPITOR.887,permenant,34840004,Tendonitis,tendonitis,42,40917007,Confusion,confusion,0.2832
+LIPITOR.887,faith,3723001,Arthritis,arthritis,43,40917007,Confusion,confusion,0.2719
+LIPITOR.289,Nausea,422587007,Nausea,Nausea,100,422587007,Nausea,Nausea,1.0
+LIPITOR.289,vomiting,422400008,Vomiting,vomiting,100,422400008,Vomiting,vomiting,1.0
+LIPITOR.289,chest pain,29857009,Chest pain,chest pain,100,29857009,Chest pain,chest pain,1.0
+LIPITOR.289,side effects,55300003,Muscle cramp,muscle spasms,32,422587007,Nausea,Nausea,0.4999
+LIPITOR.289,side effects,55300003,Muscle cramp,muscle spasms,32,422587007,Nausea,Nausea,0.4999
+LIPITOR.289,side effects,55300003,Muscle cramp,muscle spasms,32,422587007,Nausea,Nausea,0.4999
+LIPITOR.873,zombie-like doped up state,301676004,Unable to get off a bed,unable to get out of bed,40,7011001,Hallucinations,halucinations during day,0.2162
+LIPITOR.873,hallucinations,7011001,Hallucinations,halucinations during day,68,7011001,Hallucinations,halucinations during day,0.7178
+LIPITOR.873,terrible number,77692006,Hypersomnia,excessive sleep requirements,37,35489007,Depression,depression,0.2501
+LIPITOR.873,drugs,35489007,Depression,depression,40,35489007,Depression,depression,0.4983
+LIPITOR.422,sore,81680005,Neck pain,very sore neck,44,68962001,Myalgia,sore weak muscles,0.5695
+LIPITOR.422,weak,68962001,Myalgia,sore weak muscles,38,68962001,Myalgia,sore weak muscles,0.4847
+LIPITOR.422,muscles,68962001,Myalgia,sore weak muscles,58,68962001,Myalgia,sore weak muscles,0.5619
+LIPITOR.422,harm,278040002,Loss of hair,hair loss,46,81680005,Neck pain,neck pain,0.2682
+LIPITOR.617,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+LIPITOR.617,symptoms,3877011000036101,Lipitor,Lipitor,40,202609006,Clicking knee,weird symptoms (eg. popping) in knee,0.4533
+LIPITOR.273,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+LIPITOR.273,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+LIPITOR.273,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+LIPITOR.842,tired,21417011000036105,fenofibrate,Tricor,55,84229001,Fatigue,fatigue,0.7206
+ARTHROTEC.47,muscle cramps,55300003,Muscle cramp,cramps,63,250084002,Cramp in calf,muscle cramps in my calf muscles,0.8596
+ARTHROTEC.47,cramps,55300003,Muscle cramp,cramps,100,55300003,Muscle cramp,cramps,1.0
+ARTHROTEC.47,Charlie Horses,54981004,Charleyhorse,Charlie Horses,100,54981004,Charleyhorse,Charlie Horses,1.0
+ARTHROTEC.1,weird,367391008,Malaise,feel a bit weird,48,367391008,Malaise,feel a bit weird,0.5535
+ARTHROTEC.24,severe vaginal cramps,79012001,Vaginospasm,severe vaginal cramps,100,79012001,Vaginospasm,severe vaginal cramps,1.0
+LIPITOR.821,decreased libido,8357008,Reduced libido,decreased libido,100,8357008,Reduced libido,decreased libido,1.0
+LIPITOR.821,regular dioreaha,62315008,Diarrhoea,dioreaha,67,62315008,Diarrhoea,dioreaha,0.8276
+LIPITOR.821,muscle pain,161891005,Backache,muscle pain in back,73,161891005,Backache,muscle pain in back,0.8151
+LIPITOR.821,shoulder blades,288226003,Myalgia/myositis - shoulder,muscle pain just below shoulder blades,57,288226003,Myalgia/myositis - shoulder,muscle pain just below shoulder blades,0.5942
+LIPITOR.821,headaches,25064002,Headache,headaches,100,25064002,Headache,headaches,1.0
+LIPITOR.821,tired,162076009,Excessive upper gastrointestinal gas,gets tired a lot,48,162076009,Excessive upper gastrointestinal gas,gets tired a lot,0.7367
+LIPITOR.7,fatigue,84229001,Fatigue,fatigue,100,84229001,Fatigue,fatigue,1.0
+LIPITOR.7,joint pain,57676002,Arthralgia,joint pain,100,57676002,Arthralgia,joint pain,1.0
+LIPITOR.210,severe weaknesses,309774006,Weakness of limb,weaknesses in my legs,53,309774006,Weakness of limb,weaknesses in my legs,0.5489
+LIPITOR.210,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+LIPITOR.210,worse side effects,309774006,Weakness of limb,weaknesses in my legs,41,309774006,Weakness of limb,weaknesses in my legs,0.312
+LIPITOR.446,side effects,288227007,Myalgia/myositis - upper arm,muscle pain in my biceps,28,3877011000036101,Lipitor,lipitor,0.2098
+DICLOFENAC-SODIUM.6,side effects,271782001,Drowsy,drowsiness,36,271782001,Drowsy,drowsiness,0.3343
+DICLOFENAC-SODIUM.6,drowsiness,271782001,Drowsy,drowsiness,100,271782001,Drowsy,drowsiness,1.0
+DICLOFENAC-SODIUM.6,grogginess,102897001,Feeling intoxicated,grogginess,100,102897001,Feeling intoxicated,grogginess,1.0
+DICLOFENAC-SODIUM.6,memory loss,48167000,Amnesia,memory loss,100,48167000,Amnesia,memory loss,1.0
+FLECTOR.1,puffiness,65124004,Swelling,puffiness,100,65124004,Swelling,puffiness,1.0
+ARTHROTEC.23,cramping,55300003,Muscle cramp,excessive cramping,62,55300003,Muscle cramp,excessive cramping,0.8472
+ARTHROTEC.23,fatigue,84229001,Fatigue,fatigue,100,84229001,Fatigue,fatigue,1.0
+ARTHROTEC.23,shortness,267036007,Dyspnoea,shortness of breath,64,267036007,Dyspnoea,shortness of breath,0.5893
+ARTHROTEC.23,breath,267036007,Dyspnoea,shortness of breath,48,267036007,Dyspnoea,shortness of breath,0.6165
+ARTHROTEC.23,dizzy,404640003,Dizziness,dizzy,100,404640003,Dizziness,dizzy,1.0
+ARTHROTEC.23,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+ARTHROTEC.23,unconsolable,267036007,Dyspnoea,shortness of breath,39,22253000,Pain,pain,0.3198
+ARTHROTEC.6,pain relief,22253000,Pain,pain,53,22253000,Pain,pain,0.7476
+ARTHROTEC.6,side effects,422587007,Nausea,slight nausea,32,422587007,Nausea,slight nausea,0.5218
+DICLOFENAC-SODIUM.1,side effects,224960004,Tired,tired,24,22253000,Pain,pain,0.3189
+LIPITOR.673,muscle pain,68962001,Myalgia,muscle pain,100,68962001,Myalgia,muscle pain,1.0
+LIPITOR.217,side-effects,68566005,Urinary tract infection,urinery tract infection,34,22253000,Pain,pain,0.3417
+LIPITOR.217,side effects,68566005,Urinary tract infection,urinery tract infection,40,22253000,Pain,pain,0.3189
+LIPITOR.687,cramping,250084002,Cramp in calf,cramping of the calf muscles,44,250084002,Cramp in calf,cramping of the calf muscles,0.7186
+LIPITOR.687,INFLAMMATORY muscle weakness & degeneration,26544005,Muscle weakness,INFLAMMATORY muscle weakness & degeneration,100,26544005,Muscle weakness,INFLAMMATORY muscle weakness & degeneration,1.0
+ARTHROTEC.15,diahrea,62315008,Diarrhoea,diahrea,100,62315008,Diarrhoea,diahrea,1.0
+ARTHROTEC.15,side effects,267039000,Swollen ankle,ankle swelling,23,22253000,Pain,pain,0.3189
+LIPITOR.221,nerve damage,39400004,Hepatic trauma,permanent nerve damage,71,39400004,Hepatic trauma,permanent nerve damage,0.8776
+LIPITOR.1000,brain fog,419723007,Mentally dull,brain fog,100,419723007,Mentally dull,brain fog,1.0
+LIPITOR.1000,ice pack,30989003,Knee pain,knee pain,47,22253000,Pain,pain,0.2537
+LIPITOR.1000,inflamation,128139000,Inflammatory disorder,inflamation,100,128139000,Inflammatory disorder,inflamation,1.0
+LIPITOR.689,awake,309774006,Weakness of limb,weakness in his knees,31,309774006,Weakness of limb,weakness in his knees,0.2079
+LIPITOR.689,pains,10601006,Pain in lower limb,pains in his legs,45,10601006,Pain in lower limb,pains in his legs,0.7178
+LIPITOR.689,weakness,309774006,Weakness of limb,weakness in his knees,55,309774006,Weakness of limb,weakness in his knees,0.6977
+ARTHROTEC.12,side effects,8510008,Reduced mobility,could only walk less than 100 meters,25,8510008,Reduced mobility,could only walk less than 100 meters,0.0464
+ARTHROTEC.8,upset,271681002,Stomach ache,starting to upset my stomach,30,271681002,Stomach ache,starting to upset my stomach,0.403
+LIPITOR.484,muscle aches,68962001,Myalgia,muscle aches,100,68962001,Myalgia,muscle aches,1.0
+LIPITOR.642,crabby,55929007,Feeling irritable,crabby,100,55929007,Feeling irritable,crabby,1.0
+LIPITOR.642,moodiness,286641001,Moody,moodiness,100,286641001,Moody,moodiness,1.0
+LIPITOR.424,side effects,3877011000036101,Lipitor,Lipitor,21,3877011000036101,Lipitor,Lipitor,0.2098
+LIPITOR.424,toxic reactions,3877011000036101,Lipitor,Lipitor,27,3877011000036101,Lipitor,Lipitor,0.2478
+ARTHROTEC.79,side effects,698065002,Acid reflux,acid reflux,43,22253000,Pain,pain,0.3189
+ARTHROTEC.79,adverse reactions,698065002,Acid reflux,acid reflux,36,698065002,Acid reflux,acid reflux,0.3383
+LIPITOR.629,neuropathy,386033004,Neuropathy,neuropathy,100,386033004,Neuropathy,neuropathy,1.0
+LIPITOR.629,hypersensitivity,14151009,Hyperaesthesia,hypersensitivity that wrapped around my abdomen,51,14151009,Hyperaesthesia,hypersensitivity that wrapped around my abdomen,0.6987
+LIPITOR.629,Lipitor,3877011000036101,Lipitor,Lipitor,100,3877011000036101,Lipitor,Lipitor,1.0
+ARTHROTEC.46,Naseua,422587007,Nausea,Naseua,100,422587007,Nausea,Naseua,1.0
+ARTHROTEC.46,vomiting,422400008,Vomiting,vomiting,100,422400008,Vomiting,vomiting,1.0
+ARTHROTEC.46,cramps,55300003,Muscle cramp,cramps,100,55300003,Muscle cramp,cramps,1.0
+LIPITOR.611,agravating,82991003,Generalised aches and pains,body pain,32,82991003,Generalised aches and pains,body pain,0.1539
+LIPITOR.423,loss,8357008,Reduced libido,loss of libido,44,8357008,Reduced libido,lost all sexual desires and thoughts,0.3404
+ARTHROTEC.41,side effects,39104002,Illness,sickness,40,422587007,Nausea,nausea,0.4999
+ARTHROTEC.41,dreadful,367391008,Malaise,feel dreadful,76,367391008,Malaise,feel dreadful,0.7296
+ARTHROTEC.41,sick,39104002,Illness,sick,100,39104002,Illness,sick,1.0
+ARTHROTEC.41,waves of nausea,422587007,Nausea,nausea,57,422587007,Nausea,nausea,0.7364
+ARTHROTEC.41,side effects,39104002,Illness,sickness,40,422587007,Nausea,nausea,0.4999
+ARTHROTEC.83,severe welts,247472004,Hives,severe welts,100,247472004,Hives,severe welts,1.0
+LIPITOR.412,crying,225460000,Constantly crying,crying all the time,48,225460000,Constantly crying,crying all the time,0.7355
+LIPITOR.412,side effects,35489007,Depression,depression,36,21719011000036107,aspirin,aspirin,0.2863
+LIPITOR.620,LDL,386705008,Lightheadedness,lightheadedness,22,22298006,Myocardial infarction,heart attack,0.1767
+LIPITOR.620,triglycerides,429783005,Paraesthesia of lower extremity,Tingling in legs,48,22298006,Myocardial infarction,heart attack,0.2657
+LIPITOR.620,side effects,386705008,Lightheadedness,lightheadedness,37,22298006,Myocardial infarction,heart attack,0.3436
+LIPITOR.620,side effects,386705008,Lightheadedness,lightheadedness,37,22298006,Myocardial infarction,heart attack,0.3436
+ARTHROTEC.84,side affects,57676002,Arthralgia,arthritic pain,23,57676002,Arthralgia,arthritic pain,0.316
+LIPITOR.309,pains,22253000,Pain,pains,100,22253000,Pain,pains,1.0
+LIPITOR.74,muscle pain,68962001,Myalgia,muscle pain,100,68962001,Myalgia,muscle pain,1.0
+LIPITOR.74,tingling,62507009,Pins and needles,severe tingling,70,62507009,Pins and needles,severe tingling,0.8217
+LIPITOR.74,burning,90673000,Burning sensation,burning,100,90673000,Burning sensation,burning,1.0
+LIPITOR.74,itchy,418290006,Itching,itchy crawly feeling,40,418290006,Itching,itchy crawly feeling,0.6873
+LIPITOR.74,crawly feeling,418290006,Itching,itchy crawly feeling,82,418290006,Itching,itchy crawly feeling,0.8072
+LIPITOR.80,side affects,267036007,Dyspnoea,Shortness of Breath,39,68962001,Myalgia,Muscle Pain,0.3545
+LIPITOR.336,sleeping pill,271782001,Drowsy,sleepy,53,271782001,Drowsy,sleepy,0.4945
+VOLTAREN.45,diarrhea,62315008,Diarrhoea,diarrhea,100,62315008,Diarrhoea,diarrhea,1.0
+VOLTAREN.45,vomiting,422400008,Vomiting,vomiting,100,422400008,Vomiting,vomiting,1.0
+VOLTAREN.45,sweating,52613005,Excessive sweating,extreme sweating,67,52613005,Excessive sweating,extreme sweating,0.8656
+VOLTAREN.45,dizzyness,404640003,Dizziness,dizzyness,100,404640003,Dizziness,dizzyness,1.0
+VOLTAREN.45,chills,43724002,Chill,chills,100,43724002,Chill,chills,1.0
+LIPITOR.73,pains,10601006,Pain in lower limb,pains in legs,56,10601006,Pain in lower limb,pains in legs,0.7288
+LIPITOR.73,difficulties,288939007,Difficulty swallowing,difficulties to swallow,69,288939007,Difficulty swallowing,difficulties to swallow,0.4606
+LIPITOR.73,problems,386807006,Memory impairment,problems with memory,57,386807006,Memory impairment,problems with memory,0.4259
+LIPITOR.593,side effects,22253000,Pain,pains,24,22253000,Pain,pains,0.2711
+LIPITOR.103,side effects,68962001,Myalgia,Muscle aches,42,76948002,Severe pain,extreme pain,0.3521
+LIPITOR.331,terrible aching pain,102556003,Pain in upper limb,aching pain in my arms,52,102556003,Pain in upper limb,aching pain in my arms,0.7184
+LIPITOR.567,feeling stupid,429783005,Paraesthesia of lower extremity,legs started tingling,34,274676007,Tingling of skin,arms started tingling,0.2834
+LIPITOR.567,side effect,13791008,Asthenia,extreme fatigue,31,274676007,Tingling of skin,arms started tingling,0.2607
+LIPITOR.936,dermatitis,271767006,Peeling of skin,foot skin flaked off like dermatitis,43,271767006,Peeling of skin,foot skin flaked off like dermatitis,0.5888
+ARTHROTEC.144,nauseous,422587007,Nausea,nauseous,100,422587007,Nausea,nauseous,1.0
+LIPITOR.551,sweating,52613005,Excessive sweating,sweating alot,76,52613005,Excessive sweating,sweating alot,0.8524
+LIPITOR.135,gassy,162076009,Excessive upper gastrointestinal gas,gassy,100,162076009,Excessive upper gastrointestinal gas,gassy,1.0
+LIPITOR.307,Gas,162076009,Excessive upper gastrointestinal gas,Gas,100,162076009,Excessive upper gastrointestinal gas,Gas,1.0
+LIPITOR.307,bloating,248490000,Bloating symptom,bloating,100,248490000,Bloating symptom,bloating,1.0
+LIPITOR.307,sleeplessness,193462001,Insomnia,sleeplesness,96,193462001,Insomnia,sleeplesness,0.73
+LIPITOR.307,fatigue,84229001,Fatigue,fatigue,100,84229001,Fatigue,fatigue,1.0
+LIPITOR.307,muscle stiffness,16046003,Muscle rigidity,muscle stiffness,100,16046003,Muscle rigidity,muscle stiffness,1.0
+LIPITOR.307,depressed,35489007,Depression,depressed,100,35489007,Depression,depressed,1.0
+ARTHROTEC.143,side effects,76948002,Severe pain,severe pain,35,76948002,Severe pain,severe pain,0.374
+LIPITOR.42,side effects,29857009,Chest pain,chest pain left side,44,29857009,Chest pain,chest pain left side,0.2455
+LIPITOR.300,side effects,76948002,Severe pain,Severe muscle pain in calves,30,213257006,Generally unwell,Felt very unwell,0.3543
+LIPITOR.556,side effects,78514002,Thigh pain,pain in my left thigh,30,267949000,Shoulder joint pain,joint pain in my shoulders,0.2
+LIPITOR.556,side effects,78514002,Thigh pain,pain in my left thigh,30,267949000,Shoulder joint pain,joint pain in my shoulders,0.2
+LIPITOR.354,side effects,267031002,Tiredness symptom,Tiredness,38,267031002,Tiredness symptom,Tiredness,0.3516
+LIPITOR.354,side effects,267031002,Tiredness symptom,Tiredness,38,267031002,Tiredness symptom,Tiredness,0.3516
+LIPITOR.730,muscle pain,68962001,Myalgia,muscle pain,100,68962001,Myalgia,muscle pain,1.0
+LIPITOR.730,muscle pain,68962001,Myalgia,muscle pain,100,68962001,Myalgia,muscle pain,1.0
+LIPITOR.502,diarrhoea,62315008,Diarrhoea,diarrhoea,100,62315008,Diarrhoea,diarrhoea,1.0
+VOLTAREN.27,tired,224960004,Tired,tired,100,224960004,Tired,tired,1.0
+LIPITOR.16,side effects,3877011000036101,Lipitor,Lipitor,21,3877011000036101,Lipitor,Lipitor,0.2098
+ARTHROTEC.117,diarrhea,62315008,Diarrhoea,Diarrhea,100,62315008,Diarrhoea,Diarrhea,1.0
+ARTHROTEC.117,side effects,236423003,Renal impairment,affecting my kidneys,38,698065002,Acid reflux,affecting my stomach(acid reflux),0.3927
+LIPITOR.965,side effects,271587009,Stiffness,Stiffness,57,95847005,Injury of muscle,muscle damage,0.4249
+LIPITOR.965,side effects,271587009,Stiffness,Stiffness,57,95847005,Injury of muscle,muscle damage,0.4249
+LIPITOR.159,constipation,14760008,Constipation,constipation,100,14760008,Constipation,constipation,1.0
+LIPITOR.991,side effects,48694002,Anxiety,anxiety issues,38,48694002,Anxiety,anxiety issues,0.3718
+VOLTAREN.18,severe stomach cramping,51197009,Stomach cramps,stomach cramping,82,51197009,Stomach cramps,stomach cramping,0.9399
+VOLTAREN.18,diarrhea,62315008,Diarrhoea,diarrhea,100,62315008,Diarrhoea,diarrhea,1.0
+VOLTAREN.20,side effects,397825006,Gastric ulcer,stomache ulcers,37,22253000,Pain,pain,0.3189
+VOLTAREN.20,side effects,397825006,Gastric ulcer,stomache ulcers,37,22253000,Pain,pain,0.3189
+VOLTAREN.20,side effects,397825006,Gastric ulcer,stomache ulcers,37,22253000,Pain,pain,0.3189
+LIPITOR.195,SIDE EFFECTS,30989003,Knee pain,PAIN IN MY KNEES,36,57676002,Arthralgia,JOINT PAIN,0.2606
+VOLTAREN-XR.15,effect,22253000,Pain,aches,18,22253000,Pain,aches,0.221
+LIPITOR.353,side effects,267036007,Dyspnoea,shortness of breath,39,6206011000036109,Lipitor 40 mg tablet: film-coated,Lipitor 40mg,0.3082
+LIPITOR.996,side effect,49727002,Cough,unexplained cough,29,49727002,Cough,cough heavily,0.3056
+LIPITOR.398,side effects,68962001,Myalgia,muscle aches,42,267031002,Tiredness symptom,tiredness,0.3516
+LIPITOR.708,after-effects,80449002,Muscle fatigue,extreme muscle fatigue,34,3877011000036101,Lipitor,Lipitor,0.2591
+LIPITOR.708,pain,67849003,Excruciating pain,excruciating pain,38,67849003,Excruciating pain,excruciating pain,0.683
+LIPITOR.708,muscle fatigue,80449002,Muscle fatigue,extreme muscle fatigue,78,80449002,Muscle fatigue,extreme muscle fatigue,0.9231
+LIPITOR.708,malaise,367391008,Malaise,malaise,100,367391008,Malaise,malaise,1.0
+ARTHROTEC.110,side effects,29542008,Uterine spasm,uterine cramps,38,422587007,Nausea,nausea,0.4999
+LIPITOR.391,side effects,162059005,Upset stomach,upset stomach,32,162059005,Upset stomach,upset stomach,0.3345
+VOLTAREN.16,nauseous,422587007,Nausea,nauseous,100,422587007,Nausea,nauseous,1.0
+VOLTAREN.16,sick,21779011000036103,cortisone,cortisone injection,26,422587007,Nausea,nauseous,0.4456
+LIPITOR.365,pain,57676002,Arthralgia,joint pains,53,44077006,Numbness,numbness,0.5196
+LIPITOR.365,cramps,55300003,Muscle cramp,muscle cramps,63,55300003,Muscle cramp,muscle cramps,0.8576
+LIPITOR.365,cramps,55300003,Muscle cramp,muscle cramps,63,55300003,Muscle cramp,muscle cramps,0.8576
+LIPITOR.701,prickling,309521004,Numbness of hand,"prickling,numbness in hand",51,309521004,Numbness of hand,"prickling,numbness in hand",0.6679
+LIPITOR.701,numbness,309521004,Numbness of hand,"prickling,numbness in hand",47,309521004,Numbness of hand,"prickling,numbness in hand",0.8297
+LIPITOR.701,poisen-ivy-like rash,271807003,Rash,strange poisen-ivy like rash on chest and breast,56,271807003,Rash,strange poisen-ivy like rash on chest and breast,0.8369
+ARTHROTEC.119,side-effects,404640003,Dizziness,dizziness,29,25064002,Headache,Headache,0.3531
+ARTHROTEC.126,diarrhea,62315008,Diarrhoea,diarrhea,100,62315008,Diarrhoea,diarrhea,1.0
+ARTHROTEC.126,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+ARTHROTEC.126,diarrhea,62315008,Diarrhoea,diarrhea,100,62315008,Diarrhoea,diarrhea,1.0
+ARTHROTEC.126,side effects,39104002,Illness,sick,38,422587007,Nausea,nausea,0.4999
+LIPITOR.954,side effects,202882003,Plantar fasciitis,sore feet (Faciitis),50,84229001,Fatigue,fatigue,0.2675
+LIPITOR.168,uncommon reaction,161891005,Backache,back pain,38,13791008,Asthenia,weak,0.2818
+LIPITOR.150,side effects,3877011000036101,Lipitor,lipitor,21,3877011000036101,Lipitor,lipitor,0.2098
+LIPITOR.362,EXTREME ZOMBIE LIKE STATE,84229001,Fatigue,EXTREME TIREDNESS,57,84229001,Fatigue,EXTREME TIREDNESS,0.2773
+LIPITOR.362,MODEST HYDRATION,248096004,Lack of libido,SEX DRIVE GONE,47,84229001,Fatigue,EXTREME TIREDNESS,0.1982
+VOLTAREN.11,agitated,24199005,Feeling agitated,agitated,100,24199005,Feeling agitated,agitated,1.0
+VOLTAREN.11,insomnia,193462001,Insomnia,insomnia,100,193462001,Insomnia,insomnia,1.0
+VOLTAREN.11,short tempered,285849008,Difficulty controlling anger,short tempered,100,285849008,Difficulty controlling anger,short tempered,1.0
+VOLTAREN.11,impatient,286755001,Impatient character,impatient,100,286755001,Impatient character,impatient,1.0
+VOLTAREN.11,agitation,24199005,Feeling agitated,agitation,100,24199005,Feeling agitated,agitation,1.0
+VOLTAREN.11,unbearable,24199005,Feeling agitated,agitated,33,24199005,Feeling agitated,agitated,0.4089
+LIPITOR.396,hair loss,278040002,Loss of hair,hair loss,100,278040002,Loss of hair,hair loss,1.0
+LIPITOR.396,side effects,278040002,Loss of hair,hair loss,29,278040002,Loss of hair,hair loss,0.3002
+LIPITOR.396,side effects,278040002,Loss of hair,hair loss,29,278040002,Loss of hair,hair loss,0.3002
+ARTHROTEC.121,side effects,272022009,C/O - feeling depressed,feeling depressed,34,84229001,Fatigue,feeling exausted,0.282
+LIPITOR.568,swelling,65124004,Swelling,swelling,100,65124004,Swelling,swelling,1.0
+LIPITOR.568,swelling,65124004,Swelling,swelling,100,65124004,Swelling,swelling,1.0
+ARTHROTEC.142,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+LIPITOR.930,side effect,3877011000036101,Lipitor,Lipitor,22,3877011000036101,Lipitor,Lipitor,0.26
+LIPITOR.88,chest pains,29857009,Chest pain,chest pains,100,29857009,Chest pain,chest pains,1.0
+LIPITOR.88,difficulty breathing,230145002,Difficulty breathing,difficulty breathing,100,230145002,Difficulty breathing,difficulty breathing,1.0
+LIPITOR.133,side affects,18963009,Mood swings,emotional changes,34,22253000,Pain,pains,0.3808
+LIPITOR.301,myoglobin,240131006,Rhabdomyolysis,Rhabdomyolosis,52,26544005,Muscle weakness,muscle weakness,0.2436
+LIPITOR.301,hemoglogin,240131006,Rhabdomyolysis,Rhabdomyolosis,50,240131006,Rhabdomyolysis,Rhabdomyolosis,0.2268
+ARTHROTEC.145,side effects,68962001,Myalgia,muscular pains,23,68962001,Myalgia,muscular pains,0.2399
+LIPITOR.44,liver,235856003,Liver disease,damaged my liver,48,235856003,Liver disease,damaged my liver,0.7014
+LIPITOR.762,side effects,84229001,Fatigue,persistent fatigue,40,84229001,Fatigue,persistent fatigue,0.2034
+LIPITOR.762,adverse effects,84229001,Fatigue,persistent fatigue,42,84229001,Fatigue,persistent fatigue,0.1441
+LIPITOR.134,side effects,62507009,Pins and needles,Pins and needles,43,25064002,Headache,headache,0.3502
+LIPITOR.134,side effects,62507009,Pins and needles,Pins and needles,43,25064002,Headache,headache,0.3502
+LIPITOR.134,side effects,62507009,Pins and needles,Pins and needles,43,25064002,Headache,headache,0.3502
+LIPITOR.901,side effects,449917004,Cramp in lower limb,Leg cramps,36,13791008,Asthenia,overall weak feeling,0.2709
+LIPITOR.901,side effects,449917004,Cramp in lower limb,Leg cramps,36,13791008,Asthenia,overall weak feeling,0.2709
+LIPITOR.86,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+LIPITOR.330,muscle pain,68962001,Myalgia,Muscle Pain,100,68962001,Myalgia,Muscle Pain,1.0
+LIPITOR.330,general degradation,162076009,Excessive upper gastrointestinal gas,general degradation,100,162076009,Excessive upper gastrointestinal gas,general degradation,1.0
+LIPITOR.102,psychiatric,48500005,Delusional disorder,Paranoia,42,48694002,Anxiety,anxiety,0.6011
+LIPITOR.102,side,48694002,Anxiety,anxiety,36,48500005,Delusional disorder,Paranoia,0.2564
+LIPITOR.102,effects,48694002,Anxiety,anxiety,29,48694002,Anxiety,anxiety,0.3444
+LIPITOR.102,harsh,48500005,Delusional disorder,Paranoia,31,48694002,Anxiety,anxiety,0.1566
+LIPITOR.566,extreme muscle weakness,26544005,Muscle weakness,extreme muscle weakness,100,26544005,Muscle weakness,extreme muscle weakness,1.0
+LIPITOR.754,cholestatic Jaundice,44018007,Cholestatic jaundice syndrome,cholestatic Jaundice,100,44018007,Cholestatic jaundice syndrome,cholestatic Jaundice,1.0
+LIPITOR.592,memory,48167000,Amnesia,memory loss,71,48167000,Amnesia,memory loss,0.7249
+LIPITOR.592,loss,48167000,Amnesia,memory loss,53,48167000,Amnesia,memory loss,0.5407
+LIPITOR.592,bloating,248490000,Bloating symptom,bloating,100,248490000,Bloating symptom,bloating,1.0
+LIPITOR.592,flatulence,267052005,Flatulence/wind,flatulence,100,267052005,Flatulence/wind,flatulence,1.0
+LIPITOR.592,side,7006003,Clumsiness,clumsiness,43,7006003,Clumsiness,clumsiness,0.2754
+LIPITOR.592,effects,45291000168107,Efexor-XR,Effexor,57,248490000,Bloating symptom,bloating,0.3384
+LIPITOR.592,HURTING,248490000,Bloating symptom,bloating,53,30989003,Knee pain,knee pain,0.5261
+VOLTAREN.43,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+LIPITOR.906,memory loss,48167000,Amnesia,memory loss,100,48167000,Amnesia,memory loss,1.0
+LIPITOR.906,side effects,287047008,Pain in left leg,extreme ache in left leg,28,76948002,Severe pain,"ache was extreme, almost unbearable",0.2843
+LIPITOR.75,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+LIPITOR.75,effects,386807006,Memory impairment,effect on your memory,43,386807006,Memory impairment,effect on your memory,0.5771
+LIPITOR.75,side affects,386807006,Memory impairment,effect on your memory,36,386807006,Memory impairment,effect on your memory,0.4154
+VOLTAREN.44,mild headache,25064002,Headache,mild headache,100,25064002,Headache,mild headache,1.0
+VOLTAREN.44,abdominal cramps,9991008,Abdominal colic,abdominal cramps,100,9991008,Abdominal colic,abdominal cramps,1.0
+VOLTAREN.44,diarrhea,62315008,Diarrhoea,diarrhea,100,62315008,Diarrhoea,diarrhea,1.0
+VOLTAREN.44,gas,162076009,Excessive upper gastrointestinal gas,gas,100,162076009,Excessive upper gastrointestinal gas,gas,1.0
+VOLTAREN.44,gurgling,18101008,Hyperactive bowel sounds,gurgling,100,18101008,Hyperactive bowel sounds,gurgling,1.0
+VOLTAREN.44,mild cramping,55300003,Muscle cramp,mild cramping,100,55300003,Muscle cramp,mild cramping,1.0
+VOLTAREN.44,bad headache,25064002,Headache,bad headache,100,25064002,Headache,bad headache,1.0
+VOLTAREN.44,cramping,55300003,Muscle cramp,cramping,100,55300003,Muscle cramp,cramping,1.0
+VOLTAREN.44,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+VOLTAREN.44,heartburn,16331000,Heartburn,heartburn,100,16331000,Heartburn,heartburn,1.0
+LIPITOR.595,bruise,5662003,Contusion of hand,large dark bruise on hand,39,5662003,Contusion of hand,large dark bruise on hand,0.6474
+LIPITOR.753,side effects,47933007,Foot pain,sore feet,57,267031002,Tiredness symptom,tiredness,0.3516
+LIPITOR.561,adverse symptoms,95891005,Influenza-like illness,Flu-like symptoms,61,95891005,Influenza-like illness,Flu-like symptoms,0.5238
+LIPITOR.535,inflamation,57676002,Arthralgia,painful inflamation of joints,55,57676002,Arthralgia,painful inflamation of joints,0.4969
+LIPITOR.535,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+LIPITOR.535,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+LIPITOR.535,side,84229001,Fatigue,fatigue,36,22253000,Pain,pain,0.4005
+LIPITOR.535,effects,13791008,Asthenia,weakness,40,22253000,Pain,pain,0.333
+LIPITOR.707,syptoms,3877011000036101,Lipitor,Lipitor,43,22253000,Pain,pain,0.4008
+LIPITOR.707,gastro,162076009,Excessive upper gastrointestinal gas,gastro problem,60,162076009,Excessive upper gastrointestinal gas,gastro problem,0.7302
+LIPITOR.707,problem,162076009,Excessive upper gastrointestinal gas,gastro problem,67,22253000,Pain,pain,0.4232
+LIPITOR.151,side effects,46991000,Absent minded,"Absent mindendness,",39,25064002,Headache,headaches,0.4086
+LIPITOR.952,achy,47933007,Foot pain,feel achy,62,47933007,Foot pain,feel achy,0.7877
+ARTHROTEC.120,shaking uncontrollably,83547004,Cold sweat,"cold sweat, shaking uncontrollably",79,83547004,Cold sweat,"cold sweat, shaking uncontrollably",0.7339
+ARTHROTEC.120,nauseated,422587007,Nausea,nauseated,100,422587007,Nausea,nauseated,1.0
+ARTHROTEC.120,shock,414469009,Impending shock,going into shock,48,414469009,Impending shock,going into shock,0.8251
+LIPITOR.738,diarea,62315008,Diarrhoea,diarea,100,62315008,Diarrhoea,diarea,1.0
+LIPITOR.738,bluss,246636008,Blurred vision - hazy,blurred vision,42,418363000,Itching of skin,bluss and ititching of the face,0.6179
+LIPITOR.738,ititching,418363000,Itching of skin,bluss and ititching of the face,45,418363000,Itching of skin,bluss and ititching of the face,0.5186
+LIPITOR.700,symptoms,449918009,Cramp in lower leg,Ackey leg cramps,33,267031002,Tiredness symptom,Tiredness,0.4667
+LIPITOR.700,aches,22253000,Pain,aches,100,22253000,Pain,aches,1.0
+LIPITOR.700,reactions,25064002,Headache,Headaches,44,25064002,Headache,Headaches,0.2462
+VOLTAREN-XR.22,upset stomach,162059005,Upset stomach,upset stomach,100,162059005,Upset stomach,upset stomach,1.0
+VOLTAREN-XR.22,side effects,230690007,Cerebrovascular accident,strokes,32,22298006,Myocardial infarction,heart attacks,0.3618
+VOLTAREN.17,side effects,271782001,Drowsy,drowsiness,36,25064002,Headache,Headache,0.3502
+LIPITOR.390,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+LIPITOR.390,vomiting,422400008,Vomiting,vomiting,100,422400008,Vomiting,vomiting,1.0
+ARTHROTEC.127,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+LIPITOR.169,gas,162076009,Excessive upper gastrointestinal gas,gas,100,162076009,Excessive upper gastrointestinal gas,gas,1.0
+LIPITOR.169,loose,398032003,Loose stool,loose stools,59,398032003,Loose stool,loose stools,0.5725
+LIPITOR.169,stools,398032003,Loose stool,loose stools,67,398032003,Loose stool,loose stools,0.7779
+LIPITOR.169,loose,398032003,Loose stool,loose stools,59,398032003,Loose stool,loose stools,0.5725
+LIPITOR.169,stools,398032003,Loose stool,loose stools,67,398032003,Loose stool,loose stools,0.7779
+LIPITOR.169,gas,162076009,Excessive upper gastrointestinal gas,gas,100,162076009,Excessive upper gastrointestinal gas,gas,1.0
+LIPITOR.955,dizziness,404640003,Dizziness,dizziness,100,404640003,Dizziness,dizziness,1.0
+LIPITOR.955,mild joint pain,57676002,Arthralgia,mild joint pain,100,57676002,Arthralgia,mild joint pain,1.0
+LIPITOR.504,bleeding,131148009,Bleeding,bleeding,100,131148009,Bleeding,bleeding,1.0
+VOLTAREN.21,adverse reaction,40733004,Infection,infection,48,25458004,Acute gastritis,acute gastritis,0.3821
+LIPITOR.194,constipated,14760008,Constipation,constipated,100,14760008,Constipation,constipated,1.0
+LIPITOR.194,pains,22253000,Pain,pains,100,22253000,Pain,pains,1.0
+ARTHROTEC.111,side effects,267052005,Flatulence/wind,little gas,36,65124004,Swelling,swelling,0.2761
+ARTHROTEC.111,stomach pain,21522001,Abdominal pain,extreme stomach pain,75,21522001,Abdominal pain,extreme stomach pain,0.8935
+LIPITOR.399,side effects,247373008,Ankle pain,pain in ankles,31,76948002,Severe pain,extreme pain,0.3521
+LIPITOR.399,extreme pain,76948002,Severe pain,extreme pain,100,76948002,Severe pain,extreme pain,1.0
+LIPITOR.399,adverse effects,76948002,Severe pain,severe pain in one ankle,36,76948002,Severe pain,extreme pain,0.3594
+VOLTAREN.26,side effects,128139000,Inflammatory disorder,inflammation,25,125667009,Contusion,bruising,0.3087
+VOLTAREN.26,bruising,125667009,Contusion,bruising,100,125667009,Contusion,bruising,1.0
+VOLTAREN.26,inflammation,128139000,Inflammatory disorder,inflammation,100,128139000,Inflammatory disorder,inflammation,1.0
+LIPITOR.193,foggy,419723007,Mentally dull,my head was foggy,45,419723007,Mentally dull,my head was foggy,0.6979
+LIPITOR.167,rashes,271807003,Rash,rashes,100,271807003,Rash,rashes,1.0
+LIPITOR.167,boils,3530011000036104,Lopid,Lopids,55,416675009,Furuncle,my skin in boils,0.7574
+VOLTAREN.19,side effects,3723001,Arthritis,arthritis,29,22253000,Pain,pain,0.3189
+LIPITOR.990,Dizzy,404640003,Dizziness,Dizzy,100,404640003,Dizziness,Dizzy,1.0
+LIPITOR.990,sick,404640003,Dizziness,Dizzy,22,404640003,Dizziness,Dizzy,0.3928
+LIPITOR.35,side effect,68962001,Myalgia,muscle ache,36,62315008,Diarrhoea,diarrhea,0.3844
+ARTHROTEC.134,blood,405729008,Haematochezia,passing blood and clots with stoals,25,405729008,Haematochezia,passing blood and clots with stoals,0.3745
+ARTHROTEC.134,clots,14760008,Constipation,Constipation,35,405729008,Haematochezia,passing blood and clots with stoals,0.5519
+ARTHROTEC.134,stoals,51197009,Stomach cramps,Painful stomach cramps,36,405729008,Haematochezia,passing blood and clots with stoals,0.5263
+ARTHROTEC.134,side affects,405729008,Haematochezia,passing blood and clots with stoals,34,48694002,Anxiety,anxiety,0.306
+ARTHROTEC.134,side affects,405729008,Haematochezia,passing blood and clots with stoals,34,48694002,Anxiety,anxiety,0.306
+LIPITOR.521,side-effects,288231001,Myalgia/myositis - lower leg,soreness in calf muscles,33,3877011000036101,Lipitor,lipitor,0.2236
+LIPITOR.979,muscles,68962001,Myalgia,Sore muscles,74,68962001,Myalgia,Sore muscles,0.66
+LIPITOR.377,muscle,68962001,Myalgia,muscle pain,71,68962001,Myalgia,muscle pain,0.6222
+LIPITOR.377,pain,56608008,Pain in wrist,wrist pain,57,68962001,Myalgia,muscle pain,0.6682
+LIPITOR.377,memory,48167000,Amnesia,memory loss,71,48167000,Amnesia,memory loss,0.7249
+LIPITOR.377,loss,48167000,Amnesia,memory loss,53,48167000,Amnesia,memory loss,0.5407
+LIPITOR.377,trouble,301345002,Difficulty sleeping,trouble sleeping,61,301345002,Difficulty sleeping,trouble sleeping,0.4349
+LIPITOR.377,sleeping,301345002,Difficulty sleeping,trouble sleeping,67,301345002,Difficulty sleeping,trouble sleeping,0.7268
+LIPITOR.377,physical,3848011000036104,Pravachol,Pravichol,47,35489007,Depression,depression,0.222
+LIPITOR.377,symptoms,3877011000036101,Lipitor,Lipitor,40,68962001,Myalgia,muscle pain,0.4022
+LIPITOR.377,physiological,193462001,Insomnia,insomnia,38,35489007,Depression,depression,0.3662
+LIPITOR.377,physical,3848011000036104,Pravachol,Pravichol,47,35489007,Depression,depression,0.222
+LIPITOR.941,side effects,35489007,Depression,Deep depression,44,193462001,Insomnia,insomnia,0.2064
+LIPITOR.189,side effects,309538000,Numbness of foot,feet numbing,25,3877011000036101,Lipitor,Lipitor,0.2098
+LIPITOR.526,brain fog,419723007,Mentally dull,brain fog,100,419723007,Mentally dull,brain fog,1.0
+LIPITOR.384,side affects,68962001,Myalgia,muscle aches,50,68962001,Myalgia,muscle aches,0.4029
+LIPITOR.977,side-effects,162076009,Excessive upper gastrointestinal gas,gastric upsets,38,48694002,Anxiety,anxiety,0.346
+ARTHROTEC.105,body swelling,300888008,Swelling of body region,body swelling,100,300888008,Swelling of body region,body swelling,1.0
+VOLTAREN.7,diarrhea,62315008,Diarrhoea,diarrhea,100,62315008,Diarrhoea,diarrhea,1.0
+VOLTAREN.7,diarrhea,62315008,Diarrhoea,diarrhea,100,62315008,Diarrhoea,diarrhea,1.0
+VOLTAREN.7,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+LIPITOR.983,side,473011001,Allergic condition,allergies,31,49727002,Cough,cough,0.2972
+VOLTAREN-XR.1,side effects,271801002,Taste sense altered,altered taste,32,271801002,Taste sense altered,altered taste,0.3807
+LIPITOR.346,corrosive,70153002,Haemorrhoids,hemorrhoids,50,271807003,Rash,rash,0.3306
+LIPITOR.346,rash,271807003,Rash,rash,100,271807003,Rash,rash,1.0
+LIPITOR.346,rash,271807003,Rash,rash,100,271807003,Rash,rash,1.0
+LIPITOR.174,symptems,3877011000036101,Lipitor,lipitor,27,57676002,Arthralgia,Joint pain,0.3028
+VOLTAREN.35,severe,56018004,Wheezing,wheezing,29,56018004,Wheezing,wheezing,0.2822
+VOLTAREN.35,skin,56018004,Wheezing,wheezing,33,271807003,Rash,skin rash back of my neck,0.3452
+VOLTAREN.35,rash,271807003,Rash,skin rash back of my neck,28,271807003,Rash,skin rash back of my neck,0.5897
+VOLTAREN.35,allergic,56018004,Wheezing,wheezing,25,56018004,Wheezing,wheezing,0.4084
+VOLTAREN.35,reaction,56018004,Wheezing,wheezing,38,56018004,Wheezing,wheezing,0.2352
+LIPITOR.984,side effects,73211009,Diabetes mellitus,adiabetic,29,22298006,Myocardial infarction,heart attack,0.3436
+ARTHROTEC.102,side effects,8510008,Reduced mobility,I can't stand or walk for any lengths of time,25,3384011000036100,Arthrotec,Arthrotec,0.1934
+ARTHROTEC.102,side effects,8510008,Reduced mobility,I can't stand or walk for any lengths of time,25,3384011000036100,Arthrotec,Arthrotec,0.1934
+LIPITOR.970,side effect,40196000,Mild pain,mild pain,30,22253000,Pain,pain,0.3763
+LIPITOR.970,side effect,40196000,Mild pain,mild pain,30,22253000,Pain,pain,0.3763
+LIPITOR.970,mild pain,40196000,Mild pain,mild pain,100,40196000,Mild pain,mild pain,1.0
+LIPITOR.173,tired,224960004,Tired,drained and tired,45,224960004,Tired,drained and tired,0.7447
+LIPITOR.173,tingling,62507009,Pins and needles,tingling,100,62507009,Pins and needles,tingling,1.0
+LIPITOR.173,numb-like,44077006,Numbness,numb-like,100,44077006,Numbness,numb-like,1.0
+LIPITOR.173,side effects,309086004,Paraesthesia of hand,hand being asleep,34,62507009,Pins and needles,tingling,0.2619
+LIPITOR.173,side effects,309086004,Paraesthesia of hand,hand being asleep,34,62507009,Pins and needles,tingling,0.2619
+LIPITOR.341,side effects,39575007,Urine looks dark,darkness in urine,28,22298006,Myocardial infarction,heart attack,0.3436
+LIPITOR.341,gas,162076009,Excessive upper gastrointestinal gas,gas,100,162076009,Excessive upper gastrointestinal gas,gas,1.0
+LIPITOR.341,darkness,39575007,Urine looks dark,darkness in urine,64,39575007,Urine looks dark,darkness in urine,0.6413
+ZIPSOR.4,side effects,3572011000036102,Mobic,mobic,24,22253000,Pain,pain,0.3189
+LIPITOR.725,extreme vomiting,332982000,Uncontrollable vomiting,extreme vomiting,100,332982000,Uncontrollable vomiting,extreme vomiting,1.0
+LIPITOR.725,diarrhea,62315008,Diarrhoea,diarrhea,100,62315008,Diarrhoea,diarrhea,1.0
+LIPITOR.725,memory loss,48167000,Amnesia,memory loss,100,48167000,Amnesia,memory loss,1.0
+LIPITOR.725,tiredness,84229001,Fatigue,extreme tiredness,69,84229001,Fatigue,extreme tiredness,0.8733
+LIPITOR.517,side effect,3877011000036101,Lipitor,lipitor,22,3877011000036101,Lipitor,lipitor,0.26
+LIPITOR.785,terrible,213257006,Generally unwell,quite ill,47,213257006,Generally unwell,quite ill,0.3611
+LIPITOR.785,migratory joint pain,68962001,Myalgia,"terrible, migratory joint pain all over my body",60,68962001,Myalgia,"terrible, migratory joint pain all over my body",0.8993
+LIPITOR.785,disabling fatigue,13791008,Asthenia,disabling fatigue,100,13791008,Asthenia,disabling fatigue,1.0
+LIPITOR.785,liver-toxic,73211009,Diabetes mellitus,diabetic,53,200936003,Lupus erythematosus,lupus,0.3617
+LIPITOR.771,sore,30989003,Knee pain,sore knees,57,30989003,Knee pain,sore knees,0.6676
+LIPITOR.771,muscle pain,68962001,Myalgia,muscle pain,100,68962001,Myalgia,muscle pain,1.0
+LIPITOR.771,heart palpatations,80313002,Palpitations,heart palpatations,100,80313002,Palpitations,heart palpatations,1.0
+LIPITOR.771,sore,30989003,Knee pain,sore knees,57,30989003,Knee pain,sore knees,0.6676
+LIPITOR.771,knees,30989003,Knee pain,sore knees,67,30989003,Knee pain,sore knees,0.8041
+LIPITOR.771,muscle pain,68962001,Myalgia,muscle pain,100,68962001,Myalgia,muscle pain,1.0
+LIPITOR.924,side effects,3877011000036101,Lipitor,lipitor,21,3877011000036101,Lipitor,lipitor,0.2098
+LIPITOR.544,side effects,88092000,Muscle atrophy,muscle atrophy Arms,32,247592009,Poor short-term memory,Short term memory loss,0.225
+LIPITOR.120,side effects,449917004,Cramp in lower limb,leg cramps,36,449917004,Cramp in lower limb,leg cramps,0.2363
+LIPITOR.120,side effects,449917004,Cramp in lower limb,leg cramps,36,449917004,Cramp in lower limb,leg cramps,0.2363
+LIPITOR.312,damage,22253000,Pain,aches,36,13791008,Asthenia,weakness,0.4673
+LIPITOR.782,prblems,21662011000036107,metoprolol,Lopressor,50,3475011000036104,Plavix,plavix,0.2656
+LIPITOR.923,side affects,426899007,Pain provoked by walking,walk was a very painful and a very slow,27,278528006,Facial swelling,face had swollen up,0.3174
+LIPITOR.50,side effects,68962001,Myalgia,Mild muscle pain,29,68962001,Myalgia,Mild muscle pain,0.2765
+LIPITOR.116,dangerous,35489007,Depression,depression,42,6142004,Influenza,flu,0.3106
+LIPITOR.116,horrible,247592009,Poor short-term memory,Short term memory problems,41,35489007,Depression,depression,0.2906
+LIPITOR.116,side,8357008,Reduced libido,No sex drive,38,6142004,Influenza,flu,0.2578
+LIPITOR.116,effects,35489007,Depression,depression,35,35489007,Depression,depression,0.3619
+LIPITOR.740,side effects,102551008,Cramp in foot,toes went into muscle spasms,25,3877011000036101,Lipitor,Lipitor,0.2098
+LIPITOR.572,sick,162059005,Upset stomach,sick to my stomach,36,162059005,Upset stomach,sick to my stomach,0.6896
+LIPITOR.572,fatigued,84229001,Fatigue,very fatigued,76,84229001,Fatigue,very fatigued,0.9179
+LIPITOR.572,twitching,249966004,Spasmodic movement,head has been twitching,56,249966004,Spasmodic movement,head has been twitching,0.7042
+LIPITOR.572,tremors,26079004,Tremor,hand tremors,74,26079004,Tremor,hand tremors,0.9074
+LIPITOR.572,fog,84229001,Fatigue,very fatigued,25,419723007,Mentally dull,feel like I am in a fog,0.718
+LIPITOR.92,painful,285365001,Pain in toe,toes painful,74,22253000,Pain,Pain,0.8684
+LIPITOR.92,painful,285365001,Pain in toe,toes painful,74,22253000,Pain,Pain,0.8684
+LIPITOR.581,side effects,76948002,Severe pain,severe muscle pain,33,129565002,Myopathy,muscle damage,0.4249
+LIPITOR.581,severe,76948002,Severe pain,severe muscle pain,50,76948002,Severe pain,severe muscle pain,0.4492
+LIPITOR.581,debillitating,76948002,Severe pain,severe muscle pain,32,24693007,Fibromyalgia,fibromalgyia,0.1868
+LIPITOR.581,severe side effects,76948002,Severe pain,severe muscle pain,54,76948002,Severe pain,severe muscle pain,0.4367
+LIPITOR.581,side effects,76948002,Severe pain,severe muscle pain,33,129565002,Myopathy,muscle damage,0.4249
+LIPITOR.323,adverse side effects,35489007,Depression,Depression,40,57676002,Arthralgia,joint pain,0.2854
+LIPITOR.111,Hair loss,278040002,Loss of hair,Hair loss,100,278040002,Loss of hair,Hair loss,1.0
+LIPITOR.111,insomnia,193462001,Insomnia,insomnia,100,193462001,Insomnia,insomnia,1.0
+LIPITOR.111,tinnitus,60862001,Tinnitus,tinnitus,100,60862001,Tinnitus,tinnitus,1.0
+LIPITOR.111,dysphagia,40739000,Dysphagia,dysphagia,100,40739000,Dysphagia,dysphagia,1.0
+LIPITOR.111,coma,371632003,Coma,coma,100,371632003,Coma,coma,1.0
+ARTHROTEC.103,bleeding forever,131148009,Bleeding,bleeding,67,131148009,Bleeding,bleeding,0.8408
+LIPITOR.971,side effects,609600000,Neuropathy of lower limb,leg neuropathy,31,3877011000036101,Lipitor,Lipitor,0.2098
+LIPITOR.985,HDL,310497006,Severe depression,severe depression,10,35489007,Depression,intense depression,0.1434
+LIPITOR.985,intense,35489007,Depression,intense depression,56,35489007,Depression,intense depression,0.5141
+LIPITOR.985,anxiety,300895004,Anxiety attack,intense anxiety attacks,47,300895004,Anxiety attack,intense anxiety attacks,0.7561
+VOLTAREN.1,side effects,162059005,Upset stomach,stomach upset,32,22253000,Pain,pain,0.3189
+VOLTAREN.1,blood work,16331000,Heartburn,Heartburn,21,22253000,Pain,pain,0.2166
+VOLTAREN.1,habit forming drugs,162059005,Upset stomach,stomach upset,38,16331000,Heartburn,Heartburn,0.2147
+ZIPSOR.5,recognizable side effects,73589001,Intervertebral disc prolapse,herniated discs,45,22253000,Pain,pain,0.2809
+LIPITOR.724,symtoms,3877011000036101,Lipitor,Liptor,31,228158008,Walking disability,can hardly walk,0.2558
+LIPITOR.724,symtoms,3877011000036101,Lipitor,Liptor,31,228158008,Walking disability,can hardly walk,0.2558
+PENNSAID.3,anxiety,48694002,Anxiety,anxiety,100,48694002,Anxiety,anxiety,1.0
+VOLTAREN.33,bleeding,289530006,Vaginal bleeding,vaginal bleeding,67,289530006,Vaginal bleeding,vaginal bleeding,0.706
+LIPITOR.186,muscle pain,68962001,Myalgia,muscle pain,100,68962001,Myalgia,muscle pain,1.0
+LIPITOR.186,bone/joint pain,12584003,Bone pain,bone/joint pain,100,12584003,Bone pain,bone/joint pain,1.0
+VOLTAREN.6,side effects,309557009,Numbness of face,face has felt numb,33,386705008,Lightheadedness,light headed,0.2465
+VOLTAREN.6,panic,28551000168108,Voltaren,voltaren,31,386705008,Lightheadedness,light headed,0.2877
+LIPITOR.982,side effects,35489007,Depression,depression,36,25064002,Headache,headache,0.3502
+LIPITOR.982,miserable,25064002,Headache,headache,35,35489007,Depression,depression,0.5766
+VOLTAREN.34,weird,28551000168108,Voltaren,Volteren,31,422587007,Nausea,nausea,0.1858
+VOLTAREN.34,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+VOLTAREN.34,skin,367466007,Skin irritation,skin irritation,42,367466007,Skin irritation,skin irritation,0.593
+VOLTAREN.34,irritation,367466007,Skin irritation,skin irritation,80,367466007,Skin irritation,skin irritation,0.8125
+LIPITOR.511,side effects,25064002,Headache,terrible headaches,40,25064002,Headache,terrible headaches,0.3979
+ZIPSOR.2,side effects,162397003,Pain in throat,sore throat,35,162397003,Pain in throat,hurts throat,0.3293
+LIPITOR.188,balanced,3877011000036101,Lipitor,Lipitor,13,35489007,Depression,depression,0.3038
+LIPITOR.518,black outs,418648005,Blackout,black outs,100,418648005,Blackout,black outs,1.0
+LIPITOR.518,side effects,236620008,Infective cystitis,bladder infection,48,3877011000036101,Lipitor,Lipitor,0.2098
+LIPITOR.518,side effects,236620008,Infective cystitis,bladder infection,48,3877011000036101,Lipitor,Lipitor,0.2098
+ARTHROTEC.132,blood,405729008,Haematochezia,blood in my stools,43,405729008,Haematochezia,blood in my stools,0.5001
+ARTHROTEC.132,stools,300306001,Stomach problem,stomach problems,55,405729008,Haematochezia,blood in my stools,0.6061
+ARTHROTEC.132,cramps,55300003,Muscle cramp,major cramps,67,55300003,Muscle cramp,major cramps,0.8711
+LIPITOR.715,side effects,161882006,Stiff neck,neck stiffness,46,25064002,Headache,headache,0.3502
+LIPITOR.947,side effects,309539008,Numbness of toe,numbness in toes,36,278040002,Loss of hair,hair loss,0.3002
+LIPITOR.947,poisonous,3877011000036101,Lipitor,Lipitor,38,309087008,Paraesthesia of foot,Toe tinglingling,0.2827
+LIPITOR.947,muscle,129565002,Myopathy,irreversible muscle damage,38,129565002,Myopathy,irreversible muscle damage,0.5048
+LIPITOR.947,damage,129565002,Myopathy,irreversible muscle damage,38,129565002,Myopathy,irreversible muscle damage,0.3771
+LIPITOR.947,permanent side effects,309539008,Numbness of toe,numbness in toes,42,129565002,Myopathy,irreversible muscle damage,0.3607
+LIPITOR.349,muscle damage,129565002,Myopathy,permanent muscle damage,72,129565002,Myopathy,permanent muscle damage,0.8844
+LIPITOR.349,memory loss,48167000,Amnesia,memory loss,100,48167000,Amnesia,memory loss,1.0
+LIPITOR.376,pain,68962001,Myalgia,muscle pain,53,68962001,Myalgia,muscle pain,0.6682
+LIPITOR.978,musche aches,68962001,Myalgia,terrible musche aches,73,68962001,Myalgia,terrible musche aches,0.9069
+LIPITOR.144,side effects,55300003,Muscle cramp,muscle spasms,32,3877011000036101,Lipitor,lipitol,0.2194
+VOLTAREN.8,sweating,415690000,Sweating,sweating,100,415690000,Sweating,sweating,1.0
+VOLTAREN.8,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+VOLTAREN.8,adverse reactions,248648003,Palpitations - rapid,heart racing,55,422587007,Nausea,nausea,0.4499
+LIPITOR.746,cramping,203095000,Spasm of back muscles,severe cramping in my back,47,449917004,Cramp in lower limb,severe cramping in my legs,0.7262
+LIPITOR.110,debilitating side effects,13791008,Asthenia,debilitating,65,13791008,Asthenia,debilitating,0.603
+LIPITOR.110,side,248274002,Lack of energy,Decreased energy,30,22253000,Pain,pain,0.4005
+LIPITOR.110,effects,47004009,Dysphonia,Difficulty speaking,38,13791008,Asthenia,debilitating,0.4118
+LIPITOR.110,hate,22298006,Myocardial infarction,heart attack,38,22253000,Pain,pain,0.4777
+LIPITOR.110,side,248274002,Lack of energy,Decreased energy,30,22253000,Pain,pain,0.4005
+LIPITOR.110,effects,47004009,Dysphonia,Difficulty speaking,38,13791008,Asthenia,debilitating,0.4118
+LIPITOR.580,Side effects,35489007,Depression,Depressions,35,35489007,Depression,Depressions,0.3011
+LIPITOR.913,side effects,76948002,Severe pain,severe neck pain,36,68962001,Myalgia,Muscle pain,0.2765
+LIPITOR.913,cumulative,68962001,Myalgia,Muscle pain,48,3877011000036101,Lipitor,Lipitor,0.1059
+LIPITOR.913,effect,76948002,Severe pain,severe neck pain,27,3877011000036101,Lipitor,Lipitor,0.2882
+LIPITOR.779,edema-swelling,65124004,Swelling,swelling,73,424372002,Oedema of extremity,"edema-swelling of the hands, feet, legs",0.8437
+LIPITOR.779,side effects,68962001,Myalgia,muscle ache,35,68962001,Myalgia,muscle ache,0.2916
+LIPITOR.94,tingling,62507009,Pins and needles,tingling,100,62507009,Pins and needles,tingling,1.0
+LIPITOR.94,tingling,62507009,Pins and needles,tingling,100,62507009,Pins and needles,tingling,1.0
+LIPITOR.117,agonizing pain,47933007,Foot pain,Foot/ankle pain,48,22253000,Pain,pain,0.6893
+LIPITOR.914,side effects,271587009,Stiffness,Stiffness,57,22253000,Pain,pain,0.3189
+LIPITOR.545,severe muscle back cramp,55300003,Muscle cramp,severe muscle back cramp,100,55300003,Muscle cramp,severe muscle back cramp,1.0
+LIPITOR.545,severe muscle spasms,55300003,Muscle cramp,severe muscle spasms,100,55300003,Muscle cramp,severe muscle spasms,1.0
+LIPITOR.545,back aches,161891005,Backache,back aches,100,161891005,Backache,back aches,1.0
+LIPITOR.922,sever fatigue,84229001,Fatigue,sever fatigue,100,84229001,Fatigue,sever fatigue,1.0
+LIPITOR.51,achy legs,10601006,Pain in lower limb,achy legs,100,10601006,Pain in lower limb,achy legs,1.0
+LIPITOR.314,fatigue,84229001,Fatigue,fatigue,100,84229001,Fatigue,fatigue,1.0
+LIPITOR.314,sleepless nights,193462001,Insomnia,sleepless nights,100,193462001,Insomnia,sleepless nights,1.0
+LIPITOR.314,constipation,14760008,Constipation,constipation,100,14760008,Constipation,constipation,1.0
+LIPITOR.314,diarria,62315008,Diarrhoea,diarria,100,62315008,Diarrhoea,diarria,1.0
+LIPITOR.314,muscle pain,288231001,Myalgia/myositis - lower leg,muscle pain calf area,69,288231001,Myalgia/myositis - lower leg,muscle pain in the leg,0.8554
+LIPITOR.69,depressed,35489007,Depression,depressed,100,35489007,Depression,depressed,1.0
+LIPITOR.925,easy bruising,424131007,Easy bruising,easy bruising,100,424131007,Easy bruising,easy bruising,1.0
+LIPITOR.925,nosebleeds,12441001,Epistaxis,nosebleeds,100,12441001,Epistaxis,nosebleeds,1.0
+LIPITOR.925,Bleeding,131148009,Bleeding,Bleeding problems,64,131148009,Bleeding,Bleeding problems,0.8005
+LIPITOR.925,bruising,424131007,Easy bruising,easy bruising,76,424131007,Easy bruising,easy bruising,0.9267
+LIPITOR.925,Doctor,26079004,Tremor,tremor,50,26079004,Tremor,tremor,0.328
+LIPITOR.925,symtoms,193462001,Insomnia,insomnia,40,22298006,Myocardial infarction,heart attackes,0.3543
+LIPITOR.925,heart attackes,22298006,Myocardial infarction,heart attackes,100,22298006,Myocardial infarction,heart attackes,1.0
+LIPITOR.259,sore,22253000,Pain,sore,100,22253000,Pain,sore,1.0
+LIPITOR.857,side effect,68962001,Myalgia,muscle pain,27,68962001,Myalgia,muscle pain,0.241
+ARTHROTEC.52,worse,431416001,Menstrual cramp,period cramps,33,367391008,Malaise,feel sick,0.4437
+ARTHROTEC.52,sick,367391008,Malaise,feel sick,62,367391008,Malaise,feel sick,0.7198
+LIPITOR.292,numbness,298753001,Numbness of upper limb,numbness in my shoulder,52,298753001,Numbness of upper limb,numbness in my shoulder,0.7033
+LIPITOR.292,gas,162076009,Excessive upper gastrointestinal gas,gas,100,162076009,Excessive upper gastrointestinal gas,gas,1.0
+LIPITOR.292,headaches,25064002,Headache,headaches,100,25064002,Headache,headaches,1.0
+LIPITOR.292,diarhhea,62315008,Diarrhoea,diarhhea,100,62315008,Diarrhoea,diarhhea,1.0
+LIPITOR.292,debilitating joint,39575007,Urine looks dark,dark urine,36,57676002,Arthralgia,joint pain,0.6519
+LIPITOR.292,muscle pain,68962001,Myalgia,muscle pain,100,68962001,Myalgia,muscle pain,1.0
+ARTHROTEC.99,queasiness,422587007,Nausea,queasiness,100,422587007,Nausea,queasiness,1.0
+ARTHROTEC.99,diarrhoea,62315008,Diarrhoea,diarrhoea,100,62315008,Diarrhoea,diarrhoea,1.0
+LIPITOR.868,side effects,25064002,Headache,Severe headache,37,18963009,Mood swings,mood swings,0.3667
+LIPITOR.266,side effect,35489007,Depression,suicidal depression,40,84229001,Fatigue,fatigue,0.2773
+ARTHROTEC.55,tied,33308003,Disorder of back,bad back,17,33308003,Disorder of back,bad back,0.2307
+LIPITOR.850,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+LIPITOR.850,stiffness,271587009,Stiffness,stiffness,100,271587009,Stiffness,stiffness,1.0
+LIPITOR.850,pain,22253000,Pain,pain,100,22253000,Pain,pain,1.0
+LIPITOR.850,fog,419723007,Mentally dull,in a fog,55,419723007,Mentally dull,in a fog,0.7696
+LIPITOR.850,side effects,271587009,Stiffness,stiffness,57,22253000,Pain,pain,0.3189
+LIPITOR.268,adverse effects,57676002,Arthralgia,sore joints,38,57676002,Arthralgia,sore joints,0.2518
+LIPITOR.268,side-effects,193462001,Insomnia,sleeplessness,40,193462001,Insomnia,sleeplessness,0.2775
+LIPITOR.268,sore,57676002,Arthralgia,sore joints,53,57676002,Arthralgia,sore joints,0.5803
+LIPITOR.268,joints,57676002,Arthralgia,sore joints,71,57676002,Arthralgia,sore joints,0.6934
+LIPITOR.268,sleeplessness,193462001,Insomnia,sleeplessness,100,193462001,Insomnia,sleeplessness,1.0
+LIPITOR.268,gas,162076009,Excessive upper gastrointestinal gas,gas,100,162076009,Excessive upper gastrointestinal gas,gas,1.0
+ARTHROTEC.63,diarrhea,62315008,Diarrhoea,diarrhea,100,62315008,Diarrhoea,diarrhea,1.0
+ARTHROTEC.63,side effects,16386004,Dry skin,skin is so dry,31,62315008,Diarrhoea,diarrhea,0.372
+ARTHROTEC.97,side effects,43498006,Body fluid retention,fluid retention,44,55300003,Muscle cramp,cramps,0.3008
+ARTHROTEC.97,reaction,43498006,Body fluid retention,fluid retention,52,55300003,Muscle cramp,cramps,0.2357
+LIPITOR.257,side effects,56731001,Hypertonia,Muscle tightness,36,55929007,Feeling irritable,Irritable,0.3188
+ARTHROTEC.90,stomach,49218002,Hip pain,pain in my hip,19,49218002,Hip pain,pain in my hip,0.188
+ARTHROTEC.90,adverse,289530006,Vaginal bleeding,vaginal bleeding,26,49218002,Hip pain,pain in my hip,0.192
+ARTHROTEC.90,side,289530006,Vaginal bleeding,vaginal bleeding,20,49218002,Hip pain,pain in my hip,0.1184
+ARTHROTEC.90,effects,289530006,Vaginal bleeding,vaginal bleeding,17,289530006,Vaginal bleeding,vaginal bleeding,0.0693
+ARTHROTEC.64,drowsiness,271782001,Drowsy,drowsiness,100,271782001,Drowsy,drowsiness,1.0
+LIPITOR.204,side effects,47933007,Foot pain,sore and stiff feet,45,49218002,Hip pain,sore and stiff hips,0.2209
+LIPITOR.204,side effects,47933007,Foot pain,sore and stiff feet,45,49218002,Hip pain,sore and stiff hips,0.2209
+LIPITOR.499,side effects,60238002,Muscle twitch,muscle twitching,29,68962001,Myalgia,Muscle pain,0.2765
+ARTHROTEC.30,clotting,131148009,Bleeding,bleeding,50,386692008,Menorrhagia,"clotting, and horrible periods",0.7088
+ARTHROTEC.30,horrible periods,386692008,Menorrhagia,"clotting, and horrible periods",70,386692008,Menorrhagia,"clotting, and horrible periods",0.6376
+ARTHROTEC.30,heavy/extra vaginal bleeding,315224006,Heavy episode of vaginal bleeding,heavy/extra vaginal bleeding,100,315224006,Heavy episode of vaginal bleeding,heavy/extra vaginal bleeding,1.0
+ARTHROTEC.30,bleeding,131148009,Bleeding,bleeding,100,131148009,Bleeding,bleeding,1.0
+LIPITOR.203,interaction,35489007,Depression,depressed,20,35489007,Depression,depressed,0.1798
+ARTHROTEC.37,massive diarrhea,62315008,Diarrhoea,massive diarrhea,100,62315008,Diarrhoea,massive diarrhea,1.0
+ARTHROTEC.37,severe cramping,55300003,Muscle cramp,severe cramping,100,55300003,Muscle cramp,severe cramping,1.0
+LIPITOR.658,light headedness,386705008,Lightheadedness,light headedness(problem keeping balance),56,386705008,Lightheadedness,light headedness(problem keeping balance),0.8175
+LIPITOR.658,side effects,102938007,Difficulty writing,hand writting had deteriorated,29,32798002,Parkinsonism,Parkinson's symptoms,0.278
+LIPITOR.651,related,300954003,Pain in calf,lower leg pain,29,90673000,Burning sensation,"throbbing,burning sensation",0.1582
+LIPITOR.490,side effects,26544005,Muscle weakness,muscle weakness,44,248277009,Lack of stamina,loss of stamina,0.2894
+LIPITOR.464,weakness,13791008,Asthenia,weakness,100,13791008,Asthenia,weakness,1.0
+LIPITOR.464,side effects,76948002,Severe pain,severe muscle pain,33,76948002,Severe pain,severe muscle pain,0.2752
+LIPITOR.232,smelly,22253000,Pain,painfull,29,64531003,Nasal discharge,runny nose,0.5239
+LIPITOR.232,Diarhea,62315008,Diarrhoea,Diarhea,100,62315008,Diarrhoea,Diarhea,1.0
+LIPITOR.232,side effects,62315008,Diarrhoea,Diarhea,21,25064002,Headache,headache,0.3502
+LIPITOR.669,rashes,271807003,Rash,rashes,100,271807003,Rash,rashes,1.0
+LIPITOR.669,itches,418290006,Itching,itches,100,418290006,Itching,itches,1.0
+ARTHROTEC.65,jaundins,18165001,Jaundice,jaundins,100,18165001,Jaundice,jaundins,1.0
+ARTHROTEC.65,diahrea,62315008,Diarrhoea,diahrea,100,62315008,Diarrhoea,diahrea,1.0
+ARTHROTEC.65,sweats,224962007,Hot sweats,sweats,100,224962007,Hot sweats,sweats,1.0
+ARTHROTEC.65,hot flashes,238810007,Flushing,hot flashes,100,238810007,Flushing,hot flashes,1.0
+ARTHROTEC.65,side effects,224962007,Hot sweats,sweats,44,238810007,Flushing,hot flashes,0.3238
+LIPITOR.860,cramps,45352006,Spasm,bad cramps,75,45352006,Spasm,bad cramps,0.9157
+LIPITOR.860,chest pains,29857009,Chest pain,chest pains,100,29857009,Chest pain,chest pains,1.0
+ARTHROTEC.91,side effects,82991003,Generalised aches and pains,aches and pains,30,82991003,Generalised aches and pains,aches and pains,0.3023
+CATAFLAM.3,dry mouth,87715008,Aptyalism,dry mouth,100,87715008,Aptyalism,dry mouth,1.0
+CATAFLAM.3,drowsiness,271782001,Drowsy,drowsiness,100,271782001,Drowsy,drowsiness,1.0
+LIPITOR.269,poisoned,95570007,Renal calculus,kidney stone,50,271737000,Anaemia,anemia,0.4052
+LIPITOR.269,poisoned,95570007,Renal calculus,kidney stone,50,271737000,Anaemia,anemia,0.4052
+LIPITOR.269,residual side effects,36955009,Loss of taste,decreased sense of taste,49,35489007,Depression,deppression,0.3567
+LIPITOR.269,constant vibrating,29857009,Chest pain,chest pain,50,271587009,Stiffness,stiffness,0.4144
+LIPITOR.269,devistation,162031009,Indigestion,indegestion,64,162031009,Indigestion,indegestion,0.2571
+LIPITOR.269,dangerous over perscribed drugs,131053002,Decreased progesterone level,decreased progesterone production,44,48694002,Anxiety,anxiety,0.2706
+CATAFLAM.4,Side effects,271782001,Drowsy,drowsiness,36,271782001,Drowsy,drowsiness,0.3343
+CATAFLAM.4,drowsiness,271782001,Drowsy,drowsiness,100,271782001,Drowsy,drowsiness,1.0
+CATAFLAM.4,dry mouth,87715008,Aptyalism,dry mouth,100,87715008,Aptyalism,dry mouth,1.0
+CATAFLAM.4,drowsiness,271782001,Drowsy,drowsiness,100,271782001,Drowsy,drowsiness,1.0
+LIPITOR.400,side effects,271587009,Stiffness,stiffness,57,55300003,Muscle cramp,Severe muscle cramps,0.2516
+LIPITOR.858,side effects,271587009,Stiffness,Stiffness,57,18876004,Pain in finger,sore fingers,0.2475
+LIPITOR.409,side effects,166830008,Serum cholesterol raised,Cholesterol went up,32,13644009,Hypercholesterolaemia,Hypercholesterolemia,0.1918
+ARTHROTEC.54,side effects,3384011000036100,Arthrotec,Arthrotec,19,3384011000036100,Arthrotec,Arthrotec,0.1934
+LIPITOR.294,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+LIPITOR.294,vomiting,422400008,Vomiting,vomiting,100,422400008,Vomiting,vomiting,1.0
+LIPITOR.258,ringing,162352007,Ringing in ear,ringing in my ears,56,162352007,Ringing in ear,ringing in my ears,0.7051
+LIPITOR.258,side effects,26544005,Muscle weakness,muscle weakness,44,57182000,Nerve injury,nerve damage,0.39
+ARTHROTEC.53,heavy bleeding,131148009,Bleeding,heavy bleeding,100,131148009,Bleeding,heavy bleeding,1.0
+LIPITOR.465,cramps,55300003,Muscle cramp,cramps,100,55300003,Muscle cramp,cramps,1.0
+LIPITOR.465,swollen,297142003,Foot swelling,swollen foot,74,297142003,Foot swelling,swollen foot,0.7671
+LIPITOR.465,painful,22253000,Pain,pain,73,22253000,Pain,pain,0.8684
+LIPITOR.491,side effects,309256001,Cold foot,sensation of cold toes,41,449917004,Cramp in lower limb,leg cramps,0.2363
+LIPITOR.491,neuropathy,386033004,Neuropathy,Severe neuropathy,74,386033004,Neuropathy,Severe neuropathy,0.9294
+LIPITOR.491,severe burning,36031001,Burning feet,severe burning of the feet,70,36031001,Burning feet,severe burning of the feet,0.7627
+LIPITOR.496,Severe aggitation,21499005,Feeling agitated 232 249,Severe aggitation,100,21499005,Feeling agitated 232 249,Severe aggitation,1.0
+LIPITOR.496,aggitation,24199005,Feeling agitated,aggitation,100,24199005,Feeling agitated,aggitation,1.0
+LIPITOR.496,dose,62315008,Diarrhoea,diarrhea,33,224960004,Tired,tired,0.3255
+LIPITOR.496,side effects,21499005,Feeling agitated 232 249,Severe aggitation,34,62315008,Diarrhoea,diarrhea,0.372
+LIPITOR.496,dose,62315008,Diarrhoea,diarrhea,33,224960004,Tired,tired,0.3255
+LIPITOR.650,cramps,250084002,Cramp in calf,cramps in my left calf,43,250084002,Cramp in calf,cramps in my left calf,0.6608
+LIPITOR.805,extrem pain,76948002,Severe pain,extrem pain in knee joints,59,76948002,Severe pain,extrem pain in knee joints,0.7226
+LIPITOR.692,side effects,26544005,Muscle weakness,muscle weakness,44,26544005,Muscle weakness,muscle weakness,0.2442
+LIPITOR.454,side effects,386705008,Lightheadedness,lightheadedness,37,81680005,Neck pain,Neck pain,0.2571
+ARTHROTEC.36,diarrhea,62315008,Diarrhoea,diarrhea,100,62315008,Diarrhoea,diarrhea,1.0
+LIPITOR.205,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+LIPITOR.205,vomiting,422400008,Vomiting,vomiting,100,422400008,Vomiting,vomiting,1.0
+LIPITOR.205,Nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+LIPITOR.205,vomiting,422400008,Vomiting,vomiting,100,422400008,Vomiting,vomiting,1.0
+LIPITOR.205,nausea,422587007,Nausea,nausea,100,422587007,Nausea,nausea,1.0
+LIPITOR.453,headaches,25064002,Headache,headaches,100,25064002,Headache,headaches,1.0
+LIPITOR.453,tiredness,267031002,Tiredness symptom,tiredness,100,267031002,Tiredness symptom,tiredness,1.0
+ARTHROTEC.31,side effects,84229001,Fatigue,extreme tiredness,34,25064002,Headache,headaches,0.4086
+LIPITOR.498,muscle problems,129565002,Myopathy,muscle problems,100,129565002,Myopathy,muscle problems,1.0
